@@ -1,0 +1,25 @@
+New Delhi, April 19 : The Union Cabinet on Wednesday approved the National Quantum Mission to scale-up scientific and industrial research and development (R&D) for quantum technologies.
+
+The mission received cabinet approval at a total cost of Rs 6,003.65 crore, to scale up scientific and industrial R&D, official sources said.
+
+The programme aims to accelerate quantum technology led economic growth and leverage India into a leading nation in the area.
+
+The programme will run from 2023-24 to 2030-31, and aims to seed, nurture and scale up scientific and industrial R&D and create a vibrant & innovative ecosystem in quantum technology.
+
+The new mission targets developing intermediate scale quantum computers with 50-1000 physical qubits in 8 years in various platforms like superconducting and photonic technology.
+
+Satellite based secure quantum communications between ground stations over a range of 2000 kilometres within India, long distance secure quantum communications with other countries, inter-city quantum key distribution over 2000 km as well as multi-node Quantum network with quantum memories are also some of the deliverables of the mission.
+
+The mission will help develop magnetometers with high sensitivity in atomic systems and atomic clocks for precision timing, communications and navigation.
+
+It will also support design and synthesis of quantum materials such as superconductors, novel semiconductor structures and topological materials for fabrication of quantum devices.
+
+Single photon sources or detectors, entangled photon sources will also be developed for quantum communications, sensing and metrological applications.
+
+Four thematic hubs (T-Hubs) will be set up in top academic and National R&D institutes on the domains - Quantum Computing, Quantum Communication, Quantum Sensing & Metrology and Quantum Materials & Devices.
+
+The hubs, which will focus on generation of new knowledge through basic and applied research as well as promote R&D in areas that are mandated to them.
+
+The mission can take the technology development eco-system in the country to a globally competitive level, sources said further.
+
+The mission would greatly benefit communication, health, financial and energy sectors as well as drug design, and space applications.

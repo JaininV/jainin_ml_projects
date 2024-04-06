@@ -1,0 +1,37 @@
+Production is underway at Togg’s new Technology Campus for electric vehicles. Dürr planned and built the paint shop as a general contractor and supplied systems for the final assembly process. NEXT.assembly, Dürr’s bundled technology spectrum for final assembly as a complete solution was used for the first time.
+
+175,000 units smart and connected EVs are to roll off the production line annually at the Gemlik Togg Technology Campus in western Turkey by 2030. The turnkey paint shop project was awarded to Dürr in 2020 and a second order for the final assembly system followed in 2021. Together, they covered all plant engineering, application technology and marriage, including fully automatic screwdriving stations and inspection equipment.
+
+Togg initially opted for a lean painting process to minimize energy demand. The base coat and clear coat of the internal and external paint finish are applied in a single topcoat line with integrated primer application, eliminating one drying phase. The solvent-based paints contain 30 to 35% more solid content than standard paints to achieve the required layer thicknesses with lower discharge rates.
+
+The EcoDryScrubber dry separation system concentrates the solvents released into the exhaust air fully automatically and separates the overspray, saving resources in many ways. The system requires virtually no water and very little energy for air conditioning, which is usually one of the highest energy consumption processes in painting. Spray booth air recirculation of up to 95% means that heat and electricity consumption is reduced by up to 80% and 50%, respectively.
+
+This reduction also pays off economically, with energy consumption reduced by up to 60%. Togg goes well beyond the legal requirements with one additional measure to protect the environment. The Oxi. X, a regenerative thermal oxidizer (RTO) that can be operated auto thermally—in other words, without a primary energy supply for the burner—disposes of the booth exhaust air.
+
+Next-generation Dürr robots apply the paint, including the seven-axis EcoRP E043i, which is mobile enough to paint doors from the inside and open tailgates. A unique technical feature is the EcoBell 3 atomizers equipped with two main needles, which apply colored clear coats for particularly shiny surfaces. The second main needle eliminates the time-consuming rinse cycles previously required, reducing detergent consumption and ensuring the fastest color changes within the required cycle time.
+
+A new way of looking at final assembly. Togg benefits from NEXT.assembly in the final assembly area. Whereas individual components were previously the focus, the final assembly system is now considered a whole unit to make vehicle assembly as efficient as possible. NEXT.assembly bundles all of Dürr’s technology and consulting portfolio for maximum efficiency in the vehicle assembly process. It is available as a complete solution or in individual modular parts.
+
+Togg is the first car manufacturer to choose a complete solution from our final assembly offering. We developed a highly customized, resource-conscious solution that results in high synergy and efficiency at all levels along the whole line with precisely coordinated processes.
+
+A total of 57 lightweight overhead conveyors transport the vehicle doors to a separate door pre-assembly line. Another 50 heavy overhead conveyors are provided for transporting the bodies. With the potential for future digitization, subsequent process integration or maintenance analysis tools is possible.
+
+Window gluing as part of line tracking. One way to save material in pre-assembly is through precise dosing with the EcoShot Meter, which is suitable for almost all thick matter for sealing and gluing. The dosing unit, which is suitable for 1K and 2K applications, can also apply PU adhesives for window gluing. At Togg, these are used in the fully automatic gluing of windows and panoramic glass roofs. The automated process happens while the body is being conveyed (line tracking), making it much more efficient than the previous stop-and-go process where the vehicle conveyor had to be stopped for installation.
+
+Flexible marriage process due to automation. Togg is equipped for the specific marriage process for electric vehicles with a line divided into seven individual stations, including the fully automatic x-bolt screwdriving station with six individual spindles. They fasten the front-axle module, the battery, and the rear-axle module automatically with a total of 30 screwing points. A downstream manual screwdriving station fastens another 14 screwing points, which can be automated in the future.
+
+Next generation of filling. The ProLine Cube guarantees faster and more high-quality filling for all media. As the technological core of the filling system, the fourth Somac adapter generation—the ergonomic G4 Blue Adapter—determines the fill quality and process time.
+
+Exact 3D axle geometry measurements. The battery-powered vehicles are inspected and aligned in two complete end-of-line systems by the wheel alignment stands x-wheel, among others. They are equipped with the new x-3Dsurface sensors. These provide 3D measurements of axle geometries and align them with an extremely high level of precision and reliability.
+
+The wheel alignment stands are combined with the headlight measurement and adjustment systems x-light as well as the complicated ADAS calibration systems x-DASalign, which are used for calibrating the SVC (Surround View Camera), FLC (Forward Looking Camera), and FLR (Forward Looking Radar). The roll/brake/ABS test stands x-road for dynamic roll, brake, and ABS testing complete the end-of-line system.
+
+Togg began taking pre-orders for its T10X electric C-segment SUV in March. The 160 kW (218 hp) rear-wheel drive model will be available from launch with entry-level V1 and higher specification V2 variants.
+
+Both specification levels will be available with a 52.4 kWh battery that delivers 314 km of range (WLTP) and energy consumption rated at 16.7 kWh/100km. The V2 specification rear-wheel drive model will also be available with a larger 88.5 kWh battery that achieves a range of 523 km (WLTP), with energy consumption rated at 16.9 kWh/100km.
+
+The T10X features a charging capacity of up to 150 kW, allowing users to charge the smaller battery from 20 percent to 80 percent in under 30 minutes with a high power charger (HPC).
+
+Togg was established in 2018 as a joint venture of Anadolu Grubu Holding A.Ş., BMC Otomotiv Sanayi ve Ticaret A.Ş., Turkcell İletişim Hizmetleri A.Ş., Zorlu Holding A.Ş. and the Union of Chambers and Commodity Exchanges of Turkey (TOBB). Togg started manufacturing in its Gemlik facility in 2022, part of its focus on developing next-gen smart and connected EVs and the surrounding mobility ecosystem, for which the company also develops novel technologies, services, user experiences, and business models.
+
+Togg aims to reach annual production of 1 million units by 2030 across five connected EV models, built over a common platform.

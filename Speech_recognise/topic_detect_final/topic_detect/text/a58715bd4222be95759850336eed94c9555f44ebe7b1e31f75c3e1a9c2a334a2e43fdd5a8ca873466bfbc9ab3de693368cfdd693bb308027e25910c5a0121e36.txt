@@ -1,0 +1,45 @@
+Washington — The Delaware judge overseeing the defamation case involving Dominion Voting Systems and Fox News sanctioned lawyers for the network Wednesday after learning they may have withheld evidence showing that its hosts and executives knew there was no support for baseless claims made about Dominion's voting equipment and software and the 2020 presidential election.
+
+The evidence pertains in part to recordings former Fox News producer Abby Grossberg said she has of conversations between host Maria Bartiromo, for whom she worked, and attorneys Rudy Giuliani and Sidney Powell. The two conservative lawyers made unfounded allegations on the network's broadcasts that Dominion rigged the 2020 presidential election against former President Donald Trump.
+
+The revelation prompted the judge overseeing the case, Delaware Superior Court Judge Eric Davis, to reopen discovery, including to allow Dominion to take new depositions at the expense of Fox. He also said he is considering appointing a special master, or an independent third party, to investigate Fox News's attorneys. Davis ordered them to preserve all communications.
+
+A special master may also be asked to look into whether Fox's legal team withheld evidence relating to Rupert Murdoch, chairman of Fox Corporation. In court Tuesday, Fox lawyers disclosed that Murdoch is also an officer of Fox News. Knowing this earlier would have entitled Dominion to broaden its search of relevant records related to Murdoch. In response to the confusion over his role with the news network, a spokesperson for Fox said, "Rupert Murdoch has been listed as executive chairman of FOX News in our SEC filings for several years and this filing was referenced by Dominion's own attorney during his deposition."
+
+"This is a problem," Davis said in court Tuesday, according to the New York Times. "I need to feel comfortable that when you represent something to me that it's true," Davis added.
+
+A spokesperson for Fox News said in response to the developments about the sanctions from Davis, "As counsel explained to the Court, FOX produced the supplemental information from Ms. Grossberg when we first learned it." It's not clear from the statement when Fox learned of the additional recordings from Grossberg and what the company turned over to the court.
+
+Grossberg filed a lawsuit against the network, its executives and lawyers last month, and in an amended filing Tuesday alleged Fox had access to the recordings and transcripts, but did not provide them to Dominion during the discovery process in its defamation lawsuit against the cable news network and its parent company.
+
+In one of the recordings, from about Nov. 15, 2020, Giuliani admitted to Bartiromo that the Trump campaign could not prove some of the allegations regarding Dominion and the 2020 presidential election, according to a filing from Grossberg in a separate lawsuit against the network.
+
+When Bartiromo asked Giuliani what evidence he had implicating Dominion, Giuliani replied, "That's a little harder," according to the latest filing.
+
+Grossberg's attorneys said the recordings were made through the app Otter, which also transcribes the conversations and is popular with reporters.
+
+"Each time Fox News accessed Ms. Grossberg's cell phones, the Fox News Attorneys, and in turn, Fox News and Defendant [Suzanne] Scott, gained access to Ms. Grossberg's Otter account and – through that account – to audio recordings of conversations of Ms. Bartiromo with Rudolph Giuliani, Sidney Powell, and other high-ranking members of the Trump presidential campaign," they wrote in her amended complaint filed Tuesday. Grossberg is a former employee of CBS News.
+
+Suzanne Scott is chief executive officer of Fox News, and Grossberg has alleged Fox's lawyers misleadingly coached and manipulated her to deliver incomplete answers during a deposition taken as part of Dominion's lawsuit against Fox.
+
+Her lawyers also noted in court papers that many of the conversations transcribed through the Otter app by Grossberg were "sent to and/or discussed with other Fox News' executives and employees, including through Fox News's email server."
+
+Because Fox News' attorneys, and by extension the network and Scott, had access to Grossberg's cell phones and copies of her phones and emails, they "had access to the audio recordings and transcripts of telling off-air and pre-tape interviews of Mr. Giuliani, Sidney Powell, and other high-ranking government officials that Ms. Grossberg had made that established allegations of voter fraud repeatedly touted on the network, including those against Dominion, were woefully unsupported," her lawyers Gerry Filippatos and Tanvir Rahman wrote.
+
+Fox and its attorneys failed to turn over copies of the documents to Dominion during its defamation lawsuit, they alleged.
+
+In response to Grossberg's second amended complaint, a spokesperson for Fox told CBS, "Fox has complied with its discovery obligations in the Dominion case."
+
+The events centering on Fox's attorneys come one day before jury selection is set to begin, and it's unclear whether they will have any impact on the trial, scheduled to start on Monday. Dominion sued Fox News and their parent company, Fox Corporation, for $1.6 billion claiming the network fueled baseless conspiracy theories about their voting machines after the 2020 election, despite knowing the claims were false. Fox has said it was simply covering newsworthy allegations made by a sitting president claiming his reelection had been stolen from him.
+
+Both parties tried to resolve the case by filing for summary judgment but Davis declined to declare a winner in the case before it heads to trial. A jury is expected to decide whether Fox acted with actual malice in broadcasting the unfounded allegations about Dominion and will determine whether the company is entitled to damages, and if awarded, how much.
+
+In an 80-page opinion, the judge ruled last month that the evidence demonstrated it is "CRYSTAL clear that none of the statements relating to Dominion about the 2020 election are true," and the statements from Fox News that are challenged by Dominion constitute defamation "per se."
+
+Dominion has alleged 20 statements broadcast on Fox's shows between Nov. 8, 2020, and Jan. 26, 2021, were false and defamatory.
+
+In the Nov. 8, 2020, broadcast of "Sunday Morning Futures," Bartiromo asked Powell about Dominion's voting software, and Powell, without offering any proof, claimed that Dominion had used an algorithm to change votes cast for Trump to President Biden.
+
+Giuliani then appeared on Lou Dobbs' show, "Lou Dobbs Tonight," on Nov. 12, 2020, and leveled unfounded accusations about Dominion's ownership.
+
+Nicole Sganga and Scott MacFarlane contributed to this report.

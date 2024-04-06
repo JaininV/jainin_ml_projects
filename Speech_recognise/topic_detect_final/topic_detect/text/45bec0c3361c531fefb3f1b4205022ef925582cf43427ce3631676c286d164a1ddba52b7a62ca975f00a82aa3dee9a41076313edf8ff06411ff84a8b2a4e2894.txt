@@ -1,0 +1,57 @@
+When connecting machines over the public Internet (or over private networks), we use IPv4 addresses. For many years we’ve heard about IPv4 address exhaustion or the fact that sometime in the future we will not able to request new IPv4 addresses to connect over the public Internet. We all heard that IPv6 address space will resolve this problem, but will it?
+
+In this blog post, I will compare common use cases for using cloud services and see if they are ready for IPv6.
+
+Before we begin, when working with IPv6, we need to clarify what ‘dual-stack‘ means — A device with dual-stack implementation in the operating system has an IPv4 and IPv6 address and can communicate with other nodes in the LAN or the Internet using either IPv4 or IPv6.
+
+The first step in building our cloud environment begins with network services.
+
+The goal is to be able to create a network environment with subnets, an access control list, be able to create peering between cloud accounts (for the same cloud provider) and get ingress access to our cloud environment (either from the public Internet or from our on-premise data centre).
+
+Now that we have a network environment in the cloud, how do we connect to it from our on-premise data centre using site-to-site VPN? Let’s compare the cloud providers’ alternatives:
+
+Assuming we managed to create a VPN tunnel between our on-premise data centre and the cloud environment, what happens if we wish to set up a dedicated network connection (and have low latency and promised bandwidth)? Let’s compare the cloud providers’ alternatives:
+
+We have managed to provision the network environment in the cloud using IPv6.
+
+What happens if we wish to connect to managed services using private network connectivity (inside the cloud provider’s backbone and not over the public Internet)? Let’s compare the cloud providers’ alternatives:
+
+In the previous step we configured network infrastructure. Before provisioning resources, let’s make sure we can access resources, that is, having a managed DNS service.
+
+By name resolution, I mean both external customers over the public Internet and name resolution from our on-premise data centres. Let’s compare the cloud providers’ alternatives:
+
+In the previous steps we have set up the network infrastructure and name resolution, and now it is time to provision resources.
+
+The most common resource we can find in Infrastructure as a Service (IaaS) is compute or Virtual Machines (VMs). Let’s compare the cloud providers’ alternatives:
+
+Another common use case is to provision containers based on a managed Kubernetes service. Let’s compare the cloud providers’ alternatives:
+
+If we have already managed to provision VMs and containers, what about provisioning serverless or Function-as-a-Service (FaaS)? Let’s compare the cloud providers’ alternatives:
+
+If we are planning to expose services either to the public Internet or allow connectivity from our on-premise, we will need to use a managed load-balancer service. Let’s compare the cloud providers’ alternatives:
+
+The next step after provisioning compute services is to allow us to store data in an object storage service. Let’s compare the cloud providers’ alternatives:
+
+Most of the applications we provision require a backend database to store and retrieve data. Let’s compare the cloud providers’ alternatives:
+
+If we are planning to expose services to the public Internet using IPv6 or allow access from on-premise, we need to consider a managed network firewall service. Let’s compare the cloud providers’ alternatives:
+
+On the topic of exposing services to the public Internet, we need to take into consideration protection against DDoS attacks. Let’s compare the cloud providers’ alternatives:
+
+We know that protection against network-based attacks is possible using IPv6 but what about protection against application-level attacks? Let’s compare the cloud providers’ alternatives:
+
+In this blog post we have compared various cloud services, intending to answer the question — is the public cloud ready for IPv6?
+
+As we have seen, many cloud services do support IPv6 today (mostly in dual-stack mode), and AWS does seem to be more mature than its competitors, however, at the time of writing this post, the public cloud is not ready to handle IPv6-only services.
+
+The day we will be able to develop cloud-native applications while allowing end-to-end IPv6-only addresses, in all layers (from the network, compute, database, storage, event-driven / message queuing, and so on), is the day we know the public cloud is ready to support IPv6.
+
+For the time being, dual-stack (IPv4 and IPv6) is partially supported by many services in the cloud, but we cannot rely on end-to-end connectivity.
+
+For some additional references, read AWS services that support IPv6 and An Introduction to IPv6 on Google Cloud.
+
+This post is adapted from the original at Medium.
+
+Eyal Estrin is a cloud and information security architect, the owner of the blog Security & Cloud 24/7, and the author of the book Cloud Security Handbook, with more than 20 years in the IT industry. Eyal is an AWS Community Builder since 2020. You can connect with him on Twitter and LinkedIn.
+
+The views expressed by the authors of this blog are their own                                 and do not necessarily reflect the views of APNIC. Please note a Code of Conduct applies to this blog.

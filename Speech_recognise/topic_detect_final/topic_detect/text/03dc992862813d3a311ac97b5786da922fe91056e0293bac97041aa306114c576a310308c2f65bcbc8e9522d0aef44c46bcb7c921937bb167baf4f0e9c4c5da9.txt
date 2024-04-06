@@ -1,0 +1,57 @@
+In recent years, NodeJS and Express have emerged as the go-to technologies for building Rest APIs. The combination of NodeJS’s fast and lightweight runtime and Express’s minimalistic and flexible framework makes it an ideal choice for developing scalable and robust APIs. In this article, we will explore how to create Rest APIs with NodeJS and Express.
+
+Before we dive into the code, let’s understand what Rest APIs are and why they are essential.
+
+Rest APIs (Representational State Transfer APIs) are a type of web service that allows applications to communicate with each other over the internet. Rest APIs use HTTP to send and receive data in a standardized format, such as JSON or XML.
+
+Rest APIs are essential for modern web applications because they provide a standard interface for interacting with data from different sources. Rest APIs are often used to integrate with third-party services, such as payment gateways, social media platforms, or e-commerce marketplaces.
+
+Now that we understand what Rest APIs are let’s dive into building one with NodeJS and Express.
+
+Before we can start building the API, we need to set up our development environment. To get started, create a new folder for your project and open it in your favorite text editor.
+
+Next, create a new file called package.json and run the following command in your terminal.
+
+npm init -y
+
+This will initialize your project and create a package.json file that contains information about your project, such as its name, version, and dependencies.
+
+To build our Rest API, we need to install two dependencies — express and body-parser.
+
+Express is a fast, unopinionated, and minimalist web framework for Node.js that provides a robust set of features for web and mobile applications.
+
+Body-parser is a middleware for handling JSON, Raw, Text, and URL-encoded form data.
+
+To install these dependencies, run the following command in your terminal.
+
+npm install express body-parser
+
+Now that we have our dependencies installed let’s create a server using Express. Create a new file called server.js and add the following code.
+
+const express = require('express');const bodyParser = require('body-parser');const app = express();app.use(bodyParser.json());app.listen(3000, () => {  console.log('Server running on port 3000');});
+
+This code creates a new Express application, sets up the body-parser middleware to handle JSON requests, and starts a server listening on port 3000.
+
+Now that we have our server set up let’s add some routes to our API. In this example, we will create a simple API that allows users to retrieve a list of books and add new books.
+
+const express = require('express');const bodyParser = require('body-parser');const app = express();app.use(bodyParser.json());// Sample list of booksconst books = [  { id: 1, title: 'The Great Gatsby', author: 'F. Scott Fitzgerald' },  { id: 2, title: 'To Kill a Mockingbird', author: 'Harper Lee' },  { id: 3, title: '1984', author: 'George Orwell' },];// Get all booksapp.get('/books', (req, res) => {  res.json(books);});// Add a new bookapp.post('/books', (req, res) => {  const newBook = req.body;  books.push(newBook);  res.json(newBook);});app.listen(3000, ()
+
+First, we define a sample list of books. This could come from a database or any other data source, but for simplicity, we define it as a JavaScript array of objects.
+
+Next, we define the GET /books route. This route returns the entire list of books as a JSON response. When a client sends a GET request to /books, the server responds with the list of books using the res.json() method.
+
+Then, we define the POST /books route. This route adds a new book to the list of books. When a client sends a POST request to /books with a JSON payload containing the details of the new book, the server extracts the JSON payload using the req.body property, adds it to the list of books using the push() method, and responds with the newly added book using the res.json() method.
+
+Overall, these two routes provide basic functionality to retrieve and add data to our Rest API. You can add more routes to support other CRUD operations or add more complex logic to handle more sophisticated API requirements.
+
+Now that we have our Rest API set up let’s test it. Start the server by running the following command in your terminal.
+
+node server.js
+
+Next, open your favorite API testing tool, such as Postman or Insomnia, and make the following requests.
+
+GET /books — This should return a list of books. POST /books — This should add a new book to the list of books.
+
+Congratulations! You have successfully built a Rest API using NodeJS and Express.
+
+In this article, we learned how to build a Rest API using NodeJS and Express. We covered the basics of setting up a project, installing dependencies, creating a server, adding routes, and testing the API. With the knowledge gained from this article, you can start building your own Rest APIs to power your web or mobile applications.

@@ -1,0 +1,69 @@
+Brief Notes on Computer Word and Byte Sizes (7 March 2023
+
+Where Did "Data Shadow" Come From? (26 June 2021
+
+Hot Take on the Twitter Hack (15 July 2020
+
+A few months ago, there was a lot of discussion that despite its claims, Zoom did not actually offer
+
+end-to-end encryption.  They’re in the process of
+
+fixing that, which is good, but that raises a deeper question: why trust their code? (To get ahead of myself, this blog post is not about Zoom.)
+
+In April, I wrote
+
+As shown by Citizen Lab, Zoom’s code does not meet that definition:
+
+By default, all participants’ audio and
+
+video in a Zoom meeting appears to be
+
+encrypted and decrypted with a single AES-128
+
+key shared amongst the participants.  The
+
+AES key appears to be generated and distributed
+
+to the meeting’s participants by Zoom
+
+servers.
+
+Zoom has the key, and could in principle retain it and use it to 	decrypt conversations. They say they do not do so, which is good, 	but this clearly does not meet the definition [emphasis added]: no 	third party, even the party providing the communication service, 	has knowledge of the encryption keys.”
+
+If Zoom has the key but doesn’t abuse it, there isn’t a problem, right?
+
+Let’s fast-forward to when they deploy true end-to-end encryption. Why do we trust their code not to leak the secret key? More precisely, what is the difference between the two scenarios? If they’re honest and competent, the central site won’t leak the key in today’s setup, nor will the end systems in tomorrow’s. If they’re not, either scenario is problematic. What is the difference? True end-to-end feels more secure, but why?
+
+Let’s look at another scenario: encrypted email via a web browser. I’ll posit two implementations. In the first, the web site serves up custom JavaScript to do the decryption; in the second, there’s a browser plug-in that does the exact same thing. Again, the second version feels more secure, but why?
+
+The answer, I think, is illustrated by the
+
+Lavabit
+
+saga:
+
+The federal agents then claimed that their court order
+
+required me to surrender my company’s private encryption
+
+keys, and I balked. What they said they needed were customer
+
+passwords – which were sent securely – so that they could
+
+access the plain-text versions of messages from customers
+
+using my company’s encrypted storage feature.
+
+(Btw, Edward Snowden was the
+
+target
+
+of the investigation.) Lavabit was a service that was secure—until one day, it wasn’t. Its security properties had changed.
+
+I call this the "trust binding" problem. That is, at a certain point, you decide whether to trust something. In the the two scenarios I described at the start, the trust decision has to be made every time you interact with the service. Maybe today, the provider is honest and competent; tomorrow, it might not be, whether due to negligence or compulsion by some government. By contrast,  when the essential security properties are implemented by code that you download once, you only have to make your decision once—and if you were right to trust the provider, you will not suddenly be in trouble if they later turn incompetent or dishonest, or are  compelled by a government to act against your interests.
+
+Put another way, a static situation is easier to evaluate than a dynamic one. If a system was secure, it will remain secure, and you don’t have to revisit your analysis.
+
+Of course, it cuts both ways: systems are often insecure or otherwise buggy as shipped, and it’s easier for the vendor to fix things in a dynamic environment. Furthermore, if you ever install patches for a static environment you have to make the trust decision again. It’s the same as with the dynamic options, albeit with far fewer decisions.
+
+Which is better, then? If the vendor is trustworthy and you don’t face a serious enemy, dynamic environments are often better: bugs get fixed faster. That’s why Google pushes updates to Chromebooks and why Microsoft pushes updates to consumer versions of Windows 10. But if you’re unsure—well, static situations are easier to analyze. Just be sure to get your analysis right.

@@ -1,0 +1,7 @@
+has completed the token swap of GAMB (GMB). The deposit and withdrawal services are now open.
+
+no longer supports deposits of old ERC20 GMB tokens. Please DO NOT deposit old ERC20 GMB tokens to .
+
+Thank you for your support!
+
+Find The Next Crypto Gem On KuCoin!

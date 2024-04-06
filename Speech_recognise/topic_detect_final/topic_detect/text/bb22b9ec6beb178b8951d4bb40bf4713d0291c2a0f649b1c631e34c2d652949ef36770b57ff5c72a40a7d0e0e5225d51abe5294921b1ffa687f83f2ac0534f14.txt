@@ -1,0 +1,33 @@
+This article has been reviewed according to Science X's                                                      editorial process
+
+and policies.                                                     Editors have highlighted                                                     the following attributes while ensuring the content's credibility:
+
+This article has been reviewed according to Science X's                                                      editorial process
+
+and policies.                                                     Editors have highlighted                                                     the following attributes while ensuring the content's credibility:
+
+Black and Hispanic older adults whose annual income is slightly above the federal poverty level are more likely than their white peers to face cost-related barriers to accessing health care and filling medications for chronic conditions, according to new research led by a University of Pittsburgh School of Public Health scientist.
+
+Published today in JAMA Internal Medicine, the analysis links these disparities to a Medicaid "cliff"—an abrupt end to supplemental Medicaid insurance when people clear the federal poverty threshold. For older adults, Medicaid helps to lower out-of-pocket health care costs by covering most Medicare co-pays. However, a cutoff in Medicaid eligibility above the poverty threshold leads to a sudden rise in copays, making it harder for Black and Hispanic older adults with modest incomes to afford care, compared to their white counterparts at similar income levels.
+
+"Chronic disease risks among older adults of color often go unaddressed due to cost-related barriers to care, and our research shows that this Medicaid cliff contributes to these barriers," said Eric T. Roberts, Ph. D., assistant professor of health policy and management at Pitt Public Health. "Fixing this so that people on Medicare don't face substantially higher co-pays above the poverty threshold could lessen health care inequities among our nation's seniors."
+
+"One option is to turn the 'cliff' into a 'gentle hill,' by tapering Medicaid assistance for seniors with incomes slightly above the federal poverty threshold," Roberts added.
+
+Medicare, the federal health care insurance program for people age 65 and older and disabled individuals, can come with high cost-sharing, including deductibles and copays. Medicare beneficiaries with income less than 100% of the federal poverty threshold, about $14,600 annually, receive supplemental Medicaid insurance to offset these costs and automatically receive a subsidy to lower out-of-pocket prescription drug costs. However, unlike other federal programs that taper aid on a sliding scale, such as the Supplemental Nutrition Assistance Program that helps people buy food, those with incomes even slightly above the poverty line are cut off from Medicaid.
+
+Roberts and his colleagues obtained data on 8,144 Medicare beneficiaries with incomes less than 200% of the federal poverty level. They looked at health care use for beneficiaries on either side of the Medicaid eligibility line, comparing outcomes among Black and Hispanic beneficiaries to white beneficiaries.
+
+Being just above the federal poverty threshold, and therefore ineligible for Medicaid, was associated with a 21% drop in annual outpatient visits and a 15% drop in prescriptions filled for Black and Hispanic Medicare beneficiaries, but barely any change for white beneficiaries.
+
+"We found—and other research supports—that white beneficiaries are more likely to have savings to draw upon to cover medical costs," Roberts said. "The income that the federal government looks at to determine Medicaid eligibility may make it appear that Black and Hispanic beneficiaries have the same ability as their white peers to pay for care. But the reality is that they don't have the same reserves—and we're seeing the impact of that in their forgoing doctor's visits and needed medications."
+
+Black and Hispanic Medicare beneficiaries are more likely to have chronic diseases that can be managed with medications, such as diabetes and heart disease, than white beneficiaries.
+
+"The Medicaid 'cliff' is doubly concerning because it results in Black and Hispanic adults filling fewer medications and makes it harder for them to keep up with regular doctor's appointments, making it harder to get prescription medications in the first place," Roberts said.
+
+The findings support broadening Medicaid eligibility for older adults and tapering Medicaid assistance above the poverty threshold. Such changes could complement measures in the Inflation Reduction Act designed to make drug costs more affordable for seniors, the researchers noted.
+
+More information:
+
+Racial and Ethnic Disparities in Health Care Use and Access Associated With Loss of Medicaid Supplemental Insurance Eligibility Above the Federal Poverty Level, JAMA Internal Medicine (2023). DOI: 10.1001/jamainternmed.2023.0512

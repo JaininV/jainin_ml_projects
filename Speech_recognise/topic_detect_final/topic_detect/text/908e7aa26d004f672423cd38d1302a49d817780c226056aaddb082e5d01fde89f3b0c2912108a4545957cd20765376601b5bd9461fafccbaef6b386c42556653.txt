@@ -1,0 +1,13 @@
+CUI Devices’ Interconnect Group has added USB 3.2 Gen 2×2 Type C models to its line of USB connectors. Offering high data transfer speeds of up to 20Gb per second, the UJ32 family of USB Type C connectors is a cost-effective option for designs that do not require the full capabilities of the USB4 40Gb per second standard.
+
+The models also deliver power capabilities up to 100W with 20V voltage ratings and 5A current ratings for faster power charging.
+
+With the EU set to make USB Type C the unified charger for mobile devices in 2024 and laptops in 2026, CUI Devices’ USB Type C connectors are aimed at keeping future designs in compliance.
+
+Housed in surface mount or mid mount SMT packages with horizontal or vertical orientations, CUI Devices’ USB 3.2 Gen 2×2 Type C connectors feature gold flash contacts and operating temperature ranges from -40 degrees C to 85 degrees C. These USB Type C receptacles are reflow solder compatible with high reliability ratings up to 10,000 mating cycles. The UJ32-C-H-G-SMT-TR-68 also carries an IP68 rating for applications dealing with harsh environments.
+
+The UJ32 models are available immediately with prices starting at $1.43 per unit at 250 pieces through distribution.
+
+The UJ32 USB Type C connectors are aimed at consumer and portable electronics users.
+
+CUI Devices is an electronic components manufacturer that specialises in an ever-expanding range of product technologies, including audio, interconnect, motion, relays, sensors, switches, and thermal management solutions.

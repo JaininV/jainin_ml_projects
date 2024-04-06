@@ -1,0 +1,29 @@
+Your Dog Just Went High-Tech
+
+This Could Be the First US State to Ban TikTok
+
+Another Name Joins NPR in Fleeing Twitter
+
+They Played Ads in Doctors' Offices, Are Guilty of Fraud
+
+Google Warns 3B Users of New Chrome 'Zero Day'
+
+The search giant says hackers know about the issue and can exploit it
+
+Google has released a security update for its Chrome web browser addressing issues, including one it considers a severe risk. For over 3 billion global Chrome users, the April 11 discovery of the first known Zero Day vulnerability of the year adds urgency to the call for users to update their browsers. In a blog post, Google acknowledged the Zero Day, which Forbes reports affects Chrome on Windows, Mac, and Linux. Google also verified that there is an active exploit "in the wild" for the issue, which it labeled CVE-2023-2033. When an exploit is described as "in the wild," it indicates that the exploit isn't merely theoretical; it's being used in potentially harmful real-world hacks.
+
+Google's Threat Analysis Group was alerted to and identified the vulnerability. The company has released a patch, and it's vital for users to update Chrome right away to install it.   To initiate the update, navigate to the browser's upper right corner and select the overflow menu (represented by three vertical dots).  From there, choose Help, then About Google Chrome.  This asks Chrome to search for updates.  To ensure total protection, users should restart their browsers after downloading and finalizing the update.   (Read more technology stories.)
+
+My Take on This Story
+
+To report an error on this story,
+
+notify our editors
+
+No One Seems to Be Happy With Bud's New Ad
+
+Good Samaritan Who Helped Teen: 'I Thought He Was Dead'
+
+On This Day:
+
+10 Years of Headlines

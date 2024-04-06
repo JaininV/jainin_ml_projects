@@ -1,0 +1,43 @@
+Sterilizing medical equipment is essential for modern healthcare, but the process generates a substantial public health risk. The key culprit is the chemical ethylene oxide, which is both a highly effective fumigator and a potent carcinogen. The Environmental Protection Agency revealed the shocking extent of the pollutant's toxicity in 2016, but it has not proposed comprehensive regulation of the chemical until now.
+
+This week, the EPA proposed a rule that promises to reduce annual ethylene oxide emissions by at least 19 tons a year — an 80 percent reduction from current levels. The proposal builds on a separate set of rules that the agency passed earlier this month to curb ethylene oxide releases from certain types of chemical plants.
+
+Environmental advocates called the news an important but belated response to the cancer risk that communities near these facilities have endured, in some cases, for decades. The Clean Air Act directs the EPA to update its pollution standards for medical sterilization facilities every eight years, but the agency has repeatedly missed these deadlines. The rules proposed this week come after the environmental nonprofit Earthjustice filed a lawsuit over the agency's failure to issue the rules by April of last year. In that case, the court ruled that the EPA must publish the rules by this spring.
+
+"Today's proposals are an important first step in remedying an injustice that affects far too many communities," said Earthjustice attorney Marvin Brown in a press release. "Too many workers and community members have gotten cancer from facilities that are supposed to make sure that our medical equipment is safe."
+
+Brown and other advocates argued that the EPA should go further to protect residents living near sterilization facilities by requiring companies to install air quality monitors at the facilities' borders and regularly post the collected data to a public site.
+
+According to the EPA, there are 86 medical sterilization facilities currently operating across the U. S., 23 of which generate levels of cancer risk that the agency considers unacceptable. They operate quietly in nondescript buildings, sometimes mere feet from schools and residential neighborhoods. It is impossible for residents of these areas to understand their exposure to ethylene oxide without special monitoring technology, since it is colorless and odorless.
+
+Medical sterilization facilities came under scrutiny in 2016 when the EPA published an assessment finding ethylene oxide to be 30 times more toxic to adults and 60 times more toxic to children than previously known. Numerous studies had linked the chemical to cancers of the breasts, lymph nodes, and lungs. Research also found that it is a mutagen, meaning it can alter DNA.
+
+The EPA directed its regional offices to inform communities near the biggest polluters of the risks they faced. In response, elected officials and residents in Georgia and Illinois filed lawsuits against medical sterilization companies, leading to settlement deals and the closure of a major plant in a suburb of Chicago, Illinois.
+
+But news did not travel as fast for other residents. In Laredo, Texas, where the most toxic industrial sterilizer in the nation is located, residents were not informed of their exposure until 2021. That plant continues to operate today.
+
+"Here in Laredo, a South Texas border community that is 95% Latinx, our children attend schools with some of the worst air quality in the country because of ethylene oxide pollution," said Tricia Cortez, co-founder of the Clean Air Laredo Coalition, in a press release.
+
+During a press conference on Tuesday, EPA Deputy Assistant Administrator Tomás Carbonell said that the agency's proposed rules, if implemented as written, will help protect residents in places like Laredo. They require that 86 commercial sterilization facilities install equipment that better captures ethylene oxide and reduces emissions of the chemical by 80 percent. To ensure that the facilities are meeting these standards, the rule requires that facilities monitor for ethylene oxide releases and report to the agency twice a year.
+
+While the EPA invoked the Clean Air Act to protect residents near sterilization facilities, it also leaned on a different environmental law to protect workers within those plants. The Federal Insecticide, Fungicide, and Rodenticide Act gives the EPA the authority to assess whether chemicals used as pesticides are safe. Since ethylene oxide has antimicrobial properties and is used for sterilization, the EPA used its authority under that law to require that workers wear protective equipment like respirators if ethylene oxide levels exceed 10 parts per billion in the air.
+
+As part of the proposal, the EPA conducted a risk assessment and found that the chemical posed as much as a 1 in 10 lifetime cancer risk for workers. That means that, if 10 workers are exposed to current workplace levels of the chemical over the course of their lifetimes, one of them would be expected to develop cancer from the exposure.
+
+The proposal also requires facilities to not use more than 500 milligrams of ethylene oxide per liter of solvent for one sterilization cycle. EPA officials said that some facilities are already meeting that requirement, but that others are using twice as much. In cases where alternatives to ethylene oxide exist — such as in some cosmetics manufacturing and in museum work — the EPA is prohibiting the chemical's use.
+
+Ethylene oxide manufacturers and sterilizers have long been opposed to stricter rules for governing ethylene oxide emissions. Industry groups like the American Chemistry Council have taken issue with the EPA's 2016 finding that ethylene oxide is 30 times more toxic for adults than previously understood. In response to EPA's announcement last week, the Council said in a press release that it opposes any rule-making that uses the EPA's "flawed" assessment of ethylene oxide's toxicity.
+
+Scott Whitaker, president and CEO of AdvaMed, a trade group representing medical technology companies, also raised concerns about this week's rules. The EPA is requiring the companies comply with the rule in 18 months — a shorter time frame than is typical due to the chemical's toxicity and potential for harm. Whitaker said the timeline for compliance "is much too short" and that it could take many months to procure emissions reductions equipment. "Supply chains and manufacturing are still recovering from the pandemic," he said in a press release.
+
+Whitaker noted that ethylene oxide is used to sterilize half of all medical technology — about 20 billion devices — in the U. S. each year. Many medical devices cannot be sterilized through other methods, and shuttering even a few sterilization facilities could adversely affect patients, he claimed.
+
+Still, Whitaker appeared confident about the industry's ability to comply with the rules overall.
+
+"If we have careful coordination with the EPA, we are confident we can deliver for all interests as these regulations are refined and finalized," he said.
+
+Editor's note: Earthjustice is an advertiser with Grist. Advertisers have no role in Grist's editorial decisions.
+
+This article originally appeared in Grist at https://grist.org/regulation/epa-rules-ethylene-oxide-medical-sterilization/.
+
+Grist is a nonprofit, independent media organization dedicated to telling stories of climate solutions and a just future. Learn more at Grist.org

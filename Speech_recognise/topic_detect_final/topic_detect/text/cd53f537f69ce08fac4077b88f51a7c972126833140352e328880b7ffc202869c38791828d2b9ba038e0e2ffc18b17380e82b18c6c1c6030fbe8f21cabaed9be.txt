@@ -1,0 +1,11 @@
+Hikvision is under fire for allegedly aiding Beijing in conducting espionage, a claim the company is adamantly denying.
+
+Hikvision is a Chinese company that is extensively involved in creating and rolling out China’s domestic surveillance program. The company is also partially state-owned, with China Electronics Technology Group Corporation, another state-owned entity, being its biggest shareholder.
+
+According to BBC News, a leaked Pentagon document claims that Hikvision is disguising the equipment it sells to the US government in support of Beijing’s espionage efforts. The document, which BBC saw, describes Hikvision as “partnering with Chinese intelligence entities” and “using relationships with resellers to disguise its products for sale to government suppliers.”
+
+The company’s goal was “creating vectors for Beijing to compromise DoD [Department of Defense] networks.” What’s more, the document claims that Hikvision’s equipment would likely continue to be used because of the company’s efforts to mask its exports to retain access to US and allies’ markets.”
+
+In response to a BBC query, a Hikvision spokesperson said the company “has not, does not and will not violate the law in order to conduct its business”, and that it has “very clear and longstanding policies in place to prevent the improper labelling of its products by anyone for any reason.”
+
+This isn’t the first time a Chinese company has run afoul of the US or its allies over national security concerns. Huawei famously went from one of the world’s top phone makers to selling off much of its phone business as a result of sanctions. Like Hikvision, the company faced allegations of helping China conduct surveillance, leading intelligence agencies around the world to condemn the company.

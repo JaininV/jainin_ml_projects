@@ -1,0 +1,43 @@
+Yesterday, I published a piece looking at the dominance of the US stock market since the Great Financial Crash in 2008.
+
+In this 14-year time period, the S&P 500 has steamrolled all before it. Generating a 358% return since 2009, investors who have blindly punted the biggest stock market in the world have enjoyed tremendous gains.
+
+Tech has boomed, with the emergence of the FAANG companies (Facebook, Apple, Amazon, Netflix and Google) pushing the Nasdaq cohort to dizzying heights, even after the brutal pullback over the last year.
+
+But in this piece, I want to dive into the S&P 500 over a much longer time period – 150 years. While you can argue (with merit) that what happened in the 1880s is irrelevant – past performance is not indicative of future performance, especially that from the 19th century – it’s still interesting to track how prices moved as part of a much larger sample.
+
+Namely, I wanted to see how long investors have been underwater in the past from ill-timed investments in the market. I looked at a version of this last week, building a simulation of an investor who entered the market *right* at the market peak in December 2021. The only thing was, that hypothetical investor continued to dollar-cost average ever since (spoiler alert: they’re now in profit).
+
+But what if you truly are the worst possible investor? What if you invest precisely at the market top, and then never invest again? In other words, how much time can go by on a stock market purchase before you make the money back?
+
+First, let us quickly look at the S&P 500 historically before answering the question. The below is a non-inflation adjusted chart of the index on a log scale. As we know, long-term trend is up, with plenty of wobbles along the way.
+
+And so we know from this chart that there will be periods of time when our purchases are underwater. Eventually, however, the market has pulled them back up. The question is, how long has it taken?
+
+Looking at the price data over the last century, I pulled the ten longest periods between stock market peaks. The below is the result:
+
+A couple of things here. The first is that, like always, the Great Depression in the 1920s sticks out glaringly. This was a horrendous economic contraction and there is no getting around that, but the jarring 25-year timeline that it took the market to retake previous levels is misleading.
+
+The S&P 500 opened September 1929 at a price of 31.3. It wasn’t until 25 years later in September 1954 that it would take that level (I am looking at monthly figures).
+
+However, the Great Depression was a deflationary era, and these numbers are not inflation-adjusted. In fact, it was this pernicious deflation that really took the US to its knees. Looking at CPI, 1936’s price index was 18% lower than in 1929, and adjusting for this, investors would have taken back that 1929 peak. Sure, it was still a seven-year timeline, but not quite twenty-five.
+
+Nonetheless, this was 100 years ago. In more recent times, the three longest barren periods have been:
+
+The 70s was a dire time for investors, with a number of chaotic happenings. Following Nixon abandonding the gold standard in 1971, the US was plunged into a long period of stagflation – high inflation and stagnant growth.
+
+Interest rates rose to nearly 20% to combat the nefarious inflation (and you thought 5% was bad…) while an oil embargo led to an energy crisis, and the decade was a nightmare for investors.
+
+The dot com bubble crushed markets, and it wasn’t until 2007 that markets took back previous highs. Of course, that didn’t last long…
+
+The 2008 crash was commonly known as the worst economic crisis since the 1920s, and the market reflected this, too. Prices cratered and only took back previous peaks in 2013, amid an unprecedented period of basement-level interest rates and quantitative easing, which only came to an end in 2022.
+
+The question now is what about the current market? The above graphic shows that the stock market has now gone 16 months since the peak in December 2021, which means it has entered the top 10 longest periods.
+
+Not that we can deduce much information from that. The dot com bubble and GFC show that we have only recently seen extremely long periods before previous peaks are re-taken.
+
+But is the question even relevant? The market is no longer trading at its peak, so in a way, we should not be benchmarking to previous highs. This is where we get into the realm of dollar-cost averaging. The market peeled back substantially last year, which in historical terms, has always meant a good time to buy – assuming you have a long enough time horizon.
+
+But the data does present a word of caution, and hammer home how dangerous the volatility of the stock market can be to an investor. If you don’t have the luxury of a long-term horizon, this all becomes a hell of a lot more difficult. Who is to say that the market won’t decline a further 30% from here, and take a decade to recover previous highs?
+
+I’ve said it a million times before, but the stock market is a wealth-building machine in the long run. The only issue is, it doesn’t go up in a straight line. That is why risk tolerance and asset allocation are so vitally important. A look back at previous areas of decline should hammer that home.

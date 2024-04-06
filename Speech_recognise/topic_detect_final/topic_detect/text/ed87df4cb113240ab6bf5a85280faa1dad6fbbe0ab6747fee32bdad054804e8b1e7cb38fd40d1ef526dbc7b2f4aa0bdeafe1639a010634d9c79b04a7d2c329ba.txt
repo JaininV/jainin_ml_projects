@@ -1,0 +1,11 @@
+Working With C4D’s New Symmetry Object to Create Abstract Animations
+
+Effectatron shows some new features in C4D 2023.2 and the new Symmetry Object for creating kaleidoscope effects.
+
+Derek Kirk (Effectatron) shows some of the new settings in symmetry, especially in the latest Maxon Cinema 4D 2023.2. The tutorial shows how to use the new symmetry object to create kaleidoscopic loops and also walks through creating grainy-looking gradients with Redshift Renderer in Cinema 4D.
+
+Also, check out this other tutorial from Kirk that shows how to work with the new cloth features in C4D to create pretty abstract images with Redshift.
+
+Some of the links on lesterbanks are "affiliate links", a link with a special tracking code. This means if you click on an affiliate link and purchase the item, we will receive an affiliate commission. The price of the item is the same whether it is an affiliate link or not. Regardless, we only recommend products or services we believe will add value to our readers. By using the affiliate links, you are helping support our Website, and we genuinely appreciate your support.
+
+How to Quickly Duplicate Nodes With Connections in Cinema 4D    		            		          		            How to Get a Distant Light Effect With Octane in C4D    		            				            How to Create a Balloon Inflate Effect With Cinema 4D Cloth

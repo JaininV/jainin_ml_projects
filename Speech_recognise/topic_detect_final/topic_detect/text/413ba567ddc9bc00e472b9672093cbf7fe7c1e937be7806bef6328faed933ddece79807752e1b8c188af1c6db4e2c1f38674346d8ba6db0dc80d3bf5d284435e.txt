@@ -1,0 +1,13 @@
+Škoda is trialling an innovative car-to-pedestrian communication system as part of the Urban Mobility initiative of the European Institute of Innovation and Technology (EIT). The goal is to enhance road safety for vulnerable groups, such as children, senior citizens, and people with disabilities.
+
+The trial focuses on the Enyaq iV, where Škoda has replaced its backlit Crystal Face grille with a new body featuring programmable LED strip holders. These LEDs create unique animations, signalling to pedestrians when it’s safe to cross the road or warning them when the car is about to move off.
+
+The symbols being tested include green arrows, a green figure, a warning triangle, and a red triangle with a cross – all widely recognisable signs.
+
+This technology has the potential to reduce pedestrian injuries, with over 16,000 reported in the UK in 2021 alone. The new Highway Code changes from 2022 have introduced a new hierarchy of road users, prioritising pedestrians at crossings and imposing a £100 fine and three points for drivers failing to stop.
+
+As part of the wider trial, a robotic rover called IPA2X has been developed to assist children, seniors, and people with disabilities in safely crossing the road. Designed by experts from the Institute of Informatics, Robotics and Cybernetics at the Czech Technical University in Prague (CIIRC), the Technical University of Munich, and Škoda, this smart assistant resembles a mobile traffic light.
+
+The IPA2X robot constantly monitors its surroundings, detects approaching cars, and heads out into the road when safe. It displays information for pedestrians and warnings for approaching cars, also sending alerts to the car’s infotainment display. Future developments aim to include audio warnings for even better communication.
+
+Škoda’s car-to-pedestrian communication trial is a promising step towards improving road safety for vulnerable groups. With the potential to reduce accidents and enhance driver-pedestrian interactions, this innovative technology could be a game-changer in urban mobility.

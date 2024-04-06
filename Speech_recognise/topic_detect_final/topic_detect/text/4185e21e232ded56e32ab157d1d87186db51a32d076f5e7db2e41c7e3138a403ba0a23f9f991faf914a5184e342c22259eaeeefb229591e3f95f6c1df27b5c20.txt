@@ -1,0 +1,73 @@
+Hamilton's new e-scooter app may be overcollecting information about riders, according to a privacy consultant.
+
+The city launched the service two weeks ago on April 3, after selecting Bird Canada as the operator. Hamilton is now one of more than 10 cities in Canada with Bird Canada operations.
+
+Riders download the Bird app and can pay to ride the electric scooters.
+
+But Sharon Bauer, founder of Toronto-based Bamboo Data Consulting, has concerns about what's written in the app's privacy policy.
+
+"There are holes in the privacy policy … as in, you're not going to get all the information you need to truly assess whether a vendor is doing anything shady with your information," she said.
+
+She also said the city should've done a privacy impact assessment (PIA) before debuting the service. The city confirmed to CBC Hamilton it didn't do a PIA.
+
+A PIA looks at how the technology may impact people's privacy and is in compliance with privacy laws.
+
+"Hamilton should have done a PIA. Although Hamilton itself is not technically collecting personal information ... they're essentially putting residents at risk," Bauer said, adding many other apps collect people's information but the city should've done more due diligence.
+
+CBC downloaded and used the app on an iPhone to test out how it works.
+
+On an iPhone, when someone first opens the app, it asks to access their phone's bluetooth technology to have an easier time connecting to the e-scooter. It also asks users to use their location to find scooters.
+
+People sign in on the app using an email or Apple ID. When people sign in, the app says doing so confirms they're 18 or older.
+
+It also asks people to add a payment card. People pay for the scooter to unlock it.
+
+When people ride an e-scooter on the app, it tracks their route, how many kilometres they rode and their speed. At the end of the ride, it asks people to lock up the scooter and take a picture of how it was locked up.
+
+It'll also tell you if you rode on sidewalks, no-ride zones, if you were speeding or if you parked in a permitted area. It also tells you how much carbon dioxide you prevented from being emitted by riding the scooter instead of a vehicle.
+
+The policy states Bird Canada automatically collects the real-time location of the user through their phone and through the scooter.
+
+Bauer said "there's absolutely no reason" for Bird to track the user's entire trip instead of simply tracking the start point and end point of the trip.
+
+"It does seem that there's overcollection of information," she said.
+
+She also has questions about why the app tracks through a user's phone and the scooter.
+
+"That's also a little strange because why would they need both?"
+
+Bauer said users should never let any app, including this one, track your location at all times.
+
+The privacy policy also states it may ask for a user's birth date and driver's licence or piece of government-issued ID to confirm their age, but that didn't occur when CBC tried the app. Bauer said if you need to provide ID to use the app, you shouldn't use it at all.
+
+Bauer also noted how Bird Canada says it shares information within the "Bird family of companies." It's unclear what companies those are. Bird Global Inc. says it has operations "in more than 350 cities, primarily across the United States, Canada, Europe, the Middle East, and Australia."
+
+Bird Canada also shares information with public partners and transportation authorities, which Bauer said is likely the city in this case. It could include anonymized data that could help the city improve traffic flow.
+
+She said if enough data about any single user is shared, you could potentially identify the user based on where they've been.
+
+For example, if someone users the scooter to ride from home, to work, a grocery store and back home on a regular basis, one could look at those points and determine where they live, work or shop.
+
+"While it's anonymized, it's not truly anonymized," she said.
+
+She added Bird Canada forcing users to take a picture of the scooter when it is locked up is "overreaching."
+
+Stewart Lyons, chief executive officer of Bird Canada, declined an interview and didn't answer specific questions from CBC Hamilton about who it shares data with, why someone's entire trip is tracked and where user data is stored.
+
+"The answers are available in the privacy policy," he said, adding that the company is committed to users's privacy.
+
+He said Bird Canada only uses personal information when there's a "legitimate business purpose."
+
+"All Bird data is encrypted in both transit and in storage in accordance with industry standards, personal data is anonymized and aggregated whenever possible, and Bird does not retain any personal data longer than is necessary for the legitimate business purpose," Lyons wrote.
+
+He added that Bird Canada is in 13 cities and hasn't faced a single privacy concern previously.
+
+"We don't sell the data to anyone. We don't share the data with anyone, other than the city in which we serve whereby all data is anonymized and shared via the global [mobility data specification] standard."
+
+Alvaro Cruz, a downtown Hamilton resident, tried the e-scooter out for the first time at Bayfront Park on Saturday.
+
+"I'll probably just try them this one time … I drive everywhere," he said, just a few minutes before zooming off in the scooter down the Waterfront Trail.
+
+Cruz said he isn't worried about the privacy concerns because he's using the e-scooter recreationally, but said people using them to commute to work may be more impacted.
+
+The city didn't answer specific questions from CBC about concerns about the app or if Hamilton Bike Share's SoBi app ever underwent a PIA but said moving forward, it will require vendors to submit PIAs, "as applicable."

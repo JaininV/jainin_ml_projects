@@ -1,0 +1,79 @@
+Why the U. S. didn’t notice leaked documents circulating on social media
+
+Current and former officials say there’s no one agency responsible for tracking classified document leaks.
+
+In recent days, officials inside the Biden administration have faced tough questions from allies about how the leak occurred and why the U.S. is just now racing to investigate. | Christophe Ena/AP Photo
+
+A trove of leaked Pentagon documents were circulating online for months without being discovered by the U.S. government — raising questions about how the administration missed them.
+
+Images of the classified documents that circulated on social media in recent days were posted to a popular messaging website as far back as January. But they appear to have only caught the government’s attention around the time they were first reported in the media in early April.
+
+“No one in the U.S. government knew they were out there,” one U.S. official said. As to why they didn’t: “We cannot answer that just yet,” a senior administration official said. “We would all like to understand how that happened.” Both individuals, along with others in this story, were granted anonymity to discuss a sensitive intelligence matter.
+
+Senior officials inside the national security apparatus were briefed on the documents on April 6, the same day the leak was first reported by The New York Times, according to two other senior U.S. officials. And the Biden administration began looking into the leak only last week.
+
+The delay has current and former officials asking why the breach went unnoticed for so long. And it suggests that there may be a large online blind spot in the U.S. intelligence gathering process.
+
+“Federal government agencies do not proactively monitor online forums looking for threat-related activity,” said John Cohen, the former acting undersecretary for intelligence and analysis at the Department of Homeland Security. “If a person or entity were to post classified information on one of those forums, there’s a high likelihood that government officials would not detect it.”
+
+Officials at the top ranks of the Pentagon, the intelligence community and at the Department of Justice are still scrambling to understand who first leaked the documents, how many classified U.S. documents may still be circulating and why they went unnoticed.
+
+Current and former officials said while each agency is responsible for investigating breaches of intelligence within their own departments, there is no one office that is responsible for monitoring, for example, social media sites for classified leaks.
+
+The Central Intelligence Agency, the National Security Council, the Office of the Director of National Intelligence and the Pentagon declined to comment.
+
+The U.S. government — including the Pentagon and agencies in the intelligence community — maintains that it does not spy on Americans, and there’s an argument that monitoring these online forums — even for illegally leaked materials — could be considered just that.
+
+“Do we really want the government monitoring everything said on social media sites? The answer to that is no. If you do that, you automatically get into civil liberties issues,” said a former U.S. intelligence official familiar with the document probe. “We haven’t yet figured out a way to square that circle between on the one hand protecting people’s rights to speak and on the other hand finding out what’s going on.”
+
+Cohen argued this leak is a potential crime and threat to national security that means the First Amendment may not apply. “Depending on the circumstances, it is possibly illegal and likely not considered protected speech,” he said.
+
+It’s still unclear exactly when the original leak took place and who is responsible for disseminating the classified material. But the story of how the documents ended up online in recent days, including on Twitter and Telegram, can be traced back to a small group of users on the messaging app known as Discord, a platform popular with gamers.
+
+Members of a now-defunct server on Discord first began seeing sensitive government information about global topics, including about the war in Ukraine, this winter, according to two people who viewed content from that group.
+
+One of the users of the group — who has since deleted his profile — first started posting the information in written, summary form sometime in the winter. Weeks later, beginning in January, the user began to post images of what appeared to be internal U.S. classified documents that had been printed and folded in half. Some of them were labeled “Secret” and “Top Secret.”
+
+Weeks later, in March, one of the users from the Discord server reposted the images on a second group on the platform known as WowMao.
+
+“He posted 30 plus … documents concerning the Russia-Ukraine war,” said the person who started that group, a well-known Filipino YouTuber named Mao. Mao described his server as “edgy” and said the person who posted the documents might have been trying to be “cool” or “funny.”
+
+“He must have been around circles where there were hackers,” Mao said. “There are Discord servers where people post hacks they found and stuff they found off the dark web and they are only shared within those circles. And sometimes stuff gets leaked out from there.”
+
+After being posted on WaoMao, the documents appeared on other social media sites including Twitter, Telegram and 4Chan. At least one of the images that appeared on those sites was altered to show higher Ukrainian and lower Russian death totals.
+
+Over the past several years, multiple government agencies have become aware of the potential upside of monitoring specific online forums, Cohen said. The problem, however, is that there are certain legal limitations on what government officials can do to track Americans’ social media activity.
+
+The FBI is allowed to go onto social media sites and other online forums to monitor activity when it has opened a specific case, Cohen said. The Department of Homeland Security can also monitor certain online activity — but only on forums that are open to the public. The intelligence community can also monitor social media messages, as well as other communications, of foreigners.
+
+But in this case, the individual was not threatening acts of violence and there aren’t signs that the person was known to law enforcement for any other reason.
+
+Various agencies throughout the U.S. government often communicate with social media platforms about content that deals with everything from misinformation and disinformation to election security, hate speech and posts that threaten violence. But it is unclear the extent to which the government asks companies to remove specific content from their sites, and whether companies comply.
+
+Discord said in an emailed statement that in regard to the breach of classified material, the company is “cooperating with law enforcement.”
+
+“When we are made aware of content that violates our policies, our safety team investigates and takes the appropriate action, including banning users, shutting down servers and engaging with law enforcement,” said Discord spokesperson Madeline Sarver, adding that the company uses a “mix of proactive and reactive tools” to keep content that violates its policy off the platform.
+
+Officials in Washington are wary of developing methods that would allow them to detect and analyze threats online — a stance that has sometimes disturbed lawmakers.
+
+In a House congressional hearing in December with Ken Wainstein, the head of DHS’s office of intelligence and analysis, Rep. Elissa Slotkin (D-Mich.) said she was frustrated that she and other people in her state had to learn about threats posed by right-wing extremists from outside the government.
+
+In a House congressional hearing in December, Rep. Elissa Slotkin said she was frustrated that she and other people in her state had to learn about threats posed by right-wing extremists from outside the government. |
+
+Sarah Rice/Getty Images
+
+“My district is where the raids happened for the plot to kidnap and kill my governor. But the government agencies — I understand it is a sensitive issue — but I couldn’t feel more strongly about the importance of you all getting left and right limits, getting really clear about it and then coming up to proactively talk to us about this issue,” Slotkin said. “No one wants to go after someone for free speech, but when you have double the incidents of antisemitism in my state, the question remains what is my government doing to help?”
+
+Cohen argued that the government needs to find a way to more closely monitor activity online that does not threaten acts of violence or relate to terrorism but may still be illegal, such as the leaking of classified information. But he said that leaning on research or academic institutions that track illicit activity on the internet may be an easier path than asking law enforcement or intelligence agencies to do the monitoring.
+
+In recent days, officials inside the Biden administration have also faced tough questions from allies about how the leak occurred and why the U.S. is just now racing to investigate. U.S. officials have also discussed with allies in Europe and Kyiv whether it plans to restrict the dissemination of classified intelligence about the war in Ukraine.
+
+Top officials at the Pentagon and National Security Council have not answered detailed questions from the podium since the leaked documents appeared, but have said they take the leak seriously and are still investigating. NBC News reported Wednesday the administration is considering changing the way it tracks social media content.
+
+It’s unclear exactly how many documents have circulated online since the original posting on Discord. Many of the users and servers where they first appeared have since vanished. But one person who viewed the documents on the original Discord server said they believe there are perhaps dozens of additional classified documents that have not been made public.
+
+The winding trajectory of how the classified documents spread through social media is likely muddying the investigation into the leak.
+
+“This is not your typical leak where it goes to the media or to a foreign power,” the former U.S. intelligence official said. “It’s going to make it a bit of a challenge for the FBI to try to figure out what’s going on here.”
+
+Alexander Ward and Mohar Chatterjee contributed to this report.

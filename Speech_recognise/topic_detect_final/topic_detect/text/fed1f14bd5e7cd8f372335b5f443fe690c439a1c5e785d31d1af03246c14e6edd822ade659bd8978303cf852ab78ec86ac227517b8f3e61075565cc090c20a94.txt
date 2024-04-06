@@ -1,0 +1,65 @@
+This article has been reviewed according to Science X's                                                      editorial process
+
+and policies.                                                     Editors have highlighted                                                     the following attributes while ensuring the content's credibility:
+
+This article has been reviewed according to Science X's                                                      editorial process
+
+and policies.                                                     Editors have highlighted                                                     the following attributes while ensuring the content's credibility:
+
+An experimental blood test may be able to catch a dozen different types of cancer with a high degree of accuracy—including some that are particularly tricky to detect, a preliminary study suggests.
+
+Researchers found that the blood test was usually on the money in detecting "signals" from 12 cancers. Importantly, the test was highly accurate in picking up early-stage cancer—which is what any potential screening test needs to do.
+
+It also performed well in detecting certain cancers that "shed" little evidence of their presence into the blood—making them tougher to pick up.
+
+But while that all sounds good, experts cautioned that the blood test—like others under development for cancer detection—is not ready for prime time.
+
+"We have not put this to the test as a screening tool," stressed lead researcher Dr. Ben Ho Park, director of the Vanderbilt-Ingram Cancer Center in Nashville, Tenn.
+
+In the shorter term, he said, the blood test's accuracy needs to be further validated. And the big long-term question—for all such blood tests—is whether they ultimately extend people's lives.
+
+"If you act on these test results, does that change patients' outcomes?" Park said. "That takes years of research to show."
+
+Park presented the findings Sunday at a meeting of the American Association for Cancer Research in Orlando, Fla. Studies released at meetings are generally considered preliminary until they are published in a peer-reviewed journal.
+
+The study is one of the latest in the broader push to develop blood tests that can serve as a one-stop screening for multiple cancers.
+
+A number of companies are working on such multicancer early detection (MCED) tests.
+
+Essentially, they are all based on the fact that tumors shed bits of genetic material into the blood, and that their DNA looks different from the DNA of normal body cells. If a test can detect those tumor signals, that could provide a simple, non-invasive way to screen for various cancer types at once—including many that now lack any screening method.
+
+The blood tests under development can also predict where in the body the potential threat is located, so doctors can decide which follow-up tests—such as imaging or biopsies—should be used.
+
+Park's team evaluated a new MCED test that was designed to better detect early tumors that shed little DNA into the blood. They used blood samples from about 4,000 people—some cancer-free and others with newly diagnosed cancers—to see how well the test could catch signals from a dozen types of tumors.
+
+Overall, the researchers found, the test had an "area-under-curve" (AUC) of 0.94 for detecting cancer. AUC is a measure of test accuracy that ranges from 0 to 1: The closer it is to 1, the better.
+
+When it came to early-stage cancer, the test's AUC ranged between 0.92 and 0.95, and its ability to catch those low-shedding cancers—like bladder, breast, kidney, prostate and uterine cancers—stood at a still-high 0.91.
+
+"The accuracy was excellent," Park said. "But we need more research to really put this through the wringer."
+
+An oncologist who was not involved in the research agreed. While MCED tests might sound like a panacea, there are plenty of potential pitfalls, cautioned Dr. Michael Shusterman of NYU Langone's Perlmutter Cancer Center, in New York.
+
+For one, Shusterman said, there are instances where early detection could mean catching a cancer that would never have become harmful.
+
+As an example, he pointed to thyroid cancer, which is sometimes "indolent," or unlikely to be a threat.
+
+On top of that, a blood test might detect something so tiny that it can't be seen on follow-up imaging, Shusterman said. That could leave a person with a "positive" blood test, but no diagnosis—and a future of indefinite surveillance scans.
+
+"So now you have this sword of Damocles hanging over your head," Shusterman said.
+
+Like Park, he stressed that the ultimate question is whether any MCED extends people's lives.
+
+Some other MCEDs are further along in development, including one called Galleri that screens for more than 50 cancers. It's now being put to the test in a clinical trial being run at multiple U. S. medical centers.
+
+No MCED tests are yet approved by the U. S. Food and Drug Administration. But Galleri and some other tests are available for doctors to order, as a "laboratory developed test"—which the FDA has historically not regulated, according to the U.S. National Cancer Institute.
+
+But patients have to pay for MCED tests, and possibly any follow-up diagnostic tests.
+
+Both Park and Shusterman encouraged people to do their homework and talk to a trusted health care provider before making any decisions on an MCED test.
+
+The study was sponsored by Adela Inc., which is developing the new blood test.
+
+More information:
+
+The U. S. National Cancer Institute has more on multicancer early detection tests.

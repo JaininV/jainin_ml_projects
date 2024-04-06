@@ -1,0 +1,23 @@
+The recent rally in Bitcoin's (BTC) price makes it difficult to remember that the leading cryptocurrency is still down 53% from its all-time high and that it remains in the midst of a bear market. But while Bitcoin's price fluctuates, there is one metric that has remained steadfast in its growth: the total number of unique addresses on the Bitcoin network.
+
+Unlike publicly traded companies, which are required to release quarterly earnings reports so investors can gauge their financial health, we can look at data derived from blockchains to get a glimpse into a cryptocurrency's key metrics.
+
+One basic yet effective measure of Bitcoin's growth is the number of addresses created on the blockchain that have some amount of Bitcoin. Rather than looking at say only Bitcoin addresses with more than 1, 5, or 10 bitcoins (which focuses on only investors with large reserves), looking at all addresses account for those with even a small amount of bitcoins. These are known as addresses with a non-zero balance and few other statistics are so simple yet so meaningful.
+
+When looking at a chart of non-zero addresses added to the Bitcoin network since its creation in 2009, one thing becomes clear: The number is increasing exponentially. Just 10 years ago in April 2013, this figure was at 1.4 million. One year later by April 2014, it doubled and today it sits at an all time high of more than 45.5 million addresses.
+
+Arguably the most encouraging is this growth was sustained even as Bitcoin weathered multiple bear markets.
+
+Like any asset with a limited supply (there will only ever be 21 million bitcoins), as demand increases, so does its price. And it seems as though demand is finally picking up as well. To measure this we can take a look at transaction counts.
+
+After remaining near some of its lowest levels since 2018 for the greater part of 2022, with the arrival of the new year, the number of transactions on the Bitcoin network have risen substantially. In fact, they are as high as they have been since the bull market of 2021. Recent data shows that the month of March had the highest numbers of transactions in a month since January 2021.
+
+It should be noted that transactions doesn't always correlate with an increase in price as transactions must be in the form of investors buying to raise Bitcoin's price but when considering that it climbed more than 23% in March alone, these transactions were more than likely purchases.
+
+While a bumpy road remains ahead, if this trend continues, it could finally put an end to one of the most brutal markets in Bitcoin's history.
+
+It can be easy to get caught up in the hysteria that often accompanies bear markets and crypto winters, but statistics like non-zero address growth and transaction counts prove that while surface waters might appear choppy and turbulent, underneath, Bitcoin is remains resilient.
+
+When taking into account that Bitcoin's price remains beaten down and near historically low levels (even with the recent rally), and yet its growth in addresses and transactions continues to rise, purchasing Bitcoin today is about as appealing as ever.
+
+This consistent growth is a key indicator that Bitcoin's price will likely remain at the mercy of a limited supply and increased demand well into the future. And if the past is any indicator of this future, it could mean that Bitcoin remains one of the best-performing assets to ever be created.

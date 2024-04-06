@@ -1,0 +1,25 @@
+Twitterがヘイト行為に関するルールに違反するツイートに、「表示が制限されています」というラベルを付与し、他ユーザーの���イムラインには当該ツイートが表示されにくくすると発表しました。このラベル付与＆表示制限は、Twitterの他のルールにも順次拡大していく予定です。
+
+Freedom of Speech, Not Reach: An update on our enforcement philosophy
+
+https://blog.twitter.com/en_us/topics/product/2023/freedom-of-speech-not-reach-an-update-on-our-enforcement-philosophy
+
+Twitter will label ‘hateful’ tweets when it restricts them - The Verge
+
+https://www.theverge.com/2023/4/17/23686661/twitter-label-hateful-tweets-restricts-shadowban
+
+Twitter will now tell you when it suppresses a hateful tweet
+
+https://www.androidpolice.com/twitter-visibility-limited-freedom-of-speech-not-reach-policy/
+
+Twitter to label tweets that get downranked for violating its hate speech policy | TechCrunch
+
+https://techcrunch.com/2023/04/17/twitter-says-it-will-label-tweets-that-violate-its-hate-speech-policy-and-get-downranked-as-a-result/
+
+Twitter Adds Transparency to Shadow Bans as it Moves to Allow More Kinds of Speech | Social Media Today
+
+https://www.socialmediatoday.com/news/Twitter-Adds-Transparency-to-Shadow-Bans/647862/
+
+Twitterの安全性やプライバシーに関するアップデートをツイートするTwitter Safetyが、「ツイートに対する強制措置の透明性を高めています。最初のステップとして、ヘイト行為に関するルールに違反している可能性があると特定された一部のツイートに、表示を制限したことを知らせるラベルが間もなく付与されることにな��ます」とツイートしました。
+
+We’re adding more transparency to the enforcement actions we take on Tweets. As a first step, soon you’ll start to see labels on some Tweets identified as potentially violating our rules around Hateful Conduct letting you know that we’ve limited their visibility. ????…— Twitter Safety (@TwitterSafety)

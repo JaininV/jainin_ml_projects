@@ -1,0 +1,43 @@
+Newswise — ITHACA, N. Y. – Scientists have discovered a parasite is behind a severe die-off of long-spined sea urchins across the Caribbean Sea, which has had devastating consequences for coral reefs and surrounding marine ecosystems.
+
+The long-spined sea urchins (Diadema antillarum) serve as vital herbivores that graze on algae, which if left unchecked will outcompete corals for space and blanket them, block light and kill them. By feeding on algae, the sea urchins are essential to maintaining coral health and balance in the marine ecosystem.
+
+Diadema mortalities were first reported in St. Thomas in the U. S. Virgin Islands in late January 2022. By late March, the condition was found across the Lesser Antilles, Jamaica and the Mexican Caribbean. And by June of last year, it had been detected in most of the Greater Antilles, Florida and Curacao.
+
+Scientists have been trying to identify the cause of the mysterious illness, which led to declines of between 85% and 95% compared to pre-mortality numbers in affected areas. When sea urchins die, they lose their spines and detach from their anchors.
+
+Now, an international team of 42 scientists has identified the culprit as Philaster apodigitiformis, a unicellular eukaryote that is part of a group of 8,000 species called ciliates. P. apodigitiformis is a known parasite in fish.
+
+“Rarely are we afforded the opportunity to understand marine disease events in this detail, where we can actually work out a cause of it,” said marine ecologist Ian Hewson, professor of microbiology at Cornell University and lead author of the study, “A Scuticociliate Causes Mass Mortality of Diadema antillarum in the Caribbean Sea,” which published in Science Advances.
+
+Though scientists do not yet know how to treat P. apodigitiformis infections, discovering the parasite’s identity may help them design strategies for maintaining health in Diadema sea urchins that are being raised for restocking efforts across the region, Hewson said.
+
+“Knowing the pathogen's identity may also help mitigate risk to untouched Diadema through such things as boat traffic, dive gear, or other ways it may be moved around,” he added.
+
+In the early 1980s, long-spined sea urchins were almost completely wiped out in the Caribbean by an unknown cause, leading to around 98% declines from previous numbers. Thirty years later, their populations rebounded, but only by an estimated 12% from pre-epidemic numbers. That die-off led to rapid degradation of many coral reefs across the region that persist today, with some coral species becoming extremely rare. The cause of the early 1980s outbreak was never determined, though Hewson and colleagues may now investigate whether P. apodigitiformis can be detected in Diadema museum samples from that time and region.
+
+In the current study, the research team collected three types of Diadema samples, which included: visually abnormal, infected individuals; healthy individuals from the same site; and completely healthy individuals from an unaffected area, which acted as a control for comparison.
+
+Rapid sample collection from 23 sites was made possible by the Atlantic and Gulf Rapid Reef Assessment program, a network that helped Hewson collaborate with scientists from the Van Hall Larenstein University of Applied Sciences in the Caribbean Netherlands, and the University of the Virgin Islands, among others.
+
+Collaborators prepared tissue samples and delivered them to Hewson’s lab at Cornell, a complicated process involving customs and border regulations. Hewson and colleagues then ran tests to identify viral or bacterial pathogens in the tissues using state-of-the-art molecular biological and veterinary pathological techniques, but results were inconclusive.
+
+“They initially did not show any sort of unusual or candidate microorganisms at all,” Hewson said. “We were a bit at a dead end.”
+
+It was then that Hewson decided to investigate genomic signals of eukaryotic microorganisms, such as fungi, ciliates and dinoflagellates. “Immediately when I did that, I had an enormous signal of this scuticociliate Philaster,” Hewson said.
+
+He ran to the labs and pulled out fluid samples from Diadema that people in the field had collected and put those under the microscope.
+
+“I saw this ciliate was actually very, very abundant,” he said. “That was the big ‘aha’ moment.” The ciliates were not present in samples from the control sites, he said.
+
+While P. apodigitiformis has been known to infect fish, this is the first time it has been associated with mass mortality in an invertebrate.
+
+Hewson, a faculty fellow at the Cornell Atkinson Center for Sustainability, and co-authors Mya Breitbart, a biological oceanographer at the University of South Florida, and Christina Kellogg, a microbiologist at the U. S. Geological Survey St. Petersburg Coastal and Marine Science Center in Florida, designed an experiment to test Koch’s Postulates – the gold standard test for proving beyond doubt that a microorganism is associated with a condition.
+
+Using fresh samples collected from infected Diadema from the Florida Keys and aquacultured Diadema (which had never been exposed to any pathogens) obtained from The Florida Aquarium’s Center for Conservation, the researchers infected the aquarium Diadema with ciliates isolated from the body fluid of infected Florida sea urchins.
+
+“Animals that were treated with the ciliate became sick and died in 60% of the cases,” Hewson said. They were then able to isolate and identify the very same P. apodigitiformis ciliate from those newly diseased animals, proving it was responsible for the disease.
+
+“Almost never are we able in a wildlife setting, at least in marine habitats, to prove that a microorganism is actually responsible for disease,” Hewson said.
+
+Funders for the study include the National Science Foundation; the Cornell Atkinson Center for Sustainability; the National Oceanic and Atmospheric Administration; and the National Fish and Wildlife Foundation.

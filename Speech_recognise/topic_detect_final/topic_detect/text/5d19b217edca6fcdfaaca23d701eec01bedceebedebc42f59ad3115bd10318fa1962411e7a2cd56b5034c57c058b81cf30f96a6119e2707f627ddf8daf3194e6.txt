@@ -1,0 +1,65 @@
+WhatsApp will soon offer a 'companion mode' which will allow more than one smartphone or other device to log in to one account, a leak has claimed.
+
+This will allow users to access their chats, send messages and make calls simultaneously from different devices.
+
+A savvy user spotted the feature in an as-of-yet unreleased WhatsApp update that is currently being tested through the Google Play Beta Program.
+
+This is a subscription service that gives Android users exclusive access to new versions of apps available on the Google Play store.
+
+Screenshots shared on the WABetaInfo website reveal that WhatsApp users will be able to link the secondary device by scanning a QR code.
+
+First, the user needs to download and open WhatsApp on the secondary device, then tap the overflow menu, which shows three dots, on the registration screen.
+
+Then they can tap 'Link a device', and a unique QR code will be displayed.
+
+Finally, they can open WhatsApp on their primary device, tap 'Settings' and 'Linked devices', and they will be able to scan the QR code on the secondary device.
+
+This will initiate the transfer of chat histories and other data.
+
+From then on, any messages sent or calls made to that WhatsApp account will be received by both the primary and secondary device.
+
+It gives users the option of accessing their chats from another device if the primary one does not have an active internet connection.
+
+Users may also be able to update their status and manage their 'broadcast lists' - saved lists of broadcast message recipients - from the secondary device.
+
+The leak says that you will be able to link up to four devices to one account.
+
+The first device a WhatsApp account is signed into with will remain the primary device, and will be needed to add a new companion device.
+
+Users will only be able to change the phone number associated with their account from the primary device.
+
+The feature is available in WhatsApp version 2.23.8.2, currently undergoing beta testing, but its existence indicates it will be rolled out on the Android app soon.
+
+This unreleased update also allows the user to lock their private chats so they can be accessed only with biometric data, such as a fingerprint, or a passcode.
+
+Testers are currently only able to make an Android device their secondary one, as the unreleased update can only be downloaded through the Google Play Beta Program.
+
+The leak adds that any messages or calls that have been sent or received through the companion device will be end-to-end encrypted.
+
+The news comes just a month after the head of WhatsApp, Will Cathcart, said he would rather the app be banned in the UK than remove end-to-end encryption.
+
+The Government may soon outlaw this security feature, which scrambles the content of messages to protect them from hackers, through the Online Safety Bill.
+
+This legislation could require tech companies to scan the contents of messages sent through their social platforms for illegal content.
+
+However, doing so would likely force them to weaken or do away with their own security measures.
+
+WhatsApp cannot see messages sent via its own service, and so cannot comply with law enforcement requests to either hand them over for anti-terror purposes or to identify and remove child-abuse material, for example.
+
+Mr Cathcart said that undermining the privacy of WhatsApp messages in the UK would do so for all its users worldwide.
+
+'There isn't a way to change it in just one part of the world,' he said.
+
+'Some countries have chosen to block it: that's the reality of shipping a secure product.
+
+'We've recently been blocked in Iran, for example. But we've never seen a liberal democracy do that.'
+
+He added: 'The reality is, our users all around the world want security.
+
+'Ninety-eight per cent of our users are outside the UK. They do not want us to lower the security of the product, and just as a straightforward matter, it would be an odd choice for us to choose to lower the security of the product in a way that would affect those 98 per cent of users.'
+
+Mr Cathcart was critical of the Online Safety Bill in September, saying that it was 'puzzling' that governments wanted to weaken security, not bolster it.
+
+The UK Government insisted that the Bill 'does not represent a ban on end-to-end encryption' and that 'we can and must have both' privacy and child safety.
+
+But it also does not explicitly state how it would be possible to monitor message content and continue their encryption, creating a 'grey area'.

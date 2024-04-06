@@ -1,0 +1,25 @@
+Newswise — PULLMAN, Wash. – Discovery of a gene in multiple mammalian species could pave the way for a highly effective, reversible and non-hormonal male contraceptive for humans and animals.
+
+Washington State University researchers identified expression of the gene, Arrdc5, in the testicular tissue of mice, pigs, cattle and humans. When they knocked out the gene in mice, it created infertility only in the males, impacting their sperm count, movement and shape. The researchers detailed their findings in the journal Nature Communications.
+
+“The study identifies this gene for the first time as being expressed only in testicular tissue, nowhere else in the body, and it’s expressed by multiple mammalian species,” said Jon Oatley, senior author and professor in WSU’s School of Molecular Biosciences. “When this gene is inactivated or inhibited in males, they make sperm that cannot fertilize an egg, and that’s a prime target for male contraceptive development.”
+
+While other molecular targets have been identified for potential male contraceptive development, the Arrdc5 gene is specific to the male testes and found in multiple species. Importantly, lack of the gene also causes significant infertility creating a condition called oligoasthenoteratospermia or OAT. This condition, the most common diagnosis for human male infertility, shows a decrease in the amount of sperm produced, slowed mobility and distorted shape so that the sperm are unable to fuse with an egg.
+
+In the WSU study, the male mice lacking this gene produced 28% less sperm that moved 2.8 times slower than in normal mice – and about 98% of their sperm had abnormal heads and mid-pieces.
+
+The study indicates that the protein encoded by this gene is required for normal sperm production. Oatley’s team will next work on designing a drug that would inhibit production or function of that protein.
+
+Disrupting this protein wouldn’t require any hormonal interference, a key hurdle in male contraception since testosterone plays other roles beyond sperm production in men including building bone mass and muscle strength as well as red blood cell production. Designing a drug to target this protein would also make it easily reversible as a contraceptive.
+
+“You don't want to wipe out the ability to ever make sperm – just stop the sperm that are being made from being made correctly,” he said. “Then, in theory, you could remove the drug and the sperm would start being built normally again.”
+
+Oatley and study first author Mariana Giassetti have filed a provisional patent for the development of a male contraceptive based on this gene and the protein it encodes.
+
+Because the gene is found across mammalian species, this knowledge also holds promise for use in animals, Oatley said. The team analyzed available biological data on DNA and protein sequences in mammals and found the gene in almost every known mammal species. This opens the potential to develop male contraception for use in livestock, perhaps replacing castration in some instances as a way to control reproduction, and in wildlife when managers seek to limit overpopulation of a species.
+
+The initial focus, however, is on giving humans more control over their own reproduction. While there are many forms of birth control for women, they are not always effective or widely available, and more than half of pregnancies worldwide are still unintended, according to the United Nations.
+
+“Developing a way to curb population growth and stop unwanted pregnancies is really important for the future of the human race,” said Oatley. “Right now, we don't really have anything on the male side for contraception other than surgery and only a small percentage of men choose vasectomies. If we can develop this discovery into a solution for contraception, it could have far-ranging impacts.”
+
+This study received support from the National Institutes of Health and WSU’s Functional Genomics Initiative, a multi-year university investment to support development of genetic technology research.

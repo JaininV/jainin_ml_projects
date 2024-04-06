@@ -1,0 +1,91 @@
+Bank collapses drove market volatility to end Q1, but Morningstar’s Moat and SMID Moat Indexes avoided the failed banks and stayed ahead of their respective broad market benchmarks.
+
+The first quarter of the year is officially complete, and it ended in dramatic fashion with a sudden and unexpected bank crisis. The collapse of several U. S. regional banks, including Silicon Valley Bank, and the fall of Switzerland’s Credit Suisse (CS) took the markets on a volatile ride to end the quarter. After two weeks of relative market chaos, coordinated efforts by regulators and the big banks to backstop the industry calmed markets.
+
+Despite this crisis, large cap U. S. equities ended the March session up, with a modest gain of 3.67% for the S&P 500 Index during the month. However, smaller cap stocks proved less tolerant, with the S&P SmallCap 600 Index down over 5% during the same period. Notably though, moat stocks outperformed broad benchmarks during the month in both the large cap and small/mid cap segments.
+
+The Morningstar Wide Moat Focus Index (the “Moat Index”) gained 4.68% in March, ahead of the S&P 500 Index by 100 basis points. The Morningstar US Small-Mid Cap Moat Focus Index (the “SMID Moat Index”) was down 2.74% during the month, but still demonstrated some resilience compared to the broader universe of small and mid-cap stocks. Year to date, both Moat Indexes maintained their lead versus the respective broad market benchmarks.
+
+Source: Morningstar. As of 3/31/2023. Past performance is no guarantee of future results. Index performance is not illustrative of Fund performance. Fund performance current to the most recent month end is available by visiting vaneck.com or by calling 800.826.2333. Indexes are unmanaged and are not securities in which an investment can be made.
+
+The recent U. S. banking failures had only a limited impact on both the Moat and SMID Moat Indexes, as neither index had exposure to the failed banks. The Moat Index does however have exposure to two diversified national banks. Wells Fargo & Co. (WFC), which has long been an Index component, and U.S. Bancorp (USB), which saw its position in the Index increase this quarter due to attractive valuation.
+
+In the SMID cap segment, where regional banks are more prevalent, the SMID Moat Index had exposure to only one regional bank, Comerica Inc. (CMA), during the onset of the banking crisis.
+
+Notably, following much of the turmoil in smaller banks, the SMID Moat Index added two more regional banks given their attractive valuations as part of the March 17 reconstitution. Both M&T Bank Corp. (MTB) and Huntington Bancshares (HBAN) entered the SMID Moat index after their share prices had declined by more than 20%.
+
+Morningstar analyst Eric Compton, who covers the banking sector, believes much of the selloff in banks is overdone and that sector is currently undervalued. Below are Eric’s comments regarding US Bancorp and Comerica.
+
+Comerica is one of the smaller regional banks we cover. As such, we think the upside could be greater. The bank trades at one of the steepest price/fair value discounts in our coverage, even after we've baked in additional headwinds from funding costs and deposit outflows. Comerica is also the only narrow-moat-rated regional bank among the regionals that have sold off the most this year. As such, we view Comerica as our “higher risk, higher reward” regional pick for long-term investors. If the deposit base remains even remotely intact after first-quarter earnings, we would expect to see a rerating higher.
+
+We also like U. S. Bancorp, which has sold off like some of the regionals but is where we see the risk of deposit outflows as being lower given that the bank is the largest regional bank in the U.S. This is our “lower risk” mega-regional pick.
+
+Both the Moat and SMID Moat Indexes underwent quarterly reviews on March 17, 2023. Each quarter they systematically target the most attractively priced U. S. moat companies within their respective universes. Below are a few takeaways from the March reviews and how the indexes are positioned heading into the second quarter.
+
+The Moat Index previously saw its tech exposure increase to the largest overweight in quite some time over the last few quarters of 2022. Exposure came primarily from chip and equipment companies and enterprise software companies.
+
+With the rally that many of these companies experienced to begin the year, their valuations became too pricey, allowing the Index to lock in gains in a fairly short period of time. Technology exposure in the Moat Index is now closer to market weight.
+
+Source: Morningstar. As of 3/17/2023. Past performance is no guarantee of future results. Not intended as a recommendation to buy or sell any securities mentioned herein.
+
+After several quarters of increasing growth exposure based on valuation opportunities among oversold growth-oriented stocks, the Moat Index’s growth exposure decreased this quarter. The modest reduction in growth stocks was equally redistributed to value stocks and core/blend stocks.
+
+Core stock exposure is now the largest style followed by growth and then value. Growth and value stocks are both slight overweight relative to the S&P 500 Index, while core/blend exposure is underweight.
+
+Source: Morningstar. As of 3/17/2023. Not intended as a recommendation to buy or sell any securities mentioned herein.
+
+The weighted average price-to-fair value of the Moat Index fell from 0.78 to 0.74 following the latest review, signaling a 26% discount to Morningstar’s fair value estimate. This is in contrast to the S&P 500 Index, which featured a weighted average price-to-fair value ratio of 0.89 as the same date.
+
+Contrary to the Moat index, which saw growth exposure reined in this quarter, the SMID Moat Index’s review led to increased growth exposure by nearly 5% relative to last quarter. It is worth noting that growth is much less dominant in the SMID universe compared to the large-cap space.
+
+Even after this quarter’s increase, the SMID Moat Index has just under a 20% exposure to growth while the Moat Index sits at about 35%. Additionally, despite the increase, the SMID Moat Index still remains underweight growth compared to the broad SMID universe, which has about 25% exposure.
+
+In this quarterly review, the SMID Moat Index saw a notable increase to technology names with the addition of several tech names including Guidewire Software (GWRE), Paycom Software Inc. (LTHM) and Garmin Ltd. (GRMN), among others.
+
+The technology sector weighting increased from about 16% to 20% following the index review. On the other end of the spectrum, the Industrials, Healthcare, Financials and Communication services sectors all saw slight decreases in weighting.
+
+In terms of exposure to Financials and the banking industry, the SMID Moat Index is underweight the Financials sector by about 5% and underweight the banking industry by about 2.5% relative to the broad SMID stock universe represented by the Morningstar US Small-Mid Cap Index.
+
+The weighted average price-to-fair value of the SMID Moat Index was 0.74 following the quarterly review, signaling a 26% discount to Morningstar’s fair value estimate. This is in contrast to the Morningstar US Small-Mid Cap Index, which featured a weighted average price-to-fair value ratio of 0.90 as of the same date.
+
+VanEck Morningstar Wide ETF (MOAT) seeks to replicate as closely as possible, before fees and expenses the price and yield performance of the Morningstar Wide Moat Focus Index.
+
+VanEck Morningstar SMID Moat ETF (SMOT) seeks to track as closely as possible, before fees and expenses, the price and yield performance of the Morningstar US Small-Mid Cap Moat Focus Index.
+
+Source for all data unless otherwise noted: Morningstar.
+
+Fair value estimate: the Morningstar analyst's estimate of what a stock is worth. Price/Fair Value: ratio of a stock's trading price to its fair value estimate.
+
+This is not an offer to buy or sell, or a recommendation to buy or sell any of the securities/financial instruments mentioned herein. The information presented does not involve the rendering of personalized investment, financial, legal, or tax advice. Certain statements contained herein may constitute projections, forecasts and other forward looking statements, which do not reflect actual results, are valid as of the date of this communication and subject to change without notice. Information provided by third party sources are believed to be reliable and have not been independently verified for accuracy or completeness and cannot be guaranteed. VanEck does not guarantee the accuracy of third party data. The information herein represents the opinion of the author(s), but not necessarily those of VanEck or its employees.
+
+Holdings will vary for the MOAT ETF and its corresponding Index. For a complete list of holdings in the ETF, please click here: https://www.vaneck.com/etf/equity/moat/holdings/.
+
+Holdings will vary for the SMOT ETF and its corresponding Index. For a complete list of holdings in the ETF, please click here: https://www.vaneck.com/etf/equity/smot/holdings/.
+
+An investor cannot invest directly in an index. Returns reflect past performance and do not guarantee future results. Results reflect the reinvestment of dividends and capital gains, if any. Certain indices may take into account withholding taxes. Index returns do not represent Fund returns. The Index does not charge management fees or brokerage expenses, nor does the Index lend securities, and no revenues from securities lending were added to the performance shown.
+
+The Morningstar® Wide Moat Focus IndexSM and Morningstar® US Small-Mid Cap Moat Focus IndexSM were created and are maintained by Morningstar, Inc. Morningstar, Inc. does not sponsor, endorse, issue, sell, or promote the VanEck Morningstar Wide Moat ETF or the VanEck Morningstar SMID Moat ETF and bears no liability with respect to the ETFs or any security. Morningstar® is a registered trademark of Morningstar, Inc. Morningstar® Wide Moat Focus IndexSM and Morningstar® US Small-Mid Cap Moat Focus IndexSM are service marks of Morningstar, Inc.
+
+Effective June 20, 2016, Morningstar implemented several changes to the Morningstar Wide Moat Focus Index construction rules. Among other changes, the index increased its constituent count from 20 stocks to at least 40 stocks and modified its rebalance and reconstitution methodology. These changes may result in more diversified exposure, lower turnover, and longer holding periods for index constituents than under the rules in effect prior to this date. Past performance is no guarantee of future results.
+
+The Morningstar moat-driven indexes represent various regional exposures and consist of companies identified as having sustainable, competitive advantages and whose stocks are attractively priced, according to Morningstar.
+
+The Morningstar® Wide Moat Focus IndexSM Intended to track the overall performance of attractively priced companies with sustainable competitive advantages according to Morningstar's equity research team.
+
+The Morningstar® US Small-Mid Cap Moat Focus IndexSM is intended to track the overall performance of small- and mid-cap companies with sustainable competitive advantages and attractive valuations according to Morningstar's equity research team.
+
+The Morningstar® US Small-Mid Cap IndexSM is a broad based index intended to track the overall performance of U. S. small- and mid-cap companies according to Morningstar.
+
+The S&P SmallCap 600 Index represents small-cap US companies. The S&P Midcap 400 Index provides investors with a benchmark for mid-sized US companies. The S&P 500 Index consists of 500 widely held common stocks covering industrial, utility, financial and transportation sector; as an Index, it is unmanaged and is not a security in which investments can be made.
+
+The S&P 500® Index is a product of S&P Dow Jones Indices LLC and/or its affiliates and has been licensed for use by Van Eck Associates Corporation. Copyright © 2023 S&P Dow Jones Indices LLC, a division of S&P Global, Inc., and/or its affiliates. All rights reserved. Redistribution or reproduction in whole or in part are prohibited without written permission of S&P Dow Jones Indices LLC. For more information on any of S&P Dow Jones Indices LLC’s indices please visit S&P Dow Jones Indices S&P® is a registered trademark of S&P Global and Dow Jones® is a registered trademark of Dow Jones Trademark Holdings LLC. Neither S&P Dow Jones Indices LLC, Dow Jones Trademark Holdings LLC, their affiliates nor their third party licensors make any representation or warranty, express or implied, as to the ability of any index to accurately represent the asset class or market sector that it purports to represent and neither S&P Dow Jones Indices LLC, Dow Jones Trademark Holdings LLC, their affiliates nor their third party licensors shall have any liability for any errors, omissions, or interruptions of any index or the data included therein.
+
+An investment in the VanEck Morningstar Wide Moat ETF (MOAT®) may be subject to risks which include, among others, risks related to investing in equity securities, consumer discretionary sector, health care sector, industrials sector, information technology sector, financials sector, medium-capitalization companies, market, operational, high portfolio turnover, index tracking, authorized participant concentration, no guarantee of active trading market, trading issues, passive management, fund shares trading, premium/discount risk and liquidity of fund shares, non-diversification and index-related concentration risks, all of which may adversely affect the Fund. Medium-capitalization companies may be subject to elevated risks.
+
+An investment in the VanEck Morningstar SMID Moat ETF (SMOT®) may be subject to risks which include, among others, risks related to investing in equity securities, small- and medium-capitalization companies, consumer discretionary sector, financials sector, health care sector, industrials sector, information technology sector, market, operational, high portfolio turnover, index tracking, authorized participant concentration, new fund, no guarantee of active trading market, trading issues, passive management, fund shares trading, premium/discount and liquidity of fund shares, non-diversified, and index-related concentration risks, all of which may adversely affect the Fund. Small- and medium-capitalization companies may be subject to elevated risks.
+
+Investing involves substantial risk and high volatility, including possible loss of principal. An investor should consider the investment objective, risks, charges and expenses of a Fund carefully before investing. To obtain a prospectus and summary prospectus, which contain this and other information, call 800.826.2333 or visit vaneck.com. Please read the prospectus and summary prospectus carefully before investing.
+
+Editor's Note: The summary bullets for this article were chosen by Seeking Alpha editors.
+
+Editor's Note: This article covers one or more microcap stocks. Please be aware of the risks associated with these stocks.

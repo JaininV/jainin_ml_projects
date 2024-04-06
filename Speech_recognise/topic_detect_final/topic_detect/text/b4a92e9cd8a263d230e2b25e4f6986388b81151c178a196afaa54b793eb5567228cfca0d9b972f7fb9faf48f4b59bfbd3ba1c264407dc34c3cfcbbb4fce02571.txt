@@ -1,0 +1,27 @@
+The Swedish crypto mining industry, which was hit hard last year by soaring energy prices, is facing a new challenge. This is a big increase in electricity bills coming in July this year.
+
+According to Sweden’s fiscal budget announced in November 2022, the tax per kilowatt hour (kWh) will be increased from the current 0.006 kroner to 0.36 kroner (0.077 yen to 4.66 yen) from July this year. (6,000% tax increase)
+
+In 2017, Sweden launched a 98% tax reduction policy for data centers to attract companies. However, due to the fact that jobs were not created as initially expected and changes in the macroeconomic environment such as soaring global energy prices, it seems that tax incentives will be reviewed.
+
+Jaran Mellerud, an analyst at mining service company Luxor Technologies, estimates that the tax increase could push electricity costs to about ¥12.45 per kWh. The MicroBT Whatsminer M30, a medium-performance mining rig, is said to be break-even given the current market environment.
+
+Daniel Jogg, chief executive of Enerhash, a Hungarian mining company that also has a base in Sweden, said that the tax hike would drastically reduce profitability, so many miners are looking for solutions such as diversification to other countries and self-mining. said the situation.
+
+Jogg says he will keep the Swedish business because it’s still profitable, but won’t make any additional investments because the legal environment could suddenly change like this.
+
+Sweden is one of the few remaining mining countries in Europe, along with Norway, which has the strength of a cold climate and relatively cheap electricity prices due to abundant hydroelectric power in the north. Mellerud estimates Sweden’s share of global Bitcoin hashrate production at around 1.8%.
+
+In Sweden, 98% of electricity is supplied from sustainable power sources such as hydro (44%) and nuclear (31%), and wind power (16%), so environmentally friendly mining is possible. As a country, it was also attracting attention.
+
+U. S. mining company TeraWulf announced last month that it began mining bitcoin at a 100% nuclear-powered mining facility. The Nautilus mining facility in Pennsylvania will receive power directly from the Susquehanna nuclear power plant.
+
+According to TerraWolf chairman and CEO Paul Prager, the facility will be able to use electricity at a low cost of about 3 yen ($0.02) per kWh.
+
+Terrawolf aims to use nuclear and hydroelectric power to make all the electricity it consumes in mining carbon-free. The company’s New York state mining facility is powered by hydroelectric power, which it claims is 91% carbon-free electricity.
+
+At the government level, Arkansas passed a bill on the 7th to protect the cryptocurrency mining industry from discriminatory and excessive regulations and taxes.
+
+The Arkansas Data Center Act of 2023 creates guidelines for businesses to clarify mining regulations. It also includes provisions to operate mining operations in a manner that does not burden local power or grids.
+
+The post Sweden’s mining industry is in danger of survival, tax incentives are abolished and electricity bills increase 60 times appeared first on Our Bitcoin News.

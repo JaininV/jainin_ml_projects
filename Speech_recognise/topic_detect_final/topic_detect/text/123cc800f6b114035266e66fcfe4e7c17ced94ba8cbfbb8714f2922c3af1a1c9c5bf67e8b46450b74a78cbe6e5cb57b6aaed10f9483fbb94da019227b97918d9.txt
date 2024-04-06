@@ -1,0 +1,15 @@
+– HawkEye 360 Inc., the world’s leading defense technology company for space-based radio frequency (RF) data and analytics, announced today that its Cluster 7 next-generation satellites have successfully deployed in orbit after launching aboard a SpaceX Falcon 9 rocket from Vandenberg Space Force Base in California during the Transporter-7 mission. Communication with the satellites has been established by the company’s operations team.
+
+“We are pleased to report that our Cluster 7 satellites have deployed to orbit following another successful launch,” said HawkEye 360 CEO, John Serafini. “The continued expansion of our RF-sensing satellite constellation enables us to more quickly and accurately reveal global activities to make the world a safer and more secure place.”
+
+The successful launch of the Cluster 7 trio further expands HawkEye 360’s constellation to 21 satellites with extended and improved data collection in the 15-18 GHz range, first introduced in on Cluster 6 launched January 2023.
+
+“This latest launch broadens our collection capabilities around the globe, allowing us to meet the persistently high demand for our RF analytics,” said HawkEye 360 COO, Rob Rainhart. “We are grateful to SEOPS for providing integration support for our team on this mission.”
+
+Today’s launch expands collections of RF signals in support of HawkEye 360’s broad range of radar and communications signals across land and sea. The expanded collection of RF signals and revisit rates provides increased situational awareness into an array of activities, including early-warning radars, military activities, maritime domain awareness, radio communications, and indicators of RF interference, important to our customers’ success.
+
+For more information on the HawkEye 360 satellite constellation, please visit https://www.he360.com/.
+
+HawkEye 360 is a defense technology leader providing ubiquitous knowledge of human activity, behavior, and situational trends derived from revolutionary radio frequency (RF) geospatial intelligence. The company’s innovative space-based technology was developed to detect, characterize, and geolocate a broad range of RF signals. These RF data and analytics provide an information advantage allowing analysts to detect the first glimpse of suspicious behavior, trace the first sign of enemy activity, and reveal the first sighting of ships attempting to vanish. HawkEye 360’s RF intelligence presents a quicker grasp of critical events and patterns of life, providing early warnings to drive tip-and-cue efforts, and providing global leaders the insights needed to make decisions with confidence. HawkEye 360 is headquartered in Herndon, Virginia.
+
+SEOPS is a launch vehicle aggregator (a.k.a. rideshare) with a seasoned mission integration and operations team headquartered in Houston, TX.  SEOPS has two launch systems called Slingshot and Octobus that fly in 51.6d and SSO orbits.  Additionally, SEOPS builds CubeSat deployers ranging from 3U – 16U known as the equalizer and separation systems.

@@ -1,0 +1,1017 @@
+Unwinding the stack the hard way
+
+Let’s say you have a program, in C or Rust, whatever; and this program has a bug. The only thing you see in your terminal is the dreaded
+
+Segmentation fault (core dumped). Well… let’s say it’s a C program then. You would like to know what happened, and even fix that! Normal people would launch GDB and run
+
+bt to get a backtrace; but we aren’t normal people, we like to suffer. We will do our backtrace ourselves, and I don’t mean calling backtrace(): that is a rookie solution. And no, libunwind
+
+is not acceptable either; real developpers unwind their stack themselves with bare hands. In this article, we will delve into the intricacies of stack unwinding, exception-handling, call frames, and dissect ELFs and DWARFs.
+
+Just use the frame pointer
+
+I was doing some programming work on my personal project
+
+Nucloid, a kernel written in Rust. At one point, the kernel raised a page fault, because of faulty page tables. As usual, the kernel crashed, dumping the machine state:
+
+PANIC! Invalid read at 00000000'00010000: page is not mapped
+
+rax=00000000'00010000  rbx=ffff8000'00b40b38  rcx=ffff8000'0164cf00  rdx=ffff8000'00b03bd0
+
+rdi=ffff8000'00b40210  rsi=00000000'00000000  rbp=00000000'00000000  rsp=ffff8000'00b3f798
+
+r8=00000000'00000000   r9=ffff8000'0018d200  r10=00000000'0000003d  r11=ffff8000'00180e10
+
+r12=00000000'00000000  r13=00000000'00000000  r14=00000000'00000000  r15=00000000'00000000
+
+rip=ffff8000'0010c93e      cs=0008   ss=0010   ds=0000   es=0000   fs=0000   gs=0000
+
+Something’s lacking though: a stack trace! Based on the %rip value (0xffff8000'0010c93e), we can determine in which function the faulty instruction is located. But who called us? That’s an essential information after all! Especially if the instruction happens to live in the standard library, that doesn’t help at all to know that
+
+Result::unwrap() panicked for example.
+
+With normal programs, we have debuggers, and the kernel offers mechanisms like
+
+ptrace to handle such task. But who debugs the kernel? Certainly not a debugger. The kernel will have to debug itself. Normally, a progam will not try debugging itself —yet I’ve seen programs handling SIGSEGV: for God’s sake, don’t do that! Nevertheless, the kernel is no normal program, and if it wants to offer some amount of debugging experience, it will have to handle it all by itself.
+
+So I started to do some research on how to compute a stack trace in a freestanding environment. Solutions generally involved the backtrace() function, a GNU extension; that won’t do it. There’s libunwind, I don’t know if that would’ve worked, I never tried: I just told myself I’m going to roll my own backtrace function, that can’t be hard, I heard of that thing the frame pointer or
+
+%rbp stuff.
+
+At that time, I had no idea what a rabbit hole I was about to dive into. If I had known at that moment what was required, I likely wouldn’t have started. Fortunately for me, I was ill-informed and naive: a blessing in disguise. I ushered in the task, navigating blindly, and when the fog finally dissipated, when I realized what it takes to make a stack trace, it was too late: I was too involved, I had done too much research, I had to finish.
+
+So, let’s do the frame pointer thing and call it a day.
+
+Some of you may have heard of the frame pointer; on x86-64, this refers to the
+
+%rbp register: it contains the address of a fixed point within the current function’s call frame. That register is updated each time we enter or leave a function. Anywhere you are, you read %rbp and you know where the current call frame starts. Moreover, at that address on the stack is saved the previous value of %rbp for the calling function. Knowing this reference point, we can use relative addresses to access specific elements of the call frame: the return address, the local variables, and even some parameters if those were passed via the stack.
+
+In this example, we have three functions: foo calling bar calling baz. As a reminder, on x86, the stack grows down towards the lower addresses.
+
+%rsp points to the bottom of the stack, i.e. the last pushed value. %rbp
+
+gives us information on the current (last) call frame. To access the previous call frames, we just need to read the previous %rbp value that is saved on the stack at the address contained in %rbp.
+
+So, it seems that all we have to do is read the %rbp register, then access the stack at %rbp + 8 to find the return address. That return address gives us the information of which instruction in which function called us, which is quite the whole point of a stack trace. Then we read the stack at the address %rbp to get the saved %rbp value of the previous call frame. You then repeat the process, navigating the linked list of %rbp values until we find a saved value of 0 that denotes the first call frame.
+
+That is so easy! I wonder why anyone would write an entire article about such an obvious and easy thing to do.
+
+If only that was so simple… What’s the catch? Well, it’s been a while that compilers omit the frame pointer[1]; you see, that frees up %rbp! It’s not like x86 has a whole lot of registers to start with, so having a spare register is something to take.
+
+Without %rbp, our frame pointer, here is what our stack looks like:
+
+We are left with %rsp. How do we figure out where the return address is? Well, it is still 8 bytes below the top of our call frame. And how do we figure out where the top of the call frame is? Well, we are screwed, we don’t have this information. We would need to know how much space the function’s local variables take to infer the call frame’s start address from %rsp. Even worse, as we execute instructions within the function, %rsp moves as local variables are allocated and freed. Not only do we miss critical information, we are aiming at a moving target.
+
+In practice, this is not a problem for compilers: they don’t need the frame pointer, they know how the call frame is structured, what size it has, where it begins, where the return address is located, etc. since they created it. But when the compiler has finished compiling our program, that information is lost. Is it really though?
+
+#include
+
+kevin@kevin-desktop:~ » gcc main.c
+
+Now, let’s inspect the ELF using the wonderful
+
+elf-info command and list all sections:
+
+kevin@kevin-desktop:~ » export ELF=a.out
+
+kevin@kevin-desktop:~ » elf sh
+
+───┤ SECTIONS (30) ├─────────────────────────────────────────────────────────
+
+No │ Name                 │ Type         │ Virt. addr.         │ Size                   │
+
+0 │                      │ NULL         │ 0x00000000'00000000 │ 0x0000'0000      0 B   │
+
+1 │ .interp              │ PROGBITS     │ 0x00000000'00000318 │ 0x0000'001c     28 B   │
+
+2 │ .note.gnu.property   │ NOTE         │ 0x00000000'00000338 │ 0x0000'0040     64 B   │
+
+3 │ .note.gnu.build-id   │ NOTE         │ 0x00000000'00000378 │ 0x0000'0024     36 B   │
+
+4 │ .note.ABI-tag        │ NOTE         │ 0x00000000'0000039c │ 0x0000'0020     32 B   │
+
+5 │ .gnu.hash            │ GNU_HASH     │ 0x00000000'000003c0 │ 0x0000'001c     28 B   │
+
+6 │ .dynsym              │ DYNSYM       │ 0x00000000'000003e0 │ 0x0000'00a8    168 B   │
+
+7 │ .dynstr              │ STRTAB       │ 0x00000000'00000488 │ 0x0000'008d    141 B   │
+
+8 │ .gnu.version         │ GNU_VERSYM   │ 0x00000000'00000516 │ 0x0000'000e     14 B   │
+
+9 │ .gnu.version_r       │ GNU_VERNEED  │ 0x00000000'00000528 │ 0x0000'0030     48 B   │
+
+10 │ .rela.dyn            │ RELA         │ 0x00000000'00000558 │ 0x0000'00c0    192 B   │
+
+11 │ .rela.plt            │ RELA         │ 0x00000000'00000618 │ 0x0000'0018     24 B   │
+
+12 │ .init                │ PROGBITS     │ 0x00000000'00001000 │ 0x0000'001b     27 B   │
+
+13 │ .plt                 │ PROGBITS     │ 0x00000000'00001020 │ 0x0000'0020     32 B   │
+
+14 │ .text                │ PROGBITS     │ 0x00000000'00001040 │ 0x0000'0113    275 B   │
+
+15 │ .fini                │ PROGBITS     │ 0x00000000'00001154 │ 0x0000'000d     13 B   │
+
+16 │ .rodata              │ PROGBITS     │ 0x00000000'00002000 │ 0x0000'0012     18 B   │
+
+17 │ .eh_frame_hdr        │ PROGBITS     │ 0x00000000'00002014 │ 0x0000'0024     36 B   │
+
+18 │ .eh_frame            │ PROGBITS     │ 0x00000000'00002038 │ 0x0000'007c    124 B   │
+
+19 │ .init_array          │ INIT_ARRAY   │ 0x00000000'00003dd0 │ 0x0000'0008      8 B   │
+
+20 │ .fini_array          │ FINI_ARRAY   │ 0x00000000'00003dd8 │ 0x0000'0008      8 B   │
+
+21 │ .dynamic             │ DYNAMIC      │ 0x00000000'00003de0 │ 0x0000'01e0    480 B   │
+
+22 │ .got                 │ PROGBITS     │ 0x00000000'00003fc0 │ 0x0000'0028     40 B   │
+
+23 │ .got.plt             │ PROGBITS     │ 0x00000000'00003fe8 │ 0x0000'0020     32 B   │
+
+24 │ .data                │ PROGBITS     │ 0x00000000'00004008 │ 0x0000'0010     16 B   │
+
+25 │ .bss                 │ NOBITS       │ 0x00000000'00004018 │ 0x0000'0008      8 B   │
+
+26 │ .comment             │ PROGBITS     │ 0x00000000'00000000 │ 0x0000'001b     27 B   │
+
+27 │ .symtab              │ SYMTAB       │ 0x00000000'00000000 │ 0x0000'0240    576 B   │
+
+28 │ .strtab              │ STRTAB       │ 0x00000000'00000000 │ 0x0000'0126    294 B   │
+
+29 │ .shstrtab            │ STRTAB       │ 0x00000000'00000000 │ 0x0000'0116    278 B   │
+
+Two of these sections will be the subject of this article: .eh_frame and .eh_frame_hdr. We will talk about .eh_frame_hdr later. The .eh_frame section contains the missing information the compiler saved for us. It stands for exception-handling frames, this is because in languages like C++ or Rust, exceptions (we call them panics in Rust) are handled through stack unwinding: we unwind the stack by popping call frames as we move up and restore register values, call destructors, etc.
+
+That information is therefore needed at runtime to perform stack unwinding in cases of exceptions, panics, or requesting a stack trace. That’s why those two sections are actually loaded in memory unlike debugging information.
+
+So, what does .eh_frame contain in our program? Let’s use our favorite
+
+ELF-dissecting tool:
+
+kevin@kevin-desktop:~ » elf sh -x .eh_frame
+
+───┤ SECTION ".eh_frame" ├───────────────────────────────────────────────────
+
+Name │ .eh_frame
+
+Type │ PROGBITS (0x00000001)
+
+Virtual address │ 0x00000000'00002038
+
+Offset in ELF │ 0x00000000'00002038 B
+
+Size │ 0x00000000'0000007c B (124 B)
+
+Alignment │ 0x00000000'00000008 B
+
+Entry size │ 0x00000000'00000000 B
+
+0 │  14 00 00 00 00 00 00 00 │ 01 7a 52 00 01 78 10 01  │╳╳╳╳╳╳╳╳│╳zR╳╳x╳╳│
+
+10 │  1b 0c 07 08 90 01 00 00 │ 14 00 00 00 1c 00 00 00  │╳╳╳╳╳╳╳╳│╳╳╳╳╳╳╳╳│
+
+20 │  e8 ef ff ff 26 00 00 00 │ 00 44 07 10 00 00 00 00  │╳╳╳╳&╳╳��│╳D╳╳╳╳╳╳│
+
+30 │  24 00 00 00 34 00 00 00 │ b0 ef ff ff 20 00 00 00  │$╳╳╳4╳╳╳│╳╳╳╳ ╳╳╳│
+
+40 │  00 0e 10 46 0e 18 4a 0f │ 0b 77 08 80 00 3f 1a 3b  │╳╳╳F╳╳J╳│╳w╳╳╳?╳;│
+
+50 │  2a 33 24 22 00 00 00 00 │ 1c 00 00 00 5c 00 00 00  │*3$"╳╳╳╳│╳╳╳╳\╳╳╳│
+
+60 │  a1 f0 ff ff 1a 00 00 00 │ 00 41 0e 10 86 02 43 0d  │╳╳╳╳╳╳╳╳│╳A╳╳╳╳C╳│
+
+70 │  06 55 0c 07 08 00 00 00 │ 00 00 00 00              │╳U╳╳╳╳╳╳│╳╳╳╳────│
+
+Well, 124 bytes is not that long fortunately. But we still have no idea what’s inside. The .eh_frame section actually contains DWARF information[2][6]. Yes, you heard right, DWARF, like for the debugging symbols. But here, DWARF isn’t used for actual debugging but to express data that are loaded and can be accessed at runtime. This is how functions like backtrace()
+
+or libraries like libunwind
+
+find the necessary information to move up the stack of call frames. Each time an exception or panic is raised, we need to unwind the stack and, therefore, need to consult .eh_frame for how to do that.
+
+We could check out the DWARF reference documentation to manually parse such a structure, but instead we will rely on elf-info
+
+to perform that job; to do so, just remove the -x option I passed earlier: this asks to always show a hexdump instead of interpreting the section’s content.
+
+kevin@kevin-desktop:~ » elf sh .eh_frame
+
+───┤ SECTION ".eh_frame" ├───────────────────────────────────────────────────
+
+Name │ .eh_frame
+
+Type │ PROGBITS (0x00000001)
+
+Virtual address │ 0x00000000'00002038
+
+Offset in ELF │ 0x00000000'00002038 B
+
+Size │ 0x00000000'0000007c B (124 B)
+
+Alignment │ 0x00000000'00000008 B
+
+Entry size │ 0x00000000'00000000 B
+
+├╴ CIE  offset=0x00000000'00000000
+
+│  ├╴             Version │ 1
+
+│  ├╴              Length │ 20
+
+│  ├╴        Augmentation │
+
+│  ├╴      Code alignment │ 1
+
+│  ├╴      Data alignment │ -8
+
+│  ├╴Return addr register │ 16 (%RA)
+
+│  ├──⮞ DW_CFA_def_cfa(7, 8)            cfa = %rsp + 8
+
+│  ├──⮞ DW_CFA_offset(16, 1)            %RA @ cfa − 8
+
+│  ├──⮞ DW_CFA_nop()
+
+│  ├──⮞ DW_CFA_nop()
+
+│  ├╴ FDE  offset=0x00000000'00000018  CIE=0x00000000'00000000
+
+│  │  ├╴  PC range │ 0x00000000'00001040..0x00000000'00001066
+
+│  │  ├╴    Symbol │ _start + 0x0
+
+│  │  ├──⮞ DW_CFA_advance_loc(4)        loc += 4        loc = 0x00000000'00001044
+
+│  │  ├──⮞ DW_CFA_undefined(16)         %RA @ ??? (unrecoverable)
+
+│  │  ├──⮞ DW_CFA_nop()
+
+│  ���  ├──⮞ DW_CFA_nop()
+
+│  │  ├──⮞ DW_CFA_nop()
+
+│  │  ├──⮞ DW_CFA_nop()
+
+│  ├╴ FDE  offset=0x00000000'00000030  CIE=0x00000000'00000000
+
+│  │  ├╴  PC range │ 0x00000000'00001020..0x00000000'00001040
+
+│  │  ├╴    Symbol │ _init + 0x20
+
+│  │  ├──⮞ DW_CFA_def_cfa_offset(16)    cfa = %rsp + 16
+
+│  │  ├──⮞ DW_CFA_advance_loc(6)        loc += 6        loc = 0x00000000'00001026
+
+│  │  ├──⮞ DW_CFA_def_cfa_offset(24)    cfa = %rsp + 24
+
+│  │  ├──⮞ DW_CFA_advance_loc(10)       loc += 10       loc = 0x00000000'00001030
+
+│  │  ├──⮞ DW_CFA_def_cfa_expression([77, 08, 80, 00, 3f, 1a, 3b, 2a, 33, 24, 22])
+
+│  │  ├──⮞ DW_CFA_nop()
+
+│  │  ├──⮞ DW_CFA_nop()
+
+│  │  ├──⮞ DW_CFA_nop()
+
+│  │  ├──⮞ DW_CFA_nop()
+
+│  ├╴ FDE  offset=0x00000000'00000058  CIE=0x00000000'00000000
+
+│  │  ├╴  PC range │ 0x00000000'00001139..0x00000000'00001153
+
+│  │  ├╴    Symbol │ main + 0x0
+
+│  │  ├──⮞ DW_CFA_advance_loc(1)        loc += 1        loc = 0x00000000'0000113a
+
+│  │  ├──⮞ DW_CFA_def_cfa_offset(16)    cfa = %rsp + 16
+
+│  │  ├──⮞ DW_CFA_offset(6, 2)          %rbp @ cfa − 16
+
+│  │  ├──⮞ DW_CFA_advance_loc(3)        loc += 3        loc = 0x00000000'0000113d
+
+│  │  ├──⮞ DW_CFA_def_cfa_register(6)   cfa = %rbp + 16
+
+│  │  ├──⮞ DW_CFA_advance_loc(21)       loc += 21       loc = 0x00000000'00001152
+
+│  │  ├──⮞ DW_CFA_def_cfa(7, 8)         cfa = %rsp + 8
+
+│  │  ├──⮞ DW_CFA_nop()
+
+│  │  ├──⮞ DW_CFA_nop()
+
+│  │  ├──⮞ DW_CFA_nop()
+
+Wow, that’s a lot to digest. At first glance, there seems to be a hierarchical structure made of CIEs and FDEs. Each FDE, or frame description entry, is associated with a parent CIE, or common information entry. The reason for this hierarchy is simply to reduce the binary size by factoring out the FDEs’ common information, hence the name. To compute the full entry, simply append the FDE to its parent CIE.
+
+We also see that an FDE has a PC range, a range of program counter addresses, i.e. machine instructions contained in the .text and pointed by the %rip
+
+register. This PC range actually refers to functions. We will typically have an FDE for each function. elf-info is nice enough to show to which symbol the PC addresses belong.
+
+Below the FDE header is a list of instructions[3] that, when followed, will give us everything we need to know about the structure of the call frame. We are going to build a mental table out of these instructions: for each row, there will be the address of an instruction within the function; and for each column, a register. In each cell of this table, there will be a rule that governs how to restore the value of the register at that code location.
+
+With this example table, we know that if we are at the instruction at address
+
+0x0002, then the saved values of %rax and %rbx are undefined, i.e. those registers can’t be restored, and the saved value of %rcx can be found at
+
+CFA - 16. For this instruction, the CFA is %rsp + 80.
+
+Of course, such a table is conceptual; we would never actually allocate and fill it: it would be way too large.
+
+The CFA, or canonical frame address is of paramount importance: it is, in essence, our “base pointer”, that points at the top of our call frame. By definition, the CFA is the value of the stack pointer, %rsp, at the call site in the previous frame, just before the call instruction; which is not the same as the value of %rsp once in the callee function. The CFA is our anchor point from which we can address elements of our frame.
+
+In order to determine the CFA, we must lookup the call frame information for the CFA rule at that specific instruction address we want. In our example, the CFA is computed using the value of %rsp with an offset. That offset changes as values are push/popped to/from the stack, i.e. as %rsp moves, because the CFA must remain fixed for a given call frame.
+
+In this example, let’s say we are at instruction 0x0003. The call frame information table says that to find the CFA, we need to take the current value of %rsp and add 100. To get the previous value of the %rcx we just need to read the stack at CFA - 16.
+
+There are only two possible rules to compute the CFA: either a register plus offset (the usual way), or a DWARF expression[8]: some bytecode for an ad-hoc stack-based virtual machine you must implement and evaluate the expression into; this is a kafkaesque way of expressing arbitrarily complex rules.
+
+There are several rules[4] to restore a register’s previous value, here are some
+
+of them:
+
+undefined: the register’s value can’t be restored;
+
+same value: the value is untouched, no restoration is needed;
+
+offset(n): the value is located at address CFA + n;
+
+val_offset(n): the value is CFA + n itself, no dereferencing;
+
+register(r): the value is the same as the one in register r.
+
+expression(e) and val_expression(e): both calculate a value from the
+
+DWARF expression[8] e, the previous register’s value is
+
+either the computed value itself in case of val_expression(e), or the
+
+value located at that address in case of expression(e).
+
+Of course, restoring registers only makes sense for registers that must be preserved by the called function, the so-called callee-saved registers, which depends on the ABI’s calling convention. In the case of the x86-64 System V ABI, callee-saved registers include %rbx, %rsp, %rbp, %r12, %r13, %r14, and %r15[7].
+
+We now need to know how to build such a table based on the FDE’s instructions. Let’s focus on the main function, and use elf-info
+
+again to display all CFI about this function:
+
+kevin@kevin-desktop:~ » elf eh -s main
+
+├╴ CIE  offset=0x00000000'00000000
+
+│  ├╴             Version │ 1
+
+│  ├╴              Length │ 20
+
+│  ├╴        Augmentation │
+
+│  ├╴      Code alignment │ 1
+
+│  ├╴      Data alignment │ -8
+
+│  ├╴Return addr register │ 16 (%RA)
+
+│  ├──⮞ DW_CFA_def_cfa(7, 8)            cfa = %rsp + 8
+
+│  ├──⮞ DW_CFA_offset(16, 1)            %RA @ cfa − 8
+
+│  ├──⮞ DW_CFA_nop()
+
+│  ├──⮞ DW_CFA_nop()
+
+│  ├╴ FDE  offset=0x00000000'00000058  CIE=0x00000000'00000000
+
+│  │  ├╴  PC range │ 0x00000000'00001139..0x00000000'00001153
+
+│  │  ├╴    Symbol │ main + 0x0
+
+│  │  ├──⮞ DW_CFA_advance_loc(1)        loc += 1        loc = 0x00000000'0000113a
+
+│  │  ├──⮞ DW_CFA_def_cfa_offset(16)    cfa = %rsp + 16
+
+│  │  ├──⮞ DW_CFA_offset(6, 2)          %rbp @ cfa − 16
+
+│  │  ├──⮞ DW_CFA_advance_loc(3)        loc += 3        loc = 0x00000000'0000113d
+
+│  │  ├──⮞ DW_CFA_def_cfa_register(6)   cfa = %rbp + 16
+
+│  │  ├──⮞ DW_CFA_advance_loc(21)       loc += 21       loc = 0x00000000'00001152
+
+│  │  ├──⮞ DW_CFA_def_cfa(7, 8)         cfa = %rsp + 8
+
+│  │  ├──⮞ DW_CFA_nop()
+
+│  │  ├──⮞ DW_CFA_nop()
+
+│  │  ├──⮞ DW_CFA_nop()
+
+Instructions are the lines starting with ──⮞. To get the full list of instructions for an FDE, we need to combine both the CIE and the FDE; we will also ignore DW_CFA_nop instructions which do nothing and are used as padding. This gives us:
+
+DW_CFA_def_cfa(7, 8)         cfa = %rsp + 8
+
+DW_CFA_offset(16, 1)         %RA @ cfa − 8
+
+DW_CFA_advance_loc(1)        loc += 1        loc = 0x00000000'0000113a
+
+DW_CFA_def_cfa_offset(16)    %rsp + 16
+
+DW_CFA_offset(6, 2)          %rbp @ cfa − 16
+
+DW_CFA_advance_loc(3)        loc += 3        loc = 0x00000000'0000113d
+
+DW_CFA_def_cfa_register(6)   cfa = %rbp + 16
+
+DW_CFA_advance_loc(21)       loc += 21       loc = 0x00000000'00001152
+
+DW_CFA_def_cfa(7, 8)         cfa = %rsp + 8
+
+We won’t list all DWARF call frame instructions[3], but here are some:
+
+DW_CFA_def_cfa(register, offset)
+
+Define CFA = register + offset, i.e.
+
+from now on, the CFA value can be computed by taking the value of the
+
+register register and adding offset to its value;
+
+DW_CFA_def_cfa_offset(offset)
+
+Redefine the CFA offset, but keep the base register as is;
+
+DW_CFA_def_cfa_register(register)
+
+Redefine the CFA base register, but keep the offset as is;
+
+DW_CFA_offset(register, n)
+
+The rule for register register is now
+
+offset(n), i.e. the previous value is at CFA + n;
+
+DW_CFA_undefined(register)
+
+The rule for register register is now
+
+undefined, i.e. the value can’t be restored;
+
+And then there is DW_CFA_advance_loc(n) that advances the current PC by n. All following call frame instructions must be followed only if the instruction is passed the new PC.
+
+If we follow all the instructions for the main function, this gives this table:
+
+%RA is the register containing the return address. Of course, on x86, there is no such thing, so this is a fake register, a pseudo-register. Knowing the CFA definition, we deduce that on x86-64, the rule for %RA will always be to look at CFA - 8: this is where the return address is pushed on the stack when doing call.
+
+Before moving on, let’s use again elf-info
+
+this time to get a better view of the main’s CFI instructions. elf fn is a command to disassemble a function by its symbol name. If we add the --cfi option, the disassembly will be annoted with call frame information.
+
+kevin@kevin-desktop:~ » elf fn --cfi main
+
+main:
+
+[CFI] DW_CFA_def_cfa(7, 8)           cfa = %rsp + 8
+
+[CFI] DW_CFA_offset(16, 1)           %RA @ cfa − 8
+
+0x00000000'00001139 │  55                       │  push    %rbp
+
+[CFI] DW_CFA_def_cfa_offset(16)      cfa = %rsp + 16
+
+[CFI] DW_CFA_offset(6, 2)            %rbp @ cfa − 16
+
+0x00000000'0000113a │  48 89 e5                 │  mov     %rsp, %rbp
+
+[CFI] DW_CFA_def_cfa_register(6)     cfa = %rbp + 16
+
+0x00000000'0000113d │  48 8d 05 c0 0e 00 00     │  lea     0x2004, %rax
+
+0x00000000'00001144 │  48 89 c7                 │  mov     %rax, %rdi
+
+0x00000000'00001147 │  e8 e4 fe ff ff           │  call    0x0000000000001030
+
+0x00000000'0000114c │  b8 00 00 00 00           │  mov     [email protected]_2.2.5, %eax
+
+0x00000000'00001151 │  5d                       │  pop     %rbp
+
+[CFI] DW_CFA_def_cfa(7, 8)           cfa = %rsp + 8
+
+0x00000000'00001152 │  c3                       │  ret
+
+The first two CFI instructions come from the CIE, they define the default rule to determine the CFA: CFA = %rsp + 8. Then, instruction at 0x1139 pushes %rbp
+
+onto the stack; this lowers the value of %rsp, requiring the CFA rule to be updated (the CFA must remain fixed) and becomes CFA = %rsp + 16. Because we just saved %rbp, a CFI instruction is emitted to inform that %rbp is saved at CFA - 16. Instruction 0x113a then moves %rsp into %ebp and a new CFA rule is set: CFA = %rbp + 16. We conclude that this function does use %rbp
+
+as a frame pointer.
+
+Before moving on, I would like to talk about DWARF expressions[8]: they allow expressing complex value calculations used for CFA rules or register rules that other types of rules can’t express.
+
+There is one such rule in our test program:
+
+│  ├╴ FDE  offset=0x00000000'00000030  CIE=0x00000000'00000000
+
+│  │  ├╴  PC range │ 0x00000000'00001020..0x00000000'00001040
+
+│  │  ├╴    Symbol │ _init + 0x20
+
+│  │  ├──⮞ DW_CFA_def_cfa_offset(16)    cfa = %rsp + 16
+
+│  │  ├──⮞ DW_CFA_advance_loc(6)        loc += 6        loc = 0x00000000'00001026
+
+│  │  ├──⮞ DW_CFA_def_cfa_offset(24)    cfa = %rsp + 24
+
+│  │  ├──⮞ DW_CFA_advance_loc(10)       loc += 10       loc = 0x00000000'00001030
+
+│  │  ├──⮞ DW_CFA_def_cfa_expression([77, 08, 80, 00, 3f, 1a, 3b, 2a, 33, 24, 22])
+
+This FDE, by the way, refers to the PLT trampoline code for puts (yes, the compiler actually transformed our printf call to a puts call, which makes sense as an optimization). The DW_CFA_def_cfa_expression instruction defines the CFA as the computation result of the DWARF expression expressed by this bytecode:
+
+77, 08, 80, 00, 3f, 1a, 3b, 2a, 33, 24, 22
+
+DW_OP_breg7
+
+DW_OP_breg16
+
+DW_OP_lit15
+
+DW_OP_and
+
+DW_OP_lit11
+
+DW_OP_ge
+
+DW_OP_lit3
+
+DW_OP_shl
+
+DW_OP_plus
+
+They represent instructions that must be evalutated in a stack-based virtual machine.
+
+DW_OP_breg7 and DW_OP_breg16 push the values of %rsp and %rip respectively onto the VM’s stack, DW_OP_lit15 pushes the literal 15. DW_OP_and
+
+pops the last two values, performs a bitwise AND on them, and pushes the result on the stack. We go ahead and execute all instructions this way. The final result is the value at the top of the stack: the last pushed value.
+
+push %rsp
+
+push %rip
+
+push 0xf
+
+and
+
+push 11
+
+ge
+
+push 3
+
+shl
+
+plus
+
+The indentation helps visualize the structure of operands. For example, plus
+
+takes two arguments: %rsp and the result of shl. shl takes two arguments: the result of ge and 3. We can rewrite one more time the expression in pseudo-code:
+
+CFA = %rsp + ((%rip & 0xf) >= 11 ? 1 : 0) << 3;
+
+If you are writing C, C++, or Rust, the compiler will emit call frame information in .eh_frame on your behalf; you don’t have to worry about it. But, if you write assembly, the onus of describing your functions’ call frames is on you.
+
+Fortunately, assemblers are equipped for the task. In the case of the GNU assembler
+
+as, there is a set of CFI directives[10] to generate the call frame information. Those directives will resemble DWARF CFI instructions for a reason: the directive will emit the appropriate instructions in .eh_frame.
+
+Here is an example of a function written in GNU assembly for x86-64 with CFI directives:
+
+.global foo
+
+.type foo, @function
+
+foo:
+
+.cfi_startproc
+
+// By default, the CFA rule is `CFA = %rsp + 8`.
+
+// So, after pushing %rbp on the stack, %rsp will decrease and we will need
+
+// to change the CFA rule for it to become `CFA = %rsp + 16`.
+
+push    %rbp
+
+.cfi_def_cfa_offset 16  // CFA = %rsp + 16
+
+.cfi_offset 6, -16      // Register %rbp (6) is saved at CFA - 16
+
+// Let's return the sum of the two parameters.
+
+add     %rsi, %rdi      // %rdi is the first parameter, %rsi the second
+
+mov     %rdi, %rax      // %rax is the return value
+
+// We now restore %rbp from the stack.
+
+pop     %rbp
+
+// We just moved %rsp by popping, we must then adjust the CFA rule:
+
+.cfi_def_cfa_offset 8   // CFA = %rsp + 8
+
+ret
+
+.cfi_endproc
+
+.size foo, .-foo
+
+If we use elf-info to extract CFI from the binary for the foo symbol, we get this FDE:
+
+│  ├╴ FDE  offset=0x00000000'00000078  CIE=0x00000000'00000000
+
+│  │  ├╴  PC range │ 0x00000000'0000116a..0x00000000'00001173
+
+│  │  ├╴    Symbol │ foo + 0x0
+
+│  │  ├──⮞ DW_CFA_advance_loc(1)          loc += 1      loc = 0x00000000'0000116b
+
+│  │  ├──⮞ DW_CFA_def_cfa_offset(16)      cfa = %rsp + 16
+
+│  │  ├──⮞ DW_CFA_offset(6, 2)            %rbp @ cfa − 16
+
+│  │  ├──⮞ DW_CFA_advance_loc(7)          loc += 7      loc = 0x00000000'00001172
+
+│  │  ├──⮞ DW_CFA_def_cfa_offset(8)       cfa = %rsp + 8
+
+Which, indeed, corresponds to what is described in assembly. Using an assembler has the advantage of handling DW_CFA_advance_loc for us.
+
+If you use gcc -S option to inspect what assembly GCC generates when compiling C, you will notice those CFI directives as well; here is what our hello world main looks like:
+
+.globl  main
+
+.type   main, @function
+
+main:
+
+.LFB0:
+
+.cfi_startproc
+
+pushq   %rbp
+
+.cfi_def_cfa_offset 16    // CFA = %rsp + 16
+
+.cfi_offset 6, -16        // Register %rbp (6) is saved at CFA - 16
+
+movq    %rsp, %rbp
+
+.cfi_def_cfa_register 6   // CFA = %rbp + 16
+
+leaq    .LC0(%rip), %rax
+
+movq    %rax, %rdi
+
+call    [email protected]
+
+movl    $0, %eax
+
+popq    %rbp
+
+.cfi_def_cfa 7, 8         // CFA = %rsp + 8
+
+ret
+
+.cfi_endproc
+
+.LFE0:
+
+.size   main, .-main
+
+Which is almost the same as the foo function.
+
+We now know that by looking up the .eh_frame section for a given function’s instruction address (PC), we can find information on how the call frames of this function are structured, and, therefore, how to unwind them. But how do we exactly find the .eh_frame’s FDE from that instruction address? One way would be to iterate over all FDEs until the search address falls into an FDE’s PC range. That would work; it would also be very inefficient.
+
+Fortunately for us, there is another section we haven’t talked about yet:
+
+.eh_frame_hdr[6]. This section is basically a sorted table of instruction addresses on which we can perform fast binary search.
+
+Our beloved elf-info can help us once again to take a look of what’s inside that table:
+
+kevin@kevin-desktop:~ » elf sh .eh_frame_hdr
+
+───┤ SECTION ".eh_frame_hdr" ├───────────────────────────────────────────────
+
+Name │ .eh_frame_hdr
+
+Type │ PROGBITS (0x00000001)
+
+Virtual address │ 0x00000000'00002014
+
+Offset in ELF │ 0x00000000'00002014 B
+
+Size │ 0x00000000'00000024 B (36 B)
+
+Alignment │ 0x00000000'00000004 B
+
+Entry size │ 0x00000000'00000000 B
+
+─── Header ───
+
+Version │ 1
+
+eh_frame_ptr encoding │ 0x1b (i32, relative to program counter)
+
+fde_count encoding │ 0x03 (u32, as is)
+
+Table encoding │ 0x3b (i32, relative to .eh_frame_hdr start)
+
+.eh_frame pointer │ 32  (-> 0x00000000'00002038)
+
+Nr entries │ 3
+
+─── Table content ───
+
+(     -4084)  0x00000000'00001020  ->  0x00000000'00002068  (        84)
+
+(     -4052)  0x00000000'00001040  ->  0x00000000'00002050  (        60)
+
+(     -3803)  0x00000000'00001139  ->  0x00000000'00002090  (       124)
+
+There are 3 entries in this program. Each entry associates an instruction address (PC) in .text to the address of the associated FDE in .eh_frame. The PC addresses are sorted, so a binary search is possible.
+
+There isn’t much more to say about .eh_frame_hdr, it is simply a shortcut to quickly find out the FDE associated with an instruction address.
+
+It is now time to get our hands dirty and actually implement the backtrace function. Needless to say the implementation will be written in Rust. You could choose not to have any crate dependencies, but for the sake of staying focused on the matter, I chose to delegate the DWARF parsing to the
+
+gimli crate (0.27.2).
+
+I made a few simplifications for conciseness: first, it is up to you to determine where the
+
+.eh_frame and .eh_frame_hdr live in memory and what size they have. If you use GNU ld, there will be a __GNU_EH_FRAME_HDR symbol defined pointing to the
+
+.eh_frame_hdr segment which, in turn, contains a pointer to .eh_frame. You will have to determine yourself the size of those segments: something Gimli doesn’t make easy unfortunately. Also, I won’t implement all possible CFI rules for registers and CFA; in particular, I will certainly not implement DWARF expressions evaluation. Last, this implementation will be tied to x86-64.
+
+What we will do is called virtual unwinding since we will simulate the stack unwinding, we won’t actually restore register values and pop call frames. Real exceptions do physically unwind the stack and touch registers though, but computing a backtrace doesn’t.
+
+Let’s start by parsing the two sections using the
+
+gimli crate. We will store the information in a EhInfo struct that our stack unwinder will consult to produce the stack trace.
+
+use gimli::{BaseAddresses, EhFrame, EhHdrTable, EndianSlice, LittleEndian,
+
+ParsedEhFrameHdr};
+
+struct EhInfo {
+
+/// A set of base addresses used for relative addressing.
+
+base_addrs: BaseAddresses,
+
+/// The parsed `.eh_frame_hdr` section.
+
+hdr: &'static ParsedEhFrameHdr
+
+To instantiate the struct, the address of .eh_frame_hdr is passed to the constructor; the address of .eh_frame will be fetched from the header. The size of both sections must be retrieved; we will use constants to represent them.
+
+use gimli::{EhFrameHdr, Pointer};
+
+use std::slice;
+
+const EH_FRAME_HDR_SIZE: usize = todo!();
+
+const EH_FRAME_SIZE: usize = todo!();
+
+impl EhInfo {
+
+unsafe fn from_hdr_ptr(eh_frame_hdr: *const u8) -> Self {
+
+let mut base_addrs = BaseAddresses::default();
+
+// We set the `.eh_frame_hdr`’s address in the set of base addresses,
+
+// this will typically be used to compute the `.eh_frame` pointer.
+
+base_addrs = base_addrs.set_eh_frame_hdr(eh_frame_hdr as u64);
+
+// The `.eh_frame_hdr` is parsed by Gimli. We leak a box for
+
+// convenience, this gives us a reference with 'static lifetime.
+
+let hdr = Box::leak(Box::new(EhFrameHdr::new(
+
+unsafe { slice::from_raw_parts(eh_frame_hdr, EH_FRAME_HDR_SIZE) },
+
+LittleEndian,
+
+).parse(&base_addrs, 8).unwrap()));
+
+// We deduce the `.eh_frame` address, only direct pointers are implemented.
+
+let eh_frame = match hdr.eh_frame_ptr() {
+
+Pointer::Direct(addr) => addr as *mut u8,
+
+_ => unimplemented!(),
+
+// We then add the `.eh_frame` address for addresses relative to that
+
+// section.
+
+base_addrs = base_addrs.set_eh_frame(eh_frame as u64);
+
+// The `.eh_frame` section is then parsed.
+
+let eh_frame = EhFrame::new(
+
+unsafe { slice::from_raw_parts(eh_frame, EH_FRAME_SIZE) },
+
+LittleEndian,
+
+Self {
+
+base_addrs,
+
+hdr,
+
+hdr_table: hdr.table().unwrap(),
+
+eh_frame,
+
+The core part is the Unwinder struct. It has a reference to the call frame information via EhInfo, but also stores our unwinding context: what is the current CFA and the current values of registers for the virtual unwinding.
+
+use gimli::{EndianSlice, LittleEndian, UnwindContext};
+
+struct Unwinder {
+
+/// The call frame information.
+
+eh_info: EhInfo,
+
+/// A `UnwindContext` needed by Gimli for optimizations.
+
+unwind_ctx: UnwindContext
+
+The unwinder will have a next() method to iterate over call frames:
+
+impl Unwinder {
+
+fn new(
+
+eh_info: EhInfo,
+
+register_set: RegisterSet,
+
+) -> Self {
+
+Self {
+
+eh_info,
+
+unwind_ctx: UnwindContext::new(),
+
+regs: register_set,
+
+cfa: 0,
+
+is_first: true,
+
+fn next(&mut self) -> Result
+
+It is up to the caller to know the current value of registers by passing an instance of RegisterSet. The next() method returns instances of CallFrame:
+
+#[derive(Debug)]
+
+struct CallFrame {
+
+pub pc: u64,
+
+It simply contains the instruction pointer: the current instruction for the last frame, and the calling instruction for all other frames. The method can return
+
+None if there is no more frames, or Err(...) if an error occurred during unwinding. Possible errors are:
+
+use gimli::Register;
+
+#[derive(Debug)]
+
+enum UnwinderError {
+
+UnexpectedRegister(Register),
+
+UnsupportedCfaRule,
+
+UnimplementedRegisterRule,
+
+CfaRuleUnknownRegister(Register),
+
+NoUnwindInfo,
+
+NoPcRegister,
+
+NoReturnAddr,
+
+To keep track of register values, we create a RegisterSet struct:
+
+#[derive(Debug, Default)]
+
+struct RegisterSet {
+
+rip: Option
+
+As you see, we aren’t interested in all registers. ret is the return address, it is considered a register in DWARF (named %RA), as it is an actual register on some architectures; on x86, the return address is stored on the stack.
+
+If None, this means the register’s value is currently undefined; trying to compute an offset based on that register will therefore raise an error.
+
+We then add a few methods to get and set values:
+
+use gimli::{X86_64, Register};
+
+impl RegisterSet {
+
+fn get(&self, reg: Register) -> Option
+
+The purpose of this struct is to facilitate portability across architectures.
+
+We are now ready to implement the next() method of our Unwinder.
+
+use gimli::{UnwindSection, CfaRule, RegisterRule};
+
+impl Unwinder {
+
+fn next(&mut self) -> Result
+
+The current PC (instruction pointer) value is retrieved from the register set. If this is the first time we call next(), we don’t unwind anything and simply return the value of that PC value, since we already are in the last call frame.
+
+let row = self.eh_info.hdr_table.unwind_info_for_address(
+
+&self.eh_info.eh_frame,
+
+&self.eh_info.base_addrs,
+
+&mut self.unwind_ctx,
+
+pc,
+
+|section, bases, offset| section.cie_from_offset(bases, offset),
+
+).map_err(|_| UnwinderError::NoUnwindInfo)?;
+
+We then lookup through the .eh_frame_hdr table for the call frame information associated with the current instruction pointer. This returns a
+
+row; remember the conceptual table of CFI? This is exactly that: the row describes the CFA and register rules for the target instruction.
+
+We first compute the CFA:
+
+match row.cfa() {
+
+CfaRule::RegisterAndOffset { register, offset } => {
+
+let reg_val = self.regs.get(*register)
+
+.ok_or(UnwinderError::CfaRuleUnknownRegister(*register))?;
+
+self.cfa = (reg_val as i64 + offset) as u64;
+
+_ => return Err(UnwinderError::UnsupportedCfaRule),
+
+We don’t support evaluating DWARF expressions, this is left as an exercise to the reader. Computing the CFA is pretty straight forward: fetch the value of the register named in the rule and add the given offset. We return an error if we don’t keep track of the requested register or if its value is undefined.
+
+Then, for each tracked register, we apply its rule:
+
+for reg in RegisterSet::iter() {
+
+match row.register(reg) {
+
+RegisterRule::Undefined => self.regs.undef(reg),
+
+RegisterRule::SameValue => (),
+
+RegisterRule::Offset(offset) => {
+
+let ptr = (self.cfa as i64 + offset) as u64 as *const usize;
+
+self.regs.set(reg, unsafe { ptr.read() } as u64)?;
+
+_ => return Err(UnwinderError::UnimplementedRegisterRule),
+
+If the rule says the register is now undefined, we set it to None in our register set. SameValue is a no-op. For the Offset rule, we simply retrieve the value from the stack at the address CFA + offset. All other rules are unimplemented and return an error.
+
+let pc = self.regs.get_ret().ok_or(UnwinderError::NoReturnAddr)? - 1;
+
+self.regs.set_pc(pc);
+
+self.regs.set_stack_ptr(self.cfa);
+
+Ok(Some(CallFrame { pc }))
+
+We then get the new value of %rip from the function’s return value and subtract 1 to it: the address actually points to the next instruction right after the call; by subtracting 1, the address now points to the call. The fact that the address doesn’t point to the first byte of the call instruction will be good enough for us.
+
+Then, the CFA becomes our new %rsp: this, in fact, simulates the return from the function, we basically destroyed the call frame. Virtual unwinding takes on its full meaning here.
+
+Finally, the value of the new %rip is returned as it now points to the calling instruction in the above call frame.
+
+That’s it, you made it to the end. We were able to construct a stack trace based on the CFI information the compiler provided us via .eh_frame by performing virtual stack unwinding.
+
+What the caller receives are only instruction addresses though. A good stack trace must also display additional information:
+
+* The name of the function, its demangled symbol (for languages like Rust or C++);
+
+* The address offset from the start of the function;
+
+* The source file and line number of the instruction;
+
+These are not covered in this article. You will have to consult the other DWARF debugging symbols.

@@ -1,0 +1,7 @@
+Step R to R side, step L next to R, step R to R side, touch L next to R
+
+Step L to L side, step R next to L, step L to L side, touch R next to L
+
+Step diagonal R, step L next to R, step diagonal R, touch L next to R
+
+Step diagonal L, step R next to L, step L with 1/4 turn left, stomp touch R next to L

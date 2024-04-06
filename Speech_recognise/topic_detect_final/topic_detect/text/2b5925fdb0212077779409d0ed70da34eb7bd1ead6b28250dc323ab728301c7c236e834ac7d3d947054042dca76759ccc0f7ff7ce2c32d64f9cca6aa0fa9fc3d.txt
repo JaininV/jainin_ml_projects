@@ -1,0 +1,9 @@
+Britain's competition regulator said on Wednesday it was looking into proposals offered by Alphabet Inc's Google, which would give app developers the freedom to break away from Google Play's billing system.
+
+Britain's investigation in June last year raised concerns that Google's complete control over in-app payments unfairly restricted app developers, by forcing them to use Google Play's billing system, and was reducing competition and hurting users.
+
+The Competition and Markets Authority (CMA) said the new proposals allow app developers to offer a different payment system "of their choosing" or give users a choice between an alternative payment system and Google Play's billing system.
+
+Third-party payment providers could market their services to app developers, as per the proposal.
+
+"We need to make sure these commitments will work in practice – so we welcome all feedback, which we will carefully consider before making a final decision," said Ann Pope, senior director of antitrust at the CMA.

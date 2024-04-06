@@ -1,0 +1,87 @@
+As you scale your AWS IoT SiteWise applications and move them into production, you may consider adopting common CI/CD methodologies that separate development and QA environments from production environments. This separation allows you to automate the deployment of these applications through deployment pipelines. You also may have multiple business units and/or industrial sites with common asset models and hierarchies that you would like to share and reuse across your organization. In these cases, customers typically have different AWS accounts to separate environments, whether between dev and prod or between different business units. The following diagram depicts such an example where development is separated from QA and production environments:
+
+To help customers replicate AWS IoT SiteWise resources between environments, we created AWS IoT SiteWise Tools, a set of utilities that allow you export AWS IoT SiteWise Asset Models, Assets, and AWS IoT SiteWise Monitor Dashboards into AWS CloudFormation templates. The exported templates can then be used to recreate the exported resources into another AWS environment. In this blog, you will see a sample walkthrough of how to use AWS IoT SiteWise Tools to export models followed by an example architecture of how to automate the export and replication process in a CI/CD pipeline.
+
+The utilities in the AWS IoT SiteWise Tools repository give you the flexibility to replicate only the resources you need for your specific use case. You can choose to only export AWS IoT SiteWise asset models, or also export the corresponding assets and AWS IoT SiteWise Monitor dashboards. The export tool can be used manually from the command line (e.g. for a one-time export of an asset model into another environment) or can be integrated into your automation pipelines for CI/CD deployment scenarios. The utility can also be used to copy AWS IoT SiteWise resources for multi-region deployments within the same account. The AWS IoT SiteWise Tools repository has detailed documentation on how to use each of the utilities but for a basic demonstration of the tools, we created two asset models of a CNC Machine and Production Line as seen below. Each model contains a property and a hierarchical relationship between the two models.
+
+To keep it simple, we will only export the models. Using the AWS IoT SiteWise export tools, we optionally specify the region we want to export models from and run the command with no other flags (if you also want to export assets along with the models, you would simply add the -a, --assets flag). The command output will look something like the following:
+
+If the command succeeds, a CloudFormation template will be saved to a folder in the local directory named cfnexport. In our example case the CloudFormation will look like the following:
+
+"AWSTemplateFormatVersion": "2010-09-09",
+
+"Description": "SiteWise Export",
+
+"Resources": {
+
+"CNCMachineResource": {
+
+"Type": "AWS::IoTSiteWise::AssetModel",
+
+"Properties": {
+
+"AssetModelName": "CNC Machine",
+
+"AssetModelProperties": [
+
+"Name": "SpindleSpeed",
+
+"DataType": "DOUBLE",
+
+"Unit": "RPM",
+
+"Type": {
+
+"TypeName": "Measurement"
+
+"LogicalId": "SpindleSpeed9f2e03dd"
+
+"AssetModelHierarchies": []
+
+"ProductionLineResource": {
+
+"Type": "AWS::IoTSiteWise::AssetModel",
+
+"Properties": {
+
+"AssetModelName": "Production Line",
+
+"AssetModelProperties": [
+
+"Name": "Location",
+
+"DataType": "STRING",
+
+"Type": {
+
+"TypeName": "Attribute",
+
+"Attribute": {}
+
+"LogicalId": "Locationafc85231"
+
+"AssetModelHierarchies": [
+
+"Name": "CNC Machines",
+
+"ChildAssetModelId": {
+
+"Ref": "CNCMachineResource"
+
+"LogicalId": "CNCMachines"
+
+This CloudFormation template can now be launched in another region or another AWS Account to create the same asset models we defined above.
+
+That’s it, now you have an understanding how the export utility works. In the next section we will provide an example architecture that shows how you can integrate the utilities into your CI/CD automation pipelines.
+
+In this example architecture we assume you have an existing CI/CD pipeline that can deploy AWS services using CloudFormation and the AWS SDKs.
+
+For the build stage of the architecture, the CI/CD pipeline initiates a Step Function workflow in the source environment which executes three Lambda functions, one for each resource type – asset models, assets, and dashboards. The Lambda functions can be run in parallel and use the export utilities to query the AWS IoT SiteWise service API to generate the corresponding CloudFormation templates for the resources you wish to replicate. The Lambda function will then store the generated files in an Amazon S3 bucket for use during the deploy stage of the pipeline. For the S3 bucket, you can either use a common shared bucket across all of your AWS environments or use S3 replication to automatically copy the files between separate buckets in each environment.
+
+In the deploy stage, the AWS IoT SiteWise resources need to be created or modified in a specific order in the target environment, namely, asset models, assets, and dashboards. To do this, AWS StepFunction workflow states are defined for each resource type and the workflow is configured to execute them in the proper order. Each workflow state will use Lambda function tasks that reference the corresponding CloudFormation template in S3. The resources first need to be created by the CI/CD pipeline, therefore the initial workflow deployment tasks will create the CloudFormation stacks.
+
+Once the stacks are created, subsequent updates from the CI/CD pipeline will use the workflow and step functions to update those stacks which will modify and update the AWS IoT SiteWise resources. The asset and dashboard states will wait for the previous state to finish deploying in CloudFormation before they start because they require those resources to exist before they can be created. Please see the architecture below for a visual representation.
+
+For production workloads, customers can use CloudFormation change sets in their deployment pipeline and have a manual approval gate to verify the CloudFormation updates before they are made. Finally, if dashboards are part of your deployment pipeline, an AWS IoT SiteWise Monitor Portal must be created beforehand in the target environment.
+
+In this blog post we introduced the AWS IoT SiteWise Tools for replicating AWS IoT SiteWise resources between AWS environments and showed an example architecture how they can be integrated into an automated deployment pipeline. We recognize that each organization has different requirements, procedures and tools when it comes to automating and deploying their IT infrastructure and applications. We designed the tools to be flexible to adapt the architecture for your own requirements and to be able to integrate them into your specific automation pipelines. We welcome improvements or additions to the utilities. If you have something to contribute back to the repository, feel free to submit a pull request in the repository for review.

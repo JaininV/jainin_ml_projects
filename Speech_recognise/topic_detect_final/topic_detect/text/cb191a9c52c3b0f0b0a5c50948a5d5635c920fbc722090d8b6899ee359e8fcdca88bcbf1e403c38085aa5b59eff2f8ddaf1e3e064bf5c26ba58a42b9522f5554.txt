@@ -1,0 +1,33 @@
+Polestar introduced Polestar 4, an electric performance SUV coupé and the second SUV in the brand’s line-up. Design cues first seen on Polestar’s concept cars are brought to production in the fastest Polestar production car to date. Polestar 4 is positioned between Polestar 2 and Polestar 3 in terms of size and price.
+
+With Polestar 4 we have taken a fundamental new approach to SUV coupé design. Rather than simply modifying an existing SUV, giving it a faster roofline and as a result, compromising elements like rear headroom and comfort, we have designed Polestar 4 from the ground up as a new breed of SUV coupé that celebrates rear occupant comfort and experience.
+
+Polestar 4 can complete the 0-100 km/h sprint in 3.8 seconds; maximum power output is 400 kW (544 hp). Motors are of a permanent magnet, synchronous design.
+
+Both dual- and single motor versions will be available, with single-motor versions featuring rear-wheel drive. Semi-active suspension features in the dual-motor version for an additional layer of adjustment between comfort and performance dynamics. Wheels range from 20 to 22-inches in size, depending on the version, with tires supplied by Pirelli and Michelin.
+
+A 102 kWh battery is fitted to both long-range versions. The Long range Dual motor features 400 kW (544 hp), 686 N·m and a preliminary range target of up to 560 km WLTP. A disconnect clutch allows the car to disengage the front electric motor when not needed, to maximize range and efficiency.
+
+Up to 200 kW DC and 22 kW AC charging is included for all versions, and the charge lid is motorized. Bi-directional charging is included, with vehicle-to-load (V2L) capability at launch providing for external devices to draw power from Polestar 4. A heat pump is fitted as standard, allowing the car to capitalise on ambient heat when preconditioning the cabin and battery.
+
+A new drive optimization function allows the driver to select between range or performance driving modes in the Long range Dual motor version. Performance mode sharpens up responsiveness from the powertrain and engages both motors at all times for full power delivery and best performance. Range mode prioritizes efficiency, adapting the powertrain to a calmer style and forces use of only the rear motor.
+
+The Long range Single motor version features a 200 kW (272 hp) and 343 N·m motor at the rear and preliminary range target of up to 600 km WLTP.
+
+In Polestar 4, more circular and low-carbon materials replace traditional solutions. This includes measures for greater supply chain transparency, such as blockchain traceability for risk materials in the batteries. A full lifecycle assessment (LCA), showing the true carbon footprint of the car, will be published alongside the Polestar 4 Product Sustainability Declaration in 2024.
+
+A mono-material approach, first presented in the Polestar electric roadster concept in 2022, is applied to interior materials, where all layers of certain components are produced from the same base material. This allows them to be recycled more effectively and efficiently by eliminating the need for incompatible materials to be separated before recycling.
+
+New interior materials include a tailored knit textile which consists of 100% recycled PET, along with bio-attributed MicroTech vinyl and animal welfare-secured Nappa leather upholsteries.
+
+The tailored knit upholstery is a new technique for the automotive industry. First shown in the Precept concept car, the textile is made from 100% recycled polyester. The material and the design have been created by Polestar designers together with the Swedish School of Textiles (Borås Textilhögskolan) and further developed with suppliers. It is made to fit, producing no offcuts and reduced overall waste.
+
+Inlay carpets in the interior are made using recycled PET and floor carpets are made using ECONYL, which includes reclaimed fishing nets. Specific door trim panels are made from NFPP (natural fibre polypropylene) which results in up to 50% less virgin plastic and a weight saving of up to 40%. MicroTech, first introduced in Polestar 3, is a bio-attributed vinyl that replaces crude oil with pine oil in its construction and features a recycled textile backing.
+
+A total of twelve cameras, one radar and twelve ultrasonic sensors are fitted as standard. This includes a driver monitoring camera, which only relays data and does not record video, to monitor the driver’s eyes and head movements to help avoid incidents related to fatigue or incapacitation. Together with hands-on detection in the steering wheel, the driver monitoring system helps to keep the driver actively engaged in driving, as required.
+
+A 10.2-inch driver display is mounted ahead of the steering column and includes speed, battery and range information. When engaged by various assistance systems, a virtual environment can show other road users, current driving assistance functions and navigation information. To reduce distraction, a head-up display (HUD) with 14.7-inch projection area in front of the driver relays key vehicle, telephony and navigation information to the windscreen, further improving driver attentiveness. A ‘snow mode’ function for the HUD switches the text colour from white to yellow, improving visibility in snowy environments. The optional Pilot Pack includes enhanced Pilot Assist with lane change assistance, initiated by the driver tapping the indicator stalk in the desired direction.
+
+Polestar 4 launches first in China, with production planned to begin in Hangzhou Bay, China, in November 2023. The Geely-owned production facility operates on 100% renewable electricity.
+
+A full-scale launch for other markets, including in Europe, North America and Asia Pacific, is planned for early 2024, with sales and production ramping up for these markets through the course of that year. All details for these markets will be presented in 2024. Indicative launch pricing is from €/USD 60,000/GBP 55,000.

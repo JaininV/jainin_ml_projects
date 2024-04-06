@@ -1,0 +1,29 @@
+JavaScript is disabled. For a better experience, please enable JavaScript in your browser before proceeding.
+
+You are using an out of date browser. It  may not display this or other websites correctly.
+
+You should upgrade or use an alternative browser.
+
+Can someone please help me please.
+
+I have lots of randomization sets, but would like to replace the entry values with names in the tables.
+
+I can go to the find and replace route, but that will take forever to change 15 entries x 4 reps in hundreds of sheets
+
+I attached a sample excel file with 3 sheets.
+
+On Sheet one the fields that is colored green is what I have on each sheet.
+
+The cells in yellow is what I need to be generated.
+
+And that is where my ignorance come into play.
+
+What do I need to do, to be able to do this quick and correctly on lots of sheets?
+
+Thanx in advance.
+
+You must log in or register to reply here.
+
+This site uses cookies to help personalise content, tailor your experience and to keep you logged in if you register.
+
+By continuing to use this site, you are consenting to our use of cookies.

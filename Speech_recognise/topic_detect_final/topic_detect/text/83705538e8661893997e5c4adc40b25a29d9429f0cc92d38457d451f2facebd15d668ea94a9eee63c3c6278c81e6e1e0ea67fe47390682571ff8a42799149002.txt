@@ -1,0 +1,13 @@
+Guardz, the cybersecurity company securing and insuring SMEs, announced that it has secured 22 notable badges in four distinct categories in the G2 Spring 2023 Reports, including Cloud Data Security, Cloud Email Security, Email Security, and Cloud Security. This recognition further cements Guard’z position as a leader providing SMEs a comprehensive cybersecurity and cyber insurance solution.
+
+G2 is the largest and most trusted peer-to-peer review marketplace evaluating software solutions and services, focused on customer satisfaction and market reputation. G2’s reports showcase a company’s standing in the market, and its badges signify companies that deliver top products and experiences for their customers each quarter.
+
+Latest Insights: What Techniques Will Deliver for Measuring Attention in 2023?
+
+Guardz’s secure and insure solution obtained six types of badges within the four distinct categories, including Best Estimated ROI, Easiest to Do Business With, Fastest Implementation, High Performer, Users Most Likely To Recommend, and Best Support.
+
+“We are delighted to have been awarded such coveted G2 badges as recognition of the quality and value of Guardz’s offerings,” said Dor Eisner, Guardz Co-Founder and CEO. “Our team has worked incredibly hard to develop such an amazing product, and it’s truly inspiring to see that our efforts are being recognized by our customers and the wider industry. We will continue to work tirelessly to give SMEs and MSPs the best tools to create a safer digital world.”
+
+With the ongoing digital revolution pushing companies of all sizes to migrate their operations to the often-vulnerable cloud, 47% of small businesses have experienced at least one cyber-attack in the past year. And with diminished resources and budgets, small and medium-size businesses are among the most appealing targets for malicious actors. To combat this rise in cyberattacks targeting SMEs, Guardz has developed a holistic and hassle-free cybersecurity platform that provides both real-time cyber protection and cyber insurance. MSP partners using Guardz benefit from a solution that automatically monitors SMEs digital footprint to continuously analyze cybersecurity risks and remediate threats.
+
+[To share your insights with us, please write to sghosh@martechseries.com]

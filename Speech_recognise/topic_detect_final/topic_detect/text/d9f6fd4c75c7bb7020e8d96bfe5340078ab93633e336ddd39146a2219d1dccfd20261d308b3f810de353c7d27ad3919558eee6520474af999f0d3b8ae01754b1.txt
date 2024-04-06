@@ -1,0 +1,101 @@
+Apple Podcasts is the biggest podcast directory in the world, So you want to make sure that your show is on there.
+
+Because the Apple Podcast is limited to being just a directory, it means; “You can’t upload your audio files to Apple, instead, You tell Apple where to find your audio files on the Web via an RSS feed that links back to your hosting site.
+
+A podcast hosting site essentially stores your podcast files and then distributes them to the various podcast streaming platforms using an RSS feed.
+
+Your hosting site will automatically submit your podcast to most of the podcast streaming platforms, but with Apple, you will have to submit manually, but you only have to do it once.
+
+So the first step is that your podcast has to be hosted on a podcast hosting platform which will provide you with an RSS feed.
+
+If you’re looking for a free hosting site, Anchor is a great choice, and if you have a bit of a budget Buzzsprout, or Soundcloud are among the best-paid podcast platform.
+
+I believe, with that little explanation you now understand that you can not make a podcast on Apple or start an Apple Podcast, rather you get your podcast enlisted on Apple Podcast.
+
+And these are the steps or procedures to get your podcast show on the Apple Podcast platform.
+
+Before we talk about the steps, you must know that the RSS feed is all that is needed to make your podcast enlisted on Apple Podcast.
+
+And in order to have an RSS feed you need to have at least one episode uploaded, and this can even be your podcast trailer.
+
+Using the Anchor hosting platform which is now called “Spotify for Podcasters” as a basis of illustration. An additional thing you need to know about Spotify for Podcasters is that it is a free platform to host your podcast.
+
+Once you’re signed up on a hosting site, the next thing to do is to add your podcast details. You’ll need a title a description and a cover image.
+
+Next, you’ll need to locate your RSS feed. The location of this will be different based on what podcast hosting site you’re using.
+
+And even though it will be different, it is still very easy to locate.
+
+For those who are using SoundCloud hosting or desire to use SoundCloud hosting, check this article for more knowledge on how to locate the RSS feed on SoundCloud, because the next step will be how to submit your podcast on Apple Podcast through the RSS feed.
+
+When you’re ready to submit to Apple, head to Podcastconnect.apple.com Sign in with your Apple ID.
+
+You can create a new Apple ID specifically for this. If you want to keep your personal account and your podcast account separate.
+
+Now you’re going to copy and paste your RSS feed.
+
+You can also start a show on Apple by creating your show through the Apple Podcasters program, which I will talk about in a second.
+
+But if you want your episodes distributed on other streaming sites like Spotify and Google Podcasts, then you’ll need an RSS feed.
+
+After putting in your RSS feed, you will get this prompt.
+
+Now you need to wait a few minutes for the show to populate.
+
+“A lot of people think that they are done at this step, but Apple is actually just retrieving the data from your RSS feed.
+
+After a few minutes, refresh the page and all of your content should be there. Fill out all of the required information on the page, click save and click submit.
+
+Now Apple will review your show manually and you’ll receive an email once it’s approved, but this can take up to 72 hours.
+
+Many other directories and listening platforms use Apple Podcasts as their source of information.
+
+So that means that once your show is up on Apple Podcasts, you’ll also see it show up on apps like Overcast and Castbox.
+
+Some best practices for submitting to Apple are;
+
+* Make sure that your RSS feed data is filled out properly,
+
+* An eye-catching cover when you are submitting to Apple.
+
+Something to keep in mind is that most people will be browsing podcasts on their phones.
+
+This means you want your cover art to be easily readable on a small screen, so having minimal text with a large font is a great option for this, or just using your show’s logo.
+
+Apple also regularly features podcasts on the platform to help listeners discover new shows.
+
+So another great thing that you can do if you’re on Apple Podcasts is to submit an episode at your show or a channel to be featured.
+
+Apple will review these requests manually so you want to make sure that you have a really compelling description of your show and your episodes for a better chance of being featured.
+
+You can use this link to access the Apple Podcast Promotion Request form. You can also check out the guide to creating the best show in Apple Podcast Promotion.
+
+Now, there are a few things that Apple has done in order to improve the experience for podcasters.
+
+Something big that they’ve done recently is improved their analytics. This is huge for podcasters because it’s notoriously difficult to get a breakdown of your listeners.
+
+If you click on the analytics tab, you’ll be able to see things like
+
+* How many people are listening to your podcast episodes?
+
+* Are listeners skipping over your episode intro or your ads?
+
+* How are your shows and episodes performing over time?
+
+* How many listeners do you have in each country and city?
+
+Having these kinds of insights will help you get to know your audience a lot better and therefore create your content in order to serve them.
+
+While you’re here in your Apple account, you may want to take advantage of the Apple Podcasters program.
+
+With the Apple Podcasters program, you can offer listeners a premium subscription that has additional benefits like no ads, additional episodes, early access to episodes, and even access to archived episodes.
+
+It’s about $20 to enroll, and you can set your subscription price to whatever works for you. For the first year, you’ll get 70% of the profit, and then every subsequent year you’ll get 85%.
+
+So, this is a great way to monetize your podcast. If you want to sign up for the program, go to your account and then sign up for the program there.
+
+We hope this article has walked you through how to get your show up on Apple Podcasts and some of the benefits of having your show on the platform.
+
+Make sure to turn on the notification bell to get direct notifications when we publish new articles.
+
+And if you want to know more about podcasts you can check out these recommended articles;

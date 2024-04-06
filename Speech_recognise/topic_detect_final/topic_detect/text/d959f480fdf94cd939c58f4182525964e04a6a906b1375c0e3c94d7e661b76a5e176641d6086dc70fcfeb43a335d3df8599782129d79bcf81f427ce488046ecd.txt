@@ -1,0 +1,149 @@
+›››What is Section 80G, and how does it help save income tax?
+
+The Economic Times daily newspaper is available online now.
+
+What is Section 80G, and how does it help save income tax?An individual can save income tax on the donations made. Section 80G of the Income-tax Act, 1961 allows individuals to save tax on the donations made to the specified institutions. Thus deduction can be claimed only if an individual opts for old tax regime for a particular financial year. Read on to know how this section can help individuals to save income tax. Section 80G of the Income Tax Act, 1961, allows taxpayers to save tax by donating money to eligible charitable institutions. By donating to eligible institutions and organisations, taxpayers can claim deductions ranging from 50% to 100% of the amount donated. However, there are certain limits and conditions that need to be fulfilled to avail of these deductions. Let us examine in detail how Section 80G can help in tax saving and its various nuances.
+
+Who can claim a deduction under Section 80G?
+
+All taxpayers, whether resident or non-resident, who have donated money to prescribed funds, institutions, or associations are eligible to claim a deduction from gross total income before levy of tax, under Section 80G. However, it's important to note that this deduction can only be claimed by taxpayers who have opted for the old tax regime. Taxpayers under the new tax regime cannot avail of this deduction benefit.
+
+How much deduction can be claimed under Section 80G?
+
+The deduction under this provision is allowed as follows:
+
+(a) 100% deduction without any maximum limit
+
+(b) 50% deduction without any maximum limit
+
+(c) 100% deduction subject to a maximum limit
+
+(d) 50% deduction subject to a maximum limit
+
+While claiming the deduction, the first step is to check the category to which the fund/charitable institution belongs. This will help to determine the deduction percentage (100% or 50%) and whether there is a maximum or qualifying limit.
+
+Payments to certain institutions are eligible for 100% or 50% without any qualifying limit. However, in some instances, you must first determine the maximum qualifying limit, which is eligible for deduction. If the total amount donated to those specified funds or institutes exceeds 10% of your adjusted gross total income (GTI), any excess amount beyond the 10% limit will not be eligible for deduction.
+
+The adjusted gross total income shall be computed after reducing the following from your gross total income:
+
+(a) Amount deductible under Section 80C to 80U (Except Section 80G)
+
+(b) Share of profit in Association of Persons (AOP) eligible for rebate under Section 86
+
+(c) Long-term capital gains
+
+(d) Short-term capital gain arising from securities specified under Section 111A
+
+(e) Any income referred to in Sections 115A, 115AB, 115AC, 115ACA, 115AD and 115D
+
+Here is an example. Let's assume your gross total income for the year is Rs. 10 lakh. You have made donations of Rs. 90,000 to NGOs, which are eligible for a 50% deduction subject to a qualifying limit of 10%. Additionally, you have claimed deductions of Rs. 1.5 lakh under Section 80C and earned short-term capital gains of Rs. 1 lakh from the sale of equity shares.
+
+To calculate the maximum amount allowable under Section 80G, you must first compute your adjusted gross total income. This is your gross total income (GTI) reduced by deductions under Section 80C and short-term capital gains under Section 111A, which in this case is (10 lakh - 1.5 lakh - 1 lakh) = Rs. 7.5 lakh
+
+Next, you need to calculate the qualifying limit for your donations under Section 80G, which is 10% of your adjusted gross total income. In this case, the qualifying limit is Rs. 75,000 (i.e., 10% of Rs. 7.5 lakh).
+
+The maximum amount allowable under Section 80G shall be 50% of the lower of a) the amount donated (i.e., Rs 90,000) or b) the qualifying limit, i.e., Rs. 75,000. In this case, the lower amount is the qualifying limit of Rs. 75,000. Therefore, the maximum deduction allowable under Section 80G is 50% of Rs. 75,000, which comes out to be Rs. 37,500.
+
+Hence, you can claim a deduction of Rs. 37,500 under Section 80G for the donations made to eligible NGOs.
+
+What should be the mode of donation to claim the deduction?
+
+You can claim a deduction for donations made in the form of cash or cheque or electronic modes. However, cash donations exceeding Rs. 2,000 are not eligible for deduction. Also, it is important to note that donations made in kind are not eligible for deduction under this provision.
+
+Proof to claim a deduction
+
+To claim a tax deduction, a person must donate to a fund or institution that meets the conditions specified in Section 80G(5) of the Income Tax Act. One condition is that the recipient must file a donation statement with the Income-tax Department and provide the donor with a Form 10BE certificate specifying the amount donated during the year.
+
+A certificate in Form 10BE is required as evidence to support the deduction to be claimed while filing ITR. The deduction will only be allowed if the donation information is provided by the fund or institution to the income-tax department.
+
+Funds eligible for 100% deduction without limit
+
+(i) National Defence Fund
+
+(ii) PM National Relief Fund
+
+(iii) PM Citizen Assistance and Relief in Emergency Situations Fund (PM CARES FUND)
+
+(iv) National Children's Fund
+
+(v) CM Relief Fund or the Lieutenant Governor's Relief Fund
+
+(vi) Zila Saksharta Samiti
+
+(vii) Army Central Welfare Fund
+
+(viii) Indian Naval Benevolent Fund
+
+(ix) Air Force Central Welfare Fund
+
+(x) Andhra Pradesh CM Cyclone Relief Fund
+
+(xi) National Sports Fund
+
+(xii) National Trust for Welfare of Persons with Autism, Cerebral Palsy, Mental Retardation and Multiple Disabilities
+
+(xiii) Swachh Bharat Kosh (not being in pursuance of CSR)
+
+(xiv) Clean Ganga Fund (not being in pursuance of CSR) - Only to the resident assessee
+
+(xv) National Fund for Control of Drug Abuse
+
+(xvi) National Illness Assistance Fund
+
+(xvii) National Blood Transfusion Council or State Blood Transfusion Council
+
+(xviii) Fund set up by a State Government for the medical relief to the poor
+
+(xix) National Cultural Fund
+
+(xx) Fund for Technology Development and Application
+
+(xxi) National Foundation for Communal Harmony
+
+(xxii) PM Armenia Earthquake Relief Fund
+
+(xxiii) Africa (Public Contributions - India) Fund
+
+(xxiv) CM Earthquake Relief Fund, Maharashtra
+
+(xxv) An university or educational institution of National eminence approved by the tax authorities
+
+(xxvi) Fund set up by the State Government of Gujarat exclusively for providing relief to the victims of earthquake in Gujarat.
+
+Funds eligible for 50% deduction without the maximum limit
+
+(i) Jawaharlal Nehru Memorial Fund
+
+(ii) PM Drought Relief Fund
+
+(iii) Indira Gandhi Memorial Trust
+
+(iv) Rajiv Gandhi Foundation
+
+The Finance Act of 2023 has amended Section 80G to state that donations made to the following name-based funds: Jawaharlal Nehru Memorial Fund, Indira Gandhi Memorial Trust, and Rajiv Gandhi Foundation, will no longer be eligible for deduction under Section 80G. Therefore, any donations made to these three funds on or after 01-04-2023 will not be eligible for deduction under this provision.
+
+Funds eligible for 100% deduction subject to the maximum limit
+
+(i) Family Planning Association of India/Red Cross Society of India
+
+(ii) Government or any approved local authority, institution or association to be utilised for the purpose of promoting family planning.
+
+(iii) Indian Olympic Association or to any other notified association or institution established in India for the development of infrastructure for sports and games in India or the sponsorship of sports and games in India. However, the deduction for donations to these institutions is allowed only to a company and not to individuals.
+
+Funds eligible for 50% deduction subject to the maximum limit
+
+(i) Notified temple, mosque, gurudwara, church or other place (for repairs or renovation)
+
+(ii) Government or any local authority to be utilised for any charitable purpose other than the purpose of promoting family planning
+
+(iii) Any corporation specified in Section 10(26BB) for promoting interest of minority community
+
+(iv) Any authority constituted in India either for the purpose of dealing with and satisfying the need for housing accommodation or for the purpose of planning, development or improvement of cities, towns, villages or both.
+
+(v) Any other fund or any institution fulfilling the conditions as specified in Section 80G(5)
+
+Do note that the list of institutions approved by the Principal Commissioner or Commissioner of Income Tax that are eligible to receive donations under Section 80G is updated periodically by the income tax department. Before giving a donation, one must confirm whether the institution is on the approved list at the time of making donation.
+
+(The writer Tarun Kumar, chartered accountant and head of direct tax practice at Coherent Advisors.)
+
+Bumper Apple Harvest: iPhone FY23 Exports Jump 4x to top $5bApple’s iPhone exports from India surged nearly four times on year to cross $5 billion (more than ₹40,000 crore) in FY23, as the suppliers of the Cupertino-based company ramped up local production of its premium devices amid a growing focus on making the country a manufacturing hub. Vedanta Close to Bagging $1.5-2 b from Farallon US hedge fund Farallon Capital Management is in advanced negotiations to provide $1.5-2 billion funding to Vedanta, said people with knowledge of the matter. IMF Cuts India’s FY24 Growth Outlook to 5.9%The International Monetary Fund pared its forecast for India’s growth to 5.9% from 6.1% for the current fiscal year, while painting a bleak picture for the world economy battling tightening financing conditions even as the Russia-Ukraine war rages on and the pandemic lingers. Download The Economic Times News App to get Daily Market Updates & Live Business News.Green techNet-zero in mind, how Project Aalingana is making Tata companies embrace sustainable transformation1How NRIs can get lower, nil TDS certificate from income tax department2Cost inflation index number for FY 2023-24 (AY 2024-25) used for LTCG calculation notified by CBDT3Did you opt for the old or the new tax regime ? Deloitte’s Tapati Ghose reads fineprints4How NPS, home loan can cut tax outgo to zero5Can you change tax regime during financial year 2023-24? CBDT issues circular on TDS on salariesHDFC Bank cuts MCLR by up to 85 bps on these tenures, EMIs to go downDecoding the difference between Personal Loan and Business LoanCost inflation index number for FY 2023-24 (AY 2024-25) used for LTCG calculation notified by CBDTEMI on UPI Payments: Now ICICI Bank customers can scan a QR code and pay via UPI EMI

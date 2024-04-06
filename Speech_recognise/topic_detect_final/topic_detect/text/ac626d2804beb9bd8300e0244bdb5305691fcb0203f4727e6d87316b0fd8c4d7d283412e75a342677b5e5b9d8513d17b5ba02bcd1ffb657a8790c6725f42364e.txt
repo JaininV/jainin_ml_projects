@@ -1,0 +1,33 @@
+Diverse teams bring certain advantages to the working world and produce better results. At least, that's the predominant opinion. As a point of contrast, teams composed based on the members' complementary characteristics tend to be more harmonious and united. But they are also prone to ignoring critical voices, even when paying attention to them could lead them to better solutions.
+
+Researchers from WHU—Otto Beisheim School of Management and the WZB Berlin Social Science Center analyzed these assumptions in an experiment that ran over multiple years, eventually determining that both randomly selected and self-selected teams each bring with them their own advantages. Their results are published in the journal Experimental Economics.
+
+It's in our nature to prefer working with colleagues who share our sensibilities. Yet, within homogenous teams, there is often a pressure to follow majority opinion in order to maintain harmony and to avoid appearing as a disrupter or a "spoke in the wheels." This can result in more suitable problem-solving approaches going unconsidered, which, in turn, leads the team to make suboptimal decisions. Recent research in this area has made it increasingly clear that people in more diverse teams are more motivated, productive, creative, and aware of risk. So, it's obvious how employers should compose their teams, right? Perhaps not!
+
+Many companies follow the trend of employing agile working methods to render their internal processes more flexible. This includes allowing employees to determine the colleagues with whom they would like to collaborate on any given task. This process is known as "self-selection" and is intended to ensure that employees more strongly identify with the team, leading to increased productivity and better end results.
+
+Composing diverse teams is in direct conflict with the human tendency to surround oneself with people that have interests, personality traits, and abilities similar to their own. As the old saying goes, "birds of a feather flock together," a concept that social psychology calls "homophily." On the one hand, members of self-selected teams better identify with their tasks and the group as a whole; on the other hand, they lose sight of diversity and often overemphasize their homogeneity.
+
+In this experiment, participants had to work in pairs for two months, completing different tasks throughout. Half of the participants were allowed to choose the person with whom they wanted to work, i.e., through self-selection. The other half were assigned their partners at random. Reflecting our homophilic nature as humans, the self-selected teams often comprised members of the same sex and with similar cognitive abilities (whether weak or strong); their counterpart teams were more varied in both regards.
+
+Depending on how the teams were assembled, and on the task at hand, there were clear differences in the results of their work. In the experiment, each duo had to complete two different tasks: submit a written worksheet and film a short video presentation. While the randomly composed teams produced better results for the written task, the self-selected teams soared when it came to the video task.
+
+It was revealed that, on average, self-selected teams perform better in tasks that require a high level of coordination and a strong sense of teamwork. For an assignment such as the video task, for example, homogeneity works to a team's benefit, as the two members understand each other with ease and are quicker to agree with each other. By comparison, randomly assigned teams produced stronger results for tasks that required little coordination or teamwork and for which the individual abilities of the partners were of more importance.
+
+When such is the case, the randomness of their team composition most often ensures that there is at least one highly capable person on board. The same cannot always be said of self-selected teams, as it is just as likely that two weaker participants of comparable cognitive ability could find each other the way two stronger ones could.
+
+More information:
+
+Mira Fischer et al, When, and why, do teams benefit from self-selection?, Experimental Economics (2023).  DOI: 10.1007/s10683-023-09800-2
+
+Citation:
+
+Should employees be allowed to choose their own teammates? (2023, April 18)
+
+retrieved 18 April 2023
+
+from https://phys.org/news/2023-04-employees-teammates.html
+
+This document is subject to copyright. Apart from any fair dealing for the purpose of private study or research, no
+
+part may be reproduced without the written permission. The content is provided for information purposes only.

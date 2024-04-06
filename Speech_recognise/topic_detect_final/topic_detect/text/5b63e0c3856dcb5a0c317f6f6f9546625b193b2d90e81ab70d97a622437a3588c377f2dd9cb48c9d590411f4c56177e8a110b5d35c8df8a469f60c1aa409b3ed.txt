@@ -1,0 +1,1511 @@
+Das BSI hat einen aktuellen IT-Sicherheitshinweis für Meltdown und Spectre veröffentlicht. Es sind mehrere Schwachstellen festgestellt worden. Mehr über die betroffenen Systeme und Produkte sowie CVE-Nummern erfahren Sie hier auf news.de.
+
+Das BSI hat einen aktuellen IT-Sicherheitshinweis für Meltdown und Spectre veröffentlicht. Es sind mehrere Schwachstellen festgestellt worden. Mehr über die betroffenen Systeme und Produkte sowie CVE-Nummern erfahren Sie hier auf news.de.
+
+Das Bundesamt für Sicherheit in der Informationstechnik (BSI) hat am 17.04.2023 ein Update zu einer am 04.01.2018 bekanntgewordenen Sicherheitslücke mit mehreren Schwachstellen für Meltdown und Spectre veröffentlicht. Betroffen von der Sicherheitslücke sind die Betriebssysteme UNIX, Linux, MacOS X, Windows, CISCO Appliance, Juniper Appliance, F5 Networks, BIOS/Firmware und Appliance sowie die Produkte Microsoft Windows Server 2008, Red Hat Enterprise Linux, Cisco Unified Computing System (UCS), Open Source CentOS, Microsoft Windows Server 2012, Cisco Wide Area Application Services, VMware ESXi, Debian Linux, FreeBSD Project FreeBSD OS, Juniper JUNOS, Microsoft Windows, Apple Safari, Ubuntu Linux, Open Source Xen, SUSE Linux, Cisco Router, Microsoft Internet Explorer, Juniper Junos Space, Cisco Nexus, Citrix Systems Xen App, Citrix Systems XenServer, Oracle Linux, Apple iOS, Microsoft Edge, EMC Data Domain OS, Lenovo Computer, Open Source QEMU, Microsoft Windows Server 2016, HPE ProLiant, F5 BIG-IP, Oracle VM, VMware Fusion, Microsoft SQL Server 2016, Microsoft SQL Server (MSSQL), NetApp FAS, VMware Workstation, Mozilla Firefox, Intel Prozessor und Huawei OceanStor.
+
+Die neuesten Hersteller-Empfehlungen bezüglich Updates, Workarounds und Sicherheitspatches für diese Sicherheitslücke finden Sie hier: SUSE Security Update SUSE-SU-2023:1848-1 (Stand: 14.04.2023). Weitere nützliche Quellen werden weiter unten in diesem Artikel aufgeführt.
+
+Zur Bewertung der Verwundbarkeit von Computersystemen wird das Common Vulnerability Scoring System (CVSS) angewandt. Der CVSS-Standard ermöglicht es, potenzielle oder tatsächliche Sicherheitslücken auf Basis verschiedener Metriken miteinander zu vergleichen, um eine darauf aufbauende Prioritätenliste zur Einleitung von Gegenmaßnahmen zu erstellen. Für die Schweregrade einer Schwachstelle werden die Attribute "keine", "niedrig", "mittel", "hoch" und "kritisch" verwendet. Der Base Score bewertet die Voraussetzungen für einen Angriff (u.a. Authentifizierung, Komplexität, Privilegien, Userinteraktion) sowie dessen Konsequenzen. Beim Temporal Score fließen über die Zeit veränderbare Rahmenbedingungen in die Bewertung ein. Das Risiko der hier behandelten Schwachstelle wird nach dem CVSS mit einem Base Score von 7,1 als "mittel" eingeschätzt.
+
+Der Prozessor ist das zentrale Rechenwerk eines Computers.
+
+Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in den meisten der aktuellen Prozessoren ausnutzen, um Sicherheitsmechanismen zu umgehen und physikalischen Speicher auszulesen.
+
+Die Verwundbarkeit wird mit den eindeutigen CVE-Seriennummern (Common Vulnerabilities and Exposures) CVE-2017-5715, CVE-2017-5753 und CVE-2017-5754 gehandelt.
+
+Produkte
+
+Microsoft Windows Server 2008 (cpe:/o:microsoft:windows_server_2008)
+
+Red Hat Enterprise Linux 6 (cpe:/o:redhat:enterprise_linux)
+
+Cisco Unified Computing System (UCS) (cpe:/h:cisco:unified_computing_system)
+
+Open Source CentOS (cpe:/o:centos:centos)
+
+Microsoft Windows Server 2012 R2 (cpe:/o:microsoft:windows_server_2012)
+
+Cisco Wide Area Application Services (cpe:/a:cisco:wide_area_application_services)
+
+VMware ESXi 5.5 (cpe:/o:vmware:esxi)
+
+Debian Linux (cpe:/o:debian:debian_linux)
+
+VMware ESXi 6.0 (cpe:/o:vmware:esxi)
+
+FreeBSD Project FreeBSD OS (cpe:/o:freebsd:freebsd)
+
+Juniper JUNOS (cpe:/o:juniper:junos)
+
+Red Hat Enterprise Linux (cpe:/o:redhat:enterprise_linux)
+
+Apple Mac OS X (cpe:/o:apple:mac_os_x)
+
+Citrix Systems NetScaler (cpe:/a:citrix:netscaler)
+
+Microsoft Windows All versions (cpe:/o:microsoft:windows)
+
+Apple Safari (cpe:/a:apple:safari)
+
+Ubuntu Linux (cpe:/o:canonical:ubuntu_linux)
+
+Open Source Xen (cpe:/o:xen:xen)
+
+SUSE Linux (cpe:/o:suse:suse_linux)
+
+Cisco Router (cpe:/h:cisco:router)
+
+Microsoft Internet Explorer 11 (cpe:/a:microsoft:internet_explorer)
+
+Juniper Junos Space (cpe:/a:juniper:junos_space)
+
+Cisco Nexus (cpe:/h:cisco:nexus)
+
+Citrix Systems Xen App (cpe:/a:citrix:xenapp)
+
+Citrix Systems Xen Desktop (cpe:/a:citrix:xen_desktop)
+
+Citrix Systems XenServer (cpe:/a:citrix:xenserver)
+
+Oracle Linux (cpe:/o:oracle:linux)
+
+Apple iOS (cpe:/o:apple:iphone_os)
+
+Microsoft Edge (cpe:/a:microsoft:edge)
+
+EMC Data Domain OS (cpe:/o:emc:data_domain_os)
+
+Lenovo Computer (cpe:/o:lenovo:lenovo_computer)
+
+Open Source QEMU (cpe:/a:qemu:qemu)
+
+Red Hat Enterprise Linux 7 (cpe:/o:redhat:enterprise_linux)
+
+Red Hat Enterprise Linux 6.6  AUS (cpe:/o:redhat:enterprise_linux)
+
+Microsoft Windows Server 2016 (cpe:/o:microsoft:windows_server_2016)
+
+Red Hat Enterprise Linux 7.3 (cpe:/o:redhat:enterprise_linux)
+
+HPE ProLiant (cpe:/h:hp:proliant)
+
+F5 BIG-IP 13.0.0 (cpe:/a:f5:big-ip)
+
+Red Hat Enterprise Linux 7.3 EUS (cpe:/o:redhat:enterprise_linux)
+
+VMware ESXi 6.5 (cpe:/o:vmware:esxi)
+
+Oracle VM (cpe:/a:oracle:vm)
+
+Intel Xeon (cpe:/h:intel:xeon)
+
+F5 BIG-IP 13.1.0 (cpe:/a:f5:big-ip)
+
+VMware Fusion (for MAC) < 8.5.9 (cpe:/a:vmware:fusion)
+
+Red Hat Enterprise Linux 7 RT (cpe:/o:redhat:enterprise_linux)
+
+Red Hat Enterprise Linux Server EUS 7.3 x86_64 EUS (cpe:/o:redhat:enterprise_linux)
+
+Red Hat Enterprise Linux Server AUS 7.3 x86_64 AUS (cpe:/o:redhat:enterprise_linux)
+
+Red Hat Enterprise Linux Server 7.3 x86_64 TUS (cpe:/o:redhat:enterprise_linux)
+
+Red Hat Enterprise Linux Server 7.3 x86_64 4 year extended Update Support (cpe:/o:redhat:enterprise_linux)
+
+Red Hat Enterprise Linux 6.7 EUS (cpe:/o:redhat:enterprise_linux)
+
+Red Hat Enterprise Linux 7.2 AUS (cpe:/o:redhat:enterprise_linux)
+
+Microsoft SQL Server 2016 SP1 x64 (cpe:/a:microsoft:sql_server_2016)
+
+Microsoft SQL Server 2016 SP1 (CU) x64 (cpe:/a:microsoft:sql_server_2016)
+
+Microsoft SQL Server (MSSQL) 2017 x64 (cpe:/a:microsoft:sql_server)
+
+NetApp FAS (cpe:/h:netapp:fas)
+
+VMware Workstation < 12.5.9 (cpe:/a:vmware:workstation)
+
+Mozilla Firefox < 57.0.4 (cpe:/a:mozilla:firefox)
+
+Intel Prozessor (cpe:/h:intel:intel_prozessor)
+
+F5 BIG-IP 12.1.0 - 12.1.3 (cpe:/a:f5:big-ip)
+
+F5 BIG-IP 11.5.1 - 11.5.5 (cpe:/a:f5:big-ip)
+
+F5 Enterprise Manager 3.1.1 (cpe:/a:f5:enterprise_manager)
+
+F5 BIG-IP 11.2.1 (cpe:/a:f5:big-ip)
+
+F5 BIG-IP 11.6.1 - 11.6.2 (cpe:/a:f5:big-ip)
+
+Huawei OceanStor (cpe:/h:huawei:oceanstor_uds)
+
+Anwender der betroffenen Anwendungen sollten diese auf dem aktuellsten Stand halten. Hersteller sind bei Bekanntwerden von Sicherheitslücken dazu angehalten, diese schnellstmöglich durch Entwicklung eines Patches oder eines Workarounds zu beheben. Sollten Sicherheitspatches verfügbar sein, installieren Sie diese zeitnah.  Konsultieren Sie zu Informationszwecken die im nächsten Abschnitt aufgeführten Quellen. Häufig enthalten diese weiterführende Informationen zur aktuellsten Version der betreffenden Software sowie zur Verfügbarkeit von Sicherheitspatches oder Hinweise zu Workarounds.  Wenden Sie sich bei weiteren Fragen oder Unsicherheiten an Ihren zuständigen Administrator. IT-Sicherheitsverantwortliche sollten regelmäßig prüfen, wann der von der IT-Sicherheitswarnung betroffene Hersteller ein neues Sicherheitsupdate zur Verfügung stellt.
+
+An dieser Stelle befinden sich weiterführende Links mit Informationen über Bug-Reports, Security-Fixes und Workarounds.
+
+SUSE Security Update SUSE-SU-2023:1848-1 vom 2023-04-14 (17.04.2023)
+
+Weitere Informationen finden Sie unter: https://lists.suse.com/pipermail/sle-security-updates/2023-April/014466.html
+
+SUSE Security Update SUSE-SU-2023:1801-1 vom 2023-04-10 (11.04.2023)
+
+Weitere Informationen finden Sie unter: https://lists.suse.com/pipermail/sle-security-updates/2023-April/014437.html
+
+SUSE Security Update SUSE-SU-2023:1802-1 vom 2023-04-10 (11.04.2023)
+
+Weitere Informationen finden Sie unter: https://lists.suse.com/pipermail/sle-security-updates/2023-April/014436.html
+
+SUSE Security Update SUSE-SU-2023:1800-1 vom 2023-04-10 (11.04.2023)
+
+Weitere Informationen finden Sie unter: https://lists.suse.com/pipermail/sle-security-updates/2023-April/014435.html
+
+SUSE Security Update SUSE-SU-2023:1803-1 vom 2023-04-10 (11.04.2023)
+
+Weitere Informationen finden Sie unter: https://lists.suse.com/pipermail/sle-security-updates/2023-April/014434.html
+
+SUSE Security Update SUSE-SU-2023:0634-1 vom 2023-03-07 (08.03.2023)
+
+Weitere Informationen finden Sie unter: https://lists.suse.com/pipermail/sle-security-updates/2023-March/013982.html
+
+Red Hat Security Advisory RHSA-2023:0187 vom 2023-01-17 (18.01.2023)
+
+Weitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2023:0187
+
+Red Hat Security Advisory RHSA-2022:1988 vom 2022-05-10 (11.05.2022)
+
+Weitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2022:1988
+
+Red Hat Security Advisory RHSA-2022:1975 vom 2022-05-10 (11.05.2022)
+
+Weitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2022:1975
+
+AMD Security Bulletin (09.03.2022)
+
+Weitere Informationen finden Sie unter: https://www.amd.com/en/corporate/product-security/bulletin/amd-sb-1036
+
+Lenovo Security Advisory (09.03.2022)
+
+Weitere Informationen finden Sie unter: https://support.lenovo.com/de/de/product_security/ps500479-amd-and-intel-processor-advisory
+
+SUSE Security Update SUSE-SU-2021:3929-1 vom 2021-12-06 (07.12.2021)
+
+Weitere Informationen finden Sie unter: https://lists.suse.com/pipermail/sle-security-updates/2021-December/009844.html
+
+SUSE Security Update SUSE-SU-2021:2862-1 vom 2021-08-27 (30.08.2021)
+
+Weitere Informationen finden Sie unter: https://lists.suse.com/pipermail/sle-security-updates/2021-August/009367.html
+
+SUSE Security Update SUSE-SU-2021:2861-1 vom 2021-08-27 (30.08.2021)
+
+Weitere Informationen finden Sie unter: https://lists.suse.com/pipermail/sle-security-updates/2021-August/009366.html
+
+Debian Security Advisory DLA-2743 vom 2021-08-16 (16.08.2021)
+
+Weitere Informationen finden Sie unter: https://lists.debian.org/debian-lts-announce/2021/08/msg00019.html
+
+Ubuntu Security Notice USN-4985-1 vom 2021-06-09 (09.06.2021)
+
+Weitere Informationen finden Sie unter: https://ubuntu.com/security/notices/USN-4985-1
+
+Debian Security Advisory DLA-2323 vom 2020-08-12 (13.08.2020)
+
+Weitere Informationen finden Sie unter: https://lists.debian.org/debian-lts-announce/2020/debian-lts-announce-202008/msg00019.html
+
+Huawei Security Advisory HUAWEI-SA-20180106-01-CPU vom 2020-08-12 (12.08.2020)
+
+Weitere Informationen finden Sie unter: https://www.huawei.com/en/psirt/security-advisories/huawei-sa-20180106-01-cpu-en
+
+ORACLE OVMSA-2020-0026 vom 2020-06-22 (23.06.2020)
+
+Weitere Informationen finden Sie unter: https://oss.oracle.com/pipermail/oraclevm-errata/2020-June/000986.html
+
+Debian Security Advisory DLA 2148 vom 2020-04-01 (02.04.2020)
+
+Weitere Informationen finden Sie unter: https://lists.debian.org/debian-lts-announce/2020/debian-lts-announce-202003/msg00025.html
+
+SUSE Security Update SUSE-SU-2019:2450-1 vom 2019-09-24 (25.09.2019)
+
+Weitere Informationen finden Sie unter: https://www.suse.com/support/update/announcement/2019/suse-su-20192450-1.html
+
+Oracle Linux Security Advisory ELSA-2019-4732 vom 2019-08-04 (05.08.2019)
+
+Weitere Informationen finden Sie unter: http://linux.oracle.com/errata/ELSA-2019-4732.html
+
+Oracle Linux Security Advisory ELSA-2019-4702 vom 2019-08-04 (05.08.2019)
+
+Weitere Informationen finden Sie unter: http://linux.oracle.com/errata/ELSA-2019-4702.html
+
+ORACLE OVMSA-2019-0035 vom 2019-07-11 (12.07.2019)
+
+Weitere Informationen finden Sie unter: https://oss.oracle.com/pipermail/oraclevm-errata/2019-July/000953.html
+
+Oracle Linux Security Advisory ELSA-2019-4710 vom 2019-07-11 (11.07.2019)
+
+Weitere Informationen finden Sie unter: http://linux.oracle.com/errata/ELSA-2019-4710.html
+
+Debian Security Advisory DSA-4469 vom 2019-06-23 (24.06.2019)
+
+Weitere Informationen finden Sie unter: https://www.debian.org/security/2019/dsa-4469
+
+SUSE Security Update SUSE-SU-2019:1550-1 vom 2019-06-19 (19.06.2019)
+
+Weitere Informationen finden Sie unter: https://www.suse.com/support/update/announcement/2019/suse-su-20191550-1.html
+
+Red Hat Security Advisory RHSA-2019:1046 vom 2019-05-08 (09.05.2019)
+
+Weitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2019:1046
+
+Cumulus Networks Securitty Announcement (04.04.2019)
+
+Weitere Informationen finden Sie unter: https://support.cumulusnetworks.com/hc/en-us/articles/115015951667-Meltdown-and-Spectre-Modern-CPU-Vulnerabilities
+
+Cumulus Networks Securitty Announcement (04.04.2019)
+
+Weitere Informationen finden Sie unter: https://support.cumulusnetworks.com/hc/en-us/articles/360020503354-Spectre-and-Meltdown-Vulnerability-Fixes-
+
+SUSE Security Update SUSE-SU-2019:0765-1 vom 2019-03-27 (27.03.2019)
+
+Weitere Informationen finden Sie unter: https://www.suse.com/support/update/announcement/2019/suse-su-20190765-1.html
+
+XEN Security Advisory XSA-289 vom 2019-01-21 (22.01.2019)
+
+Weitere Informationen finden Sie unter: http://seclists.org/oss-sec/2019/q1/76
+
+Microsoft Security Advisory ADV180002 vom 2018-08-01 (02.08.2018)
+
+Weitere Informationen finden Sie unter: https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180002
+
+Red Hat Security Advisory RHSA-2018:1967 vom 2018-06-27 (27.06.2018)
+
+Weitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2018:1967
+
+F5 Security Advisory K91229003 (22.05.2018)
+
+Weitere Informationen finden Sie unter: https://support.f5.com/csp/article/K91229003
+
+CISCO Security Advisory CISCO-SA-20180104-CPUSIDECHANNEL vom 2018-05-15 (16.05.2018)
+
+Weitere Informationen finden Sie unter: https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180104-cpusidechannel?vs_f=Cisco%20Security%20Advisory&vs_cat=Security%20Intelligence&vs_type=RSS&vs_p=CPU%20Side-Channel%20Information%20Disclosure%20Vulnerabilities&vs_k=1
+
+Red Hat Security Advisory RHSA-2018:1318 vom 2018-05-09 (09.05.2018)
+
+Weitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2018:1318
+
+Red Hat Security Advisory RHSA-2018:1351 vom 2018-05-09 (09.05.2018)
+
+Weitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2018:1351
+
+Red Hat Security Advisory RHSA-2018:1350 vom 2018-05-09 (09.05.2018)
+
+Weitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2018:1350
+
+Red Hat Security Advisory RHSA-2018:1349 vom 2018-05-09 (09.05.2018)
+
+Weitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2018:1349
+
+Red Hat Security Advisory RHSA-2018:1346 vom 2018-05-09 (09.05.2018)
+
+Weitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2018:1346
+
+Citrix Security Advisory CTX234679 vom 2018-05-09 (09.05.2018)
+
+Weitere Informationen finden Sie unter: https://support.citrix.com/article/CTX234679
+
+VMware Security Advisories (04.05.2018)
+
+Weitere Informationen finden Sie unter: https://www.vmware.com/security/advisories/VMSA-2018-0007.html
+
+Oracle Critical Patch Update Advisory (04.05.2018)
+
+Weitere Informationen finden Sie unter: http://www.oracle.com/technetwork/security-advisory/cpuapr2018-3678067.html#AppendixSUNS
+
+Oracle Linux Security Advisory ELSA-2018-4089 vom 2018-05-02 (03.05.2018)
+
+Weitere Informationen finden Sie unter: http://linux.oracle.com/errata/ELSA-2018-4089.html
+
+Microsoft Knowledgebase Artikel KB4090007 (27.04.2018)
+
+Weitere Informationen finden Sie unter: https://security-center.intel.com/advisory.aspx?intelid=INTEL-SA-00088&languageid=en-fr
+
+RedHat Security Advisory (26.04.2018)
+
+Weitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2018:1252
+
+Microsoft Security Advisory ADV180002  Update vom 24.04.2018 (25.04.2018)
+
+Weitere Informationen finden Sie unter: https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/ADV180002
+
+Red Hat Security Advisory RHSA-2018:1196 vom 2018-04-24 (24.04.2018)
+
+Weitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2018:1196
+
+Red Hat Security Advisory RHSA-2018:1129 vom 2018-04-17 (18.04.2018)
+
+Weitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2018:1129
+
+SUSE Security Update SUSE-SU-2018:0920-1 vom 2018-04-11 (13.04.2018)
+
+Weitere Informationen finden Sie unter: https://www.suse.com/support/update/announcement/2018/suse-su-20180920-1.html
+
+SUSE Security Update SUSE-SU-2018:0909-1 vom 2018-04-11 (11.04.2018)
+
+Weitere Informationen finden Sie unter: https://www.suse.com/support/update/announcement/2018/suse-su-20180909-1.html
+
+GENTOO Security Advisory GLSA201804-08 vom 2018-04-09 (09.04.2018)
+
+Weitere Informationen finden Sie unter: https://security.gentoo.org/glsa/201804-08
+
+Ubuntu Security Notice USN-3620-2 vom 2018-04-05 (05.04.2018)
+
+Weitere Informationen finden Sie unter: https://usn.ubuntu.com/3620-2/
+
+Intel Security Advisory INTEL-SA-00088 vom 2018-01-04 (05.04.2018)
+
+Weitere Informationen finden Sie unter: https://security-center.intel.com/advisory.aspx?intelid=INTEL-SA-00088&languageid=en-fr
+
+SUSE Security Update SUSE-SU-2018:0861-1 vom 2018-04-04 (04.04.2018)
+
+Weitere Informationen finden Sie unter: https://www.suse.com/support/update/announcement/2018/suse-su-20180861-1.html
+
+SUSE Security Update SUSE-SU-2018:0838-1 vom 2018-03-29 (03.04.2018)
+
+Weitere Informationen finden Sie unter: https://www.suse.com/support/update/announcement/2018/suse-su-20180838-1.html
+
+SUSE Security Update SUSE-SU-2018:0841-1 vom 2018-03-29 (03.04.2018)
+
+Weitere Informationen finden Sie unter: https://www.suse.com/support/update/announcement/2018/suse-su-20180841-1.html
+
+EMC Security Advisory DSA-2018-062 vom 2018-03-26 (28.03.2018)
+
+Weitere Informationen finden Sie unter: https://support.emc.com/kb/519589
+
+SUSE Security Update SUSE-SU-2018:0831-1 vom 2018-03-28 (28.03.2018)
+
+Weitere Informationen finden Sie unter: https://www.suse.com/support/update/announcement/2018/suse-su-20180831-1/
+
+SUSE Security Update SUSE-SU-2018:0757-1 vom 2018-03-22 (22.03.2018)
+
+Weitere Informationen finden Sie unter: https://www.suse.com/support/update/announcement/2018/suse-su-20180757-1.html
+
+SUSE Security Update SUSE-SU-2018:0708-1 vom 2018-03-17 (19.03.2018)
+
+Weitere Informationen finden Sie unter: https://www.suse.com/support/update/announcement/2018/suse-su-20180708-1.html
+
+SUSE Security Update SUSE-SU-2018:0705-1 vom 2018-03-17 (19.03.2018)
+
+Weitere Informationen finden Sie unter: https://www.suse.com/support/update/announcement/2018/suse-su-20180705-1.html
+
+Microsoft KB Artikel KB409166 (16.03.2018)
+
+Weitere Informationen finden Sie unter: https://support.microsoft.com/en-us/help/4091664/kb4091664-intel-microcode-updates
+
+libvirt Security Notice LSN-2018-0001 vom 2018-03-15 (16.03.2018)
+
+Weitere Informationen finden Sie unter: http://security.libvirt.org/2018/0001.html
+
+CentOS Security Advisory CESA-2018:0512 vom 2018-03-14 (15.03.2018)
+
+Weitere Informationen finden Sie unter: http://centos-announce.2309468.n4.nabble.com/CentOS-announce-CESA-2018-0512-Important-CentOS-6-kernel-Security-Update-tp4645009.html
+
+SUSE Security Update SUSE-SU-2018:0678-1 vom 2018-03-15 (15.03.2018)
+
+Weitere Informationen finden Sie unter: https://www.suse.com/support/update/announcement/2018/suse-su-20180678-1.html
+
+Red Hat Security Advisory RHSA-2018:0502 vom 2018-03-14 (14.03.2018)
+
+Weitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2018:0502
+
+Red Hat Security Advisory RHSA-2018:0512 vom 2018-03-14 (14.03.2018)
+
+Weitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2018:0512
+
+FreeBSD Security Advisory FREEBSD-SA-18:03. SPECULATIV vom 2018-03-14 (14.03.2018)
+
+Weitere Informationen finden Sie unter: https://security.FreeBSD.org/advisories/FreeBSD-SA-18:03.speculative_execution.asc
+
+Red Hat Security Advisory RHSA-2018:0496 vom 2018-03-13 (14.03.2018)
+
+Weitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2018:0496
+
+SUSE Security Update SUSE-SU-2018:0660-1 vom 2018-03-12 (13.03.2018)
+
+Weitere Informationen finden Sie unter: https://www.suse.com/support/update/announcement/2018/suse-su-20180660-1.html
+
+SUSE Security Update SUSE-SU-2018:0638-1 vom 2018-03-09 (09.03.2018)
+
+Weitere Informationen finden Sie unter: https://www.suse.com/support/update/announcement/2018/suse-su-20180638-1.html
+
+SUSE Security Update SUSE-SU-2018:0552-2 vom 2018-03-08 (09.03.2018)
+
+Weitere Informationen finden Sie unter: https://www.suse.com/support/update/announcement/2018/suse-su-20180552-2.html
+
+Red Hat Security Advisory RHSA-2018:0464 vom 2018-03-07 (08.03.2018)
+
+Weitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2018:0464
+
+SUSE Security Update SUSE-SU-2018:0609-1 vom 2018-03-06 (06.03.2018)
+
+Weitere Informationen finden Sie unter: https://www.suse.com/support/update/announcement/2018/suse-su-20180609-1.html
+
+SUSE Security Update SUSE-SU-2018:0601-1 vom 2018-03-05 (06.03.2018)
+
+Weitere Informationen finden Sie unter: https://www.suse.com/support/update/announcement/2018/suse-su-20180601-1.html
+
+Microsoft Advisory ADV180002 (02.03.2018)
+
+Weitere Informationen finden Sie unter: https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/ADV180002
+
+SUSE Security Update SUSE-SU-2018:0555-1 vom 2018-02-28 (28.02.2018)
+
+Weitere Informationen finden Sie unter: https://www.suse.com/support/update/announcement/2018/suse-su-20180555-1.html
+
+SUSE Security Update SUSE-SU-2018:0552-1 vom 2018-02-27 (28.02.2018)
+
+Weitere Informationen finden Sie unter: https://www.suse.com/support/update/announcement/2018/suse-su-20180552-1.html
+
+Oracle Linux Security Advisory ELSA-2018-0292 vom 2018-02-23 (26.02.2018)
+
+Weitere Informationen finden Sie unter: http://linux.oracle.com/errata/ELSA-2018-0292.html
+
+Debian Security Advisory DSA-4120 vom 2018-02-23 (23.02.2018)
+
+Weitere Informationen finden Sie unter: https://www.debian.org/security/2018/dsa-4120
+
+SUSE Security Update SUSE-SU-2018:0525-1 vom 2018-02-23 (23.02.2018)
+
+Weitere Informationen finden Sie unter: https://www.suse.com/support/update/announcement/2018/suse-su-20180525-1.html
+
+Ubuntu Security Notice USN-3581-1 vom 2018-02-22 (23.02.2018)
+
+Weitere Informationen finden Sie unter: http://www.ubuntu.com/usn/usn-3581-2/
+
+Ubuntu Security Notice USN-3582-1 vom 2018-02-22 (23.02.2018)
+
+Weitere Informationen finden Sie unter: http://www.ubuntu.com/usn/usn-3582-2/
+
+Ubuntu Security Notice USN-3580-1 vom 2018-02-22 (22.02.2018)
+
+Weitere Informationen finden Sie unter: http://www.ubuntu.com/usn/usn-3580-1/
+
+SUSE Security Update SUSE-SU-2018:0482-1 vom 2018-02-20 (20.02.2018)
+
+Weitere Informationen finden Sie unter: https://www.suse.com/support/update/announcement/2018/suse-su-20180482-1.html
+
+SUSE Security Update SUSE-SU-2018:0472-1 vom 2018-02-19 (20.02.2018)
+
+Weitere Informationen finden Sie unter: https://www.suse.com/support/update/announcement/2018/suse-su-20180472-1.html
+
+Update des Security Advisory ADV180002 vom 2018-02-13 (15.02.2018)
+
+Weitere Informationen finden Sie unter: https://portal.msrc.microsoft.com/de-de/security-guidance/advisory/ADV180002
+
+SUSE Security Update SUSE-SU-2018:0438-1 vom 2018-02-14 (15.02.2018)
+
+Weitere Informationen finden Sie unter: https://www.suse.com/support/update/announcement/2018/suse-su-20180438-1.html
+
+Red Hat Security Advisory RHSA-2018:0292 vom 2018-02-12 (12.02.2018)
+
+Weitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2018:0292
+
+SUSE Security Update SUSE-SU-2018:0416-1 vom 2018-02-10 (12.02.2018)
+
+Weitere Informationen finden Sie unter: https://www.suse.com/support/update/announcement/2018/suse-su-20180416-1.html
+
+Red Hat Security Advisory RHSA-2018:0292 vom 2018-02-09 (12.02.2018)
+
+Weitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2018:0292
+
+Meldung von Intel vom 2018-02-08 (12.02.2018)
+
+Weitere Informationen finden Sie unter: https://newsroom.intel.com/wp-content/uploads/sites/11/2018/02/microcode-update-guidance.pdf
+
+Oraclevm-errata OVMSA-2018-0017 vom 2018-02-08 (09.02.2018)
+
+Weitere Informationen finden Sie unter: https://oss.oracle.com/pipermail/oraclevm-errata/2018-February/000828.html
+
+Update des Intel Security Advisory INTEL-SA-00088 vom 2018-02-07 (09.02.2018)
+
+Weitere Informationen finden Sie unter: https://security-center.intel.com/advisory.aspx?intelid=INTEL-SA-00088&languageid=en-fr
+
+SUSE Security Update SUSE-SU-2018:0383-1 vom 2018-02-08 (08.02.2018)
+
+Weitere Informationen finden Sie unter: https://www.suse.com/support/update/announcement/2018/suse-su-20180383-1.html
+
+Oracle Linux Security Advisory ELSA-2018-4025 vom 2018-02-07 (08.02.2018)
+
+Weitere Informationen finden Sie unter: http://linux.oracle.com/errata/ELSA-2018-4025.html
+
+Ubuntu Security Notice USN-3560-1 vom 2018-02-07 (08.02.2018)
+
+Weitere Informationen finden Sie unter: http://www.ubuntu.com/usn/usn-3560-1/
+
+Ubuntu Security Notice USN-3561-1 vom 2018-02-07 (08.02.2018)
+
+Weitere Informationen finden Sie unter: http://www.ubuntu.com/usn/usn-3561-1/
+
+Juniper Security Advisory JSA10842 vom 2018-02-02 (05.02.2018)
+
+Weitere Informationen finden Sie unter: https://kb.juniper.net/InfoCenter/index?page=content&id=JSA10842&cat=SIRT_1&actp=LIST
+
+Update des Intel Security Advisory INTEL-SA-00088 vom 2018-01-27 (05.02.2018)
+
+Weitere Informationen finden Sie unter: https://security-center.intel.com/advisory.aspx?intelid=INTEL-SA-00088&languageid=en-fr
+
+SUSE Security Update SUSE-SU-2018:0285-1 vom 2018-01-30 (31.01.2018)
+
+Weitere Informationen finden Sie unter: https://www.suse.com/support/update/announcement/2018/suse-su-20180285-1.html
+
+Ubuntu Security Notice USN-3549-1 vom 2018-01-30 (30.01.2018)
+
+Weitere Informationen finden Sie unter: http://www.ubuntu.com/usn/usn-3549-1
+
+Informationen von Microsoft vom 2018-01-27 (29.01.2018)
+
+Weitere Informationen finden Sie unter: https://support.microsoft.com/en-us/help/4078130/update-to-disable-mitigation-against-spectre-variant-2
+
+Oracle Linux Security Advisory ELSA-2018-4021 vom 2018-01-28 (29.01.2018)
+
+Weitere Informationen finden Sie unter: http://linux.oracle.com/errata/ELSA-2018-4021.html
+
+Oracle Linux Security Advisory ELSA-2018-0169 vom 2018-01-26 (26.01.2018)
+
+Weitere Informationen finden Sie unter: http://linux.oracle.com/errata/ELSA-2018-0169.html
+
+Oracle Linux Security Advisory ELSA-2018-0151 vom 2018-01-26 (26.01.2018)
+
+Weitere Informationen finden Sie unter: http://linux.oracle.com/errata/ELSA-2018-0151.html
+
+SUSE Security Update SUSE-SU-2018:0213-1 vom 2018-01-25 (26.01.2018)
+
+Weitere Informationen finden Sie unter: https://www.suse.com/support/update/announcement/2018/suse-su-20180213-1.html
+
+Red Hat Security Advisory RHSA-2018:0151 vom 2018-01-25 (26.01.2018)
+
+Weitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2018:0151
+
+Red Hat Security Advisory RHSA-2018:0182 vom 2018-01-25 (26.01.2018)
+
+Weitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2018:0182
+
+SUSE Security Update SUSE-SU-2018:0191-1 vom 2018-01-24 (25.01.2018)
+
+Weitere Informationen finden Sie unter: https://www.suse.com/support/update/announcement/2018/suse-su-20180191-1.html
+
+Oracle Linux Security Advisory ELSA-2018-4020 vom 2018-01-24 (25.01.2018)
+
+Weitere Informationen finden Sie unter: http://linux.oracle.com/errata/ELSA-2018-4020.html
+
+SUSE Security Update SUSE-SU-2018:0179-1 vom 2018-01-23 (24.01.2018)
+
+Weitere Informationen finden Sie unter: https://www.suse.com/support/update/announcement/2018/suse-su-20180179-1.html
+
+SUSE Security Update SUSE-SU-2018:0180-1 vom 2018-01-23 (24.01.2018)
+
+Weitere Informationen finden Sie unter: https://www.suse.com/support/update/announcement/2018/suse-su-20180180-1.html
+
+Eintrag im Intel Blog (23.01.2018)
+
+Weitere Informationen finden Sie unter: https://newsroom.intel.com/news/root-cause-of-reboot-issue-identified-updated-guidance-for-customers-and-partners/
+
+Microsoft Security Advisory ADV180002 (23.01.2018)
+
+Weitere Informationen finden Sie unter: https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/ADV180002
+
+VMware Knowledge Base article 52245 (23.01.2018)
+
+Weitere Informationen finden Sie unter: https://kb.vmware.com/s/article/52345
+
+HP Bulletin Document ID: a00039267en_us (23.01.2018)
+
+Weitere Informationen finden Sie unter: https://support.hpe.com/hpsc/doc/public/display?docId=emr_na-a00039267en_us
+
+Ubuntu Security Notice USN-3540-1 vom 2018-01-23 (23.01.2018)
+
+Weitere Informationen finden Sie unter: http://www.ubuntu.com/usn/usn-3540-1/
+
+Ubuntu Security Notice USN-3540-2 vom 2018-01-23 (23.01.2018)
+
+Weitere Informationen finden Sie unter: http://www.ubuntu.com/usn/usn-3540-2/
+
+Ubuntu Security Notice USN-3542-1 vom 2018-01-23 (23.01.2018)
+
+Weitere Informationen finden Sie unter: http://www.ubuntu.com/usn/usn-3542-1/
+
+Ubuntu Security Notice USN-3541-2 vom 2018-01-23 (23.01.2018)
+
+Weitere Informationen finden Sie unter: http://www.ubuntu.com/usn/usn-3541-2/
+
+Ubuntu Security Notice USN-3542-2 vom 2018-01-23 (23.01.2018)
+
+Weitere Informationen finden Sie unter: http://www.ubuntu.com/usn/usn-3542-2/
+
+Ubuntu Security Notice USN-3531-2 vom 2018-01-22 (23.01.2018)
+
+Weitere Informationen finden Sie unter: http://www.ubuntu.com/usn/usn-3531-2/
+
+Ubuntu Security Notice USN-3541-1 vom 2018-01-23 (23.01.2018)
+
+Weitere Informationen finden Sie unter: http://www.ubuntu.com/usn/usn-3541-1/
+
+SUSE Security Update SUSE-SU-2018:0171-1 vom 2018-01-22 (23.01.2018)
+
+Weitere Informationen finden Sie unter: https://www.suse.com/support/update/announcement/2018/suse-su-20180171-1.html
+
+Red Hat Security Advisory RHSA-2018:0103 vom 2018-01-22 (23.01.2018)
+
+Weitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2018:0103
+
+Red Hat Security Advisory RHSA-2018:0108 vom 2018-01-22 (23.01.2018)
+
+Weitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2018:0108
+
+Red Hat Security Advisory RHSA-2018:0104 vom 2018-01-22 (23.01.2018)
+
+Weitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2018:0104
+
+Red Hat Security Advisory RHSA-2018:0105 vom 2018-01-22 (23.01.2018)
+
+Weitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2018:0105
+
+Red Hat Security Advisory RHSA-2018:0106 vom 2018-01-22 (23.01.2018)
+
+Weitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2018:0106
+
+Red Hat Security Advisory RHSA-2018:0107 vom 2018-01-22 (23.01.2018)
+
+Weitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2018:0107
+
+Red Hat Security Advisory RHSA-2018:0109 vom 2018-01-22 (23.01.2018)
+
+Weitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2018:0109
+
+Red Hat Security Advisory RHSA-2018:0110 vom 2018-01-22 (23.01.2018)
+
+Weitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2018:0110
+
+Red Hat Security Advisory RHSA-2018:0111 vom 2018-01-22 (23.01.2018)
+
+Weitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2018:0111
+
+Red Hat Security Advisory RHSA-2018:0112 vom 2018-01-22 (23.01.2018)
+
+Weitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2018:0112
+
+Oracle Linux Security Advisory ELSA-2018-4018 vom 2018-01-21 (22.01.2018)
+
+Weitere Informationen finden Sie unter: http://linux.oracle.com/errata/ELSA-2018-4018.html
+
+Oracle Linux Security Advisory ELSA-2018-4019 vom 2018-01-21 (22.01.2018)
+
+Weitere Informationen finden Sie unter: http://linux.oracle.com/errata/ELSA-2018-4019.html
+
+Oracle Linux Security Advisory ELSA-2018-4012 vom 2018-01-19 (22.01.2018)
+
+Weitere Informationen finden Sie unter: http://linux.oracle.com/errata/ELSA-2018-4012.html
+
+HPE SECURITY BULLETIN Document ID: hpesbhf03805en_us (19.01.2018)
+
+Weitere Informationen finden Sie unter: https://support.hpe.com/hpsc/doc/public/display?docId=emr_na-hpesbhf03805en_us
+
+Cisco Seurity Advisory: cisco-sa-20180104-cpusidechannel (19.01.2018)
+
+Weitere Informationen finden Sie unter: https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180104-cpusidechannel
+
+SUSE Security Update SUSE-SU-2018:0131-1 vom 2018-01-19 (19.01.2018)
+
+Weitere Informationen finden Sie unter: https://www.suse.com/support/update/announcement/2018/suse-su-20180131-1/
+
+Oracle Linux Security Advisory ELSA-2018-0093 vom 2018-01-18 (18.01.2018)
+
+Weitere Informationen finden Sie unter: http://linux.oracle.com/errata/ELSA-2018-0093.html
+
+Red Hat Security Advisory RHSA-2018:0093 vom 2018-01-17 (17.01.2018)
+
+Weitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2018:0093
+
+Red Hat Security Advisory RHSA-2018:0094 vom 2018-01-17 (17.01.2018)
+
+Weitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2018:0094
+
+Red Hat Security Advisory RHSA-2018:0092 vom 2018-01-17 (17.01.2018)
+
+Weitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2018:0092
+
+SUSE Security Update SUSE-SU-2018:0113-1 vom 2018-01-17 (17.01.2018)
+
+Weitere Informationen finden Sie unter: https://www.suse.com/support/update/announcement/2018/suse-su-20180113-1.html
+
+SUSE Security Update SUSE-SU-2018:0114-1 vom 2018-01-17 (17.01.2018)
+
+Weitere Informationen finden Sie unter: https://www.suse.com/support/update/announcement/2018/suse-su-20180114-1.html
+
+SUSE Security Update SUSE-SU-2018:0115-1 vom 2018-01-17 (17.01.2018)
+
+Weitere Informationen finden Sie unter: https://www.suse.com/support/update/announcement/2018/suse-su-20180115-1.html
+
+Red Hat Security Advisory RHSA-2018:0089 vom 2018-01-16 (16.01.2018)
+
+Weitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2018:0089
+
+Red Hat Security Advisory RHSA-2018:0090 vom 2018-01-16 (16.01.2018)
+
+Weitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2018:0090
+
+Red Hat Security Advisory RHSA-2018:0091 vom 2018-01-16 (16.01.2018)
+
+Weitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2018:0091
+
+Oracle Linux Security Advisory ELSA-2018-4011 vom 2018-01-13 (15.01.2018)
+
+Weitere Informationen finden Sie unter: http://linux.oracle.com/errata/ELSA-2018-4011.html
+
+Oraclevm-errata OVMSA-2018-0008 vom 2018-01-11 (12.01.2018)
+
+Weitere Informationen finden Sie unter: https://oss.oracle.com/pipermail/oraclevm-errata/2018-January/000819.html
+
+Oraclevm-errata OVMSA-2018-0007 vom 2018-01-11 (12.01.2018)
+
+Weitere Informationen finden Sie unter: https://oss.oracle.com/pipermail/oraclevm-errata/2018-January/000818.html
+
+Update des Lenovo Security Advisory: LEN-18282 vom 2018-01-11 (12.01.2018)
+
+Weitere Informationen finden Sie unter: https://support.lenovo.com/de/de/solutions/len-18282
+
+SUSE Security Update SUSE-SU-2018:0069-1 vom 2018-01-12 (12.01.2018)
+
+Weitere Informationen finden Sie unter: https://www.suse.com/support/update/announcement/2018/suse-su-20180069-1.html
+
+SUSE Security Update SUSE-SU-2018:0067-1 vom 2018-01-12 (12.01.2018)
+
+Weitere Informationen finden Sie unter: https://www.suse.com/support/update/announcement/2018/suse-su-20180067-1.html
+
+SUSE Security Update SUSE-SU-2018:0068-1 vom 2018-01-12 (12.01.2018)
+
+Weitere Informationen finden Sie unter: https://www.suse.com/support/update/announcement/2018/suse-su-20180068-1.html
+
+Ubuntu Security Notice USN-3530-1 vom 2018-01-11 (12.01.2018)
+
+Weitere Informationen finden Sie unter: http://www.ubuntu.com/usn/usn-3530-1/
+
+Ubuntu Security Notice USN-3531-1 vom 2018-01-11 (12.01.2018)
+
+Weitere Informationen finden Sie unter: http://www.ubuntu.com/usn/usn-3531-1/
+
+Ubuntu Security Notice USN-3522-3 vom 2018-01-10 (11.01.2018)
+
+Weitere Informationen finden Sie unter: http://www.ubuntu.com/usn/usn-3522-3/
+
+Ubuntu Security Notice USN-3525-1 vom 2018-01-10 (11.01.2018)
+
+Weitere Informationen finden Sie unter: http://www.ubuntu.com/usn/usn-3525-1/
+
+Ubuntu Security Notice USN-3523-2 vom 2018-01-10 (11.01.2018)
+
+Weitere Informationen finden Sie unter: http://www.ubuntu.com/usn/usn-3523-2/
+
+Ubuntu Security Notice USN-3522-4 vom 2018-01-10 (11.01.2018)
+
+Weitere Informationen finden Sie unter: http://www.ubuntu.com/usn/usn-3522-4/
+
+Oraclevm-errata OVMSA-2018-0006 vom 2018-01-09 (10.01.2018)
+
+Weitere Informationen finden Sie unter: https://oss.oracle.com/pipermail/oraclevm-errata/2018-January/000816.html
+
+Oraclevm-errata OVMSA-2018-0005 vom 2018-01-09 (10.01.2018)
+
+Weitere Informationen finden Sie unter: https://oss.oracle.com/pipermail/oraclevm-errata/2018-January/000817.html
+
+Ubuntu Security Notice USN-3522-2 vom 2018-01-10 (10.01.2018)
+
+Weitere Informationen finden Sie unter: http://www.ubuntu.com/usn/usn-3522-2/
+
+Ubuntu Security Notice USN-3522-1 vom 2018-01-10 (10.01.2018)
+
+Weitere Informationen finden Sie unter: http://www.ubuntu.com/usn/usn-3522-1/
+
+Ubuntu Security Notice USN-3523-1 vom 2018-01-10 (10.01.2018)
+
+Weitere Informationen finden Sie unter: http://www.ubuntu.com/usn/usn-3523-1/
+
+Ubuntu Security Notice USN-3524-2 vom 2018-01-10 (10.01.2018)
+
+Weitere Informationen finden Sie unter: http://www.ubuntu.com/usn/usn-3524-2/
+
+SUSE Security Update SUSE-SU-2018:0051-1 vom 2018-01-09 (10.01.2018)
+
+Weitere Informationen finden Sie unter: https://www.suse.com/support/update/announcement/2018/suse-su-20180051-1.html
+
+Debian Security Advisory DSA-4082 vom 2018-01-10 (10.01.2018)
+
+Weitere Informationen finden Sie unter: https://www.debian.org/security/2018/dsa-4082
+
+SUSE Security Update SUSE-SU-2018:0056-1 vom 2018-01-10 (10.01.2018)
+
+Weitere Informationen finden Sie unter: https://www.suse.com/support/update/announcement/2018/suse-su-20180056-1.html
+
+Ubuntu Security Notice USN-3521-1 vom 2018-01-09 (10.01.2018)
+
+Weitere Informationen finden Sie unter: http://www.ubuntu.com/usn/usn-3521-1/
+
+VMware Security Advisory VMSA-2018-0004 vom 2018-01-09 (10.01.2018)
+
+Weitere Informationen finden Sie unter: http://www.vmware.com/security/advisories/VMSA-2018-0004.html
+
+Oracle Linux Security Advisory ELSA-2018-4006 vom 2018-01-09 (10.01.2018)
+
+Weitere Informationen finden Sie unter: http://linux.oracle.com/errata/ELSA-2018-4006.html
+
+F5 Article K91229003 vom 2018-01-06 (09.01.2018)
+
+Weitere Informationen finden Sie unter: https://support.f5.com/csp/article/K91229003
+
+CISCO Security Advisory CISCO-SA-20180104-CPUSIDECHANNE vom 2018-01-08 (09.01.2018)
+
+Weitere Informationen finden Sie unter: https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180104-cpusidechannel
+
+SUSE Security Update SUSE-SU-2018:0036-1 vom 2018-01-09 (09.01.2018)
+
+Weitere Informationen finden Sie unter: https://www.suse.com/support/update/announcement/2018/suse-su-20180036-1.html
+
+SUSE Security Update SUSE-SU-2018:0039-1 vom 2018-01-09 (09.01.2018)
+
+Weitere Informationen finden Sie unter: https://www.suse.com/support/update/announcement/2018/suse-su-20180039-1.html
+
+SUSE Security Update SUSE-SU-2018:0041-1 vom 2018-01-09 (09.01.2018)
+
+Weitere Informationen finden Sie unter: https://www.suse.com/support/update/announcement/2018/suse-su-20180041-1.html
+
+SUSE Security Update SUSE-SU-2018:0040-1 vom 2018-01-09 (09.01.2018)
+
+Weitere Informationen finden Sie unter: https://www.suse.com/support/update/announcement/2018/suse-su-20180040-1.html
+
+APPLE Security Advisory HT208401 vom 2018-01-08 (09.01.2018)
+
+Weitere Informationen finden Sie unter: https://support.apple.com/kb/HT208401
+
+APPLE Security Advisory HT208403 vom 2018-01-08 (09.01.2018)
+
+Weitere Informationen finden Sie unter: https://support.apple.com/kb/HT208403
+
+APPLE Security Advisory HT208397 vom 2018-01-08 (09.01.2018)
+
+Weitere Informationen finden Sie unter: https://support.apple.com/kb/HT208397
+
+NetApp Advisory NTAP-20180104-0001 vom 2018-01-07 (08.01.2018)
+
+Weitere Informationen finden Sie unter: https://security.netapp.com/advisory/ntap-20180104-0001/
+
+Oraclevm-errata OVMSA-2018-0004  vom 2018-01-05 (08.01.2018)
+
+Weitere Informationen finden Sie unter: https://oss.oracle.com/pipermail/oraclevm-errata/2018-January/000812.html
+
+CentOS-announce CESA-2018:0023 vom 2018-01-04 (05.01.2018)
+
+Weitere Informationen finden Sie unter: https://lists.centos.org/pipermail/centos-announce/2018-January/022705.html
+
+CentOS-announce CESA-2018:0029 vom 2018-01-04 (05.01.2018)
+
+Weitere Informationen finden Sie unter: https://lists.centos.org/pipermail/centos-announce/2018-January/022704.html
+
+CentOS-announce CESA-2018:0030 vom 2018-01-04 (05.01.2018)
+
+Weitere Informationen finden Sie unter: https://lists.centos.org/pipermail/centos-announce/2018-January/022703.html
+
+CentOS-announce CESA-RHSA-2018:0024 vom 2018-01-04 (05.01.2018)
+
+Weitere Informationen finden Sie unter: https://lists.centos.org/pipermail/centos-announce/2018-January/022702.html
+
+CentOS-announce CESA-2018:0013 vom 2018-01-04 (05.01.2018)
+
+Weitere Informationen finden Sie unter: https://lists.centos.org/pipermail/centos-announce/2018-January/022700.html
+
+Red Hat Security Advisory RHSA-2018:0020 vom 2018-01-04 (05.01.2018)
+
+Weitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2018:0020
+
+Red Hat Security Advisory RHSA-2018:0021 vom 2018-01-04 (05.01.2018)
+
+Weitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2018:0021
+
+Red Hat Security Advisory RHSA-2018:0022 vom 2018-01-04 (05.01.2018)
+
+Weitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2018:0022
+
+Red Hat Security Advisory RHSA-2018:0023 vom 2018-01-04 (05.01.2018)
+
+Weitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2018:0023
+
+Red Hat Security Advisory RHSA-2018:0024 vom 2018-01-04 (05.01.2018)
+
+Weitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2018:0024
+
+Red Hat Security Advisory RHSA-2018:0025 vom 2018-01-04 (05.01.2018)
+
+Weitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2018:0025
+
+Red Hat Security Advisory RHSA-2018:0026 vom 2018-01-04 (05.01.2018)
+
+Weitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2018:0026
+
+Red Hat Security Advisory RHSA-2018:0027 vom 2018-01-04 (05.01.2018)
+
+Weitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2018:0027
+
+Red Hat Security Advisory RHSA-2018:0028 vom 2018-01-04 (05.01.2018)
+
+Weitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2018:0028
+
+Debian Security Advisory DSA-4078-1 vom 2018-01-04 (05.01.2018)
+
+Weitere Informationen finden Sie unter: https://lists.debian.org/debian-security-announce/2018/msg00000.html
+
+Google Chrome-Hilfe Stand 2018-01-05 (05.01.2018)
+
+Weitere Informationen finden Sie unter: https://support.google.com/chrome/answer/7623121
+
+Mozilla Foundation Security Advisory mfsa2018-01 vom 2018-01-04 (05.01.2018)
+
+Weitere Informationen finden Sie unter: https://www.mozilla.org/en-US/security/advisories/mfsa2018-01/
+
+Meldung 43427 auf der Exploit-DB vom 2018-01-03 (05.01.2018)
+
+Weitere Informationen finden Sie unter: https://www.exploit-db.com/exploits/43427/
+
+CentOS Security Advisory CESA-2018:0014 vom 2018-01-04 (05.01.2018)
+
+Weitere Informationen finden Sie unter: https://lwn.net/Alerts/742920
+
+CentOS Security Advisory CESA-2018:0007 vom 2018-01-04 (05.01.2018)
+
+Weitere Informationen finden Sie unter: https://lwn.net/Alerts/742919
+
+CentOS Security Advisory CESA-2018:0012 vom 2018-01-04 (05.01.2018)
+
+Weitere Informationen finden Sie unter: https://lwn.net/Alerts/742921
+
+SUSE Security Update SUSE-SU-2018:0011-1 vom 2018-01-04 (05.01.2018)
+
+Weitere Informationen finden Sie unter: https://www.suse.com/support/update/announcement/2018/suse-su-20180011-1.html
+
+SUSE Security Update SUSE-SU-2018:0012-1 vom 2018-01-04 (05.01.2018)
+
+Weitere Informationen finden Sie unter: https://www.suse.com/support/update/announcement/2018/suse-su-20180012-1.html
+
+SUSE Security Update SUSE-SU-2018:0010-1 vom 2018-01-04 (05.01.2018)
+
+Weitere Informationen finden Sie unter: https://www.suse.com/support/update/announcement/2018/suse-su-20180010-1.html
+
+Oracle Linux Security Advisory ELSA-2018-0008 vom 2018-01-04 (05.01.2018)
+
+Weitere Informationen finden Sie unter: http://linux.oracle.com/errata/ELSA-2018-0008.html
+
+Oracle Linux Security Advisory ELSA-2018-0012 vom 2018-01-04 (05.01.2018)
+
+Weitere Informationen finden Sie unter: http://linux.oracle.com/errata/ELSA-2018-0012.html
+
+Oracle Linux Security Advisory ELSA-2018-0007 vom 2018-01-04 (05.01.2018)
+
+Weitere Informationen finden Sie unter: http://linux.oracle.com/errata/ELSA-2018-0007.html
+
+Oracle Linux Security Advisory ELSA-2018-0013 vom 2018-01-04 (05.01.2018)
+
+Weitere Informationen finden Sie unter: http://linux.oracle.com/errata/ELSA-2018-0013.html
+
+Red Hat Security Advisory RHSA-2018:0030 vom 2018-01-04 (05.01.2018)
+
+Weitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2018:0030
+
+Red Hat Security Advisory RHSA-2018:0036 vom 2018-01-04 (05.01.2018)
+
+Weitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2018:0036
+
+Red Hat Security Advisory RHSA-2018:0039 vom 2018-01-04 (05.01.2018)
+
+Weitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2018:0039
+
+Red Hat Security Advisory RHSA-2018:0029 vom 2018-01-04 (05.01.2018)
+
+Weitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2018:0029
+
+Red Hat Security Advisory RHSA-2018:0031 vom 2018-01-04 (05.01.2018)
+
+Weitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2018:0031
+
+Red Hat Security Advisory RHSA-2018:0032 vom 2018-01-04 (05.01.2018)
+
+Weitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2018:0032
+
+Red Hat Security Advisory RHSA-2018:0034 vom 2018-01-04 (05.01.2018)
+
+Weitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2018:0034
+
+Red Hat Security Advisory RHSA-2018:0035 vom 2018-01-04 (05.01.2018)
+
+Weitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2018:0035
+
+Red Hat Security Advisory RHSA-2018:0037 vom 2018-01-04 (05.01.2018)
+
+Weitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2018:0037
+
+Red Hat Security Advisory RHSA-2018:0038 vom 2018-01-04 (05.01.2018)
+
+Weitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2018:0038
+
+Red Hat Security Advisory RHSA-2018:0040 vom 2018-01-05 (05.01.2018)
+
+Weitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2018:0040
+
+Oracle Linux Security Advisory ELSA-2018-0023 vom 2018-01-05 (05.01.2018)
+
+Weitere Informationen finden Sie unter: http://linux.oracle.com/errata/ELSA-2018-0023.html
+
+Oracle Linux Security Advisory ELSA-2018-0030 vom 2018-01-05 (05.01.2018)
+
+Weitere Informationen finden Sie unter: http://linux.oracle.com/errata/ELSA-2018-0030.html
+
+Oracle Linux Security Advisory ELSA-2018-0024 vom 2018-01-05 (05.01.2018)
+
+Weitere Informationen finden Sie unter: http://linux.oracle.com/errata/ELSA-2018-0024.html
+
+SUSE Security Update SUSE-SU-2018:0019-1 vom 2018-01-04 (05.01.2018)
+
+Weitere Informationen finden Sie unter: https://www.suse.com/support/update/announcement/2018/suse-su-20180019-1.html
+
+SUSE Security Update SUSE-SU-2018:0020-1 vom 2018-01-04 (05.01.2018)
+
+Weitere Informationen finden Sie unter: https://www.suse.com/support/update/announcement/2018/suse-su-20180020-1.html
+
+Citrix Security Advisory CTX231390 vom 2018-01-04 (05.01.2018)
+
+Weitere Informationen finden Sie unter: https://support.citrix.com/article/CTX231390
+
+Red Hat Security Advisory RHSA-2018:0018 vom 2018-01-04 (05.01.2018)
+
+Weitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2018:0018
+
+Meltdown and Spectre Informationsseite der Schwachstelle Stand 2018-01-03 (04.01.2018)
+
+Weitere Informationen finden Sie unter: https://meltdownattack.com/
+
+Microsoft Security Advisory ADV180002 vom 2018-01-03 (04.01.2018)
+
+Weitere Informationen finden Sie unter: https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/ADV180002
+
+VMware Security Advisory VMSA-2018-0002 (04.01.2018)
+
+Weitere Informationen finden Sie unter: https://www.vmware.com/security/advisories/VMSA-2018-0002.html
+
+SUSE Security Update: SUSE-SU-2018:0006-1 vom 2018-01-03 (04.01.2018)
+
+Weitere Informationen finden Sie unter: https://www.suse.com/de-de/support/update/announcement/2018/suse-su-20180006-1/
+
+SUSE Security Update: SUSE-SU-2018:0007-1 vom 2018-01-03 (04.01.2018)
+
+Weitere Informationen finden Sie unter: https://www.suse.com/de-de/support/update/announcement/2018/suse-su-20180007-1/
+
+SUSE Security Update: SUSE-SU-2018:0008-1 vom 2018-01-03 (04.01.2018)
+
+Weitere Informationen finden Sie unter: https://www.suse.com/de-de/support/update/announcement/2018/suse-su-20180008-1/
+
+SUSE Security Update: SUSE-SU-2018:0009-1 vom 2018-01-03 (04.01.2018)
+
+Weitere Informationen finden Sie unter: https://www.suse.com/de-de/support/update/announcement/2018/suse-su-20180009-1/
+
+Redhat Security Advisory RHSA-2018:0007 vom 2018-01-03 (04.01.2018)
+
+Weitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2018:0007
+
+Redhat Security Advisory RHSA-2018:0008 vom 2018-01-03 (04.01.2018)
+
+Weitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2018:0008
+
+Redhat Security Advisory RHSA-2018:0009 vom 2018-01-03 (04.01.2018)
+
+Weitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2018:0009
+
+Redhat Security Advisory RHSA-2018:0010 vom 2018-01-03 (04.01.2018)
+
+Weitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2018:0010
+
+Redhat Security Advisory RHSA-2018:0011 vom 2018-01-03 (04.01.2018)
+
+Weitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2018:0011
+
+Redhat Security Advisory RHSA-2018:0012 vom 2018-01-03 (04.01.2018)
+
+Weitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2018:0012
+
+Redhat Security Advisory RHSA-2018:0013 vom 2018-01-03 (04.01.2018)
+
+Weitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2018:0013
+
+Redhat Security Advisory RHSA-2018:0014 vom 2018-01-03 (04.01.2018)
+
+Weitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2018:0014
+
+Redhat Security Advisory RHSA-2018:0015 vom 2018-01-03 (04.01.2018)
+
+Weitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2018:0015
+
+Redhat Security Advisory RHSA-2018:0016 vom 2018-01-03 (04.01.2018)
+
+Weitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2018:0016
+
+Redhat Security Advisory RHSA-2018:0017 vom 2018-01-03 (04.01.2018)
+
+Weitere Informationen finden Sie unter: https://access.redhat.com/errata/RHSA-2018:0017
+
+Lenovo Security Advisory: LEN-18282 vom 2018-01-03 (04.01.2018)
+
+Weitere Informationen finden Sie unter: https://support.lenovo.com/de/de/solutions/len-18282
+
+Xen Security Advisory XSA-254 vom 2018-01-03 (04.01.2018)
+
+Weitere Informationen finden Sie unter: https://xenbits.xen.org/xsa/advisory-254.html
+
+Windows Security Updates 4072698 vom 2018-01-03 (04.01.2018)
+
+Weitere Informationen finden Sie unter: https://support.microsoft.com/en-za/help/4072698/windows-server-guidance-to-protect-against-the-speculative-execution-s
+
+Citrix Security Updates CTX231399 vom 2018-01-03 (04.01.2018)
+
+Weitere Informationen finden Sie unter: https://support.citrix.com/article/CTX231399
+
+Dies ist die 164. Version des vorliegenden IT-Sicherheitshinweises für Meltdown und Spectre. Bei Bekanntgabe weiterer Updates wird dieser Text aktualisiert. Die vorgenommenen Änderungen können Sie anhand der folgenden Versionshistorie nachvollziehen.
+
+04.01.2018 - Initial Release
+
+04.01.2018 - Version nicht vorhanden
+
+04.01.2018 - Version nicht vorhanden
+
+04.01.2018 - Version nicht vorhanden
+
+04.01.2018 - Version nicht vorhanden
+
+05.01.2018 - New remediations available
+
+05.01.2018 - Version nicht vorhanden
+
+05.01.2018 - Version nicht vorhanden
+
+05.01.2018 - New remediations available
+
+05.01.2018 - Version nicht vorhanden
+
+05.01.2018 - Version nicht vorhanden
+
+08.01.2018 - New remediations available
+
+08.01.2018 - Version nicht vorhanden
+
+08.01.2018 - Version nicht vorhanden
+
+08.01.2018 - Version nicht vorhanden
+
+08.01.2018 - Version nicht vorhanden
+
+08.01.2018 - Version nicht vorhanden
+
+08.01.2018 - Version nicht vorhanden
+
+08.01.2018 - Version nicht vorhanden
+
+08.01.2018 - Version nicht vorhanden
+
+08.01.2018 - Version nicht vorhanden
+
+08.01.2018 - Version nicht vorhanden
+
+08.01.2018 - Version nicht vorhanden
+
+08.01.2018 - Version nicht vorhanden
+
+09.01.2018 - New remediations available
+
+09.01.2018 - Version nicht vorhanden
+
+09.01.2018 - New remediations available
+
+09.01.2018 - New remediations available
+
+09.01.2018 - Version nicht vorhanden
+
+09.01.2018 - Version nicht vorhanden
+
+09.01.2018 - Adjust probable damage to 4
+
+09.01.2018 - Version nicht vorhanden
+
+10.01.2018 - New remediations available
+
+10.01.2018 - Version nicht vorhanden
+
+10.01.2018 - Version nicht vorhanden
+
+11.01.2018 - New remediations available
+
+11.01.2018 - Version nicht vorhanden
+
+11.01.2018 - Version nicht vorhanden
+
+11.01.2018 - Version nicht vorhanden
+
+11.01.2018 - Version nicht vorhanden
+
+11.01.2018 - Version nicht vorhanden
+
+11.01.2018 - Version nicht vorhanden
+
+11.01.2018 - Version nicht vorhanden
+
+11.01.2018 - Version nicht vorhanden
+
+11.01.2018 - Version nicht vorhanden
+
+11.01.2018 - Version nicht vorhanden
+
+12.01.2018 - reference added
+
+12.01.2018 - Version nicht vorhanden
+
+12.01.2018 - New remediations available
+
+12.01.2018 - Version nicht vorhanden
+
+12.01.2018 - Version nicht vorhanden
+
+12.01.2018 - Version nicht vorhanden
+
+12.01.2018 - Version nicht vorhanden
+
+12.01.2018 - Version nicht vorhanden
+
+12.01.2018 - Version nicht vorhanden
+
+12.01.2018 - Version nicht vorhanden
+
+15.01.2018 - New remediations available
+
+16.01.2018 - New remediations available
+
+17.01.2018 - New remediations available
+
+18.01.2018 - New remediations available
+
+19.01.2018 - New remediations available
+
+19.01.2018 - New remediations available
+
+19.01.2018 - New remediations available
+
+19.01.2018 - Version nicht vorhanden
+
+22.01.2018 - New remediations available
+
+23.01.2018 - New remediations available
+
+23.01.2018 - New remediations available
+
+23.01.2018 - New remediations available
+
+23.01.2018 - New remediations available
+
+23.01.2018 - New remediations available
+
+24.01.2018 - New remediations available
+
+25.01.2018 - New remediations available
+
+26.01.2018 - New remediations available
+
+29.01.2018 - New remediations available
+
+29.01.2018 - Version nicht vorhanden
+
+30.01.2018 - New remediations available
+
+31.01.2018 - New remediations available
+
+31.01.2018 - Version nicht vorhanden
+
+31.01.2018 - Version nicht vorhanden
+
+31.01.2018 - Version nicht vorhanden
+
+08.02.2018 - New remediations available
+
+08.02.2018 - Version nicht vorhanden
+
+09.02.2018 - New remediations available
+
+09.02.2018 - Version nicht vorhanden
+
+12.02.2018 - New remediations available
+
+15.02.2018 - New remediations available
+
+15.02.2018 - Version nicht vorhanden
+
+20.02.2018 - New remediations available
+
+22.02.2018 - New remediations available
+
+23.02.2018 - New remediations available
+
+26.02.2018 - New remediations available
+
+28.02.2018 - New remediations available
+
+02.03.2018 - New remediations available
+
+06.03.2018 - New remediations available
+
+08.03.2018 - New remediations available
+
+09.03.2018 - New remediations available
+
+13.03.2018 - New remediations available
+
+14.03.2018 - New remediations available
+
+14.03.2018 - New remediations available
+
+15.03.2018 - New remediations available
+
+15.03.2018 - New remediations available
+
+16.03.2018 - New remediations available
+
+16.03.2018 - New remediations available
+
+19.03.2018 - New remediations available
+
+19.03.2018 - Version nicht vorhanden
+
+19.03.2018 - Version nicht vorhanden
+
+22.03.2018 - New remediations available
+
+22.03.2018 - Version nicht vorhanden
+
+28.03.2018 - New remediations available
+
+28.03.2018 - Version nicht vorhanden
+
+03.04.2018 - New remediations available
+
+04.04.2018 - New remediations available
+
+05.04.2018 - New remediations available
+
+09.04.2018 - New remediations available
+
+11.04.2018 - New remediations available
+
+11.04.2018 - Version nicht vorhanden
+
+11.04.2018 - Version nicht vorhanden
+
+13.04.2018 - New remediations available
+
+18.04.2018 - New remediations available
+
+18.04.2018 - Version nicht vorhanden
+
+24.04.2018 - New remediations available
+
+25.04.2018 - New remediations available
+
+26.04.2018 - Added references
+
+27.04.2018 - New remediations available
+
+03.05.2018 - New remediations available
+
+04.05.2018 - New remediations available
+
+04.05.2018 - New remediations available
+
+09.05.2018 - New remediations available
+
+09.05.2018 - Version nicht vorhanden
+
+16.05.2018 - New remediations available
+
+22.05.2018 - New remediations available
+
+05.06.2018 - New Information F5
+
+11.06.2018 - Added references
+
+28.06.2018 - Added references
+
+06.08.2018 - Added references
+
+28.08.2018 - Added references
+
+27.03.2019 - Neue Updates von SUSE aufgenommen
+
+04.04.2019 - Neue Updates aufgenommen
+
+04.04.2019 - Neue Updates aufgenommen
+
+09.05.2019 - Neue Updates von Red Hat aufgenommen
+
+07.06.2019 - Referenz(en) aufgenommen: ELSA-2019-4668
+
+19.06.2019 - Neue Updates von SUSE aufgenommen
+
+24.06.2019 - Neue Updates von Debian aufgenommen
+
+11.07.2019 - Neue Updates von Oracle Linux aufgenommen
+
+12.07.2019 - Neue Updates von ORACLE aufgenommen
+
+05.08.2019 - Neue Updates von Oracle Linux aufgenommen
+
+07.08.2019 - Schreibfehler korrigiert
+
+25.09.2019 - Neue Updates von SUSE aufgenommen
+
+02.04.2020 - Neue Updates von Debian aufgenommen
+
+23.06.2020 - Neue Updates von ORACLE aufgenommen
+
+12.08.2020 - Neue Updates von Huawei aufgenommen
+
+13.08.2020 - Neue Updates von Debian aufgenommen
+
+09.06.2021 - Neue Updates von Ubuntu aufgenommen
+
+16.08.2021 - Neue Updates von Debian aufgenommen
+
+30.08.2021 - Neue Updates von SUSE aufgenommen
+
+07.12.2021 - Neue Updates von SUSE aufgenommen
+
+09.03.2022 - Neue Updates von LENOVO und AMD aufgenommen
+
+11.05.2022 - Neue Updates von Red Hat aufgenommen
+
+18.01.2023 - Neue Updates von Red Hat aufgenommen
+
+19.01.2023 - doppelte Cisco Referenz bereinigt
+
+20.01.2023 - Schreibfehler korrigiert
+
+08.03.2023 - Neue Updates von SUSE aufgenommen
+
+11.04.2023 - Neue Updates von SUSE aufgenommen
+
+17.04.2023 - Neue Updates von SUSE aufgenommen
+
++++ Redaktioneller Hinweis: Dieser Text wurde auf Basis aktueller BSI-Daten KI-gestützt erstellt. Feedback und Anmerkungen nehmen wir unter hinweis@news.de entgegen. +++
+
+Folgen Sie News.de schon bei Facebook, Twitter, Pinterest und YouTube? Hier finden Sie brandheiße News, aktuelle Videos und den direkten Draht zur Redaktion.

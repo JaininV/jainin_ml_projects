@@ -1,0 +1,77 @@
+You want to sell your old computer and you’ve heard that you should securely erase the hard drive data first, but how? There’s a bunch of free hard drive wipe tools available online. These tools are easy to use and can help ensure that your personal information is permanently and professionally erased.
+
+Believe it or not, when you delete data from your hard drive it does not mean that it is fully erased. It could still be available on other locations of the drive. In this case, it will delete the reference of data within the table, which means you will not be able to find it.
+
+With the use of recovery software, these deleted files would be recovered. Even if the data was overwritten, it may still be retrievable if new data is not completely taking up the cluster of space that it once was.
+
+To truly wipe your hard drive and make sure that the data is gone forever, you have to use a hard drive data wiping software. This will remove the data permanently from the hard disk.
+
+Our list includes the top 10 hard drive wiping software for Windows 10/8/7/Vista/XP. These tools will allow you to wipe your hard drive, SSD, external hard drive, USB, and more.
+
+Make sure you always thoroughly research any type of software that you use on your computer. You do not want to download any type of spam. Our list is filled with great options that are legit and easy to use.
+
+The MiniTool Partition Wizard is designed to be an all-in-one solution. There are loads of powerful tools within one software, including wipe disk/partition/volume, create/resize/extend/format drive partition, recover data/partition, clone disk, migrate OS to SSD/HD, convert disk, and more.
+
+You can completely manage your hard drive, SSD, external hard drive, USB flash drive, thumb drive, SD card, hardware RAID, and much more. This free tool will wipe a hard drive for Windows 10/8/7. It will completely delete data within minutes.
+
+Arguably the best free hard drive wipe software to the DoD standard. You’ll hardly find a disk wipe review that doesn’t praise DBan. It works on all kinds of operating systems such as Windows, Linux, Mac OS, etc.
+
+To use the DBan data wiping software, you have to burn a copy of DBan on a CD, then restart your computer and choose the boot from CD option. After that, you’ll see the DBan interface and you can type “autonuke” for the automatic mode or press Enter to use the interactive mode.
+
+Then you have to select a wiping method (the M key), a verify method (by pressing V), select a hard drive to wipe (Space) and when you’re ready, simply press F10 and the data wiping process will start.
+
+Disk Wipe works a bit differently in the fact that it allows you to create a bootable CD, which will allow you to eliminate your hard drive without an operating system. It is a Windows application, which means you can use it on all Windows OS. You will not be able to wipe the hard drive which runs the operating system. However, you can use it to erase data on internal SSD drives or external hard drives.
+
+KillDisk is a hard drive eraser tool that has a free version that utilizes the one-pass zeros sanitation method. This tool lets you permanently wipe data on hard drives, camera flashcards, RAID disk arrays, USBs, and SCSI storage devices.
+
+There are both Win 32 and 64-bit executables and DOS executables included, plus you can wipe other hard drives running on different operating systems such as Linux, OS X, etc., by using a bootable wipe.
+
+With the help of CCleaner, you can wipe your computer’s hard drive or an external drive. Works with Windows OS. Either wipe data to help free space on your drive, or you can completely remove everything. There is a paid version that allows for more features.
+
+PCDiskEraser will permanently erase your data stored on your hard drive. There are many professional data standards that this software uses, such as those set by the U. S. Department of Defense 5220.22. The shortcomings of this software are the fact that it downloads as an ISO file, and you will have to either burn it to a disk or USB before using it.
+
+This free hard drive wiping tool can be utilized with Windows 10/8/7/Vista/XP. It can erase external drives, and it can be booted from a USB or CD. It will also allow for custom wiping methods.
+
+This is yet another tool that lets you completely erase all sensitive data on your hard drives. Eraser is open-source software that only works on Windows. It relies on complicated algorithms by overwriting and shredding the files on the hard drive more than once and deleting them efficiently and adequately.
+
+Using Eraser is a breeze. Just right-click on a file, folder, or disk, then click on the Eraser icon and hit the “Erase” button. Plus, it supports the following sanitation techniques: Guttmann, Random Data, Schneier, RCMP TSSIT OPS-II, GOST R 50739-95, DoD 5220.22-M, AFSSI-50-20. HMG IS5, AR 380-19, and VSITR.
+
+This software allows you to drag and drop the hard drive into the program. You can then choose a wiping method to erase your data. Supports traditional hard drives, SSDs, and can work on Windows 10/8/7/Vista/XP.
+
+With this wiping tool, you have many methods to choose from including DoD 5220.22-M, Gutmann, Random Data, Write Zero, and more. Choose to wipe data to free up some space or completely erase the hard drive. Supports Windows 10.
+
+Windows free disk manager is also an option to entirely erase your hard drive. You will find this option in the Disk Manager, which you can get to by pressing the Windows button and R key on the keyboard at the same time. Once the box comes up you will want to type “diskmgmt.msc. Right-click the disk that you wish to clean and continue by pressing format. Just be aware that cleaning or formatting the disk does not mean that you are wiping the data.
+
+If you are looking to learn how to recycle hard drives, check out our blog.
+
+Understanding the difference between formatting and wiping a hard drive will help you choose which option best suits your needs.
+
+Data that is formatted on a hard drive can be recovered with recovery software as long as the drive has not been overwritten. This differs from wiping because any data that is erased cannot be restored. The formatting process may include low-level formatting, partitioning, and high-level formatting.
+
+Wiping the disk will result in permanent data removal. This process is designed to destroy all the data that is on the hard drive. Zeros and ones will be used to overwrite the data within the hard drive sectors. During this process, the hard drive becomes unrecoverable.
+
+Securely wiping your hard drive can help protect you against fraud and identity theft. 16.7 million people were victims of identity fraud in 2017 in the US alone. Cybercrime continues to spread with attacks and breaches increasing by 44.7% during the same period.
+
+What this means is that if you don’t properly erase all the data on your hard drive, there’s a high likelihood of it falling into the wrong hands. Professional scammers know how to recover data from hard drives, even if you thought that the data was permanently deleted.
+
+These are the most popular ones and how they work:
+
+* DoD 5220.22-M – It has three passes: pass one writes a 0 and verifies it, pass two writes a 1 and verifies it, and pass three writes a random character and verifies the write.
+
+* Gutmann – This method utilizes a random character throughout its 1
+
+* to 35 passes, with some complex overwriting patterns in-between.
+
+* AFSSI-5020 – Similar to DoD 5220.22-M. It has three passes (one with 0, one with 1 and one with a random character) but sometimes it may differ in the order and number of passes.
+
+* Schneier – The Schneier method generally has seven passes: one with ones, one with zeros, and five with random characters.
+
+* Write Zero – The name speaks for itself. Here, there is usually only a single pass and it overwrites all data with zeros.
+
+* Random – This method may utilize one or many (up to twenty or even thirty) passes and every single pass writes a random character.
+
+Free may work in small batches for individual use, but these DIY, free hard drive wipe options do not offer guarantees, certificates of data destruction (for liability), and the labor cost of running the software on individual computers can add up to a significant sum.
+
+Off-site hard drive shredding services are perfect for organizations looking to securely dispose of large quantities of storage media. Using options such as data wiping, media degaussing, and hard drive shredding, we can ensure your legal obligations for data privacy protection are met. Arrange a pickup or find a drop-off location near you.
+
+Check out our blog to learn more about laptop recycling.

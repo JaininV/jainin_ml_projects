@@ -1,0 +1,19 @@
+In recent years, some state governments have sought to reform local zoning by limiting localities' ability to exclude new housing. One of the most common arguments against such reform is that local control of zoning is so well-established as to be a democratic norm. For example, Aaron Renn writes that banning single-family zoning involves a “shift from local to state control... [that] would completely upend this country's traditional approach to land use.” (1)
+
+But in fact, state government already interferes with local control in a variety of ways, especially in regulation-addicted states like New York. For example:
+
+*The state caps floor-area ratio at 12. This means that a landowner cannot build anything with over twelve stories, unless it a) allows some floor area to go unused or b) purchases development rights from other landowners or otherwise takes advantage of arcane zoning loopholes. This law seems to be limited to New York City. Because car pollution is reduced when people are allowed to build housing and offices in places which (like New York City) have lots of public transit, this law seems to be environmentally harmful. (2)
+
+*The state has an environmental review statute which ensures that large-scale construction can be delayed by environmental impact statements. Since state courts have the right to require supplemental environmental impact statements, this means that development opponents can (in theory) delay building by claiming that every environmental statement failed to consider something. Although this law is not limited to New York City, as a practical matter it targets infill development. Why? Because development at the edge of suburbia may not have as many neighbors as infill development, which means there are fewer people who are tempted to use state law to slow down such development.
+
+In addition, issues related to automobile traffic are often governed by state law. For example, the city had to get state permission to implement congestion pricing in Manhattan, and to slow down traffic with speed cameras.
+
+Admittedly, some of the abovementioned laws are roughly similar to what some local governments would do without state interference: for example, New York City has its own floor-area requirements. But state law deprives cities of the flexibility that they can use to tweak or reform those laws.
+
+So in New York, local control seems to be a widely accepted norm only as to regulations that limit housing supply or facilitate dangerously fast automobile traffic. But if a city's government wants to allow more housing or to protect its citizens from car pollution and traffic violence, the state is quite happy to intervene.
+
+If New York's experience is typical, local control is our “traditional approach to land use” only when it creates suburban sprawl or makes streets more dangerous.
+
+(1) Incidentally, this statement is questionable for a reason unrelated to this article: Renn admits that most of these reforms involve allowing landowners to substitute four-plexes for single-family homes. But since this still allows exclusion of larger apartment buildings, this seems to be to be a very modest reform—I suspect too modest to do much good.
+
+(2) One common counterargument is that high-rises are less energy-efficient than shorter buildings. I have responded to that argument in Sec. IV_D of this article.

@@ -1,0 +1,45 @@
+Like millions of workers, Kaz Netajian felt strait-jacketed in what seemed like one endless meeting. "I was spending 9-to-5 in meetings," he said. "I was doing my actual work after 5, and that just made me, like, worse at home and made me worse the next day at work."
+
+And as chief operating officer at commerce tech giant Shopify, he knew his coders and designers felt the same way. "People who build things, people who create things, require focus. So, if you're thinking about a problem and you're constantly interrupted, nothing good comes out of it," he said.
+
+On average, meetings are taking up nearly half of our work week. According to Microsoft, since the pandemic began, the number of meetings has jumped 153%.
+
+So, who's to blame for the preponderance of bad meetings? Nejatian said, "Companies started valuing managers over crafters. We started building companies to optimize for people whose job it was to manage other people, rather than do anything."
+
+"Those who can't make something, schedule meetings?" asked Rocca.
+
+"Yeah! We need to actually have you prove that you can build something before we give you Google calendar, and then I think the world will be better," Nejatian replied.
+
+So, in January Shopify imposed a meeting moratorium, deleting almost all meetings with more than two people, and cautioning employees about setting up new meetings.
+
+The company expects to liberate 300,000 hours this year alone.
+
+Nejatian said, "I expect that we will get at least 25 percent more work done because of a number of meetings that aren't happening."
+
+But Steven Rogelberg, from the University of North Carolina at Charlotte, says the issue is less about the quantity of meetings and more about their quality. "While we definitely could do with a little fewer meetings in our schedules, for sure, the bigger problem is ineffective meetings," he said. "If we do our meetings better, there [are] lots of positive outcomes that come from it."
+
+As a meeting scientist, Rogelberg has been studying the causes of bad meetings and their effects.
+
+Rocca said. "There was a meeting where I work – I wasn't there for it – but this meeting was so bad that it's already become legendary. I heard from people afterwards about this terrible meeting. They seemed rattled, maybe even traumatized."
+
+"Sounds horrible!" said Rogelberg. "There is something called Meeting Recovery Syndrome. When you have a bad meeting, it sticks with you. It's not good enough to keep it to yourself. You've got to tell someone else. Bad meetings, they hurt your productivity. They drain you. They fatigue you."
+
+If you're experiencing MRS, it may be due to meeting bloat. That's when more and more people keep getting added to the meeting.
+
+Or, said Rogelberg, it could be due to "Parkinson's Law," which is "the idea that work expands to fill whatever time is allotted to it. So, if a meeting is scheduled for one hour, magically it will take one hour."
+
+But here's the good news: you can prevent Meeting Recovery Syndrome with these tips from Rogelberg:
+
+* Do you even have to have this meeting? Could it instead be an email?
+
+* As for your agenda, formulate it as questions to be answered, rather than bullet points to be delivered.
+
+* If you're the meeting host, don't do all the talking. Software company Atlassian has a rubber chicken named Helmut; if someone squeaks it, you've been talking too long!
+
+Now let's circle back to Shopify, and its innovation in meeting mitigation: The Meeting Cost Calculator, which assigns a price to a meeting based on who's invited and for how long. Netajian showed Rocca a regular calendar invite that he'd just sent out, with a meeting cost estimated at $841. "What would an average engineer cost? What would an average hour of a designer's time cost? Add that up and put it down there."
+
+Rocca said, "Meetings are not just neutral time; they cost money."
+
+"Yeah. So, people ask questions: what is this meeting for? Why are this many people in it? And those questions will put an immense amount of pressure on organizers to organize fewer meetings – and leave the rest of us alone."
+
+OK, that's our hard out. Now I'm going to give you back the rest of your Sunday.

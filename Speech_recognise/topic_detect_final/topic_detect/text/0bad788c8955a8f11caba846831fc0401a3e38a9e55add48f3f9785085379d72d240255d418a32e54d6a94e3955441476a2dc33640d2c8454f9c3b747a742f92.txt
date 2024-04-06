@@ -1,0 +1,23 @@
+Bio-Rad received four customer complaints from 11/30/2022 to 12/21/2022 on BioPlex 2200 Anti-CCP Kit (Lot 301481) stating that results were discrepant while performing lot-to-lot validation against previous lots. Internal testing at Bio-Rad has demonstrated that Lot No. 301481 exhibits a specificity of 94.5% (95% CI 91.8  96.4) whereas the IFU indicates a specificity of 97.8% (95% CI 96.1  98.8%). The reduction in specificity may lead to an increase in the number of false positivesBio-Rad received four customer complaints from 11/30/2022 to 12/21/2022 on BioPlex 2200 Anti-CCP Kit (Lot 301481) stating that results were discrepant while performing lot-to-lot validation against previous lots. Internal testing at Bio-Rad has demonstrated that Lot No. 301481 exhibits a specificity of 94.5% (95% CI 91.8  96.4) whereas the IFU indicates a specificity of 97.8% (95% CI 96.1  98.8%). The reduction in specificity may lead to an increase in the number of false positivesBio-Rad received four customer complaints from 11/30/2022 to 12/21/2022 on BioPlex 2200 Anti-CCP Kit (Lot 301481) stating that results were discrepant while performing lot-to-lot validation against previous lots. Internal testing at Bio-Rad has demonstrated that Lot No. 301481 exhibits a specificity of 94.5% (95% CI 91.8  96.4) whereas the IFU indicates a specificity of 97.8% (95% CI 96.1  98.8%). The reduction in specificity may lead to an increase in the number of false positives. There is no performance issue with the calibrator lot# 53727. They are included in the recall only because the calibrators are lot matched to the impacted reagent pack.
+
+On February 21, 2023, Bio-Rad Laboratories issued a "Urgent: Medical Device Recall" notification to affected consignees. In addition to informing consignees about the recall, Bio-Rad asked consignees to take the following actions:
+
+1. We are requesting that customers discontinue the use of and dispose of according to local waste management procedures any unused BioPlex 2200 Anti-CCP Reagent Pack (Catalog No. 665-3250, UDI GTIN 00847865000857) Lot No. 301481 and BioPlex 2200 Anti-CCPCalibrator Set (Catalog No. 663-3200, UDI GTIN 00847865000819) Lot No. 53727.
+
+2. If you have distributed or transferred this product to any other Bio-Rad customers, or to any other laboratories from your site, please notify those customers of this field action.
+
+3. Please complete the attached Customer Response Form and return it to your local Bio-Rad Technical Support so they can assist you with obtaining replacement reagent packs and calibrator sets
+
+Bio-Rad is working to provide a new lot of BioPlex 2200 Anti-CCP Reagent Pack and matching
+
+calibrator sets as soon as possible. Please provide the number of replacement units required in the
+
+attached customer response form.
+
+Worldwide distribution - US Nationwide and the countries of Canada, Czech Republic, Germany, Spain, France, United Kingdom, Israel, Italy, Norway, Sweden.
+
+1 A record in this database is created when a firm initiates a correction or removal action.  The record is updated if the FDA identifies a violation and classifies the action as a recall, and it is updated for a final time when the recall is terminated.  Learn more about medical device recalls.
+
+2 Per FDA policy, recall cause determinations are subject to modification up to the point of termination of the recall.
+
+3 The manufacturer has initiated the recall and not all products have been corrected or removed.  This record will be updated as the status changes.

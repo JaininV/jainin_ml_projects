@@ -1,0 +1,31 @@
+(MENAFN- PR Newswire)  CINCINNATI, April 19, 2023 /PRNewswire/ -- Meridian Bioscience, Inc., a leading global provider of diagnostic testing solutions and life science raw materials, announced today that the United States Food and Drug Administration (FDA) had granted clearance for the company's new Curian® Shiga Toxin assay. This assay joins Curian HpSA® and Curian Campy as Meridian expands its Curian diagnostic platform to maintain leadership in the gastrointestinal disease testing market. continue reading
+
+Foodborne illness is a severe global public health problem that causes 48 million people to get sick yearly and 128,000 hospitalizations from common bacterial agents like Campylobacter and E. coli.1 Meridian is expanding its foodborne immunofluorescent testing capabilities beyond Campylobacter by adding Shiga toxin to the Curian platform. Speedy diagnosis is essential with patients suspected of having a Shiga toxin-producing E. coli infection because the use of antibiotics for treatment can increase Shiga toxin release, leading to hemolytic uremic syndrome (HUS), a potentially life-threatening complication.
+
+Curian Shiga Toxin assay is a rapid immunoassay for the detection and differentiation of Shiga toxin 1 and Shiga toxin 2
+
+tweet this
+
+The Curian Shiga Toxin assay is designed for use with the Curian analyzer. The new assay is a rapid, qualitative, fluorescent immunoassay for the simultaneous detection and differentiation of Shiga toxin 1 (Stx1) and Shiga toxin 2 (Stx2) in a single test device. It is intended for use with cultures derived from human stool specimens to aid in diagnosing diseases caused by Shiga toxin-producing
+
+E. coli
+
+(STEC) infections, including non-O157 strains.
+
+The immunofluorescent technology of the Curian platform provides an objective, rapid Shiga toxin result with an unmatched clinical sensitivity of 100% (Stx1), 100% (Stx2), and specificity of 99.4% (Stx1), 99.5% (Stx2) in prospective samples.
+
+Curian Shiga Toxin features a lower limit of detection than traditional rapid immunoassay testing. Combined with LIS connectivity, the Curian solution helps to eliminate subjectivity by reducing user variability related to interpreting and reporting visually based lateral flow test results.
+
+"We are excited to continue the expansion of the Curian platform with this highly sensitive and specific assay.
+
+Curian now features the broadest menu of GI tests on an immunoassay analyzer," said Tony Serafini-Lamanna, President of Meridian Bioscience Diagnostics. "Curian Shiga Toxin has a market-leading three-step sample prep workflow and produces fast, objective results that can help laboratorians and clinicians provide an objective Shiga toxin diagnosis to get patients on the correct treatment and back on the road to wellness."
+
+Curian® and HpSA® are registered trademarks of Meridian Bioscience, Inc.
+
+Meridian is a fully integrated life science company that develops, manufactures, markets, and distributes a broad range of innovative diagnostic and life science products. We are dedicated to developing and delivering better solutions that give answers with speed, accuracy, and simplicity that are redefining the possibilities of life from discovery to diagnosis. Through discovery and development, we provide critical life science raw materials used in immunological and molecular tests for human, animal, plant, and environmental applications. Through diagnosis, we provide diagnostic solutions in areas including gastrointestinal and upper respiratory infections and blood lead level testing. We build relationships and provide solutions to hospitals, reference laboratories, research centers, veterinary testing centers, physician offices, diagnostics manufacturers, and biotech companies in more than 70 countries around the world. Meridian is a privately held company headquartered in Cincinnati, Ohio.
+
+Meridian's website address is  .
+
+1.
+
+Centers for Disease Control and Prevention. December 2022. Foodborne Germs and Illnesses. Retrieved from  .

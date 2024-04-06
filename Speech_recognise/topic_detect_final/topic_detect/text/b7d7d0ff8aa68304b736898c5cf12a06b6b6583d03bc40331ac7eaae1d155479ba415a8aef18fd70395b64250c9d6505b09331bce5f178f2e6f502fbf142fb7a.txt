@@ -1,0 +1,13 @@
+After 50 years the bar code is to get an update with a successor that offers far more information about the product inside.
+
+After 50 years the bar code is to get an update with a successor that offers far more information about the product inside.
+
+In a worldwide push called "Sunrise 2027," the retail industry is transitioning from the standard 12-digit barcode -- that square of vertical lines that's printed on a package and makes it go "beep" at the checkout scanner -- to a two-dimensional web-enabled version. The effort is being orchestrated by GS1 US, the nonprofit standards organization that oversees the barcode world. In the United States, Universal Product Code (UPC) barcodes will be supplanted by a new 2D type, with information encoded on both the horizontal and vertical axes. By 2027, only the 2D barcodes will be accepted at registers globally.
+
+The new "2D" barcodes will unlock reams of online extras (for consumers) and revolutionise inventory management (for retailers). Scanning them may tell us the field where something was grown, the factory where a garment was sewn, the sustainability practices of the company that made it -- or the washing instructions.
+
+Shops will be able to respond immediately to product recalls, identifying faulty items and removing them from shelves. They'll be able to flag foods that are approaching their sell-by date -- and offer discounts before they expire. Consumers will gain online access to a trove of useful data -- everything from ingredients, recipes and potential allergens to promotional offers and information about how to recycle the product.
+
+GS1 US just released a "barcode capabilities test kit" to help retailers evaluate their readiness for the 2D transition.
+
+When the old barcodes came out 50 years ago the Christian right called for bans for shops and supermarkets that used them. They claimed that they were the "mark of the beast" mentioned in Revelation and somehow managed to find the number 666 encoded into each barcode. After a few years and the Great Beast failed to show up they decided that maybe barcodes were not so bad after all and moved on to worrying about RFID chips instead.

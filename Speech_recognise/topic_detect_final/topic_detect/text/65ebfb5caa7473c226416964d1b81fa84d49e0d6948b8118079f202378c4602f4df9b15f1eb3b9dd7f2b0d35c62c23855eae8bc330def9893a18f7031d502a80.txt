@@ -1,0 +1,17 @@
+Just a few years ago, the promise seemed limitless: Automate cars and bring an end to traffic accidents, the biggest killer in the United States. Automate construction, with robot dozers, excavators, and other heavy machinery, and US housing and infrastructure shortfalls could be solved.
+
+Built Robotics began testing autonomous excavators in 2017 with the goal of training machines to do more on construction sites. At the time, CEO Noah Ready-Campbell predicted that fully autonomous equipment would become commonplace on construction sites before fully autonomous cars hit public roads.
+
+But after nearly seven years of digging trenches with autonomous excavators, Built Robotics last month announced plans to shift its focus from general construction projects to installation of solar farms. For that purpose, it rolled out RPD-35, a robotic pile driver that performs a single straightforward task, using a dull metal head fitted onto a mechanical arm to smash steel beams into the ground.
+
+“It’s all solar all the time for us now,” Ready-Campbell says. “It may feel like we’re narrowing our focus, but I think solar over the next 10 to 20 years is going to become the story of our electrical grid as a country.” He says the shift is aimed in part at riding the coattails of infrastructure and climate-change funding passed by the US Congress last year, and that Built will now devote less time to other projects.
+
+Some fully autonomous vehicles are on the road in China and the US, but just as the dream of driverless cars and robotaxis has yet to come to true, the promise of AI in construction appears to have fallen short.
+
+Major companies like Caterpillar in the US, Doosan in Korea, and Volvo in Europe started experiments with fully autonomous heavy-duty machinery for construction sites a few years ago, but the idea has yet to advance beyond the prototype stage or become widely available.
+
+Construction sites pose a difficult challenge for the developers of AI and robotics technology. Construction tasks often involve manipulating objects in 3D, and they take place on sites in a state of continuous change, while automation is most successful carrying out repetitive tasks with predictable outcomes. Making safe self-driving vehicles that travel on well-mapped public roads, which change more slowly, is in some ways easier.
+
+Caterpillar is the world’s largest construction equipment manufacturer and has deep AI experience. The company won Darpa’s self-driving car challenge that involved a 142-mile race through the Mojave Desert in 2007, and it began experiments with autonomous trucks in the 1990s. Caterpillar customers currently operate nearly 600 autonomous trucks from the company in mines around the world, but the firm has yet to commercialize automated dozers or excavators for construction.
+
+That’s despite setting a goal in 2020 to increase sales of software for control of autonomous machinery and make up for a decline in revenue from heavy-duty equipment. CTO Karl Weiss says that while Caterpillar has no semi-automated machinery routinely at work, it is testing heavy machinery automation on construction sites with a small number of partners, although he declines to share details.

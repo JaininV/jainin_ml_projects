@@ -1,0 +1,99 @@
+A key focus of ESA's Jupiter Icy Moons Explorer (Juice) will be Ganymede: Jupiter's largest moon, and an ideal natural laboratory for studying the icy worlds of the Solar System.
+
+Why focus on Ganymede?
+
+There are a handful of key reasons Juice will home in on Ganymede.
+
+Firstly, Ganymede is thought to have a salty ocean beneath its icy shell. This ocean may be large enough to wrap around the entire planet, although we're unsure of what it's like. What is it composed of, and how deep is it? One of Juice's key goals at Ganymede is to explore this body of water, while also comparing it to Jupiter's other ocean-bearing moons to get a clearer picture of these worlds as potential habitats for life.
+
+Ganymede also displays complex interactions with the space environment around Jupiter, one of the most intense and dynamic regions in the Solar System. It is also the only moon - and one of only three solid bodies - in the Solar System to generate its own intrinsic magnetic field. How does it do this? What drives and maintains Ganymede's internal dynamo, and why don't we see one on other moons?
+
+Ganymede's magnetic field forms a little magnetic bubble (a magnetosphere) that exists within the larger magnetosphere of Jupiter itself; this bubble constantly interacts with the electromagnetic fields and hot, ionised matter (plasma) flooding the region, and produces strong auroras. Juice will measure the magnetic and electric fields, energetic particles, atoms and molecules, and processes seen around Ganymede, and unpick how these interact with Jupiter's environment, radiation belts and other moons. This is essential if we're to understand how satellites form, evolve and exist not only in the Jupiter system, but in gas giant systems elsewhere in the cosmos.
+
+Last but not least, Ganymede holds a unique position in the Jupiter system in terms of its geology and evolution, providing a window into the history of the system over several billions of years.
+
+The moon's complex surface is very varied in age and offers both the old, pockmarked terrain seen on Callisto and the lighter, smoother resurfacing seen on Europa. By studying Ganymede's surface features, scientists can therefore gain insight into how impacts from space and geological processes such as tectonics have shaped Jupiter's moons over time. This includes mapping Ganymede's surface composition - especially in regions where there may be traces of past processes such as space weathering, cryovolcanism and tectonics - and determining the physical properties of the moon's ice shell, which is thought to be up to 130 km thick.
+
+How will Juice do this?
+
+Juice is a unique mission. It will be the first spacecraft to orbit a moon other than our own, and also the first to change orbit from another planet to one of its moons (Jupiter to Ganymede). It will first orbit Jupiter, performing numerous flybys of the planet's moons - including 12 of Ganymede - as it loops around the gas giant. Juice will then hop across to Ganymede and begin its in-depth study of the moon. (More on Juice's journey to Jupiter.)
+
+Juice will measure how Ganymede rotates, its gravity and geophysics, its shape and interior structure, its magnetic field and atmosphere, its composition and mineralogy, its icy crust and surface features, its emissions to space and interactions with its surroundings, and, crucially, its subsurface ocean. It will complete a 'tomography' of Ganymede for the first time, observing it from multiple perspectives to reconstruct a view of its interior, and assess the moon's biosignatures (elements thought to be biologically essential, although not sufficient, for life: examples include carbon, oxygen, magnesium, iron and liquid water).
+
+The spacecraft will probe each of Ganymede's layers individually: its core (thought to be liquid and iron-rich), mantle (rocky and icy), salty ocean, ice shell, magnetosphere and tenuous atmosphere (including the outermost layer - the exosphere). To do this, the spacecraft is equipped with 10 state-of-the-art scientific instruments, as well as one experiment (PRIDE) and one radiation monitor (RADEM). This payload will tackle the mission's science goals by acquiring remote sensing (from a distance), in situ ('on-site') and geophysical observations.
+
+Below are some of the objectives of Juice pertaining to Ganymede, with the associated instrument(s) indicated in parentheses.
+
+Ariane 5 for flight VA260 carrying ESA's Juice mission is seen here fully integrated and ready for rollout for its planned 13 April 2023 launch from Europe's Spaceport in French Guiana.
+
+Juice - JUpiter ICy Moons Explorer - is humankind's next bold mission to the outer Solar System. After an eight-year journey to Jupiter, it will make detailed observations of the gas giant and its three large ocean-bearing moons: Ganymede, Callisto and Europa.
+
+This ambitious mission will characterise these mo ...  read more
+
+Please enable JavaScript to view the comments powered by Disqus.
+
+Humans need Earth-like ecosystem for deep-space living
+
+Russia will use International Space Station 'until 2028'
+
+NASA Boosts Open Science through Innovative Training
+
+Orion stretches its wings ahead of first crewed Artemis mission
+
+SpaceX prepares for rehearsal, test flight of Starship rocket
+
+China's 3D printed afterburning liquid rocket engine tested during recent mission
+
+Rocket Lab moves CubeSat from Virginia to New Zealand
+
+Rocket Lab updates launch location for NASA's TROPICS mission
+
+NASA unveils 'Mars' habitat for year-long experiments on Earth
+
+Curiosity software upgrade complete: Sol 3796
+
+Scoping out the next sampling stop for Perseverance
+
+New interactive mosaic uses NASA imagery to show Mars in vivid detail
+
+China's inland space launch site advances commercial services
+
+China's Shenzhou XV astronauts complete 3rd spacewalk
+
+China's Shenzhou-15 astronauts to return in June
+
+China's space technology institute sees launches of 400 spacecraft
+
+'The Space Economy' - an Essential Guide for Investors and Entrepreneurs
+
+Slingshot Aerospace expands network to optically track LEO satellites
+
+Safran to provide GNSS simulation solutions for Xona's LEO constellation
+
+Rocket Lab to launch NASA's cyclone-tracking satellite constellation from New Zealand
+
+3D-printed rocket maker to focus on bigger vehicle for commercial launches
+
+Tendeg selected by Lockheed Martin as strategic supplier of deployable antennas
+
+Satixfy tests new antenna with OneWeb and Air Force Research Lab
+
+Viasat real-time Earth antennas integrated on Microsoft Azure Orbital
+
+HD 169142 b, the third protoplanet confirmed to date
+
+Do Earth-like exoplanets have magnetic fields
+
+New paper investigates exoplanet climates
+
+JWST confirms giant planet atmospheres vary widely
+
+Spotlight on Ganymede, Juice's primary target
+
+Juno Marks 50 Orbits Around Jupiter
+
+A Jovian journey to the icy worlds of a Gas Giant
+
+Guiding JUICE to Jupiter
+
+The content herein, unless otherwise known to be public domain, are Copyright 1995-2023 -  Space Media Network . All websites are published in Australia and are solely subject to Australian law and governed by Fair Use principals for news reporting and research purposes. AFP, UPI and IANS news wire stories are copyright Agence France-Presse, United Press International and Indo-Asia News Service. ESA news reports are copyright European Space Agency. All NASA sourced material is public domain. Additional copyrights may apply in whole or part to other bona fide parties. All articles labeled "by Staff Writers" include reports supplied to Space Media Network by industry news wires, PR agencies, corporate press officers and the like. Such articles are individually curated and edited by Space Media Network staff on the basis of the report's information value to our industry and professional readership. Advertising does not imply endorsement, agreement or approval of any opinions, statements or information provided by Space Media Network on any Web page published or hosted by Space Media Network.  Our advertisers use various cookies and the like to deliver the best ad banner available at one time. All network advertising suppliers have GDPR policies (Legitimate Interest) that conform with EU regulations for data collection. By using our websites you consent to cookie based advertising. If you do not agree with this then you must stop using the websites from May 25, 2018.  Privacy Statement . Additional information can be found here at  About Us .

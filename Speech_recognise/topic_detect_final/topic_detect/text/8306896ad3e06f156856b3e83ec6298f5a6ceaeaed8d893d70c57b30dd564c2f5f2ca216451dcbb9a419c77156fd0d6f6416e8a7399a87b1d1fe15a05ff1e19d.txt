@@ -1,0 +1,31 @@
+Amazon recently announced that AWS Lambda functions can progressively stream response payloads back to the client. The new feature improves performance for web and mobile applications and is currently available for Node.js 14.x and newer runtimes, as well as custom ones.
+
+Response streaming helps developers stream responses from their functions to their users without necessarily waiting for the entire response to be finished. The long-awaited capability is supported using Lambda function URLs and SDKs but it is currently not possible to use the API Gateway or the Application Load Balancer (ALB) to stream response payloads. Julian Wood, principal developer advocate, explains the advantages:
+
+In traditional request-response models, the response needs to be fully generated and buffered before it is returned to the client. This can delay the time to first byte (TTFB) performance while the client waits for the response to be generated. Web applications are especially sensitive to TTFB and page load performance.
+
+Designed for large payloads like images, videos, large documents, or database results, response streaming requires wrapping the Lambda function handler with the streamifyResponse() decorator, for example:
+
+exports.handler = awslambda.streamifyResponse(
+
+async (event, responseStream, context) => {
+
+responseStream.setContentType("text/plain");
+
+responseStream.write("Hello, world!");
+
+responseStream.end();
+
+where the new responseStream object provides a stream object that the function can write data to and send it immediately to the client. Developers can optionally set the Content-Type header of the response to pass additional information about the stream. AJ Stuyvenberg, engineering team lead at Datadog, tested the new feature and comments:
+
+This launch may seem minor, but it unlocks several key use cases - especially for Next.js and React developers looking to reduce time to first byte while leveraging server-side rendering.
+
+The new feature currently supports a maximum response size of 20 MB (soft limit) and there is a maximum bandwidth throughput limit of 16 Mbps (2 MB/s) for streaming functions. Currently, response streaming is only natively available in the Node.js SDK but it is possible to implement it in a custom Lambda runtime supporting other programming languages. While some developers focus on the limitations, Jeremy Daly, CEO and co-founder at Ampt, writes in his newsletter:
+
+This not only allows Lambda functions to progressively stream responses back to the client to reduce TTFB, but also allows you to exceed the standard 6MB payload limit.
+
+Yan Cui, cloud consultant and AWS Serverless Hero, wrote an article demonstrating how to return large objects with the new streaming response, bypassing the need to store results in S3.
+
+Response streaming in Lambda is not the first option available in the cloud space with Vercel recently offering support for HTTP response streaming in both Node.js (Lambda) and Edge runtimes.
+
+AWS published example Lambda streaming applications in the Serverless Patterns Collection, applications that support AWS SAM to build and deploy the resources. Streaming responses increase the Lambda costs for network transfer but the AWS free tier now includes 100GiB of HTTP response streaming per month, beyond the first 6MB per request.

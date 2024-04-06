@@ -1,0 +1,23 @@
+Crypto holders are always looking for airdrops or free crypto – but many don’t consider the associated tax obligations. If you’re based in the US, it’s not great news regarding airdrop taxes.
+
+Airdrops have become an increasingly popular method for projects to distribute tokens to the public. These airdrops often involve the unprompted delivery of free tokens to users’ digital wallets. While receiving free tokens may seem like a windfall, it’s essential to understand the tax implications associated with them. In this article, we’ll explore the basics of airdrop taxes, the factors influencing taxation, and the steps you can take to stay compliant with the IRS.
+
+Airdrops are a promotional strategy cryptocurrency projects employ to distribute new tokens to users. They involve sending tokens to the digital wallets of individuals who have met certain requirements, such as holding a specific cryptocurrency, participating in a project, or promoting it on Twitter.
+
+In 2019, the IRS released a revenue ruling to clarify the tax treatment of cryptocurrency airdrops and forks. According to the guidance, the fair market value of tokens received through airdrops is considered taxable income. One of the common challenges is that it can be difficult for a fair market value to be assigned to an airdrop. If this is the case, the IRS recommends using a “reasonable method that is consistently applied.”
+
+It’s worth speaking to an accountant who can guide you through this process if you are unsure about the fair market value. It’s essential to keep a detailed record of the airdrops you receive, including the date, the number of tokens, and the FMV at the time of the airdrop. This information will be necessary for accurately reporting your income and calculating your tax liability.
+
+Whilst there hasn’t been any specific IRS guidance on Learn & Earn programs or DeFi, earnings-based rewards are generally treated as income at fair market value. DeFi protocols, in particular, can cause significant challenges regarding taxation, mainly because record keeping can be tricky.
+
+There are potentially multiple taxable transactions when engaging with DeFi platforms and undertaking lending, borrowing, and trading activities. The tax implications for these platforms can even vary depending on the specific service used.
+
+One thing to note is that the tax rules differ if you are running a genuine business rather than trading as an individual investor subject to Capital Gains Tax. If you think your crypto activities are sophisticated enough to be a business, speak with a tax professional who can help you navigate these rules.
+
+To ensure you stay compliant with IRS regulations, consider the following:
+
+* Maintain detailed records using software: Keep a record of all airdrops you receive, including the date, number of tokens, and their fair market value.
+
+* Consult a tax professional: If you’re unsure about the tax treatment of airdrops or need assistance with reporting, it’s best to consult a tax professional familiar with cryptocurrency taxation.
+
+With only days remaining until the tax deadline for many countries, crypto holders should know the tax implications associated with airdrops and other free tokens they may have acquired throughout the last year. Consulting a tax professional familiar with cryptocurrency taxation is also advisable for those unsure about the tax treatment of airdrops and other crypto earnings.

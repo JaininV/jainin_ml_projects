@@ -1,0 +1,91 @@
+We use cookies (why?) You can change your cookie preferences. By continuing to use this site, you agree to the use of cookies.
+
+We use cookies to improve your experience. Learn More or change your cookie preferences. By continuing to use this site, you agree to the use of cookies.
+
+We use cookies (why?) You can change your cookie preferences. By continuing to use this site, you agree to the use of cookies.
+
+We use cookies to improve your experience. Learn More or change your cookie preferences. By continuing to use this site, you agree to the use of cookies.
+
+Nick Kypreos joins Sportsnet Central to delve into the disaster that was Game 1 for the Maple Leafs against the Lightning, looking at the confusing line juggling, Michael Bunting’s illegal hit, the questionable play from the defence and more!
+
+We've sent an email with instructions to create a new password. Your existing password has not been changed.
+
+We'll send you a link to create a new password.
+
+{* #forgotPasswordForm *}
+
+{* traditionalSignIn_emailAddress *}
+
+{* /forgotPasswordForm *}
+
+{* #legalAcceptancePostLoginForm_radio *}
+
+{* traditionalRegistration_displayName *}
+
+{* email *}
+
+By checking this box, I agree to the terms of service and privacy policy of Rogers Media.
+
+{* /legalAcceptancePostLoginForm_radio *}
+
+Don't miss out - sign up for our newsletters! (approx 1 - 2 per week)
+
+An error has occurred while trying to update your details. Please contact us.
+
+Please confirm the information below before signing up.
+
+{* #socialRegistrationForm_radio_2 *}
+
+{* socialRegistration_firstName *}
+
+{* socialRegistration_lastName *}
+
+{* socialRegistration_emailAddress *}
+
+{* socialRegistration_displayName *}
+
+By checking this box, I agree to the terms of service and privacy policy of Rogers Media.
+
+{* /socialRegistrationForm_radio_2 *}
+
+{* #registrationForm_radio_2 *}
+
+{* traditionalRegistration_displayName *}
+
+{* traditionalRegistration_emailAddress *}
+
+Don't miss out - sign up for our newsletters! (approx 1 - 2 per week)
+
+By checking this box, I agree to the terms of service and privacy policy of Rogers Media.
+
+{* /registrationForm_radio_2 *}
+
+Check your email for a link to reset your password.
+
+We've sent an email with instructions to create a new password. Your existing password has not been changed.
+
+We didn't recognize that password reset code. Enter your email address to get a new one.
+
+{* #resetPasswordForm *}
+
+{* traditionalSignIn_emailAddress *}
+
+{* /resetPasswordForm *}
+
+Thank you for verifying your email address.
+
+Sorry we could not verify that email address. Enter your email below and we'll send you another email.
+
+{* #resendVerificationForm *}
+
+{* traditionalSignIn_emailAddress *}
+
+{* /resendVerificationForm *}
+
+{* #userInformationForm *}
+
+Email?You may have created an account with another Rogers Media account that can be used to sign in here.
+
+{* traditionalSignIn_emailAddress *}
+
+{* /userInformationForm *}

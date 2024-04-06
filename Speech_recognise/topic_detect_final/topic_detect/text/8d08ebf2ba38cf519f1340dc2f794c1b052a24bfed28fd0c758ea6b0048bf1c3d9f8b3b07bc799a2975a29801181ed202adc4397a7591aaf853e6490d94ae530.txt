@@ -1,0 +1,33 @@
+An experimental mRNA vaccine developed by Moderna Inc MRNA. O combined with Merck & Co's MRK.N blockbuster immunotherapy Keytruda cut the risk of death or recurrence of the most deadly skin cancer by 44% compared Keytruda alone, US researchers reported at a medical meeting on Sunday.
+
+The findings suggest that adding a personalized cancer vaccine based on mRNA technology to Keytruda, which revs up the immune response, could prolong the time patients have without recurrence or death, said Dr. Jeffrey Weber of the NYU Langone Perlmutter Cancer Center, who presented the findings.
+
+"From a general cancer therapeutic standpoint, this is a potential major breakthrough," Dr. Ryan Sullivan, a melanoma expert at Mass General Cancer who worked on the study, said in a statement.
+
+The results, presented at American Association for Cancer Research meeting in Orlando, Florida, add data details to partial findings released by the companies in December.
+
+The Merck/Moderna collaboration is one of several combining powerful drugs that unleash the immune system to target cancers with mRNA vaccine technology. BioNTech SE 22UAy. DE and Gritstone Bio Inc GRTS.O are working on competing cancer vaccines based on mRNA technology.
+
+Moderna's vaccine is custom-built based on an analysis of a patient's tumors after surgical removal. The vaccines are designed to train the immune system to recognize and attack specific mutations in cancer cells.
+
+Merck's Keytruda, which is approved to treat melanoma and many other cancers, belongs to a class of widely used immunotherapies known as checkpoint inhibitors designed to disable the PD-1, or programmed death 1, protein that helps cancer evade the immune system.
+
+The midstage trial enrolled men and women at high risk of their melanoma returning.
+
+Among 107 study subjects who received both the experimental vaccine, mRNA-4157/V940, and Keytruda, the cancer returned in 24 subjects (22.4%) within two years of follow-up, compared with 20 out of 50 (40%) who received Keytruda alone.
+
+There was little difference in response rates among people whose tumors had a lot of mutations - a typical predictor of immunotherapy response - and those whose tumors did not.
+
+Severe side effects were similar between the two arms of the study, the scientists reported. Fatigue was the most common side effect reported by patients specifically associated with the vaccine.
+
+Merck said the companies are in talks with US regulators about design of a late-stage trial, which is likely needed for approval of the combination regimen.
+
+It could take three or four years before the results of the larger trials are known, Eliav Barr, Merck's head of global clinical development and chief medical officer, said in an interview.
+
+Barr said it took Moderna about eight weeks to design a personalized mRNA vaccine for each patient.
+
+In the past, similar experimental cancer vaccines were developed targeting a single tumor mutation, or neoantigen.
+
+Moderna's mRNA technology allowed for the inclusion of as many as 34 neoantigens, which Barr called "astonishing."
+
+Currently, scientists cannot predict which single mutation is important in generating an anti-tumor response. With mRNA technology in combination with Keytruda, "we can create this shotgun approach ... that can create a more potent immune response," Barr said. Sign up for the Health & Wellness newsletter >>

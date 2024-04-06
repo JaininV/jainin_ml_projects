@@ -1,0 +1,25 @@
+When it comes to digital transformation,  manufacturing typically faces more hurdles than other industries. For starters,  they were slow to harness digital and cloud technology, and though great  strides are now being made, manufacturers are still playing catch-up. Further, with  many having widely dispersed operations – headquarters, distant facilities,  global offices – disconnected systems end up creating inefficient data  silos.
+
+To access and leverage what could be a gold  mine of information, specially designed applications are required. To take advantage  of the Internet of Things (IoT), manufacturers also must deploy purpose-built  devices. It’s a catch-22, because while the technology is needed, it  dramatically increases the risk of attack by creating additional security  vulnerabilities. So, instead of being positioned to better handle disruption,  drive efficiency and new initiatives, manufacturers end up being an attractive  and easy target for cybercriminals.
+
+In a recent Sophos survey focused on  manufacturing, more than 60 percent said they experienced an increase of  attacks compared to the year before. When it came to the most unrelenting threat  of all – ransomware – 55 percent of respondents reported an attack increase of nearly  40 percent. And all it takes is a single breach to cripple operations and start the  “loss meter” running as the cost of downtime grows, and a company’s reputation  sinks.
+
+Manufacturers possess huge amounts of data,  much of it protected and managed with antiquated IT systems, creating gaps in  protection. While increasing IT resources can help, simply updating employee cyber  awareness and enforcing policies can prevent a lot of trouble. As part of that,  employees should create strong passwords, which should be regularly changed and  not shared. Dual-factor authentication can further lock things down.
+
+Manufacturers must ensure employees are fully  aware of, and exercise, proper cyber hygiene. For bad actors, duping employees  is often the easiest way into a company network. Phishing attacks can lure  staff to click on a link, which can then download malware or expose  credentials. With this in mind, everyone should undergo security training to  reduce the likelihood of attacks, no matter if it’s the newest hire or a  longtime CIO. And updates should take place in order to keep up with the latest  hacker tactics.
+
+Every security leader says the same: Your  company will be attacked, the only question is when it will  occur.  When it does, what matters most  of all is recovering and getting back to normal operations as soon as possible.
+
+In the case of ransomware, reliance on aging  storage and backup systems can spell trouble. Often, the technology is unable  to accommodate the tremendous volume of information created by manufacturers. In  fact, those with operations spread across the globe can produce thousands of  terabytes of data. To recover such a volume would take a lot of time; a full  recovery could take months.
+
+For some executives, the exorbitant cost of  downtime can make paying the ransom seem like the fastest way to return to  normalcy. However, paying up doesn’t guarantee quick or complete recovery; one-third of companies who settle up never fully recover all their data. What’s more, those companies known to pay can  be hit again by the same bad actors, and as word spreads, others will join in  the game.
+
+That said, every manufacturer should have a  plan for rapid recovery, which should also be reviewed and updated often to  keep pace with evolving threats.
+
+For manufacturers, the silver lining can be  found in the cloud. Storage systems can be used to make data immutable – unable  to be changed or encrypted – providing companies with a gold master copy of its  data. File storage systems can help IT quickly identify attack sources and head  off further damage. Additional functionality is also possible, including  alerts, granular logging of activity and IP addresses, edge detection and more.
+
+When it comes to recovery points, file  versioning in the cloud can provide options, with snapshots taken every  few minutes, if needed. Infected data can be recovered without harming or  involving any non-impacted or clean data. Wherever users are, they’re  assured access to their data. And, regardless of dispersed operations, all of this  information can be stored together.
+
+By integrating a data storage strategy,  security is bolstered, the likelihood of downtime is reduced, and manufacturers  can gain the continuity necessary to ensure their future success.
+
+Russ Kennedy  is chief product officer at Nasuni, which provides a file services platform  built for the cloud.

@@ -1,0 +1,7 @@
+Apple is working on a larger 15-inch MacBook Air, an updated 13-inch MacBook Air, and an updated 13-inch MacBook Pro, and at least some of these new laptops will be announced at WWDC in June, according to Bloomberg's Mark Gurman.
+
+In his latest newsletter, Gurman said the new MacBooks coming at WWDC "probably won't" feature Apple's next-generation M3 chip, and will instead be powered by processors "in line with" the M2 chip. This information suggests the 15-inch MacBook Air will be powered by the M2 chip, but it's not entirely clear what it means for the 13-inch MacBook Air and the 13-inch MacBook Pro, as those models are already equipped with the M2 chip.
+
+15-inch MacBook Air rumors began in early 2021, and it appears the laptop is nearing release. Apple's suppliers have reportedly ramped up production of 15-inch display panels for the laptop, and the machine recently surfaced in App Store developer logs.
+
+Apple is expected to announce macOS 14 during the WWDC keynote on June 5, and Gurman does not expect the update to include major changes.

@@ -1,0 +1,35 @@
+There’s an ongoing debate regarding the role that consumer health technology, like wearable health devices (i.e., smartwatches), can play in diagnostics, now and in the future. Because this is a relatively new technology, the scope of its potential impact is, at present, only scraping the surface.
+
+Even so, smartwatches and their connected health apps are reshaping the healthcare industry. This technology has the ability to not only make personalized healthcare more widely accessible, but its predictive capabilities are also redefining the way we think of diagnostic and pre-diagnostic tech. And, yes, like any developing technology, it has its own particular brand of drawbacks.
+
+How is health tech currently being deployed in diagnostics?
+
+Somewhere around half of U. S. consumers monitor their health using wearable devices and related health apps. The information that’s made available through this technology allows users to see for themselves how specific habits and activities impact their health, nudging necessary change. In fact, those who use health apps and wearables have been shown to make healthier lifestyle choices. (Turns out, the cliché “knowledge is power” isn’t so cliché.)
+
+Because this technology is already so widely used throughout the population, there’s been an unprecedented opportunity to use real-time, continuous data to monitor for potential conditions. Certain apps on the market, like Cardiogram, a continuous heart-rate monitoring app, are able to transform their user’s data (and manual input) into algorithms that can accurately detect the likelihood of a given health condition. For example, Cardiogram tells its users their likelihood of having hypertension, sleep apnea, and diabetes.
+
+The beauty here is that once an app has detected a condition, users are then able to take guided action to improve health outcomes and lower their risks. They can also then share their data with a doctor, who can confirm a diagnosis. This offers a much more focused and streamlined method to the diagnostic process as it highlights potential problem areas, resulting in less guessing and unnecessary testing.
+
+So much so, many doctors are now “prescribing” the use of smartwatches and health apps as a way to better glean into their patient’s day-to-day health, rather than relying on stand-alone tests and routine visits. And because of this, we’re also seeing more and more insurance agencies subsidizing the cost of certain smartwatches and health apps.
+
+What are the drawbacks of health technology?
+
+While the use of smartwatches is readily being used to aid in pre-diagnostics, the majority of this technology is not yet approved to make a full diagnosis. Several factors play a part in this, from the need for FDA clearance to general user error. Not to mention, most apps’ algorithms are not yet precise enough to be able to make an accurate diagnosis.
+
+Unfortunately, most health apps are currently not regulated. This means that while using many apps, it’s not guaranteed that the data and insights being shared are accurate or trustworthy. And, of course, this information isn’t always readily disclosed with users. While new laws and regulations are constantly being established in order to create a safer consumer market, apps should still be used with caution and a bit of a “user beware” mentality.
+
+With this in mind, it’s also important that consumers do their research and check for themselves that the health apps they’re using have been clinically validated and tested for accuracy. And, thankfully, there certainly are reliable apps currently on the market that have taken it upon themselves to undergo such testing.
+
+What is the future of health tech diagnostics?
+
+Of course, nobody can tell the future for certain. But we can see a fairly obvious trajectory in health tech’s role in diagnostics to help us understand how it will likely take shape in the coming years.
+
+For instance, the growing number of doctor-recommended smartwatches shows the potential for their use to soon become standard practice in healthcare. Because many smartwatches monitor heart rate, pulse oxygen, and blood pressure, we’re likely to first notice a rise in their use for cardiovascular conditions and sleep disorders.
+
+It would also be fair to expect that, in time, rather than users having to manually share data with their doctors, physicians will be notified directly through an app when a patient’s data appears concerning. In this way, issues will be addressed and treated more promptly, resulting in greater health outcomes.
+
+No matter the future of health tech diagnostics, we’re sure to notice a large-scale increase in users’ autonomy over their health. And a faster, safer, and more targeted approach within the world of diagnostics.
+
+About David Smith
+
+David Smith, President at ilumivu, the company that provides healthcare decision support applications using real-time data from smartphones and standard smartwatches.

@@ -1,0 +1,15 @@
+Faster-payments networks are forming to take advantage of a perceived appetite among consumers and businesses to move money at a quicker pace, but one such service that has been available since 2016 is reporting booming jumps in volume.
+
+Nacha, the Herndon, Va.-based organization that manages the nation’s automated clearing house network, reported early Tuesday the ACH’s 7-year-old same-day network processed $565.3 billion in transactions initiated and settled on the same day in the first quarter, up nearly 95% from the same quarter last year. The number of same-day transactions totaled 186.2 million, a nearly 21% jump over the first quarter of 2022.
+
+The results came as the ACH and other payments systems act to satisfy a growing appetite for faster processing of consumer and business payments. Systems that deliver transfers in real time, including the FedNow service from the Federal Reserve, are emerging to satisfy this demand. Another real-time network, developed by The Clearing House Payments Co., has been operating since 2017.
+
+Same-day ACH, meanwhile, speeds up transaction times from the network’s usual pace. “Same Day ACH is a key component of how the modern ACH network is helping meet the demand for faster payments,” said Jane Larimer, Nacha’s president and chief executive, in a statement. “These results clearly show the payments community’s embrace of Same Day ACH. Nacha, along with other ACH Network participants, will continue work to enhance it.”
+
+Other first-quarter results released Tuesday by Nacha indicate peer-to-peer payment transactions grew 13.3% in the quarter, to 76.3 million, as the ACH serves as the underlying system for many bank-to-bank P2P systems. Web-based volume totaled 2.4 billion, up 8.1%.
+
+An area of focus singled out by Nacha Tuesday is health-care claim payments, which totaled to more than 2.1 billion, up 5.1%, as the ACH focuses on dental practices.
+
+Transactions between businesses, another major category for ACH activity, increased 11.4% in the first quarter, totaling 1.6 billion.
+
+Overall, the ACH processed 7.7 billion payments in the January through March period totaling $19.7 trillion, with both numbers growing 6.4%.

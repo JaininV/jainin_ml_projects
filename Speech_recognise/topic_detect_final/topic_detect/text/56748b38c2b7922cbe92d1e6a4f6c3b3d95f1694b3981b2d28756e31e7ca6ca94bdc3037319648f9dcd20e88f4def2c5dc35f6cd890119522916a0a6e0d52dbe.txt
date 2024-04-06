@@ -1,0 +1,7 @@
+Apple plans to release at least two new Mac Studio models in the future, according to Bloomberg's Mark Gurman. This information suggests that the Mac Studio was not a one-off stopgap product amid the wait for the first Mac Pro with Apple silicon.
+
+In his newsletter today, focused on new MacBooks and other announcements planned for WWDC, Gurman briefly mentioned that "there are also two Mac Studio follow-ups planned, but their timing is less clear." He did not share further details about the new models, so tech specs and release timing remain unknown for now.
+
+Apple released the Mac Studio and its companion Studio Display in March 2022. The high-end desktop computer is available with Apple's M1 Max and M1 Ultra chips, with pricing for these configurations starting at $1,999 and $3,999, respectively. The higher-end Mac Studio with the M1 Ultra chip is currently the fastest Mac ever released.
+
+In February, Gurman said the next Mac Pro would be equipped with an M2 Ultra chip and offer "very similar" functionality as the Mac Studio. As a result, he said it "wouldn't make sense" for Apple to release a Mac Studio with an M2 Ultra chip, suggesting that the computer might not be updated until M3 Max and M3 Ultra chips are ready at least. If so, the next Mac Studio would likely be released in 2024 at the earliest.

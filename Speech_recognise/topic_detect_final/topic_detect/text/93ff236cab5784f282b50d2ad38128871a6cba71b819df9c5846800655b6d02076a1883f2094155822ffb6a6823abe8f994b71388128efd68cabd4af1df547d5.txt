@@ -1,0 +1,47 @@
+This article has been reviewed according to Science X's  													editorial process
+
+and policies. 													Editors have highlighted 													the following attributes while ensuring the content's credibility:
+
+This article has been reviewed according to Science X's  													editorial process
+
+and policies. 													Editors have highlighted 													the following attributes while ensuring the content's credibility:
+
+ESA's Solar Orbiter may have taken another step towards solving the eighty-year-old mystery of why the sun's outer atmosphere is so hot.
+
+On March 3, 2022, just a few months into Solar Orbiter's nominal mission, the spacecraft's Extreme Ultraviolet Imager (EUI) returned data showing for the first time that a magnetic phenomenon called reconnection was taking place persistently on tiny scales.
+
+At that time, the spacecraft was about halfway between the Earth and the sun. This enabled coordinated observations with NASA's Solar Dynamics Observatory (SDO) and Interface Region Imaging Spectrograph (IRIS) missions. The data from the three missions was then combined during the analysis.
+
+Magnetic reconnection occurs when a magnetic field changes itself into a more stable configuration. It is a fundamental energy release mechanism in superheated gasses known as plasmas and is believed to be the major mechanism for powering large-scale solar eruptions. This makes it the direct cause of space weather, and a prime candidate for the mysterious heating of the sun's outer atmosphere.
+
+It has been known since the 1940s that the sun's outer atmosphere, called the corona, is much hotter than the sun's surface. While the surface glows at around 5,500°C, the corona is a rarified gas of around 2 million °C. How the sun injects energy into its atmosphere to heat it to this tremendous temperature has been a major puzzle ever since.
+
+In the past, magnetic reconnection has usually been seen during large-scale, explosive phenomena. However, the new result presents ultra-high-resolution observations of persistent small-scale (around 390 km across) reconnection in the corona. These are revealed to be a long-lived 'gentle' sequence compared to sudden explosive releases of energy that reconnection is usually associated with.
+
+The March 3, 2022 event took place over the period of one hour. The temperatures around the point of the magnetic field where the magnetic field intensity drops to zero, known as the null-point, sustained itself at around 10 million °C, and generated an outflow of material that came in the form of discrete "blobs" traveling away from the null point with a speed of around 80 km/s.
+
+In addition to this continuous outflow, an explosive episode also took place around this null point, and lasted for four minutes.
+
+Solar Orbiter's results suggest that magnetic reconnection, at scales that were previously too small to be resolved, proceeds continually in both gentle and explosive ways. This is importantly because it means that reconnection can therefore persistently transfer mass and energy to the overlying corona, contributing to heating it. These results are published in Nature Communications in a paper titled "Ultra-high-resolution Observations of Persistent Null-point Reconnection in the Solar Corona."
+
+These observations also suggest that even smaller and more frequent magnetic reconnections await discovery. The goal is now to observe these with EUI at even higher spatio-temporal resolution in the future around Solar Orbiter's closest approaches to estimate what fraction of the corona's heat may be transferred in this way.
+
+Solar Orbiter's most recent closest passage to the sun took place on 10 April 2023. At that time, the spacecraft was just 29% the Earth's distance from the sun.
+
+Solar Orbiter is a space mission of international collaboration between ESA and NASA, operated by ESA.
+
+More information:
+
+X. Cheng et al, Ultra-high-resolution observations of persistent null-point reconnection in the solar corona, Nature Communications (2023).  DOI: 10.1038/s41467-023-37888-w
+
+Citation:
+
+Tiny magnetic episodes may have large consequences on the sun (2023, April 17)
+
+retrieved 17 April 2023
+
+from https://phys.org/news/2023-04-tiny-magnetic-episodes-large-consequences.html
+
+This document is subject to copyright. Apart from any fair dealing for the purpose of private study or research, no
+
+part may be reproduced without the written permission. The content is provided for information purposes only.

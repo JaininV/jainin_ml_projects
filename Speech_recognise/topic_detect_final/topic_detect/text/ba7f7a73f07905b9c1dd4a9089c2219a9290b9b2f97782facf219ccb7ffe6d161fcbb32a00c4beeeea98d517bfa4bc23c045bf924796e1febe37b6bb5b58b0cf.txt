@@ -1,0 +1,7 @@
+-- Imaging software developer Advantis Medical Imaging has garnered U. S. Food and Drug Administration clearance for its Advantis Platform brain and prostate MRI analysis software.
+
+Advantis had initially received FDA clearance for its Brainance MD brain MRI software in 2021. That software has since been integrated under the Advantis Platform, which now includes a second module for the visualization as well as semiautomated and automated processing of multiparametric prostate MRI exams. Advantis Platform also features a standardized reporting tool, according to the vendor.
+
+The Advantis Platform is available as a software-as-a-service, Advantis said.
+
+Copyright © 2023 AuntMinnieEurope.com

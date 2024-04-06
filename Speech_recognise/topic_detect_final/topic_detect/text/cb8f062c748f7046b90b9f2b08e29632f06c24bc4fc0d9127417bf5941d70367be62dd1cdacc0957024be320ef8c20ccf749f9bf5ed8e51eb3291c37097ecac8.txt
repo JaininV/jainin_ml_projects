@@ -1,0 +1,49 @@
+Present-day business is dynamic. And corporate L&D is not an exception. L&D is now looked upon as a profit center and is expected to contribute to business ROI. As L&D professionals look for ways to make their corporate training initiatives count, rapid eLearning is fast emerging as the solution. But before you leverage it to give your corporate training a worthy makeover, do you know what rapid eLearning really means?
+
+eLearning has been a key format in delivering corporate training for quite some time. Rapid eLearning is a new and improved avatar of eLearning design and development. In contrast to conventional eLearning, which takes months to design courses, rapid eLearning facilitates the design and development of eLearning courses in a short span without compromising on quality or Instructional Design. Wondering how? Well, the secret lies in the following, as rapid eLearning:
+
+* Adheres to the principles of Instructional Design and adult learning
+
+Rapid eLearning has been a hot topic of discussion among L&D professionals, and there are certain popular misconceptions surrounding it. If you are facing similar questions from your stakeholders, here’s what you need to answer them.
+
+Reality: It’s a misconception that advanced technical know-how is the basis of rapid eLearning development. Rapid eLearning leverages the power of modern authoring tools that saves you from the pain of complex coding.
+
+Reality: Rapid eLearning isn’t dumping content into authoring tools and developing lengthy courses. There’s a lot more to it. Robust Instructional Design backs the success of rapid eLearning. The approach focuses on selecting the right strategy and media elements and does away with the fancy frills to design learner-centric eLearning courses.
+
+Reality: Rapid eLearning courses are not mere click-next page-turners. Rapid eLearning follows the principles of Instructional Design and adult learning. It facilitates the inclusion of new-age learning strategies such as storytelling, scenarios, and gamification. This makes courses highly interactive and drives learner engagement. Rapid authoring tools offer custom templates and asset libraries that fuel creativity.
+
+With the world moving past the Information Age and entering the age of creativity, passive eLearning courses don’t work. Rapid eLearning soothes this pain point as it is built on the bedrock of Instructional Design.
+
+An Instructional Design (ID) strategy is a high-level plan of how a particular topic will be taught. The core lies in framing performance-based learning objectives and designing the course that will help learners achieve the set learning outcomes.
+
+Interactivities are an integral part of an ID strategy and engage learners of various preferences – getting them to think and do. This makes knowledge/skill retention and application back on the job stronger.
+
+Here are a few popular ID strategies supported by rapid eLearning.
+
+* Storytelling: Builds an emotional connection with learners and hones their decision-making capabilities.
+
+* Guided Learning: Avatars/Characters guide learners throughout the course and help them find their way.
+
+* Scenario-based Learning: Scenarios of what could happen at work and ways to deal with them will help enhance critical thinking and decision-making skills.
+
+* Simulations: Watch-Try-Do simulations provide a sandbox environment and allow learners to perform the task in a risk-free environment.
+
+* Gamification: This approach makes learning highly interactive by adding elements of competition and fun through gaming elements.
+
+If you are wondering which strategy will be suitable for your learners, decide based on your learners, their learning environment, the topic, and of course, the time and budget.
+
+Authoring tools are pre-programmed software that help in the development of eLearning courses. Among the several benefits they offer, here are a few.
+
+Once you’ve analyzed the content, set learning objectives, and devised an appropriate instructional strategy, you can leverage rapid authoring tools to develop the course. Rich multimedia libraries offered by authoring tools consist of a variety of images, audio files, video clips, and custom templates and interactivities to breathe life into your eLearning courses. Templates also ensure the standardization of your eLearning courses.
+
+Your learners can now experience responsive eLearning, irrespective of the devices and browsers at their disposal. Wondering how? Well, rapid authoring tools such as Adobe Captivate can transform your desktop-only legacy courses into responsive courses that ensure access across multiple devices such as laptops, smartphones, and tablets.
+
+Training a global workforce is now easy with eLearning translations. Modern authoring tools come with translation tools that let developers export content to the Rich Text Format (RTF). This text can be translated and imported into the translated course. Some authoring tools, such as Lectora, provide a switchable interface that allows learners to switch between languages at any point while taking the course.
+
+Do you have legacy courses that need to be updated or made mobile-compatible? Well, it’s time to repurpose them. Republish courses developed in older versions of authoring tools or tools that are now obsolete, using authoring tools such as dominKnow, Articulate Storyline 360, Adobe Captivate, Elucidat, and more. While you are doing this, you can also update content or branding, reconfigure lengthy courses to microlearning, or redesign old courses with new strategies such as gamification and scenarios.
+
+Sorting feedback from multiple stakeholders and implementing it the right way is a crucial task indeed. Cloud-based rapid authoring tools can help here. They allow developers to create and share their comments using a review link, which allows all reviewers to access course files online. Reviewers can share their comments online, helping them see each other’s feedback. This reduces the scope of conflicting or overlapping feedback – making course updates quick, easy, and streamlined.
+
+Well, there you have it – the true picture of rapid eLearning. Robust Instructional Design backed by rapid authoring tools. And to ensure things don’t slip through the cracks, follow an agile, iterative process such as the Successive Approximations Model. Rapid eLearning can make your L&D initiatives work wonders and scale your business ROI. Set sail on your rapid eLearning journey and break the barriers of time, cost, and speed to design an impactful digital learning program for your corporate learners.
+
+Download the eBook Rapid eLearning In The New Age Of L&D today to uncover the secrets for launching a successful rapid eLearning program that doesn't compromise on quality.

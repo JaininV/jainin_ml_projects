@@ -1,0 +1,9 @@
+2023年4月11日にリリースされたWindows 11の最新バージョンとなる「KB5025239(OS ビルド 22621.1555)」をインストールすると、システム速度が低下するという報告が複数上がっています。
+
+KB5025239 is causing major Windows 11 issues for some users
+
+https://www.windowslatest.com/2023/04/13/windows-11-kb5025239-issues-file-explorer-ssd-bsod/
+
+You may want to uninstall the latest Windows 11 update - it could be slowing down your system | TechRadar
+
+https://www.techradar.com/news/you-may-want-to-uninstall-the-latest-windows-11-update-it-could-be-slowing-down-your-system

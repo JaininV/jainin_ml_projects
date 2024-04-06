@@ -1,0 +1,71 @@
+No results were found for your search query.
+
+To return expected results, you can:
+
+Reduce the number of search terms. Each term you use focuses the search further.
+
+Check your spelling. A single misspelled or incorrectly typed term can change your result.
+
+Try substituting synonyms for your original terms. For example, instead of searching for "java classes", try "java training"
+
+Did you search for an IBM acquired or sold product ? If so, follow the appropriate link below to find the content you need.
+
+Search results are not available at this time. Please try again later or use one of the other support options on this page.
+
+PH53926: THE COLLECTOR TOOL DOES NOT COLLECT THE SECURITY DOMAIN CONFIG FILES.
+
+By subscribing, you receive periodic emails alerting you to the status of the APAR, along with a link to the fix after it becomes available. You can track this item individually or track all items by product.
+
+Notify me when this APAR changes.
+
+Notify me when an APAR for this component changes.
+
+When using collector tool to gather WebSphere Application Server
+
+configuration files, security domain config files are not
+
+included. The collector tool should include all the files from
+
+the
+
+* USERS AFFECTED:  All users of IBM WebSphere Application      *
+
+*                  Server                                      *
+
+* PROBLEM DESCRIPTION: The collector tool in WebSphere         *
+
+*                      Application Server does not include     *
+
+*                      the security domain configuration       *
+
+*                      files.                                  *
+
+* RECOMMENDATION:                                              *
+
+When using collector tool to gather WebSphere Application
+
+Server
+
+configuration files, the security domain configuration files
+
+are not included. The collector tool should include all the
+
+files from the "
+
+The collector tool code was updated to include the security
+
+domain configuration files in the collector tool output jar
+
+file.
+
+The fix for this APAR is targeted for inclusion in fix pack
+
+8.5.5.24 and 9.0.5.15. For more information, see 'Recommended
+
+Updates for WebSphere Application Server':
+
+https://www.ibm.com/support/pages/node/715553
+
+APAR is sysrouted FROM one or more of the following:
+
+APAR is sysrouted TO one or more of the following:

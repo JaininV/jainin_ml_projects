@@ -1,0 +1,97 @@
+Python file handling allows users to read and write files and perform other file-related operations. Python treats files differently depending on whether they are text or binary. Each line of code contains a sequence of characters that together form a text file, and it is terminated by a special character known as the EOL or End of Line character, which can be a comma or a newline character. Python file must be opened first before performing the read and write operation, and after this, make sure to close the file.
+
+We can open a file with "open('file_name', 'mode')" and when we open the file, we must specify the mode, representing the purpose of the Python open file. The open command will open the file in the read mode only.
+
+file_object = open('file_name', 'mode')
+
+The file_name includes the file extension and assumes the file is in the current working directory. If the file location is elsewhere, provide the absolute or relative path.
+
+The mode is an optional parameter that defines the file opening method. It has different possible options described below.
+
+# a file named "abc", will be opened with the reading mode.
+
+file = open(r"C:\Users\mohitm\Downloads\abc.txt","r")
+
+# This will print every line one by one in the file
+
+for each in file:
+
+print (each)
+
+If we need to extract a string containing all characters in the file, we can use the file.read(). We can also extract a certain number of characters in this method.
+
+# Python code to illustrate read() mode
+
+file = open(r"C:\Users\mohitm\Downloads\abc.txt", "r")
+
+print (file.read()) #read all data of file
+
+We can also extract a certain number of characters. The below code will read the first five characters from the file and return it as a string.
+
+# Python code to illustrate read() mode
+
+file = open(r"C:\Users\mohitm\Downloads\abc.txt", "r")
+
+print (file.read(7)) #read the first seven characters of stored data and return it as a string
+
+If we want to write into a file in Python, we need to open it in write mode by passing "w" inside open() as a second argument. There are two essential things we need to remember while writing a file. The first one is, in write mode, if we try to open a file that doesn't exist, a new file is created. And second, if a file already exists, its content is erased, and new content is added.
+
+# Python code to open a file in write mode
+
+#"abc.txt" file is already available so it will not create new file but it will overwrite its data
+
+file = open(r"C:\Users\mohitm\Downloads\abc.txt", "w")
+
+file.write("This is the write command")
+
+file.write(" It allows us to write in a particular file")
+
+file.close()
+
+# Python code to create a file in write mode
+
+#"xyz.txt" file is not available so it will create new file and write the data
+
+file = open(r"C:\Users\mohitm\Downloads\xyz.txt", "w")
+
+file.write("This is the write command")
+
+file.write(" It allows us to write in a particular file")
+
+file.close()
+
+Append mode adds information to an existing file. It always places the pointer at the end. If a file does not exist, append mode creates the file.
+
+# Python code to illustrate append() mode
+
+#"abc.txt" is already available so it will append the data.
+
+file = open(r"C:\Users\mohitm\Downloads\abc.txt", "a")
+
+file.write("\n")
+
+file.write("This will add this line.")
+
+file.close()
+
+# Python code to illustrate append() mode
+
+#"demo.txt" file is not available sp it will create new file and add data on it
+
+file = open(r"C:\Users\mohitm\Downloads\demo.txt", "a")
+
+file.write("This will add this line.")
+
+file.close()
+
+The close() method is used for closing a file in Python. Although it is not mandatory to close a file as Python uses the garbage collector to clean the unreferenced objects.
+
+# Python code to illustrate close()
+
+file = open(r"C:\Users\mohitm\Downloads\demo.txt", "a")
+
+file.write("Aappend the text")
+
+file.close()
+
+File handling in Python is a powerful and versatile tool that can perform a wide range of operations. It can be used for manipulating files using the Python programming language. It includes many activities, from reading and writing data to files and much more.

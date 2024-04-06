@@ -1,0 +1,25 @@
+Real journalism is under attack all over the world. Corporate hacks pushing fake news, censure, economic boycott, deplatforming – there are numerous ways to disrupt the work of the truth tellers of this world.
+
+One of them, of course, is spying on journalists, trying to get some leverage over them, or otherwise finding some kompromat to destroy them.
+
+A report by a Canadian Watchdog has now surfaced that reveals that a new generation of Israeli-made spyware – resembling the notorious Pegasus program – was used to target journalists in several countries.
+
+The spyware and the related exploit – or hacking – software was created by QuaDream Ltd, owned by a former Israeli military official.
+
+“Security experts have warned about the emergence of previously unknown spyware with hacking capabilities comparable to NSO Group’s Pegasus that has already been used by clients to target journalists, political opposition figures and an employee of an NGO.
+
+Researchers at the Citizen Lab at the University of Toronto’s Munk School said the spyware, which is made by an Israeli company called QuaDream, infected some victims’ phones by sending an iCloud calendar invitation to mobile users from operators of the spyware, who are likely to be government clients. Victims were not notified of the calendar invitations because they were sent for events logged in the past, making them invisible to the targets of the hacking. Such attacks are known as “zero-click” because users of the mobile phone do not have to click on any malicious link or take any action in order to be infected.”
+
+While cyberweapons giant NSO Group has faced growing scrutiny, the threat posed by similar and highly sophisticated hacking tools continues to proliferate.
+
+This new hacking tool is marketed under the name ‘Reign’, and the hacking attacks that have been discovered up until now occurred between 2019 and 2021.
+
+A phone infected with Reign, “can record conversations that happen in the proximity of the phone by controlling the phone’s recorder, read messages on encrypted apps, listen to phone conversations, and track a user’s location, according to Citizen Lab. Researchers found Reign can also be used to generate two-factor authentication codes on an iPhone to infiltrate a user’s iCloud account, allowing the spyware operator to exfiltrate data directly from the user’s iCloud.”
+
+Apple responded: “State-sponsored attacks like those described in Citizen Lab’s report cost millions to develop, have a short shelf life, and are used to target specific individuals ‘because of who they are or what they do’. The vast majority of iPhone users will never be the victims of highly targeted cyberattacks and we will work tirelessly to protect the small number of users who are.”
+
+In their long and very technical report, The Citizen Lab explained the new business model for the Israeli cyber weapons firms.
+
+“QuaDream’s obscurity reflects an effort to avoid media scrutiny that was successful, for a time. Yet once QuaDream infections become discoverable through technical methods, a predictable cast of victims emerged: civil society and journalists. This pattern is a repetition of the abuses found with more notorious players, like NSO Group’s Pegasus spyware, Cytrox’s Predator spyware, and before them Hacking Team and FinFisher.
+
+QuaDream has been in business for several years, has developed sophisticated spyware products, and appears to have dealings with numerous government clients around the world. The firm has common roots with NSO Group, as well as other companies in the Israeli commercial spyware industry, and the Israeli government’s own intelligence agencies.”

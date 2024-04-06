@@ -1,0 +1,49 @@
+,  /PRNewswire/ -- Today, Ginkgo Bioworks (NYSE: DNA), which is building the leading platform for cell programming and biosecurity, is hosting its annual conference, Ferment. The conference brings together stakeholders from across the synthetic biology community, including customers, suppliers, academics, journalists, and many more. Because the event has reached its in-person capacity limits, a livestream will be available on Ginkgo's YouTube page and Ginkgo's Investor Relations page.
+
+Ferment will begin with a keynote address from Ginkgo co-founder and CEO Jason Kelly, who will discuss the value that outsourcing R&D to a horizontal platform creates for customers across markets, including pharmaceuticals, agriculture, and industrial biotechnology. His presentation will also introduce new services offerings. These services offerings - like Ginkgo Enzyme Services, which was launched in December 2022 - make Ginkgo's capabilities and biological data assets more accessible to its customers.
+
+Ginkgo Enzyme Services: Discover, engineer, optimize, and scale up your enzyme. Whether you're looking for a biocatalyst to replace a chemical synthesis step, looking to improve your enzyme's function, or aiming to lower your manufacturing costs, Ginkgo's end-to-end capabilities empower your enzyme R&D.
+
+Watch the virtual event here and visit Ginkgo's Enzyme Services page to learn more.
+
+Ginkgo Microbe Services: Leverage synthetic biology at scale. Whether you're looking into biological solutions for challenges in agriculture, natural product discovery, microbiome therapeutics, or any other area in which strain optimization can present a bottleneck, Ginkgo can help.
+
+Learn more about Ginkgo's strain improvement work at its virtual event here, and about Ginkgo's offerings in agriculture and its Strain Optimization Services on Ginkgo's website.
+
+Ginkgo AAV Services: An integrated suite of solutions. The addition of StrideBio's structure-guided AAV engineering capabilities combined with Ginkgo's already extensive assets make Ginkgo a unique one-stop shop capable of providing R&D services for gene therapy manufacturing across capsid, payload, and cell line optimization.
+
+You can learn more by registering for Ginkgo's upcoming virtual event on May 10.
+
+Ginkgo Cell Therapy Services: Massively parallel testing, best-in-class designs. Discover and optimize the next-generation of CAR-T for the endpoints that matter to you. Ginkgo's ultra high throughput mammalian cell engineering foundry is ideally suited to address many outstanding problems in cell therapy, including CAR-T. Ginkgo is actively developing high throughput platforms to enhance CAR potency and specificity by exploring novel construct designs and incorporating synthetic regulatory elements like cell-specific promoters.
+
+You can learn more about Ginkgo's ongoing work in this space on Ginkgo's blog here and here, and you can register for Ginkgo's virtual event on May 31 here.
+
+Ginkgo RNA Therapeutics Services: The versatility of the RNA modality meets the power and flexibility of Ginkgo's Foundry. Let the data guide you to the optimal RNA therapeutic for your application. With last year's acquisition of Circularis, Ginkgo has expanded its platform to screen gene expression regulatory elements in both mRNA and circRNA formats. Partner with Ginkgo to discover sequence elements for improved stability, reduced immunogenicity, improved expression level and cell-type specificity and take advantage of Ginkgo's end-to-end capabilities to produce your RNA product with high purity.
+
+Register for Ginkgo's upcoming virtual event on April 26, and learn more about the company's work in RNA therapeutics on its website here and here.
+
+Ginkgo's technical experts will share more details about these platform developments and services throughout the day at Ferment.
+
+Additionally, the event will feature a range of presentations and panels throughout the day, as well as a special collaboration between Grow by Ginkgo and Pop Up Magazine, and a reception to close out the conference. The day's programming includes:
+
+* Moderator:  (Musician and Author of: Broad Band: The Untold Story of the Women Who Made the Internet)
+
+* , PhD (Professor of Cell Biology,  and Director, cBio at Dana-Farber Cancer Institute)
+
+* The Future of Plants: Innovation for Agriculture and Climate
+
+* Leadership in the DNA Age: Biosecurity and the Bioeconomy
+
+* Moderator: Lt. Gen.  (Strategic Advisor, Ginkgo Bioworks; former Chief of Engineers of the United States Army and Commanding General of the U.S. Army Corps of Engineers)
+
+* , PhD (Senior Advisor and Biotechnology Policy Coordinator, Office of the Special Envoy for Critical and Emerging Technology, U.S. Department of State)
+
+* Moderator:  (Staff Writer, The New Yorker and Visiting Scholar, MIT Media Lab)
+
+* Bringing a New Modality to Scale with  of Alnylam
+
+Hear from developers using the Ginkgo platform to build new applications, including:
+
+The full event schedule can be found at https://www.ginkgoferment.com/#Agenda. A video livestream of the event will also be made available to the public, including on the company's investor relations website at https://investors.ginkgobioworks.com/events/. Follow @Ginkgo on Twitter for updates.
+
+Ginkgo Bioworks is the leading horizontal platform for cell programming, providing flexible, end-to-end services that solve challenges for organizations across diverse markets, from food and agriculture to pharmaceuticals to industrial and specialty chemicals. Ginkgo's biosecurity and public health unit, Concentric by Ginkgo, is building global infrastructure for biosecurity to empower governments, communities, and public health leaders to prevent, detect and respond to a wide variety of biological threats. For more information, visit ginkgobioworks.com and concentricbyginkgo.com, read our blog, or follow us on social media channels such as Twitter (@Ginkgo and @ConcentricByGBW), Instagram (@GinkgoBioworks and @ConcentricByGinkgo), or LinkedIn.

@@ -1,0 +1,167 @@
+Dear Nordic,
+
+The SSL certificate is hard-coded, it means that the certificate is stored in the source code folder and cannot be changed without a firmware update.
+
+This can be problematic because SSL certificates typically have an expiration date, after which they are no longer valid.
+
+If the certificate is expired, the device may not be able to establish a secure connection with the server, which can lead to security issues and service disruptions.
+
+My environment
+
+I would like to know, is there any way to handle expired SSL CA certificate and update it programatically without upgrading the firmware? (FOTA).
+
+Currently our SSL CA cerificate renewed every year.
+
+I also know that, it is recommended to use SSL certificates with a sufficiently long validity period,
+
+so that they do not expire frequently.
+
+carrie_certs.c
+
+#include
+
+#include
+
+#include
+
+#include
+
+#include
+
+#include
+
+#include "carrier_certs.h"
+
+#include "ex_common.h"
+
+#define TLS_MC_API_SEC_TAG	42
+
+#if 0
+
+#define TLS_FOTA_SEC_TAG	43
+
+#endif //end if 0
+
+#if 0
+
+static int tags[] = { TLS_MC_API_SEC_TAG, TLS_FOTA_SEC_TAG };
+
+#endif //end if 0
+
+static const char ca42[] = {
+
+/* API certificate */
+
+#if 0
+
+#include "./certs/api.cer"
+
+#else
+
+#include "./certs/api_2023_12_24.cer"
+
+#endif
+
+#if 0
+
+static const char ca43[] = {
+
+/* FOTA server certificate */
+
+#include "./certs/fota.cer"
+
+#endif //end if 0
+
+BUILD_ASSERT(sizeof(ca42) < KB(4), "Cert is too large");
+
+#if 0
+
+BUILD_ASSERT(sizeof(ca43) < KB(4), "Cert is too large");
+
+#endif //end if 0
+
+static const struct {
+
+uint16_t tag;
+
+const char *data;
+
+} certs[] = {
+
+.tag = TLS_MC_API_SEC_TAG,
+
+.data = ca42,
+
+#if 0
+
+.tag = TLS_FOTA_SEC_TAG,
+
+.data = ca43,
+
+#endif //end if 0
+
+int carrier_certs_provision()
+
+int err;
+
+bool mismatch = 0;
+
+bool provisioned;
+
+for (int i = 0; i < ARRAY_SIZE(certs); i++) {
+
+err = modem_key_mgmt_exists(
+
+certs[i].tag, MODEM_KEY_MGMT_CRED_TYPE_CA_CHAIN, &provisioned);
+
+if (err) {
+
+goto cert_exit_empty;
+
+if (provisioned) {
+
+err = modem_key_mgmt_cmp(
+
+certs[i].tag, MODEM_KEY_MGMT_CRED_TYPE_CA_CHAIN,
+
+certs[i].data, strlen(certs[i].data));
+
+/* 0 on match, 1 otherwise; like memcmp() */
+
+mismatch = err;
+
+LOG_DBG("Certificate found, tag %d: %s", certs[i].tag,
+
+mismatch ? "mismatch" : "match");
+
+} else {
+
+LOG_DBG("Certificate tag %d not found", certs[i].tag);
+
+if (mismatch || !provisioned) {
+
+/* overwrite the certificate */
+
+err = modem_key_mgmt_write(
+
+certs[i].tag, MODEM_KEY_MGMT_CRED_TYPE_CA_CHAIN,
+
+certs[i].data, strlen(certs[i].data));
+
+if (err) {
+
+MLOG_ERROR("Unable to provision certificate, error: %d", err);
+
+LOG_DBG("Certificate provisioned, tag %d", certs[i].tag);
+
+return 0;
+
+cert_exit_empty:
+
+return -1;
+
+Any help will be appreciated.
+
+Best Regards
+
+Praveen Deshmane

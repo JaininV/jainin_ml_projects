@@ -1,0 +1,5 @@
+Boss enemmy from Doom Eternal. Three different torsos and three poses for ball jointed arms.
+
+Shoulders leave little space for articulation, so I'm providing a secondary set of arms that stick out further from the body, in case you need them to move more freely. I don't suggest using them unless the pose you want to achieve requires it.
+
+Eventually I'll do something with his battle damaged versions as well.

@@ -1,0 +1,61 @@
+This article has been reviewed according to Science X's                                                      editorial process
+
+and policies.                                                     Editors have highlighted                                                     the following attributes while ensuring the content's credibility:
+
+This article has been reviewed according to Science X's                                                      editorial process
+
+and policies.                                                     Editors have highlighted                                                     the following attributes while ensuring the content's credibility:
+
+A randomized clinical trial is looking at whether fecal microbiota transplantation (FMT) from healthy donors into adults with early-stage amyotrophic lateral sclerosis (ALS—one of the most common forms of motor neuron disease) can modulate the immune reaction during inflammation responses that characterize disease progression, and aims to investigate the relationship between specific gut bacteria and their action on immune system cells.
+
+The preliminary findings by Dr. Alessandra Guarnaccia from Columbus-Gemelli University Hospital IRCCS, Rome, Italy and colleagues are being presented at this year's European Congress of Clinical Microbiology & Infectious Diseases (ECCMID) in Copenhagen, Denmark (15-18 April).
+
+ALS is a devastating condition in which the motor neurons in the spinal cord and brain degenerate, causing progressive paralysis, increasing physical disability and ultimately death within an average of two to five years.
+
+ALS is the most common form of motor neuron disease, with an average incidence of 2.8 per 100,000 people in Europe and 1.8 per 100,000 people in North America.
+
+Around 5-10% of people with ALS have a variety of genetic causes that can be inherited within families, but 90% have what is known as "sporadic" disease because its causes are unknown. This makes it a difficult challenge to find one treatment that will work for all patients with ALS.
+
+Recent findings suggest that oxidative stress (an imbalance between free radical chemicals and antioxidants in the body), nerve cell damage or death (exotoxicity), and the activation of pro-inflammatory pathways as key trigger factors for the disease.
+
+Given the role of regulatory T cells (Tregs) in regulating or suppressing the immune system, it is thought that increasing or activating their populations in patients with ALS may have therapeutic benefits.
+
+It has been known for some time that changes in gut microbiota composition may be linked to many neurological disorders through the "gut-brain axis." In fact, specific gut microbiota populations (Proteobacteria) cross talk with the immune system promoting the activation of pro-inflammatory pathways following the loss of Treg number and suppressive function.
+
+In addition, previous mouse models have shown a significant impairment in the gut microbial population in early-stage ALS, pointing to a possible role of the gut microbiota in the development of ALS.
+
+FMT is already used in clinical practice to restore gut microbiota balance and to modulate gut and systemic immunity in recurrent Clostridioides difficile infection disease.
+
+The trial randomly allocated 42 ALS patients (aged 18 to 70 years) who had symptoms for no longer than 18 months to either FMT (28 patients) or placebo (14 controls). At the start of the study and 6 months later, researchers will infuse the gut microbes from healthy donors into patients in the intervention group, while those in the control group will not receive any infusion.
+
+On the day of each procedure, researchers will collect stool, saliva, and blood samples to evaluate how the transplant affected gut microbiota, immune cells and inflammatory status, which may shed light on early processes possibly leading to the degenerative ALS course.
+
+Each patient will also undergo three endoscopic procedures to take intestinal biopsies (at the start of the study and months 6 and 12).
+
+The primary outcome is a significant change in Treg number between FMT-treated patients and the control arm from the start of the study to month 6.
+
+FMT has been shown to be a safe procedure in these patients, with no adverse events reported to date.
+
+Preliminary results outlining the gut microbiome profile of six patients at the start of the study revealed a much higher relative abundance (on average 15%) of Proteobacteria—a large group of microbes with surface proteins that can easily activate the immune system. This activation alerts the body to an illness and triggers the release of molecules causing inflammation.
+
+"The unmet need for therapies for ALS is huge, and our work opens up a whole new pathology that we could address," says Dr. Guarnaccia. "The hope is that FMT will increase the Treg number switching the immune system surrounding motor neurons to an anti-inflammatory, neuroprotective status, and slowing the progression of ALS."
+
+Author Professor Luca Masucci from the Catholic University of the Sacred Heart in Rome, Italy, adds, "With this information, we could potentially provide new approaches for treatments by altering or interfering with these inflammatory pathways. We hope to have all our data from this trial to analyze in 2024."
+
+ALS can affect anyone regardless of racial, ethnic, or socioeconomic background. In general, symptoms commonly develop between the ages of 40 and 70, with the average being 55 years at diagnosis.
+
+A number of high-profile British sportsmen have shared their experience with motor neuron disease in recent years, including rugby league's Rob Burrow, rugby union's Doddie Weir and footballer Stephen Darby.
+
+Professor Stephen Hawking also had the disease, but lived for 55 years after his diagnosis until his death in 2018 at the age of 76 years.
+
+Citation:
+
+An early study of fecal transplant to help slow early-stage motor neuron disease progression (2023, April 17)
+
+retrieved 19 April 2023
+
+from https://medicalxpress.com/news/2023-04-early-fecal-transplant-early-stage-motor.html
+
+This document is subject to copyright. Apart from any fair dealing for the purpose of private study or research, no
+
+part may be reproduced without the written permission. The content is provided for information purposes only.

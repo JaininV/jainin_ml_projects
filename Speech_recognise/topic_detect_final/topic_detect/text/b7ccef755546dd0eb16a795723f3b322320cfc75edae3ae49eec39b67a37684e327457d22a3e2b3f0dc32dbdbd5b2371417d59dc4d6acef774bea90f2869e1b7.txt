@@ -1,0 +1,3 @@
+I have a spreadsheet created by dragging a Contacts group to Numbers. Several of the contacts have multiple phone numbers (Home, cell, work, fax, etc.) and these are put in separate columns. To make the spreadsheet more compact I would like to combine them in a single cell, which I can do in a new column using the CONCAT function and adding a space between each cell reference, but I’d rather put in a carriage return so each number is on a new line in the cell. Is there a way to add a carriage return in a function like CONCAT?
+
+Robert Bailey

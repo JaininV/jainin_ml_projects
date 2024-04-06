@@ -1,0 +1,115 @@
+Globally, many organizations have critical business data dispersed among various content repositories, making it difficult to access this information in a streamlined and cohesive manner. Creating a unified and secure search experience is a significant challenge for organizations because each repository contains a wide range of document formats and access control mechanisms.
+
+Amazon Kendra is an intelligent enterprise search service that allows users to search across different content repositories. Customers are responsible for authenticating and authorizing users to gain access to their search application, and Amazon Kendra enables secure search for enterprise applications, making sure that the results of a user’s search query only include documents the user is authorized to read. Amazon Kendra can easily validate the identity of individual users as well as user groups who perform searches with the addition of secure search tokens. By adding user tokens for secure search, performing access-based filtered searches in Amazon Kendra is simplified and secured. You can securely pass user access information in the query payload instead of using attribute filters to accomplish this. With this feature, Amazon Kendra can validate the token information and automatically apply it to the search results for accurate and secure access-based filtering.
+
+Amazon Kendra supports token-based user access control using the following token types:
+
+Previously, we saw a demonstration of token-based user access control in Amazon Kendra with Open ID. In this post, we demonstrate token-based user access control in Amazon Kendra with JWT with a shared secret. JWT, or JSON Web Token, is an open standard used to share security information between a client and a server. It contains encoded JSON objects, including a set of claims. JWTs are signed using a cryptographic algorithm to ensure that the claims can’t be altered after the token is issued. JWTs are useful in scenarios regarding authorization and information exchange.
+
+JWTs consist of three parts separated by dots (.):
+
+* Header – It contains parts like type of the token, which is JWT, the signing algorithm being used, such as HMAC SHA256 or RSA, and an optional key identifier.
+
+* Payload – This contains several key-value pairs, called claims, which are issued by the identity provider. In addition to several claims relating to the issuance and expiration of the token, the token can also contain information about the individual principal and tenant.
+
+* Signature – To create the signature part, you take the encoded header, the encoded payload, a secret, the algorithm specified in the header, and sign that.
+
+Therefore, a JWT looks like the following:
+
+The following is a sample header:
+
+The following is the sample payload:
+
+The JWT is created with a secret key, and that secret key is private to you, which means you will never reveal that to the public or inject it inside the JWT. When you receive a JWT from the client, you can verify the JWT with the secret key stored on the server. Any modification to the JWT will result in verification (JWT validation) failure.
+
+This post demonstrates the sample use of a JWT using a shared access key and its usage to secure Amazon Kendra indexes with access controls. In production, you use a secure authentication service provider of your choice and based on your requirements to generate JWTs.
+
+To learn more about JWTs, refer to Introduction to JSON Web Tokens.
+
+Similar to the post with Open ID, this solution is designed for a set of users and groups to make search queries to a document repository, and results are returned only from those documents that are authorized for access within that group. The following table outlines which documents each user is authorized to access for our use case. The documents being used in this example are a subset of AWS public documents.
+
+The following diagram illustrates the creation of a JWT with a shared access key to control access to users to the specific documents in the Amazon Kendra index.
+
+When an Amazon Kendra index receives a query API call with a user access token, it validates the token using a shared secret key (stored securely in AWS Secrets Manager) and gets parameters such as username and groups in the payload. The Amazon Kendra index filters the search results based on the stored Access Control List (ACL) and the information received in the user’s JWT. These filtered results are returned in response to the query API call made by the application.
+
+In order to follow the steps in this post, make sure you have the following:
+
+* An AWS account with access to Amazon Simple Storage Service (Amazon S3), Amazon Kendra, and Secrets Manager.
+
+* An S3 bucket to store your documents. For more information, see Creating a bucket and the Amazon S3 User Guide.
+
+The following sample Java code shows how to create a JWT with a shared secret key using the open-source jsonwebtoken package. In production, you will be using a secure authentication service provider of your choice and based on your requirements to generate JWTs.
+
+We pass the username and groups information as claims in the payload, sign the JWT with the shared secret, and generate a JWT specific for that user. Provide a 256 bit string as your secret and retain the value of the base64 URL encoded shared secret to use in a later step.
+
+For instructions on creating an Amazon Kendra index, refer to Creating an index. Note down the AWS Identity and Access Management (IAM) role that you created during the process. Provide the role access to the S3 bucket and Secrets Manager following the principle of least privilege. For example policies, refer to Example IAM identity-based policies. After you create the index, your Amazon Kendra console should look like the following screenshot.
+
+Complete the following steps to add your secret:
+
+On the Amazon Kendra console, navigate to the User access control tab on your index detail page.
+
+Because we’re implementing token-based access control, select Yes under Access control settings.
+
+Under Token configuration, choose JWT with shared secret for Token type.
+
+For Type of secret, choose New.
+
+For Secret name, enter AmazonKendra-jwt-shared-secret or any name of your choice.
+
+For Key ID, enter the key ID to match your JWT that you created in the sample Java code.
+
+For Shared secret, enter your retained base64 URL encoded secret generated from the Java code previously.
+
+The secret will now be stored in Secrets Manager as a JSON Web Key Set (JWKS). You can locate it on the Secrets Manager console. For more details, refer to Using a JSON Web Token (JWT) with a shared secret.
+
+In this step, we set up the user name and groups that will be extracted from JWT claims and matched with the ACL when the signature is valid.
+
+To prepare an S3 bucket as a data source, create an S3 bucket. In the terminal with the AWS Command Line Interface (AWS CLI) or AWS CloudShell, run the following commands to upload the documents and metadata to the data source bucket:
+
+The documents being queried are stored in an S3 bucket. Each document type has a separate folder: blogs, case-studies, analyst-reports, user-guides, and white-papers. This folder structure is contained in a folder named Data. Metadata files including the ACLs are in a folder named Meta.
+
+We use the Amazon Kendra S3 connector to configure this S3 bucket as the data source. When the data source is synced with the Amazon Kendra index, it crawls and indexes all documents as well as collects the ACLs and document attributes from the metadata files. To learn more about ACLs using metadata files, refer to Amazon S3 document metadata. For this example, we use the custom attribute DocumentType to denote the type of the document. After the upload, your S3 bucket structure should look like the following screenshot.
+
+To set the custom attribute DocumentType, complete the following steps:
+
+Choose your Kendra index and choose Facet definition in the navigation pane.
+
+Now you can ingest documents from the bucket you created to the Amazon Kendra index using the S3 connector. For full instructions, refer to Ingesting Documents through the Amazon Kendra S3 Connector.
+
+In the Configure sync settings section, for Enter the data source location, enter your S3 bucket (s3://kendra-demo-bucket/).
+
+On the Include patterns tab, for Prefix, enter Data/.
+
+For more information about supported connectors, see Connectors.
+
+Choose Next, then Next again, then Update.
+
+Wait for the data source to be created, then select the data source and choose Sync now.
+
+The data source sync can take 10–15 minutes to complete. When your sync is complete, Last sync status should show as Successful.
+
+To run a test query on your index, complete the following steps:
+
+On the Amazon Kendra console, choose Search indexed content in the navigation pane.
+
+We can generate a JWT for the user and group. In this example, we create a JWT for the AWS-SA group. We replace username as Mary and groups as AWS-SA in the JWT generation step.
+
+Based on the ACL, we should be results from all the folders: blogs, user guides, case studies, analyst reports, and whitepapers.
+
+Similarly, when logged in as James from the AWS-Sales group and passing the corresponding JWT, we have access to only blogs, user guides, and case studies.
+
+We can also search the index as a guest without passing a token. The guest is only able to access contents in the blogs folder.
+
+Experiment using other queries you can think of while logged in as different users and groups and observe the results.
+
+To avoid incurring future costs, clean up the resources you created as part of this solution. To delete the Amazon Kendra index and S3 bucket created while testing the solution, refer to Cleanup. To delete the Secrets Manager secret, refer to Delete an AWS Secrets Manager secret.
+
+In this post, we saw how Amazon Kendra can perform secure searches that only return search results based on user access. With the addition of a JWT with a shared secret key, we can easily validate the identity of individual users as well as user groups who perform searches. This similar approach can be extended to a JWT with a public key. To learn more, refer to Using a JSON Web Token (JWT) with a shared secret.
+
+Nitin Eusebius is a Sr. Enterprise Solutions Architect at AWS with over 18 years of experience in Software Engineering and Enterprise Architecture. He works with customers on helping them build well-architected applications on the AWS platform. He is passionate about solving technology challenges and helping customers with their cloud journey.
+
+Kruthi Jayasimha Rao is a Partner Solutions Architect with a focus in AI and ML. She provides technical guidance to AWS Partners in following best practices to build secure, resilient, and highly available solutions in the AWS Cloud.
+
+Ishaan Berry is a Software Engineer at Amazon Web Services, working on Amazon Kendra, an enterprise search engine. He is passionate about security and has worked on key components of Kendra’s Access Control features over the past 2 years.
+
+Akash Bhatia is a Principal Solutions architect with AWS. His current focus is helping enterprise customers achieve their business outcomes through architecting and implementing innovative and resilient solutions at scale. He has been working in technology for over 15 years at companies ranging from Fortune 100 to start-ups in Manufacturing, Aerospace and Retail verticals.

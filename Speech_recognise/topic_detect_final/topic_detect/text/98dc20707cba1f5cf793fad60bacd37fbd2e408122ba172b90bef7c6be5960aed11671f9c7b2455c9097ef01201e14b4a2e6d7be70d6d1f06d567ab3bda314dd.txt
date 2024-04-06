@@ -1,0 +1,77 @@
+Introducing nine privacy-friendly tools to control more of the information you are sharing with third parties.
+
+Did you know that 72% of US adults think it’s impossible to go through daily life online without companies collecting some of their data?
+
+They are right! You can leave behind information about yourself and your devices every time you use the internet.
+
+Trackers can compile data through cookies and fingerprinting strategies. This information can get sold to data brokers, who can create detailed profiles based on what is known about you. While it can be used for much more nefarious acts, this type of tracking is most often used for advertising purposes.
+
+While maintaining complete anonymity when using the internet is nearly impossible, there are ways to limit and control the information that gets shared with third parties.
+
+Our customers frequently ask us for recommendations on other services that share our values of security and privacy. In this post, we’re sharing a handful of privacy-friendly tools you can use to take back control of your data.
+
+Founded in 1999, Fastmail is a privacy-focused email provider that gives you back control over your inbox and personal data. Our features help you improve productivity by including email, full-featured calendars, and contacts all in one app. But, unlike free email apps where you are the product (i.e., you get free email, but in exchange for your data being sold to advertisers), we also provide no ads, no data lock-in, and full privacy and security protection for your email, calendars, contacts, notes, and files.
+
+Your data is kept private with features like Masked Email and additional email addresses. These features protect you from tracking, spammers, and data leaks. You can use Fastmail on mobile devices, your browser, and desktop apps.
+
+Pricing starts at $3 per month per user for the basic plan, and you can try it for free for 30 days.
+
+SavvyCal makes it easy to provide a personalized scheduling experience that is delightful for both you and your recipients. Say goodbye to sending 5+ emails back and forth to find a good time for a call.
+
+Plus, it integrates with Fastmail (for privacy-friendly email) alongside Gmail, Outlook, and iCloud. You can also route different links to different calendars, set up ranked availability, send meeting polls, and even create single-use links that will be archived as soon as someone books a meeting with you.
+
+And, for any public scheduling links, you can integrate quickly with Fathom Analytics for privacy-friendly analytics data.
+
+SavvyCal offers a free 7-day trial. Paid plans start at $12 per month. You can use the code FASTMAIL10 to get 10% off.
+
+Whether you’re scheduling demos, onboarding calls, or 1-on-1 meetings, it can be hard to find a time that works for your team and your clients. If you add in the complexity of working across multiple time zones, the challenge gets even bigger.
+
+YouCanBook.me helps simplify the scheduling process and lets you get back to work. By syncing with your own availability on your cloud-based calendar, it sends bookings from clients straight into your calendar. It also has email and SMS notifications to keep everyone on the same page.
+
+If you’re working with a large team—whether local or distributed—YouCanBook.me pools the availability of your team members and gives your client control of an appointment time that works for them, wherever they are in the world.
+
+YouCanBook.me offers a free 14-day trial to all new customers. After starting your free trial, you can sign up for a paid plan starting at $10 per calendar per month, or stay on the free forever plan.
+
+Fantastical is a multiple award-winning calendar app with powerful features, including intuitive natural language text parsing, a full calendar window with day, week, month, quarter, and year views, an ultra-quick access mini window, tasks, time zone support, and much, much more.
+
+Fantastical’s natural language event and task creation, beautiful calendar views, and ultra-smart event list make it a great calendar and tasks app. Just type in that you have “Lunch with John on Friday at 1 pm,” and Fantastical will schedule it! Or type in “remind me to Buy Milk on Tuesday,” and Fantastical will create a task with a due date!
+
+Fantastical offers a free 14-day trial to all new customers. Paid plans start at $4.75 monthly (when billed yearly) and $6.99 when billed monthly. These prices include Mac, iPhone, iPad, and even Apple Watch with all premium features unlocked.
+
+Bitwarden empowers organizations and individuals to safely store and share sensitive data.
+
+With a transparent, open-source approach to password management, Bitwarden makes it easy for users to extend robust security practices to all of their online experiences—wherever they go and whatever device they use. Cloud and self-hosted options give customers the flexibility to meet the most stringent security requirements.
+
+Bitwarden is available in over 50 languages with a passionate global community of security experts and enthusiasts. The company is headquartered in Santa Barbara, California, and has a globally distributed team. Learn more at bitwarden.com.
+
+Bitwarden offers a free trial to all new customers. They have a free plan, a premium plan for $10 for the year, and a family plan for $3.33 per month or $40 annually. Learn more by going to Bitwarden’s pricing for Individuals and Families.
+
+1Password is a privacy and security company and the leader in enterprise password management.
+
+By combining industry-leading security and award-winning design, the company provides private, secure, and user-friendly password and secrets management to businesses and consumers globally.
+
+1Password and Fastmail have an integration called Masked Email, which allows customers to generate a unique email address, hiding users’ actual email addresses from the app or service they’re registering with or signing into. Masked Email aliases protect your main account, making them ideal for temporary use cases such as registering for a free WiFi network or signing up for email newsletters.
+
+Not yet a 1Password customer? 1Password is offering new customers 25% off their first year of a 1Password Families account.
+
+You can try 1Password free for 3 days. Paid plans start at $2.99 per month.
+
+Firefox is a browser by Mozilla. On desktop, Firefox defaults to blocking 2000+ online trackers from collecting personal information about your web activity. On mobile, they offer the same level of protection.
+
+Get articles curated just for you from around the web! The front page of Firefox has stories recommended to you by Pocket, a place where you can save and spend time with great stories from around the web.
+
+Firefox is a free browser. For $2.99 a month, you can get an extra level of protection with Firefox’s Private Network browser-level protection, which protects your connection on all Firefox desktop browsers.
+
+Looking for an alternative to Google Chrome? Brave is a free, fast-loading web browser that also provides various privacy and security features to fight malware and prevent tracking so your information is safe. Additionally, they don’t have access to any identifiable user data.
+
+Brave provides ad blocking, fingerprinting prevention, cookie control, and block scripts. Some of its security features include clear browsing data, a built-in password manager, and “do not track” messages sent with browsing requests.
+
+Brave’s browser is always free to use. They also have a VPN subscription service. You can trial it free for 7 days. It’s available for $9.99 / month or $99.99 / year.
+
+A private browser is complemented perfectly by a similarly surveillance-free search engine like Mojeek.
+
+Mojeek is a web search engine that provides quick and unbiased search results. They are also the first search engine to take a public stance on privacy. They did so back in 2006, and their trailblazing privacy policy is still accessible via the Wayback Machine on Archive.org.
+
+Mojeek is completely independent, with its own index of results and technology built in-house. This is the go-to option for those who want privacy whilst supporting a company that exists outside of Big Tech and Silicon Valley.
+
+These nine privacy-friendly tools give you back some control over your data. If you’re looking to upgrade your privacy and productivity and join the best in email, go sign up for your free 30-day trial of Fastmail.

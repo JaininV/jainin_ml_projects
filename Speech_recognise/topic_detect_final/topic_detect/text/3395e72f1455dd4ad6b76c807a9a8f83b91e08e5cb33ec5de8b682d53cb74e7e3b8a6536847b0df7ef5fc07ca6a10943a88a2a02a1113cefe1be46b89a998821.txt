@@ -1,0 +1,73 @@
+Artificial intelligence might be ready to take over much of our working life, but are we ready to let it? Gordon Masson delves into recent developments in the AI-space
+
+Artificial intelligence might be ready to take over much of our working life, but are we ready to let it? Gordon Masson delves into recent developments in the AI-space
+
+For anyone unfamiliar with OpenAI’s ChatGPT tool, the artificial intelligence chatbot has been making the headlines for some time now, most recently when one of the company’s founders, Elon Musk, became one of 1,000 signatories of an open letter that calls on labs around the world to immediately cease “for at least six months, the training of AI systems more powerful than GPT-4.”
+
+Underlining their concerns, the scientists, academics, and tech pioneers who added their names to that of Musk, stated that the six-month pause on development, “should be public and verifiable and include all key actors. If such a pause cannot be enacted quickly, governments should step in and institute a moratorium.”
+
+While many observers have criticised the letter, which to add to consternation was instigated by the alarmingly named Future of Life Institute, the call has been taken seriously by many others. The Italian government has moved to temporarily ban ChatGPT, blocking its citizens from access to the service by citing OpenAI’s failure to verify the age of its users while arguing that the mass processing of personal data to train the chatbot is also questionable under European law.
+
+Other EU nations are apparently also considering blocking ChatGPT, while China has also banned the tool, labelling it an instrument of Western propaganda. However, Chinese tech giants such as Alibaba, Baidu, and Tencent are known to be developing their own AI chatbot platforms.
+
+However, with chatbots now a common and accepted (if sometimes frustrating) part of customer relations, the use of AI is undoubtedly here to stay, with ChatGPT and other systems such as ChatSonic, Playground, Bard, and numerous others soaking up billions of dollars in research, set to revolutionise the way we all conduct business and other aspects of our lives.
+
+“Remember when Google first appeared, and people thought it was weird that you would want to ask your search engine questions to get results? Well, ChatGPT is that on steroids,” observes musicologist and founder of The Online Recording Studio, Joe Wadsworth.
+
+“By using ChatGPT, I can access the sum total of human knowledge in a way that’s perfectly curated to the question or task at hand”
+
+Also using Google as a reference point is author David Boyle, who has written three books on the subject of AI, including PROMPT FOR MUSICIANS: A practical guide to brand growth using ChatGPT, co-written with Richard Bowman, to provide a guide for people working in music to sharpen their ChatGPT skills.
+
+“If you ask Google a question at the moment, you’ll find a very small subset of answers that we can use to help make decisions,” observes Boyle. “AI massively amplifies that. If we devoted our whole life to reading about the live music industry, we’d still only read a tiny, tiny percentage of what was online. But ChatGPT can access everything that is available online, summarise that, and deliver a comprehensive document within minutes, in whatever style you request.
+
+In other words, it can access the sum total of human knowledge in a way that’s perfectly curated to the question or task at hand. “For instance, if I’m interested in researching the future of concerts, without AI, it would take me days to find all the right stuff, and I would not be able to interpret it – and I wouldn’t be able to understand the information in foreign languages that I don’t read. But by using ChatGPT, I can access the sum total of human knowledge in a way that’s perfectly curated to the question or task at hand. It’s awesome!”
+
+“AI systems with human-competitive intelligence can pose profound risks to society and humanity”
+
+One of Boyle’s golden lessons is that experts should always judge, refine and enhance ChatGPT’s output. So, how did it do this time? “Not great,” says Boyle. “With some rewording, 1, 4 and 5 are ok, but 2 and 3 aren’t likely to be valuable avenues to explore. For marketing, concentrate on understanding an artist or genre’s target audience, devising content and messaging strategies, and rapidly producing marketing materials. Legal tasks, such as converting brief notes into contracts and vice versa should be added.
+
+“Enhancing communication is another big area of opportunity, quickly transforming rough emails into concise, clear, and well-structured messages. However, in all use cases, it’s essential to have experienced professionals evaluate, refine, and improve ChatGPT’s output, as it was with this list [for IQ] .”
+
+However, in their ‘Pause Giant AI Experiments’ letter, Musk et al protest, “AI systems with human-competitive intelligence can pose profound risks to society and humanity, as shown by extensive research and acknowledged by top AI labs.” The letter adds, “Should we automate away all the jobs, including the fulfilling ones? Should we develop nonhuman minds that might eventually outnumber, outsmart, obsolete, and replace us? Should we risk loss of control of our civilisation? Such decisions must not be delegated to unelected tech leaders.”
+
+“With something that has the potential to be as powerful as this, taking a minute to look at the implications from a sort of societal level, is no bad thing”
+
+Wadsworth tells IQ, “I think what [Musk and others] are saying is absolutely right. Just taking a minute to say, ‘Hang on, let’s do the smart thing here and just really look at this,’ seems a really measured way of doing it. Culturally, the capitalistic approach is to go fast and develop and grow and grow. And we’ve seen these big crashes where that gung-ho attitude often ends in disaster.
+
+“With something that has the potential to be as powerful as this, taking a minute to look at the implications from a sort of societal level, is no bad thing.” Boyle has a slightly different take. “It’s a bit like climate change: we’re all worried about it, but if I have to be in America tomorrow, I’m getting on a plane, even though I know it is destroying the climate and it might end mankind,” he states.
+
+“The same is true with AI. It absolutely might end mankind. Terminator is my favourite movie, and one possible end state of where this is going is 100% the end of the world. But I’m using AI every single day. And I’m getting on a plane next week. However, for both AI and air travel, we should work to avoid the long-term downsides at the same time as using the tech in the short term.”
+
+“Personally, ChatGPT makes me quicker and better at doing the things I was already doing”
+
+According to those already using the technology, rather than something to be feared over beliefs that AI capabilities will see humans being replaced on payrolls, ChatGPT should be embraced as a way to speed up certain tasks. In other words, running creative writing assignments through the ChatGPT software can save valuable time, albeit the human factor may still be required to check any AI-generated script for factual errors. Boyle cites his own personal experience of being an early adopter of ChatGPT to highlight the positives.
+
+“Personally, ChatGPT makes me quicker and better at doing the things I was already doing. And it feeds me ideas I would never have thought of,” he explains. “I’m not that good at writing, but now, using AI, I send reports that have coherent sentences, that are thoughtful, and use nice analogies. I have more fun doing it, and I work less hours work per week, so I have more time with my friends and family. But I actually do more work because I can take on more projects and write more articles than I otherwise would have done – it allows me to take on projects that I never would have accepted before because it was too much work for me or slightly out of my expertise. But I know I can do that now because of this AI tool at my disposal.”
+
+Wadsworth, who is currently raising capital to take his OnlineRecordingStudio.com artist services venture to the next level, notes that AI tools for music have evolved from some of the nefarious voice replication programmes that hit the headlines during the US political campaigns of 2015/16, where audio manipulation could make it appear that candidates were saying words that they had never actually uttered.
+
+“If you’re writing to sell your songs, for example, you might want to know what it sounds like to have a certain artist singing them”
+
+“In the years since, people have used the technology on social media to create comedy things – here’s Ozzy Osbourne singing Call Me Maybe,” he says. “But now, I can use ChatGPT to request, ‘write me a song about going to the shops, in the style of Kanye West,’ and it will just do it. It won’t be perfect, but it’s 75% of the way there, and you can then go through and edit stuff as needed.”
+
+Wadsworth adds, “There are huge positives that are going to come out of this. If you’re writing to sell your songs, for example, you might want to know what it sounds like to have a certain artist singing them. Traditionally, you wouldn’t have been able to do that. Now I can say, I’ve written this song for a Taylor Swift-type artist and hear how it sounds with her voice. There’s also monetisation opportunities for artists to license their voice – not necessarily for release but for personal use.”
+
+In terms of the applications for people working in the live side of the business, both experts promote ChatGPT’s benefits when it comes to communication-based tasks. “If you’re pitching something to somebody, [ChatGPT] is really good,” says Boyle. “At worst, take a pitch you’ve already written, submit it to ChatGPT and ask, ‘How can I improve this?’ It might suggest tidying up the wording, improving punctuation: ‘In paragraph three, you can make a more compelling case for why it benefits the recipient.’ Or better still, get it to rewrite the pitch.”
+
+“t just seems a bit scary because we’ve had some 100 years of sci-fi talking about how the robots are going to take over”
+
+Wadsworth says, “Anything that’s a repetitive task or doesn’t require a huge amount of creative skill – and when I say ‘creative,’ I mean actually coming up with new things as opposed to just regurgitating things – then that’s something that can be done by an AI. I don’t think there’s any issue with that – things like generating chord patterns can be automated if you know how to use it properly. I don’t see that as being any different from any other tool, honestly. It just seems a bit scary because we’ve had some 100 years of sci-fi talking about how the robots are going to take over.”
+
+But the duo also flag up limitations. “It’s not only about how you ask ChatGPT the question; it’s also about whether it’s the right question or not because there’s some questions that it can’t answer,” says Boyle. “It’s not very good at recalling specific facts – so a person’s biography or a news story or a stat. So in general, that’s not a good use case. Another thing it’s not very good at is analysing big, structured data tables, so using it to help with tour routing might not be great.”
+
+Wadsworth agrees. However, he notes that as AI systems are trained and develop, those kinds of tasks might quickly become part of its skillset. “There are definitely strong use cases within marketing,” continues Wadsworth. “Want a new bio for your band… just tell ChatGPT a few bits of information and ask it to write, say, 600 words, and it will produce something really good. If you’re an indie band, it might save you the cost of hiring a publicist or a copywriter.
+
+“[ChatGPT] is like an electric bike for the mind, which lets you tackle bigger problems and to go faster”
+
+“It can also come up with ideas for 20 TikToks that will engage your act’s audience, whereas the band members might only think of 12.” And Wadsworth sees AI becoming a significant tool when it comes to generating playlists on streaming services.
+
+“Spotify algorithms are based on user behaviour. Whereas with an AI tool, it can actually listen to a song and break down the sonic identity of that track in detail, meaning it can link tracks with similar lyrical content, for instance, which is a big change and could massively benefit lots of acts.” Boyle concludes.
+
+“[ChatGPT] is like an electric bike for the mind, which lets you tackle bigger problems and to go faster. You still have to pedal – and it’s totally okay to choose to pedal an old-fashioned bike – but do not expect to cover the same ground with the same amount of effort as people who are using an electric bike.”
+
+Get more stories like this in your inbox by signing up for IQ Index, IQ’s free email digest of essential live music industry news.

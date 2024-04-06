@@ -1,0 +1,31 @@
+A research group says the Israeli NSO Group’s spyware was used to launch at least three “zero click” attacks on the iPhones of civil society members last year.
+
+Citizen Lab released its findings on Tuesday into NSO’s global reach after its software infected the phones of at least two human rights defenders in Mexico in 2022.
+
+NSO’s Pegasus spyware can infiltrate a mobile device either through a text message that users click or more recently through “zero-click attacks”.
+
+Those intrusions compromise devices without any action by the user. Messages, chats, phone calls, contacts and emails can be monitored.
+
+The latest identified hacks, Citizen Lab said, targeted phones with iOS 15 and iOS 16 operating software. The Lab shared its findings with Apple, which made security improvements to fix the flaws used by the spyware.
+
+Apple’s Lockdown Mode successfully blocked one of the three attacks, the research showed.
+
+NSO Group is an Israeli cyber-surveillance firm regulated by Israel’s Ministry of Defense. Citizen Lab at the University of Toronto has studied Pegasus extensively.
+
+Citizen Lab said it first found the zero-click exploits in a joint investigation with Mexican NGO Red en Defensa de los Derechos Digitales (Digital Rights Defence Network), or RD3, after examining phones of Mexican human rights activists.
+
+“The timing of the infections on their devices corresponds to events of importance to the activities of Centro PRODH, and suggests that the Pegasus operator may have been seeking to penetrate and perhaps blunt the impact of Centro PRODH’s work relating to human rights violations committed by the Mexican Army,” the report said.
+
+Centro PRODH is Mexican legal aid and human rights organisation that was investigating a mass kidnapping of dozens of students in Mexico in 2015.
+
+One infected phone belonged to Centro PRODH’s director, Jorge Santiago Aguirre Espinosa. Citizen Lab said his phone has been compromised at least three times since 2016.
+
+A second member of Centro PRODH, María Luisa Aguilar Rodríguez, had her phone infected in June while she was representing victims of human rights violations allegedly perpetrated by the Mexican military.
+
+According to a report by The Washington Post, Mexico has been “a major NSO customer”.
+
+Mexican government agencies signed contracts worth about $160m with NSO Group from 2011 to 2018, the Reuters news agency has reported.
+
+NSO officials have repeatedly denied any wrongdoing in selling spyware to governments around the world. Pegasus is intended for use only “against criminals and terrorists”, the company said.
+
+An NSO spokesman “declined to say” whether its product was involved in the latest intrusions in Mexico, and he “faulted Citizen Lab for failing to disclose its underlying data”, the Post reported.

@@ -1,0 +1,5 @@
+Skip to content
+
+Uncovering (and Understanding) the Hidden Risks of SaaS AppsRecent data breaches across CircleCI, LastPass, and Okta underscore a common theme: The enterprise SaaS stacks connected to these industry-leading apps can be at serious risk for compromise.
+
+CircleCI, for example, plays an integral, SaaS-to-SaaS role for SaaS app development. Similarly, tens of thousands of organizations rely on Okta and LastPass security roles for SaaS identity and accessU. S. and U.K. Warn of Russian Hackers Exploiting Cisco Router Flaws for Espionage

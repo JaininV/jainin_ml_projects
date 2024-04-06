@@ -1,0 +1,63 @@
+A read-only reentrancy flaw led to an attack on the Sentiment Protocol on the Arbitrum Chain on April 4. By taking advantage of this vulnerability, the attackers were able to steal about $1 million.
+
+Fortunately, the attacker gave back about 90% of the money that was taken.
+
+On the Arbitrum Chain, Sentiment is a liquidity protocol that permits on-chain, permissionless, undercollateralized borrowing.
+
+Similar to the DeFi lending marketplaces that already exist, sentiment lenders provide capital that is then lent to borrowers as debt.
+
+Visit the official documents to find out more information about the sentiment.
+
+The Sentiment breach was made possible by a reentrancy flaw. While these flaws have long been known, they have historically only affected programming that updated states.
+
+Several recent hacks, however, have been traced back to read-only reentrancy vulnerabilities.
+
+View functions, which don’t change the state of the contract, are particularly vulnerable since they lack reentrancy protection.
+
+Since a smart contract’s fallback function can execute code, reentrancy attacks take advantage of this feature. These fallback functions pose a threat if they can rejoin a vulnerable function before it executes state modifications.
+
+The attacker in this scenario used a flashloan to fund Sentiment liquidity pool. The contract’s exitPool function allowed them to cash out their initial investment.
+
+This activates the contract’s fallback function because it includes transferring money to the attacker’s contract. After that, the fallback function took out a loan and used the Balancer Vault to determine the tokens’ worth.
+
+The vault had an outdated view of the number of tokens it had because the call to exitPool had not yet completed its state updates.
+
+As a result, it performed the loan with an incorrect value computation, enabling the attacker to steal nearly $1 million from the protocol.
+
+The asset balances in the pool and the overall number of LP tokens will serve as the basis for the price oracle.
+
+As stated, the exploiter boosted the total supply of the LP coin by 606 WBTC, 10,000 WETH, and 18 million USDC by using the ‘joinPool’ function of the Balancer vault.
+
+The money was then removed using exitPool(), which sends 606.8 WBTC, 1,000 ETH, and 17.9 million USDC consecutively.
+
+A fallback function lowers demand, but since the pool balances of WBTC, WETH, and USDC do not change, the price is skewed, allowing the attacker to borrow multiple assets at the skewed price.
+
+The Root Cause: When liquidity is removed from balancer pools, a view-only reentrancy problem is discovered, and one of the return tokens is ETH.
+
+Since the entry point is a non-mutating view call, it cannot be secured by a reentrancy guard, giving the caller the ability to take over control of execution and execute arbitrary code.
+
+Prior to changing the pool balances, the attacker was able to execute a malicious contract. By using overpriced collateral, they were able to steal funds.
+
+For more details on the balancer’s vulnerability, visit this blog.
+
+The attacker started off by taking out a flash loan from the sentiment lending pool for 606 WBTC, 10,130 WETH, and 18 million USDC tokens.
+
+By using the Balancer Vault’s joinPool() method to make a deposit, the attacker starts the attack. They then use the exitPool() function to take the funds out. The attack contract’s fallback function is activated by the Balancer Vault during the withdrawal procedure.
+
+The attacker uses the borrow function from the 0x62c5 Proxy contract in the fallback function. Based on the balancer vault return data, this function determines the price.getPoolTokens().
+
+As a result, the overall supply of LP tokens declines, while the tokens’ recorded balances in the pool remain same.
+
+As a result, the token prices become unbalanced, which enables the attacker to borrow several assets for a lower price.
+
+The attacker eventually paid the premiums and returned the borrowed money, earning a profit of about $1 million.
+
+From Ethereum to Arbitrum Chain, the attacker bridged the funds. View this.
+
+It is essential to take the project’s integrations and security measures into account when creating smart contracts.
+
+It is advised to use Balancer’s VaultReentrancyLib to lessen this problem. A noop call to the vault is made by executing ensureNotInVaultContext(vault), which will fail if an attacker tries to use a read-only reentrancy attack.
+
+Reentrancy vulnerabilities pose a frequent risk. Defenses against them, though, frequently concentrate on processes that modify the state of the system.
+
+Because it simply executes view actions (such as computing a token balance based on a pool’s supply) as opposed to modifying the state in a specific function, a function lacking reentrancy protection is the target of a read-only reentrancy vulnerability.

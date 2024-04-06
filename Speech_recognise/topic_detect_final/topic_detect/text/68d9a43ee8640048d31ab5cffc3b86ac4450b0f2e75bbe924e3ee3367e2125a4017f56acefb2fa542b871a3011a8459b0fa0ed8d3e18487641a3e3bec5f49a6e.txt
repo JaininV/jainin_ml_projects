@@ -1,0 +1,25 @@
+As explained the complete process involved in the client copy back <Process Overview of Client Refresh using EPI-USE method>  and client export <Client Export Process- Production Client Data using DSM tool / EPI-USE method> using EPI-USE method in my previous blog post. I’ll now go over Phase 5 of my earlier blog post, which describes how to delete the target client data using the DSM tool. Just so you know, the target system must be offline for the user access for the duration of these entire processes.
+
+The benefit of deleting a client using the EPI-USE approach is that only the client’s data will be removed and not client itself. Furthermore, it will be quicker than standard client deletes using tcode SCC5.
+
+– Check profile parameter for SAP* login and change in the value as 0 (zero) if not set.
+
+Value should be 0 zero, if not set change and activate the parameter.
+
+– Take SAP System shutdown/start to activate the profile parameter if you changed.
+
+After restarting SAP application, the check profile parameter value using TCode: RZ11
+
+– Delete SAP* user from the client, which you want to delete the client, if required delete from DB level.
+
+– Now you can perform client delete using EPI-USE method.
+
+Caution: Make sure you logged into target client only or else another client will be deleted.
+
+Here after clicking on Execution. It will popup for client number confirmation, if okay Click on Yes.
+
+Using the EPI-USE/DSM tool, I have discussed client data delete methods and execution procedures in this blog.
+
+I hope this blog post is useful to you. Your thoughts and suggestions are welcome.
+
+Thanks for reading this article !

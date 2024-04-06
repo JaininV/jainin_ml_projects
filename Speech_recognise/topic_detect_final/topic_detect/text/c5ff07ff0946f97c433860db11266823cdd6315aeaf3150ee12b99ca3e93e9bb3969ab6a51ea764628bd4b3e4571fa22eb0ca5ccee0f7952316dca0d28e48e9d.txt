@@ -1,0 +1,55 @@
+Patch will be live Thursday, April 13th around 6:00pm EST!Welcome to patch 112 everyone! We’ve got a smaller patch this week, largely focused on standardizing a few card effects, making a few tweaks to some overperformers, and a few revisions to some underperforming cards. Added an overlay when your Sequence Wallet is open.Fixed a bug preventing players from editing their deck names before creating it.Various small bug fixes and improvements to the deck builder, item viewer, Skypass, and purchase checkout pages.
+
+Welcome to patch 112 everyone! We’ve got a smaller patch this week, largely focused on standardizing a few card effects, making a few tweaks to some overperformers, and a few revisions to some underperforming cards.
+
+Only cards with modified discovery odds are shown here, but the CSV       contains all cards.
+
+Play: Summon five Armis Guard.
+
+Play: Summon five Armis Guard. This game, your Armis Guard have         +1/+1.
+
+Buff to the very underwhelming King of Armis. The card was performing very poorly, so we’ve updated Altren to 4/4 and allowed him to provide a permanent +1/+1 buff to all Armis Guards when played, giving him a net +6/+6 worth of stats, which seems quite powerful, but we’re looking to improve finishers.
+
+Target unit loses Guard. Give that unit -3 power and attach         Roots.
+
+Target unit loses Guard and Armor. Attach Roots to it.
+
+A much requested nerf to an overperforming jack of all trades. Ensnare no longer reduces power but now breaks armor, providing another means to answer armor Units. Trading some of its raw power for more utility.
+
+Attach Flames to enemies.
+
+Do 3 damage to the lowest-health enemy unit. Repeat for each time your         hero attacked this turn.
+
+Rework to an underperforming card that almost never saw play, Flame Volley now fires arrows into the enemy ranks equal to 1 + the number of attacks your hero has made in a turn, providing a synergistic effect for agility decks utilizing multi-attack cards.
+
+Your hero cannot lose health during your turn.
+
+Your hero cannot take damage during your turn.
+
+The first of a few smaller changes to cards that mentioned "loss of life." or "losing life." In keeping with cards like Reckless Racer & Bloodletter, these cards have been updated to prevent or work with “damage” rather than life loss. As a rule, life loss generally only occurs due to out of deck fatigue, which led to some unintentional and overpowered interactions in the past, so having effects be based around damage, rather than life loss, helps avoid these kinds of pitfalls while having a minimal impact on these cards' intended functionality.
+
+Summon: Gain Guard and +1 power for each health your hero lost this         turn.
+
+Summon: Gain Guard and +1 power for each damage your hero has taken         this turn.
+
+Another adjustment of life loss to damage, bringing consistency to another that cared about life loss.
+
+Has -1 cost for each health your hero has lost this game.
+
+Has -1 cost for each damage your hero has taken this game.
+
+Small nerf to keep the card balanced and to parallel Big Friend, also updating to "damage taken" rather than loss of life alongside Disciple.
+
+Sunset: Dust your highest cost dead spell to draw and play your highest         cost spell of that cost or less, target enemies if possible.
+
+Sunset: Cast your bottom dead 1 cost or higher spell, target enemies if         possible.
+
+Revising the effect of an underperformer and possible cost-cheating card to be simpler and less random - Hexed Beast now casts your bottom dead 1 cost or higher spell at the end of each of your turns, more clearly tying into the high-cost spell strategy and serving as a parallel of sorts to Pharonis.
+
+Slay: The next spell you play with base cost 6 or higher has         -2 cost.
+
+Slay: The next spell you play with base cost 6 or higher has         -1 cost.
+
+Revision to another cost-cheating card. Siren now gives only -1 cost to the next spell on Slay, but has +1 health to compensate, helping it potentially survive to get a second Slay.
+
+What's your title? Oh you don't have one.. Let's fix that! Starting today players will be able to equip titles on their Skytag to show how dope they are. We also got some adjustments to cards that can create big swings early on, as well as some simplifications and revisions to a few over-tuned ones.brum-brum-brum-brrrrrrrrrrrrrrrrrrrrr! Let's rip through these changes coming in hot for Patch 110! This week we added the ability to view deck stats and equip items! As usual, there are card changes too. Don't forget to claim Ripblade Raider for free on the Skypass this season before time runs out!A few nerfs this week, aimed at addressing some metagame issues and specific outliers. In particular, we’ve been observing the rise of certain Agility decks, especially Wisdom & Agility decks in the current meta. These changes should make some of these decks' key cards more manageable.

@@ -1,0 +1,15 @@
+Okta's most recent "State of Secure Identity Report" provides a comprehensive overview of the current trends, examples, and observations gathered from the Okta Customer Identity Cloud.
+
+The report aims to help organizations understand the threats against identity flows in consumer -facing applications and drive informed conversations around identity security. Key highlights of the presentation include:
+
+* Real-world observations of identity attacks based on data from Okta Customer Identity Cloud customers around the world
+
+* Insights into the four major trends affecting identity flows: fraudulent registrations, credential stuffing, MFA bypass, and breached passwords.
+
+* Case studies and examples illustrating the impact of these trends on real-world organizations.
+
+* Recommendations for organizations to improve their identity security posture and protect against these evolving threats.
+
+The data used in the report was retrieved by Auth0's security researchers, who ran simple and anonymous queries against the aggregate database of operational telemetry. Attendees of the presentation will gain valuable insights into the latest threats and trends affecting CIAM systems, and will be better equipped to defend their organizations against identity attacks.
+
+Nabeel is a product manager at Auth0, where he focuses on the company's critically important security offerings. He also authored the State of Security Identity Report, an insightful study that has helped to shape the conversation around identity management and access control. With his expertise in all things security and identity, he has contributed to publications like Wirecutter, Information Age, and Professional Security. Nabeel has been a guest speaker at the Bay Area Cybersecurity Meetup and has delivered talks on Identity and Access Management (IAM) across the US, Canada, Israel, and Singapore. He is passionate about helping build secure auth experiences that amaze users and delight businesses.

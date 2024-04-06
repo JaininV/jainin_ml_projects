@@ -1,0 +1,9 @@
+Last week, we learned that the upcoming vampire-themed shooter Redfall would only support 30fps on Microsoft's Xbox Series X and S consoles, at least for the launch of the game on May 2. Thankfully, that won't be the case for another highly anticipated game, Diablo IV.
+
+During the latest Major Nelson podcast (via TechRadar), Blizzard's head man for all things Diablo, Rod Fergusson, confirmed that Diablo IV will indeed run at 60fps for both of Microsoft's current gen consoles. The Xbox Series X will run the game at a native 4K (2160p) resolution, while the Xbox Series S would have an upper limit of 1080p resolution while running the game. While that console can go higher in resolution for perhaps a 1440p30 (or 40fps) experience, the decision was made to instead go lower to keep the game going at 60fps.
+
+That should be good news for Xbox console gamers who expect smooth frame rates while hacking and slashing through Diablo IV's dungeons. PC gamers with supported NVIDIA graphics cards can also expect to play the game with DLSS 3 support for even faster frame rates.
+
+Diablo IV is due out on June 5 in the US and Canada, and everywhere else on June 6. You can pre-order the Xbox versions on Xbox.com. You can also preorder an Xbox Series X console bundled with a digital code for Diablo IV at Amazon.
+
+When you purchase through links on our site, we may earn an affiliate commission.

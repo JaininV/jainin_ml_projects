@@ -1,0 +1,59 @@
+PARIS, April 10 — An amateur photographer who goes by the name “ibreakphotos” decided to do an experiment on his Samsung phone last month to find out how a feature called “space zoom” actually works.
+
+The feature, first released in 2020, claims a 100x zoom rate, and Samsung used sparkling clear images of the Moon in its marketing.
+
+Ibreakphotos took his own pictures of the Moon — blurry and without detail — and watched as his phone added craters and other details.
+
+The phone’s artificial intelligence software was using data from its “training” on many other pictures of the Moon to add detail where there was none.
+
+“The Moon pictures from Samsung are fake,” he wrote, leading many to wonder whether the shots people take are really theirs anymore — or if they can even be described as photographs.
+
+Samsung has defended the technology, saying it does not “overlay” images, and pointed out that users can switch off the function.
+
+The firm is not alone in the race to pack its smartphone cameras with AI — Google’s Pixel devices and Apple’s iPhone have been marketing such features since 2016.
+
+The AI can do all the things photographers used to labour over — tweaking the lighting, blurring backgrounds, sharpening eyes — without the user ever knowing.
+
+But it can also transform backgrounds or simply wipe away people from the image entirely.
+
+And the debate over AI is not limited to hobbyists on message boards — professional bodies are raising the alarm too.
+
+The industry is awash with AI, from cameras to software like Photoshop, said Michael Pritchard of the Royal Photographic Society of Britain.
+
+“This automation is increasingly blurring boundaries between a photograph and a piece of artwork,” he told AFP.
+
+The nature of AI is different to previous innovations, he said, because the technology can learn and bring new elements beyond those recorded by film or sensor.
+
+This brings opportunities but also “fundamental challenges around redefining what photography is, and how ‘real’ a photograph is”, Pritchard said.
+
+Nick Dunmur of the Britain-based Association of Photographers said professionals most often use “RAW” files on their digital cameras, which capture images with as little processing as possible.
+
+But sidestepping the tech is less easy for a casual smartphone shooter.
+
+Ibreakphotos, who posted his finding on Reddit, pointed out that technical jargon around AI is not always easy to understand — perhaps deliberately so.
+
+“I wouldn’t say that I am happy with the use of AI in cameras, but I am OK with it as long as it is communicated clearly what each processing pipeline actually does,” he told AFP, asking not to use his real name.
+
+What professional photographers are most concerned about, though, is the rise of AI tools that generate completely new images.
+
+In the past year, DALL-E 2, Midjourney and Stable Diffusion have exploded in popularity thanks to their ability to create images in hundreds of styles with just a short text prompt.
+
+“This is not human-authored work,” Dunmur said, “and in many cases is based on the use of training datasets of unlicenced work.”
+
+These issues have already led to court cases in the United States and Europe.
+
+According to Pritchard, the tools risk disrupting the work of anyone “from photographers, to models, to retouchers and art directors”.
+
+But Jos Avery, an American amateur photographer who recently tricked thousands on Instagram by filling his feed with stunning portraits he had created with Midjourney, disagreed.
+
+He said the lines drawn between “our work” and “the tool’s work” were arbitrary, pointing out that his Midjourney images often took many hours to create.
+
+But there is broad agreement on one fundamental aspect of the debate — the risk for photography is not existential.
+
+“AI will not be the death of photography,” Avery said.
+
+Pritchard agreed, noting that photography had endured from the daguerreotype to the digital era, and photographers had always risen to technical challenges.
+
+That process would continue even in a world awash with AI-generated images, he said.
+
+“The photographer will bring a deeper understanding to the resulting image even if they haven’t directly photographed it,” he said. — AFP

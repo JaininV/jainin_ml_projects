@@ -1,0 +1,71 @@
+A 5-year-old child presents with a 2-day history of fever, cough and coryza. As part of their assessment in ED, a urine dip is performed. It shows 1+ of protein but is otherwise clear.
+
+This is common. We know there is no urine infection, but what does the protein mean? Shall we ignore it? Is it just from the fever?
+
+Proteinuria is the term for protein in urine. When we use a urine dipstick, the protein we are measuring is albumin. This suggests that albumin is leaking out from the kidneys into the urine.
+
+Here are the protein levels as represented on a urine dip:
+
+Ideally, we should measure a 24-hour sample of urine to get an idea of how much protein is leaking out, but this is a challenging investigation in practical terms. Collecting a day’s output in a little one is difficult, particularly if they wear nappies. In addition, the test might require an admission or repeated trips to hospital with samples, and most children with incidental proteinuria can be investigated in the ED or as outpatients.
+
+The alternative is sending a urine sample for the protein creatinine ratio (PCR) or albumin creatinine ratio (ACR). ACR measures albumin only, while PCR measures all protein including the lower molecular weight proteins that are lost in tubular disease. ACR will suffice in picking up most paediatric pathologies if PCR is not available in your area.
+
+A normal urine protein creatinine ratio is less than 0.2 mg protein/mg creatinine in children older than 2 years and less than 0.5 mg protein/mg creatinine in infants and children 6 to 24 months old.
+
+Population-based studies have shown that proteinuria can be found in as many as 15% of children >5 years of age when performing a random urine spot-check. Therefore, it’s important to know the causes.
+
+Transient, or functional, proteinuria is, as the name suggests, temporary and usually resolves once the trigger is removed. For example, it can happen with a fever, a seizure or other triggers like exercise and dehydration. Ensure it was transient by repeating an early morning sample once the child is better or the trigger is removed.
+
+This usually occurs in teenage boys and is associated with being upright (orthostatic) for a length of time. The way to diagnose it is to do an early morning urine dip when the child has been lying flat all night; this should be negative for protein. Once the child is upright and walking around, a repeat urine sample 4 hours later shows protein. It is a harmless condition which doesn’t need further investigation.
+
+Despite the child having recovered from an illness or the trigger no longer being there, proteinuria persists. Therefore, the child should be examined, have their blood pressure taken, and have a blood test to check renal function.
+
+Persistent proteinuria can be classified according to the area of the kidney affected: glomerular, tubular or overflow.
+
+Glomerular loss is caused by the failure of the filtration barrier to keep hold of proteins, tubular loss is caused by failure to reabsorb proteins, and overflow is because the kidney is overwhelmed with high protein levels.
+
+Glomerular loss is more common than the other causes. Therefore, when classifying it, we broadly think of nephrotic and nephritic syndrome.
+
+Sometimes features overlap, but it’s worth being clear on what the key features are:
+
+Although these terms are used, they don’t explain the underlying cause. So let’s think about those.
+
+Minimal change disease (MCD) is the most typical cause of nephrotic syndrome in children. The term describes the changes seen at the level of the podocytes in the glomerulus. There are many causes of MCD though the majority are idiopathic. Children are typically between 3-9 years old and present with facial oedema. Most will respond well to steroid treatment.
+
+Focal segmental glomerulosclerosis is rare but more challenging to treat and can lead to chronic renal failure. Causes are varied but include genetic factors, infections such as HIV and some medications.
+
+Acute glomerulonephritis describes a state of inflammation which can lead to nephritic syndrome. There are many causes, so let’s focus on some that we might see presenting for the first time in ED.
+
+There are often some clues in the history or the examination that can help work out the underlying cause.
+
+* Are there purpuric spots to the legs and buttocks? Think Henoch-Schoenlein purpura.
+
+* Did the child have a sore throat in the last few weeks? Think post-streptococcal glomerulonephritis.
+
+* Has the child had a recent lower respiratory tract infection? Think IgA nephropathy (which tends to be in those >10 years).
+
+Here the tubules are unable to reabsorb smaller proteins because of damage. This tends not to be picked up on urine dip or ACR (remember, this measures albumin). Some congenital conditions can cause a tubulopathy (think Wilsons or cystinosis), but some can present in ED. Because the tubules are sensitive to insult, consider anything that could cause damage, such as infection or drugs like NSAIDs.
+
+This is rare in children, but one example would be rhabdomyolysis overwhelming the kidneys.
+
+On examination, we can’t find anything that might flag an underlying cause for the proteinuria. So what are our next steps?
+
+The consensus is that 1+ of proteinuria found incidentally should have a sample repeated. Explain the findings to parents and suggest a GP follow-up with an early morning urine sample when the patient is over the current illness. Let’s facilitate this by giving the patient a urine pot to take home from ED. Further investigations are required if the protein is persistent, starting with the basics.
+
+Levels of 2+ protein on urine dip, if occurring with haematuria, would warrant further investigation, starting with the basics.
+
+Proteinuria 3-4+ on urine dip is concerning for nephrotic syndrome, and these children need to be worked up appropriately.
+
+Protein 1+ or more shouldn’t be ignored.
+
+It is likely to be transient in the context of fever, but an early morning urine dip when well should be done to confirm that.
+
+Persistent proteinuria has many causes, with a glomerular cause being the most common in children.
+
+Jang, Kyung Mi and Min Hyun Cho. Clinical Approach to Children with Proteinuria. Child Kidney Dis 2017;21:53-60 (2017). DOI:10.3339/JKSPN.2017.21.2.53
+
+Larkins, N. G., Teixeira-Pinto, A. and Craig, J.C. (2019), A narrative review of proteinuria and albuminuria as clinical biomarkers in children. J Paediatr Child Health, 55: 136-142. https://doi.org/10.1111/jpc.14293
+
+Leung AK, Wong AH, Barg SS. Proteinuria in Children: Evaluation and Differential Diagnosis. Am Fam Physician. 2017 Feb 15;95(4):248-254. PMID: 28290633.
+
+Saint, Sanjay et al, ‘Nephritic Syndrome’, in Sanjay Saint, and Vineet Chopra (eds), The Saint-Chopra Guide to Inpatient Medicine, 4 edn (New York, 2018; online edn, Oxford Academic, 1 Nov. 2018)

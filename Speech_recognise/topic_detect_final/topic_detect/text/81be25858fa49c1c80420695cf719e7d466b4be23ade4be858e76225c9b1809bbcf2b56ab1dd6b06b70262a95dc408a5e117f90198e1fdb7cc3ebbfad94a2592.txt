@@ -1,0 +1,27 @@
+Fundamentals of programming are the key to being a good developer
+
+You've probably heard of it before when studying or at the start of your career. But have you really understood how important this is to you ?
+
+I only truly understand it now. I thought I knew it, and I also thought I knew how to code. But it’s more than just developing a program. It is about managing an entity which is destined to evolve.
+
+DRY, SOLID, KISS, SOC… you may know these acronyms and maybe even their definitions. But do you know how to apply them? Do you fully integrate these principles and philosophies into every line of code you write?
+
+Any fool can write code that a computer can understand. Good programmers write code that humans can understand. — Martin Fowler
+
+In many ways, programming is like a game of chess.
+
+To be a good chess player, you need to play repeatedly, learn techniques, and apply them. While this can lead to continuous improvement, eventually you will reach a limit that you cannot exceed. To go beyond this limit, you have to go back to the basics of the game.
+
+You will learn how two single pieces can work together, how the movement of one affects the position of the other, and you will repeat this operation for each game piece. Then, you will add one more piece and observe how this new piece fits in with the others. You will repeat this process over and over again, developing your brain to automatically recognize patterns that you previously had to consciously think about.
+
+Eventually, you will no longer need to detail why a certain movement is the best; you will simply know it is the right one because your brain has recognized the pattern.
+
+The same philosophy can be applied to programming. You can become a good developer by coding repeatedly until you reach a certain limit. But if you want to be more than just good, you have to master the core principles of programming. You have to master them until a decision about code is no longer the result of a period of reflection, but that decision is automatically chosen and considered the best approach.
+
+It’s easy to fall into the trap of thinking that learning a popular framework or library like React or Angular is the key to becoming a good developer. While frameworks can certainly make development easier, they don’t replace the need to understand the underlying principles of programming. In fact, if you don’t have a strong foundation in programming, you may find it harder to debug issues or create custom functionality.
+
+As I mentioned earlier, becoming a good programmer involves more than just writing code. It requires a deep understanding of fundamental concepts like algorithms, data structures, and object-oriented programming. By mastering these principles, you’ll develop the ability to break down complex problems into smaller, more manageable pieces, and come up with elegant solutions that are easy to maintain.
+
+When you understand programming fundamentals, you’ll find that you can pick up new frameworks and technologies more easily. Instead of having to learn everything from scratch, you’ll already have a mental model of how the technology works and what its limitations are. This will enable you to dive deeper into the framework and leverage its capabilities more effectively.
+
+It’s important to acknowledge that mastering programming fundamentals takes time and effort. It’s not something that can be learned overnight or by reading a single book. It requires consistent practice, experimentation, and a willingness to learn from your mistakes. But by putting in the time and effort, you’ll reap the benefits of being a better problem solver, a more versatile developer, and a more valuable asset to any team.

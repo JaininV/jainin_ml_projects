@@ -1,0 +1,59 @@
+It's official: SEGA today announced that it plans to acquire Angry Birds game developer Rovio for roughly $771 million. Here are a few reasons why SEGA is making this big buyout.
+
+On a surface level, it's pretty obvious why anyone would buy Rovio. The Finnish devs created one of the most popular mobile games of all time and still generate hundreds of millions of dollars in revenue every year. Logic dictates that Rovio would help supercharge any company's mobile gaming presence.
+
+We have to look a bit deeper to really understand why SEGA is making this purchase. The company's official press release reveals the thought process behind the acquisition, but we still need more information to get a full picture. The reality is that SEGA doesn't just want to make more mobile games--it wants to create more games for all markets.
+
+I've identified five main points for the buyout:
+
+SEGA wants to expand its global market presence
+
+Data released publicly by SEGA reveals that the company makes most of its F2P revenues from Japan. Well, not most, but nearly all of it. Typically, around 90% of SEGA's free-to-play game earnings come from the Land of the Rising Sun. SEGA's domestic F2P earnings vastly dwarf overseas markets, with North America, Europe, and other parts of Asia making up less than 10% combined.
+
+SEGA is acquiring Rovio for its talent, expertise, and its strategic platform (more on that later). Mobile gaming makes more money than any other segment in the global games market and SEGA wants a piece of the pie (actually, every publisher does).
+
+We've seen major companies pay billions of dollars to snap up mobile giants; Take-Two Interactive paid $12.7 billion to merge with Zynga, EA bought Glu Mobile for $2.4 billion, Activision bought King for $5.9 billion, and Microsoft is planning to pay $68.7 billion for Activision, which also includes King's mighty mobile empire.
+
+The motivations for all of these acquisitions remains the same: Provide added value through existing games, have a presence in gaming's most powerful and lucrative market, incorporate ad tech into games where applicable, and most importantly, adapt mega-hit intellectual properties into mobile titles.
+
+We already know that SEGA doesn't make a lot of money from F2P games outside of Japan. We also know that SEGA's mobile presence is overall lacking in Western markets when compared to other competitors (however, these competitors really only boost their mobile presence through acquisitions like the ones listed above).
+
+Rovio will help expand SEGA's narrowed mobile availability with Angry Birds alone, opening up new revenue paths through Rovio's existing lineup while also incorporating expertise and knowledge to build new games.
+
+Let's not forget that Rovio has proven success creating brand deals with advertisers. This is a critical part of any mobile gaming business.
+
+Mobile games are free to download, so developers and publishers make money in two ways: Direct monetization through in-game purchases, DLC, add-ons, etc, and indirectly through advertising. All successful mobile games companies have hit it big with the help of advertisement deals from major brands and companies, and some like King even have their own ad tech platforms that generate billions of dollars a year.
+
+SEGA isn't typically in tune with advertising for Western markets insofar as selling ads within games, so Rovio's help will be extremely beneficial to SEGA's expansion plans.
+
+"Creating the right brand partnerships that benefit the advertiser and our fans is the name of the game," Rovio advertisement lead Michelle Tobin told Marketing Dive in 2017.
+
+"My in-house brand ad partnership team focuses on ensuring we have the right media and brand partners, with fun and creative, native ad experiences."
+
+Another major reason that SEGA wants to buy Rovio is to expand and grow its mobile infrastructure. Rovio has a proprietary games platform called Beacon that offers cloud services for its developers. This is a pretty robust and innovative platform that Rovio has been innovating upon for some 10 years.
+
+Built by game developers for game developers, Beacon offers tools to support games of any genre throughout their entire lifecycle: building and launching games, prediction models to grow games through user acquisition, monetization tools and live operations toolkit to maximize players' joy with tailored game experiences. Through one simple integration, Beacon makes it easy to provide a safe and amazing user experience for the players.
+
+Beacon is tremendously valuable for someone like SEGA, a company that has yet to really break into the Western mobile market with a big F2P hit. Beacon will arm SEGA with the tools to create, deploy, and maintain new games with a tried-and-true infrastructure and cloud system that takes a lot of the guesswork out for a Japanese games publisher.
+
+Beacon can apparently be used to create free-to-play games-as-a-service titles outside of mobile too...which is pretty interesting for this acquisition.
+
+SEGA doesn't just want to create new games, or expand its mobile titles to Western markets. SEGA also wants to capitalize and benefit from Rovio's existing games, namely successful franchises like Angry Birds.
+
+Acquisition documents show that Rovio still generates hundreds of millions of dollars from its existing games. For example, in Fiscal Year 2022, Rovio made 317.7 million Euros in net sales (about $347 million in today's EUR -> USD exchange rates).
+
+SEGA could potentially recoup its buyout price in just 3 years even if Rovio and SEGA do not release any new mobile titles. That really says a lot about Rovio's revenue success.
+
+SEGA has a veritable treasure trove of popular IP, including mega-hit franchises like Sonic, Yakuza, Persona, and Phantasy Star Online. Up until now, SEGA has mostly re-released old Genesis titles onto mobile devices for Western gamers to play.
+
+These have been largely received well and are a welcomed addition to anyone's smartphone, however there's still lots of potential to create new modernized mobile games based on these IPs.
+
+Ideally, SEGA would like to create mobile titles that make money over time through direct and indirect monetization (microtransactions and advertising) to sit alongside the more premium titles.
+
+Here's what SEGA management said about Rovio adapting their IPs into new games:
+
+"Through the Acquisition, the Company aims to take-in Rovio's live-operated mobile game development capabilities and expertise in mobile game operation, to accelerate the development of mobile-compatible and multi-platform-supported version of SEGA's existing game IPs, thereby strengthening and further accelerating global expansion of SEGA's game portfolio."
+
+There's a few more interesting things to note about the deal and Rovio's implications for SEGA's plans, including the ambitious Super Games initiative, and how Rovio wants to expand outside of mobile and have SEGA publish multi-platform games.
+
+It'll be interesting to see if and how this acquisition can bolster SEGA's video games business.

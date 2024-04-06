@@ -1,0 +1,17 @@
+MEV bot “jaredfromsubway.eth” is responsible for 7.26% of the total gas spent on the Ethereum (ETH) network in the last 24 hours, according to dune analytics data.
+
+According to the data, the bot spent 560.08 ETH — worth $1.1 million — in gas in the last 24 hours. The same address is responsible for around 4.5% — $2.5 million — of the gas fees spent on the blockchain network during the past week.
+
+Source: Sealunch
+
+The top gas spenders list on Etherscan corroborates the above . This means the bot has spent more on gases than ETH layer2 networks like Arbitrum and Optimism during this period.
+
+NFT data research firm Sealunch said the bot has spent more than 3.720ETH ($7M) in gas fees and performed more than 180,000 transactions in the last 2 months.
+
+Sealunch added that most of the bot transactions were sandwich attacks targeting traders trading low-cap tokens like PEPE, BONZI, and WOJAK. Sandwich attacks are often used to front-run unsuspecting users’ transactions for profit.
+
+Meanwhile, the bot transactions also pushed ETH gas fees higher, according to analyst Hildobby. According to data from ultrasound.money, the network’s base fees moved from under 20 gwei on April 12 to as high as 146.82 GWEI on April 19.
+
+Source: Ultrasound.money
+
+The post MEV bot responsible for 7% of total gas on Ethereum network in 24 hours appeared first on CryptoSlate.

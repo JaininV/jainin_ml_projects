@@ -1,0 +1,53 @@
+Hydrokinetic energy has been bubbling under the surface of the hydropower field, but the technology is finally beginning to catch on. If all goes according to plan, new hydrokinetic turbines will transform canals and other human-built waterways into power generating stations.
+
+Hydrokinetic energy is a form of hydropower, but it’s not like Hoover Dam-type hydropower. A conventional hydropower operation requires a large volume of pressurized, dammed-up water to run a turbine. In contrast, hydrokinetic turbines are designed to run on the available gravity-powered current of a running waterway, whether it’s a river, tidal area, canal, or pipeline system.
+
+The challenge is getting a small-scale electricity delivery device to pay for itself, which explains why the hydrokinetic end of the hydropower industry has been slow on the uptake.
+
+The hydropower startup Emrgy contacted CleanTechnica by email last week with a modular, drop-in solution, so let’s take a look at that (the press release is also newly available today).
+
+Emrgy founder and CEO Emily Morris launched the company in 2014. It was soon scouted by the City of Denver’s public water supply agency, Denver Water, among others.
+
+The Denver Water project began to take shape in 2017 on a pilot basis, resulting in a number of adjustments to the technology. Last year Denver Water recapped the state of affairs so far.
+
+“From the original pilot study, Emrgy refined the hydro system and made the assemblies more modular, so they are easier to deliver and install. The new design also made the turbines easier to remove for maintenance,” Denver Water explained. “Another enhancement focused on the design of the concrete flume box assembly. The flumes include curves in the concrete structure that direct moving water to pass by the rotors more efficiently.”
+
+“The new turbine system is also more ‘plug and play, using the same onshore power electronics equipment used by the solar industry so it’s easier to connect to the power grid,” the Denver Water added.
+
+The latest news from Emrgy is a new round of $18.4 million in a Series A funding round.
+
+Leading the round was the firm Oval Park Capital, which zeroes in on “early-stage companies with disruptive and defensible technology.” The firm is particularly interested in “robust but undercapitalized startup markets” in the US Southeast and elsewhere.
+
+Also participating was Fifth Wall. That firm sailed across the CleanTechnica radar last July, when it put down stakes in a green hydrogen startup. Another participant, Blitzscaling Ventures, focuses on startups that are “attacking winner-take-most markets.” Overlay Capital and Veriten round out the list of leading participants.
+
+The infusion of cash will enable Emrgy to rev up its first factory in Aurora, Colorado, later this spring.
+
+Hydrokinetic turbines can take many different shapes and forms. For example, some are based on paddles, calling to mind basic technology similar to a waterwheel. Others deploy long vertical blades submerged in water, like a vertical axis wind turbine.
+
+Those are just two examples. In 2020, the US Department of Energy launched a $38 million hydrokinetic energy research program, aimed at tapping into an estimated potential of up to 334 terawatt-hours annually of hydrokinetic energy from tidal streams in US waters and another 120 terawatt-hours annually from river currents, let alone the canals and other built infrastructure eyeballed by Emrgy.
+
+Emrgy has come up with a modular, drop-in solution that deploys vertical axis architecture to support a compact, three-blade configuration. The number of modules depends on the size of the canal. The turbines also come in a range of ratings from 10 to 40 kilowatts.
+
+A capacity that hovers down in the double digits many not sound particularly ambitious, but it is of a piece with the US Department of Energy’s focus on distributed energy resources and small scale, local electricity generation for the modern grid of the future.
+
+If all goes according to plan, Emrgy, Inc. will also adapt its technology to rivers and tidal flows under a three-year, $3.3 million grant from ARPA-E, the Energy Department’s cutting edge funding office.
+
+That project launched in 2021 under the title, “Performance Enhancement of Hydrokinetic Arrays Using Reliable, Low-Cost Dynamic Components.”
+
+“Emrgy, Inc., and its partners are implementing ‘dynamic tuning’ of the HKT system to optimize performance across variable water flow conditions and implement new control algorithms at the system level to optimize array performance,” ARPA-E explains. “Successful implementation may deliver LCOE of $0.07-0.10/kWh depending on deployment location.”
+
+The two-phase project starts with assessing turbine performance under different depths and velocities. Phase II is focused on enhancing the design, possibly with new materials to sub in for conventional steel and concrete. The ultimate goal is to test a full scale, 20-30 kilowatt twin-turbine in a riverine environment. The project termination date is September 12 of 2024, so we’ll try to get an update on that.
+
+As for why ARPA-E is so interested in hydrokinetic hydropower, that’s a good question. Part of the answer is that building brand new hydropower dams is a difficult proposition these days. Building a new pumped hydro storage reservoir is a little more do-able, but can still face hurdles.
+
+Hydropower developers are also eyeballing new underground pumped hydro technology, which involves building up pressure in rock formations. However, that will most likely be a large-scale solution with use-cases limited to favorable geological conditions. Hydrokinetic devices can fill smaller gaps in the nation’s electricity profile, including the potential to help decarbonize remote communities that otherwise depend on trucked-in fossil fuels.
+
+The Emrgy grant is part of a broader ARPA-E program called “SHARKS” for  Submarine Hydrokinetic  And Riverine Kilo-megawatt Systems, which aims to lower the cost of hydrokinetic technology.
+
+“These renewable energy resources are highly reliable, forecastable, and typically co-located with demand centers,” ARPA-E explains. HKTs [hydrokinetic turbines] are suited for both micro-grids that supply energy to remote communities without grid connections and utility-scale grid-connected applications.
+
+ARPA-E also notes that overcoming technology obstacles requires inter-discipline collaboration. They list hydrodynamics, mechanical design, materials, hydro-structural interactions, turbine and/or turbine array efficiency, system-level control solutions, power electronics, grid connection, numerical modeling, computer tools, and experimental validation among the skill sets needed.
+
+Stay tuned for more news about hydrokinetic turbines. The Energy Department’s National Renewable Energy Laboratory is working on open-source software that will help trim down the trial-and-error phase of new turbine designs.
+
+Find me on Spoutible: @TinaMCasey or LinkedIn @TinaMCasey or Mastodon @Casey or Post:  @tinamcasey

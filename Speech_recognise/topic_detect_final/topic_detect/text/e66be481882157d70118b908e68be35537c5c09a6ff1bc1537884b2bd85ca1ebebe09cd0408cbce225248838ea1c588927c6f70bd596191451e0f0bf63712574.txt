@@ -1,0 +1,15 @@
+Google Workspace now makes it possible for an organization to make one or more Google Meet background images available to all employees in the corporate identity of the organization.
+
+In this way, an unambiguous professional appearance that suits the organization is possible in online meetings.
+
+The advantage for employees is that they don’t have to look for a background themselves or use one of the standard Google Meet backgrounds.
+
+How to select a Google Meet background image
+
+The custom Google Meet background images are available as soon as you open a Google Meet and then choose ‘Apply visual effects’ via the three horizontal dots. Here you can select a background and therefore also the Meet background images made available by the organization.
+
+Are you an administrator?
+
+If you are an administrator of the Google Workspace environment, you can make the Google Meet background images available to everyone in the domain.
+
+Up to 15 images can be made available for each organizational unit or group in your organization. It is recommended that you use JPEG images in landscape orientation and do not make the images larger than 1280 x 720p. More information can be found here.

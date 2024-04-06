@@ -1,0 +1,7 @@
+New features now available in GA include the ability to customize your compute instance with applications that do not come pre-bundled in your CI, create a compute instance for another user, and configure a compute instance to automatically stop if it is inactive.
+
+Personalize your Compute Instance with Custom Applications : You can now work with enhanced customizability and greater integration with this new capability to personalize your compute instances.
+
+Create on behalf of compute instances : You can now create a compute instance for another user, which will allow for greater say in the compute instance’s development, training, or inferencing needs.
+
+Configure auto-stop for idle compute instances : You can now save on extraneous costs by ensuring that the compute instance is shutdown when inactive.

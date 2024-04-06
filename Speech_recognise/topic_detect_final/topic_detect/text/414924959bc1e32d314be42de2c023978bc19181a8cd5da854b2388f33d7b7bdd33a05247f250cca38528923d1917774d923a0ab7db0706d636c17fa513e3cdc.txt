@@ -1,0 +1,81 @@
+Industrial customers in manufacturing, oil and gas, energy, and utilities industries commonly use Windows-based industrial devices and infrastructure. The recent release of AWS IoT SiteWise Edge for Windows, enables these customers to rapidly deploy and connect AWS IoT industrial facilities to AWS.
+
+Customers will be able to install AWS IoT SiteWise Edge natively on Microsoft Windows without the need for any virtualization. This capability not only reduces the time to deploy AWS IoT SiteWise Edge, but also reduces costs and maintenance overhead by not having to acquire new infrastructure to run Linux.
+
+In this blog post, we will walk through the installation and configuration of AWS IoT SiteWise Edge software on Windows to ingest equipment data to AWS IoT SiteWise. Subsequently, we discuss organizing and processing of ingested data in asset models. Finally, we will discuss configuring AWS IoT SiteWise Monitor to monitor equipment performance.
+
+There are three key steps to consider when building this solution:
+
+AWS IoT SiteWise provides a number of components which deliver the capabilities shown in each step of the image above.
+
+AWS IoT SiteWise gateway: This ingests data from IoT devices in the facility and transmits it securely to AWS IoT SiteWise. It supports connectivity to the devices using the standard OPC-UA, Modbus TCP, MQTT and Ethernet IP protocol.
+
+AWS IoT SiteWise Edge: For facilities with intermittent or unstable internet connection, AWS IoT SiteWise Edge brings the functionality of AWS IoT SiteWise and AWS IoT SiteWise Monitor to a local facility. It pulls in the configurations made in the cloud to a local device, allowing users to monitor asset performance locally even when there is a loss of internet connection.
+
+AWS IoT SiteWise Edge is a software package available on AWS IoT Greengrass that we will run on an existing Windows industrial gateway device at the manufacturing facility.
+
+AWS IoT SiteWise: Once ingested, we need to organize and process the data collected. AWS IoT SiteWise allows us to add context and structure to the data to make it useful information. For example, what machine is the data coming from, how does this relate to the rest of the machines/processes in the facility, and how to define alarm limits on a metric.
+
+AWS IoT SiteWise Monitor: A no code web UI real-time monitoring portal, which allows users to monitor the performance of their equipment using information processed through AWS IoT SiteWise. It provides customizable dashboards and integrates with AWS Identity Access Management (IAM) to support authentication and authorization of users. It provides the capability to control which users can edit the dashboards and how much data a reader is allowed to access.
+
+In this blog, we will focus on Step 1, particularly around ingesting data using AWS IoT SiteWise gateway. In this scenario, AWS IoT SiteWise gateway will be installed on a local industrial gateway device, running a Windows operating system. (Version 2016 or later).
+
+At a minimum, AWS IoT SiteWise Edge requires an industrial computer running Linux or Windows with a x86 64 bit quad-core processor, 32GB RAM, and 256GB in disk space. The gateway device must allow inbound traffic on port 443 and it must allow outbound traffic on ports 443 and 8883.
+
+We recommend you use dedicated hardware for AWS IoT SiteWise Edge. AWS IoT SiteWise Edge software runs on AWS IoT Greengrass V2 installed on Windows 2016 or later.
+
+These sections summarize how to create a SiteWise Edge gateway and includes detailed instructions for steps that are specific to creating a Windows gateway.
+
+In the AWS Management Console, create the SiteWise gateway, following Steps 1-4. During this process, choose Default setup and include a Data processing pack to enable edge capabilities. You can optionally choose to enable LDAP access, configure how data is published from the gateway to the cloud, and set up data sources.
+
+During Step 5 of the creation process, scroll down to the bottom of the page and select Windows as the industrial gateway OS. Click Generate.
+
+When the SiteWise Edge installer dialog box appears, click Acknowledge. Save the installer to a secure location, as you will not have access to it again.
+
+The installer package (.ps1 extension) will be created and begin downloading to your local machine. In the AWS console, the gateway summary page will load. The Gateway configuration section of the Overview tab will show connectivity is “Pending device pairing.”
+
+On the Windows server where you’ll create the industrial gateway, log in as an administrator. If the edge installer was not downloaded directly to this machine, copy it to this machine.
+
+Once the .ps1 file is on the Windows server, type PowerShell in the Windows search bar. In the search results, right-click on Windows PowerShell to bring up the context menu, and choose Run as administrator.
+
+At the PowerShell prompt, change to the directory where you downloaded the installer file.
+
+Run the command below to unblock the installer file (replace Gateway-wAgJBvXS9.deploy.ps1 with the name of your file):
+
+unblock-file Gateway-wAgJBvXS9.deploy.ps1
+
+./Gateway-wAgJBvXS9.deploy.ps1
+
+When the installer finishes successfully, the message will say Done!
+
+The SiteWise Edge gateway is now installed and running on the Windows server. To confirm, return to the gateway summary page in the AWS console (Services->AWS IoT SiteWise->Edge->Gateways-> select your gateway).
+
+The Gateway configuration section of the Overview tab should now say “Connected.”
+
+SiteWise Edge gateways use packs to determine how to collect and store data. We recommend updating all packs installed on your gateway to their latest versions.
+
+The rest of the process to create a SiteWise Edge gateway is the same for all gateway OS.
+
+Configure your edge gateway from the Cloud
+
+Once the gateway is created and connected, you can add an OPC-UA data source. As part of this process, provide the data source local endpoint (the hostname and port of the OPC-UA server), and select AWS IoT SiteWise as the data destination. If needed, the Advanced configuration options also allow you to specify authentication and other security settings.
+
+After adding a data source, the Data sources section in the Overview tab of the gateway summary page should show the source as “In Sync” within 3-5 minutes. This confirms that data is being published from the Windows gateway to AWS IoT SiteWise.
+
+Once data is being ingested into AWS IoT SiteWise, structure and enrich it with additional context. AWS IoT SiteWise Models and Assets enable you to create a virtual representation of your industrial operations. You can map industrial data streams to asset properties, create asset hierarchies, apply mathematical transformations to measurements, and create metrics for assets or groups of assets. In the AWS console, first create an asset model and then create assets.
+
+Once an AWS IoT SiteWise asset model is established, you can use AWS IoT SiteWise to monitor your equipment using alarms and web portals. To use alarms, first define IoT Events alarms on your asset models, and then configure alarm thresholds and notifications on specific assets.
+
+You can also create web portals to monitor the data from your processes, devices, and equipment. In the console, create a AWS IoT SiteWise Monitor web portal to view and securely share operational dashboards. To use the web portal with limited network connectivity, enable your portal at the edge.
+
+Be sure to clean up the work in this blog to avoid charges. Delete the following resources when finished in this order.
+
+* Core Device Thing in AWS IoT Core under the menu Manage → Things
+
+In this blog post, we walked through how to configure AWS IoT SiteWise gateway and install AWS IoT SiteWise Edge on local hardware, such as third-party industrial gateways and computers running Windows 2016 and later. Subsequently, we discussed organizing and processing data leveraging AWS IoT SiteWise Assets. Finally, we discussed setting up AWS SiteWise Monitor to monitor equipment performance.
+
+For even more hands-on instructions for setting up a Windows industrial gateway, you can follow the steps in the Ingest and Visualize data in AWS IoT with windows edge gateway workshop.
+
+Now that you can collect, organize, and process, and monitor your industrial data at the edge, visit the IoT SiteWise Edge workshop to dive deeper on using the IoT SiteWise Monitor portal on the local gateway or AWS OpsHub for AWS IoT SiteWise Edge to manage your industrial data streams (steps 3-10).
+
+For more information on AWS IoT SiteWise, you can visit the AWS IoT SiteWise user guide. If you’d like to learn more about AWS IoT Greengrass V2, walk through the AWS IoT Greengrass V2 workshop and visit the AWS IoT Greengrass developer guide

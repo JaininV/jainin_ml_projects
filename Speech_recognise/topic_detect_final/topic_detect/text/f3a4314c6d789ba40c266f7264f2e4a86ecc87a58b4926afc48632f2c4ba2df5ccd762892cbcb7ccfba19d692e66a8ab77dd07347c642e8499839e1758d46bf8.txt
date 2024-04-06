@@ -1,0 +1,25 @@
+I recently started appengine-boilerplate, a repository of often used boilerplate code for Google’s App Engine, which allows to quickly setup new projects without having to re-invent the most common wheels. All code is released under the BSD license, and It comes with the following goodies:
+
+* Various tools such as is_testenv(), decode(input) and slugify(title)
+
+* app.yaml configuration for URL’s which can be accessed publicly, only for logged in users, and only for administrators, all setup to work with html5-boilerplate’s directory structure
+
+html5-boilerplate is a great project initiated by Paul Irish, which provides a boilerplate for cross-browser compatible html5 websites, and also includes a nifty build system which minifies, concatenates and optimizes all the resources of the website to increase the website’s performance.
+
+The build-system is fully integrated into appengine-boilerplate, including a helper script calledupload_to_appengine.sh. This scripts initiates the build process, changes the /static symlink to the minified verion, uploads the website to appengine, and reverts /static back to the development environment. Implementing this process can drastically improve the website’s performance.
+
+appengine-boilerplate uses the same OpenID provider selection as StackOverflow, based on the openid-selectorjQuery plugin:
+
+App Engine allows you to directly put datastore entities into memcache, which is commonly used to reduce database reads when viewing a website. Using memcache, only the first user will trigger a database read which places the entities into memcache, and all subsequent users can get them from there until the cache is invalidated either by the website or by App Engine itself. Cache lifetime on App Engine seems to be usually just a few hours, but it will provide a noticeable performance improvement for your visitors.
+
+Using appengine-boilerplate you can use the following commands
+
+import mcmc.cache.get_someitems()  # will read from db if not in cache
+
+and invalidate the cache with
+
+mc.cache.get_someitems(clear=True)
+
+One particular feature I’d like to implement in the near future is authentication with OAuth (Twitter, Facebook, etc). I’d love to hear your ideas for further additions, and will happily review and accept pull requests. Please leave your feedback in the comments or drop me a line via chris (at) metachris.org.
+
+And if you want to stay updated, you should follow me on twitter.

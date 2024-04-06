@@ -1,0 +1,13 @@
+The Voice message in Discord is the newest feature added for the players or users on their mobiles. As with any voice messaging feature, this will allow you to record, send, and play recordings. You can use these recordings to share funny voice memos with your friends on DMs, group messages, or different servers. But how to send these voice notes or audio recordings? And can you record or send a Voice message on PC? Check out our guide to find out how to send a Voice Message on Discord.
+
+You can create and send a voice message on Discord using the mic button next to the emoji button. You need to press and hold to start the recording of the voice message. Once you have finished your recording, release the button to send it to your friend, server, or other groups. It’s worth noting that you can send voice messages to the servers only with lesser than 200 members.
+
+You can cancel the Voice message by sliding the recording option into the trash bin. If you want to send a longer Voice note, you can slide up to lock the recording before sending it. The maximum duration can be up to 20 minutes long. You can also flag an audio recording by reporting it. For that, tap and hold the message to select the Report message option. While for PC players, you can right-click on the message to report the Voice recording.
+
+Alongside creating & sending your voice messages, Discord also uses Krisp noise cancellation. This feature can block any unnecessary background voices distorting your Voice message. So, you don’t have to worry about being audible.
+
+No, you cannot send or record a voice message on the PC and other platforms. This feature is available only for mobile users as of now. Although Discord PC users can play these recorded audio messages, there is no option to record or send them. Note that you can play any sent Voice messages on all the supported platforms.
+
+While sending voice messages can be helpful for gaming, it can also be useful for formal meetings. Before starting with these meetings, a prior voice message can with managing your time. We will update this guide when this feature is added for PC players and other platforms. Until then, you can check out our recommendations for the best Discord servers for Gaming.
+
+That’s everything covered about how to send a Voice Message on Discord. If you liked this guide, check out our guides on how to mute Soundboard, how to get Super Reactions, and more helpful Discord Guides in our dedicated section right here on Gamer Tweak.

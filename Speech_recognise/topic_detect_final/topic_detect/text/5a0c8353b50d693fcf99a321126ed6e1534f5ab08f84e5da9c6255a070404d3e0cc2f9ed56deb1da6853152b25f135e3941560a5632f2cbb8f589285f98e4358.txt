@@ -1,0 +1,3 @@
+This version of MaizePlus has been edited to make it compatible with the Swathing Addon from BCBuhler and Jos. All credit goes to the original developers. Edit by ItsC0WB0YGamez
+
+Notes: This edit is fully compatible with swathing from BCBuhler. Additionally Sorghum can now be mowed for Wholecrop Silage. When enabling this mod In-Game, make sure that regular MaizePlus is disabled as the two cannot be used together.

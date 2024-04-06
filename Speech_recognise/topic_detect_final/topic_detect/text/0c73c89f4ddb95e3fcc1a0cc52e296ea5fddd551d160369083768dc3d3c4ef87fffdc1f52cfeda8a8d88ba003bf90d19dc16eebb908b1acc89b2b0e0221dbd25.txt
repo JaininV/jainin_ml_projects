@@ -1,0 +1,37 @@
+Outset Tablo
+
+Model Numbers (REF):
+
+PN-0006000
+
+PN-0007001
+
+Tablo is a next generation, self-contained hemodialysis system (Hemodialysis System or System), intended for acute, home and chronic dialysis therapy with or without ultrafiltration, in an acute or chronic care facility.
+
+An observed trend of high conductivity dialysate alarms in a hemodialysis system as a result of introducing a software tool into the manufacturing process.
+
+On 01/24/2023, the firm communicated an "MEDICAL DEVICE FIELD ACTION" Letter via FedEx Standard Overnight to customers informing them that Outset Medical has identified that Tablo Hemodialysis Systems manufactured between May 2021 and February 2022 require recalibration of the conductivity sensor, due to the dialysate conductivity sensor giving potentially false trigger alarms such as Alarm_Dialysate_Conductivity_High or Dialysate Conductivity Error.  In addition, in devices where recalibration is needed and isolated only to treatments where the prescribed sodium is less than or equal to 133mEq/L, there may be an unlikely occurrence of delivered dialysate sodium falling outside of listed device specifications. In these remote cases, the need for clinical intervention is not expected.
+
+Actions to be taken by Customer/user:
+
+" Outset Medical has assessed the risk of this issue and customer's Tablo device can continue to be used until serviced.
+
+" Outset request that customers complete the enclosed acknowledgment form and promptly return it to Outset Medical.
+
+" Disseminate this information to appropriate personnel within the customer's facility for processing and distribution.
+
+Actions to be taken by Outset:
+
+-Firm will recalibrate the conductivity sensor as part of routine maintenance or at the next service call.  An Outset Field Service Engineer will coordinate the completion of the recalibration with your staff to minimize downtime of your Tablo system(s).
+
+Any questions, contact Outset Customer Experience team at 844-MYTABLO or 844-698-2256.
+
+U. S. Nationwide distribution including in the states of AK, AL, AR, CA, CO, FL, GA, HI, IA, ID, IL, IN, MI, MS, MO, MT, NE, NV, NJ, NM, NY, NC, OH, OK, OR, PA, SC, TN, TX, UT, VT, VA, and WI.
+
+O.U.S.: Not provided.
+
+1 A record in this database is created when a firm initiates a correction or removal action.  The record is updated if the FDA identifies a violation and classifies the action as a recall, and it is updated for a final time when the recall is terminated.  Learn more about medical device recalls.
+
+2 Per FDA policy, recall cause determinations are subject to modification up to the point of termination of the recall.
+
+3 The manufacturer has initiated the recall and not all products have been corrected or removed.  This record will be updated as the status changes.

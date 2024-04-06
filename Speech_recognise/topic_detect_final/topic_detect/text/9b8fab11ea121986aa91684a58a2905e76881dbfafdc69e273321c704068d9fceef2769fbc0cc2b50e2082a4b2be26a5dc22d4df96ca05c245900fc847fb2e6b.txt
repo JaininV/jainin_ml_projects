@@ -1,0 +1,15 @@
+There is perhaps one of the most intriguing questions with all the trends that are brought by AI, bots, process automation tools — whether mentioned software would be able to replace programmers fully or partially, and how effective or efficient it is. Which points to another important topic — how to measure effectiveness or efficiency of coding?
+
+Based on my experience, typically, price and time are the key criteria that are used to evaluate both coding effectiveness and efficiency. Obviously, there are many sub-criteria included into the price and time, as well as a process of calculation itself is not straightforward and depends on a variety of elements.
+
+To be clearer here, let’s look at a basic example: a customer wants to build a web app. The app would be a simple game, consisting of a frontend and a backend component, hosted in a cloud. The customer has a budget, a desired release date and a ROI calculation. Now, following to a fundamental process of a software development, the app implementation needs to be translated into a list of end-user journeys, UI screens, non-functional requirements which all together would requires estimation by a programmer who would be coding it. In fact, the programmer estimation is an assumed coding velocity. The higher coding velocity is the less time required to build the app, the less price it costs. Back to the coding effectiveness and efficiency — meeting the release date could be mapped to the former, the budget to the latter.
+
+Furthermore, coding effectiveness basically represents a programmer experience and how well the release date could be met, coding efficiency on the other hand is a programmer coding simplicity and how well it can fit the budget.
+
+In other words — the more experience programmer has, the more coding velocity they can achieve by producing simpler code. How to produce simpler code? KISS, DRY, YAGNI are well known excellent patterns that help to produce as simple code as possible. It seems that everybody knows it, but why there are still so many applications with unnecessary complexity of code. Basically, that is one of the reasons why AI now is said to be more efficient than an average programmer — it’s just because AI is only taught to produce a code to achieve requirements, nothing more, nothing less. A perfect implementation of KISS and YAGNI!
+
+Having said that, I’d love to share my own blueprint of a web app backend program, that can start making its job in 5 minutes. It is following to KISS, DRY, YAGNI patterns and could be a good competitor to AI!
+
+In this blueprint implementation, I’m using JavaScript Node (not TypeScript because of KISS and YAGNI), AWS Lambda deployment via ZIP (not automated pipeline because of KISS and YAGNI), AWS API Gateway with REST proxy to the lambda. AWS RDS (PostgreSQL) is a database. Secrets are stored in AWS Secret Manager. The source code is available in my GitHub.
+
+Thank you for reading this. I’m happy to receive any feedback!

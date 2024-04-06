@@ -1,0 +1,35 @@
+This article has been reviewed according to Science X's                                                      editorial process
+
+and policies.                                                     Editors have highlighted                                                     the following attributes while ensuring the content's credibility:
+
+This article has been reviewed according to Science X's                                                      editorial process
+
+and policies.                                                     Editors have highlighted                                                     the following attributes while ensuring the content's credibility:
+
+A large retrospective study conducted by physician researchers from Roswell Park Comprehensive Cancer Center reports benefits of chemotherapy for many patients with early-stage breast cancer with rare variant histology, or tumor anatomy. These findings will be presented by first author Arya Mariam Roy, MBBS, during the American Association for Cancer Research (AACR) annual meeting, continuing through April 19 in Orlando, Florida.
+
+"The benefit of chemotherapy in the management of rare histological variants of breast cancer, such as mucinous, medullary, cribriform and papillary, is unclear in the current guidelines," notes Dr. Roy, a Roswell Park hematology/oncology fellow.
+
+"Therefore, we queried the National Cancer Institute's Surveillance, Epidemiology, and End Results (SEER) database from 2010-2018 for stage 1, 2 and 3 hormone-receptor-positive HER2-negative breast cancer patients who presented with these rare histological variants and compared the clinical benefits of chemotherapy in patients who received it versus those who did not."
+
+Alongside study co-lead author Shipra Gandhi, MD, Assistant Professor of Oncology at Roswell Park, and colleagues, Dr. Roy examined overall survival and disease-specific survival in this patient population. Patients were assigned into chemotherapy-positive and chemotherapy-negative cohorts based on whether or not they received adjuvant chemotherapy.
+
+Among 11,745 patients with a mucinous histology, 94 percent were hormone-receptor-positive HER2 negative. Among those individuals, 8.5 percent underwent chemotherapy and 91.5 percent did not. Data showed that the 5-year overall survival rate among all disease stages was higher for those who underwent chemotherapy compared with those who did not. The researchers observed a chemotherapy benefit in 5-year disease-specific survival only among patients with stage 3 breast cancer.
+
+Of the patients with a medullary histology (1,787), 34 percent were hormone-receptor-positive HER2 negative. In this cohort, all patients with stage 3 breast cancer received chemotherapy, and their 5-year overall survival was 94 percent. Among patients with stage 1 and 2 disease, receiving chemotherapy was associated with better 5-year overall survival. The researchers did not see a 5-year disease-specific survival benefit with chemotherapy in any stage.
+
+Ninety-three percent of patients with cribriform tumor anatomy were hormone-receptor-positive HER2 negative. The researchers documented a higher 5-year overall survival rate with chemotherapy in patients with stage 2 disease, but not in those with state 1 or 3 disease. Among patients in the papillary histology group—83 percent of whom had hormone-receptor-positive HER2 negative disease—treatment with chemotherapy was linked to a better 5-year overall survival at stage 2 alone.
+
+"We observed that in hormone-receptor-positive mucinous and medullary histologies, chemotherapy has an overall survival benefit," says Dr. Gandhi, a Roswell Park medical oncologist. "In hormone-receptor positive HER2-negative papillary and cribriform histologies, chemotherapy can be considered an option for patients with higher-stage disease. Multicenter clinical trials are needed to further assess the impact of chemotherapy in rare histological variants of breast cancer."
+
+Citation:
+
+Benefit of chemotherapy for patients with early-stage breast cancer varies by tumor anatomy (2023, April 18)
+
+retrieved 19 April 2023
+
+from https://medicalxpress.com/news/2023-04-benefit-chemotherapy-patients-early-stage-breast.html
+
+This document is subject to copyright. Apart from any fair dealing for the purpose of private study or research, no
+
+part may be reproduced without the written permission. The content is provided for information purposes only.

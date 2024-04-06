@@ -1,0 +1,109 @@
+Kevin McNulty at Talkdesk outlines five steps to legally and ethically implement call recording in your contact centre.
+
+Call recording can be a valuable, versatile tool, and is a common contact centre practice.
+
+However, it must be used carefully and conscientiously to ensure compliance with laws and regulations. Remember that it is the responsibility of your contact centre to adhere to these laws.
+
+Talkdesk is making it easier to get started. We’re providing some basic information on contact centre call recording software, the benefits of call recording, and how you can legally get started today.
+
+Call recording is not the same as call monitoring, but there is some significant overlap between the two.
+
+Call monitoring allows silent persons, usually managers, to tune in to live agent conversations or chats. Contact centre platforms with workforce management capabilities also allow managers to track KPIs across calls to get a sense of the overall performance of an entire contact centre.
+
+Call recording, on the other hand, records and preserves those same live calls for later access. It doesn’t require another person to be on the line listening. The recorded calls are then stored within the contact centre and referenced as needed for future training, quality checks, and ongoing agent support.
+
+Both are subject to some legal boundaries, but contact centres employing call recording have stricter guidelines to follow for full legal compliance.
+
+These legal boundaries can vary depending on the country, state, and local laws of the caller–not the agent picking up the phone or the primary location of the company. Laws can also vary based on the industry you work in.
+
+For example, a contact centre dealing with healthcare information will be subject to different regulations compared to a contact centre taking credit card payments to pay utility bills.
+
+This makes checking legal requirements for yourself crucially important.
+
+Call recording software usually captures the audio portion of inbound and/or outbound calls, as well as the screen of the agent dealing with the call.
+
+Contact center agents can then receive targeted feedback on their performance, leading to a better customer experience overall.
+
+Feedback might include notes about the agent’s tone, what kind of questions they ask, and how they managed the general flow of the call. The screen capture portion of the recording can be used to show agents how they can be more efficient.
+
+Many people who have called into contact centres are familiar with the greeting, “This call may be monitored or recorded for quality assurance and training purposes.”
+
+This disclaimer provides some legal support for the contact centre, but it also highlights two of the main benefits of call recording: quality assurance and training.
+
+Recorded calls can be used to train agents who are unfamiliar with taking inbound or making outbound calls. Listening to multiple real-world scenarios can give new agents valuable insight into handling different situations or customer temperaments.
+
+Training agents with actual call recordings can lead to an improved customer experience when the person begins to take their own calls.
+
+The customer calls they’ve listened to give them an idea of what to expect, as well as familiarize them with the expectations for a successful customer service call.
+
+The “quality assurance” portion of call recording comes into play when management listens to recorded calls. Typically, this is done randomly to remove bias or as part of an employee improvement plan for contact center agents who need additional support.
+
+Quality management shouldn’t be exclusively provided for customer calls but as part of a larger omnichannel customer service engagement strategy.
+
+The recording software used to monitor phone calls is part of a system that can monitor and record engagement across a variety of channels.
+
+Armed with individual examples and broad, centre-wide patterns, the management team can then use that data to improve the customer experience.
+
+This might include changing the flow of a call script, providing additional support to agents when on calls, or adjusting work schedules and routing flows to ensure the most qualified agents are available.
+
+Call recording can also provide legal protection in case of a dispute.
+
+Occasionally, an agent (on behalf of the company) and a customer will enter into a verbal agreement that’s legally binding as a contract. This can be difficult to prove in court, and a recording of the call can help settle a case.
+
+Additionally, if a caller refuses a particular service or action from the agent, the recording provides a record of this refusal to prevent a suit from the customer.
+
+Call recording best practices and the right to privacy during phone calls has changed dramatically over the years.
+
+The benefits of call recording to both the customer and the business are clear, but you’ll need to avoid the pitfalls.
+
+Privacy laws and regulations related to call recording, as mentioned, can be dense and varied depending on region and industry. That being said, these basic legal and ethical guidelines provide an excellent starting point.
+
+Not all countries or states require caller consent to legally record a call. However, it’s still considered a best practice.
+
+Customers want to be able to trust the companies they do business with, and a recording that isn’t disclosed can make many people feel uneasy.
+
+Even when a customer has nothing to hide, they prefer to be in the know. Using interactive voice response (IVR) systems or a script that the agent reads at the beginning of a call to proactively alert the caller can keep you compliant and ethical.
+
+And, of course, it improves your customer relationship by showing that you also have nothing to hide.
+
+Data leaks are becoming increasingly common as hackers learn to bypass different security systems. Keeping your call recordings secure is crucial in order to avoid damaging customer trust and facing legal repercussions.
+
+First, make sure the physical building where data is stored is secure. This typically involves a key or badge system to prevent unauthorized persons from accessing the physical systems.
+
+Next, ensure you’re working with a data storage system that has thorough security standards, encryption, and a process for regularly updating passwords.
+
+Information such as medical records, credit card numbers, and other identifying information is too sensitive to keep recordings of. Doing so is usually illegal, as well as dangerous to the security of your customers’ data.
+
+Integrating a PCI payment system with your contact centre platform will automatically stop recording when the agent begins to input this kind of data, starting again after they submit it.
+
+Agents shouldn’t ask for personal information unless absolutely necessary. Even then, the customer should be given the option to say it out loud or input the information on the keypad of a personal device, if possible.
+
+This is part of data security, as it further restricts access to customers’ personal data.
+
+A dedicated analyst or team of analysts can look over each call recording to interpret the data and pull out relevant patterns or trends.
+
+This team is often more efficient and more secure than having management sort through the recording themselves. When management has unnecessary access to data, the chances of data being sent or received erroneously increase.
+
+After all, managers have many other responsibilities that may distract them or demand their attention while reviewing a call recording.
+
+Keep your agents informed on call recording best practices and what they should be aware of. This will enable them to better handle calls as they come in, adding another layer of protection against data leaks.
+
+* Keeping cell phones and pens/paper out of the area where computers used to store or input customer data are located.
+
+* Avoiding gossip about customers and not using real names or information when they must describe events in a common area.
+
+* Being honest about the purposes of the recordings, who will have access to them, and why someone may contact them about recorded information.
+
+Call recording law is complex, strict, and ever-changing. The best solution for making sure that your contact center is compliant is to do extensive research and consult relevant authorities.
+
+The consequences of breaking call recording laws can do serious harm to a company.
+
+However, when done correctly, call recording can give you valuable insight into your agents and customers.
+
+Recordings can help you better understand what state of mind your customers are generally in when an agent answers the phone, provide solutions for the most common reasons for a query, and understand how your customers generally interact with your brand.
+
+Setting up call recording in your contact centre is something that should be approached thoughtfully and intentionally. But with the right processes in place, and the right contact centre platform, your call recording process can be automated and highly efficient.
+
+This blog post has been re-published by kind permission of Talkdesk – View the Original Article                                                                For more information about Talkdesk - visit the  Talkdesk Website
+
+Call Centre Helper is not responsible for the content of these guest blog posts.                                                                    The opinions expressed in this article are those of the author, and do not                                                                    necessarily reflect those of Call Centre Helper.

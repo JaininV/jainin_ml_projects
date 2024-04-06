@@ -1,0 +1,45 @@
+High doses of radiation are often used to effectively kill off cancer cells. Unfortunately, they also come with a raft of potential side effects. And while most are short-term and only last as long as the patient receives radiation, others can show up months or even years after treatment.
+
+For instance, one side effect of radiation therapy for cancers in the chest (like breast or lung) is heart damage, including heart valve damage, irregular heartbeat, radiation heart disease or hardening of the arteries, which increases the risk of heart attack.
+
+But what about lower doses of radiation, like the kind commonly encountered when we undergo diagnostic medical imaging, like a simple X-ray or scan? There hasn’t been a clear link made between this type of low-dose radiation and heart disease — until now…
+
+An international consortium of researchers has determined that even low doses of radiation exposure can modestly increase the risk of developing heart disease.
+
+After examining data from 93 studies covering all ranges of radiation exposure, they found an increased excess lifetime risk of 2.3 to 3.9 cardiovascular deaths per 100 persons exposed to 1 gray (Gy) of radiation.
+
+To put that in context, in the United States, about 25 out of every 100 people die from cardiovascular disease. A person exposed to 1 Gy of radiation sees their cardiovascular death risk increase by 27 to 29 percent, but few people other than those receiving radiation therapy will receive 1 Gy of radiation during their lives.
+
+However, the researchers also found a slightly higher risk of heart disease at the low dose ranges (less than 0.1 Gy) more commonly experienced by the public. The risk was also increased modestly for protracted exposures to low doses such as those involved in diagnostic imaging.
+
+“The effect of lower doses of radiation on the heart and blood vessels may have been underestimated in the past,” says Dr. Andrew Einstein, professor of medicine at Columbia University Vagelos College of Physicians and Surgeons and one of the study’s senior authors. “Our new study suggests that guidelines and standards for protection of workers exposed to radiation should be reconsidered, and efforts to ensure optimal radiation protection of patients should be redoubled.”
+
+So what exactly counts as low-dose radiation?
+
+Just living in the environment here on Earth exposes us to background radiation of roughly 2.4 millisieverts (mSv) every year. The formula converting mSv to Gy is complicated, so let’s just say an mSv is equivalent to a small fraction of a Gy.
+
+Different diagnostic procedures carry different radiation exposure amounts. When you get a dental X-ray, you’re exposed to roughly 5 mSv of radiation for a second or two. A chest X-ray, by comparison, emits 0.02 mSv of radiation.
+
+CT and PET scans emit more radiation and tend to last at least a few seconds. An abdominal CT scan exposes you to between 8 and 10 mSv of radiation, while a coronary CT angiogram exposes you to 16 mSv. And a PET scan, used to detect cancer, issues roughly 25 mSv of radiation.
+
+None of this comes close to the amount of radiation exposure needed to kill you: 400,000 mSv in a short amount of time. But as this study finds, it could be enough to cause some problems for you later in life.
+
+“The study suggests that radiation exposure, across a range of doses, may be related to an increased risk of not just cancer, as has been previously appreciated, but also of cardiovascular diseases,” Einstein says. “It should not steer people away from receiving radiation if necessary — in fact many medical uses of radiation are lifesaving — but it underscores the importance of ensuring that radiation is used appropriately and kept as low as reasonably achievable.”
+
+The researchers say that more research is needed to determine the precise increased excess lifetime risk of heart disease from these low doses.
+
+But is there anything you can do to lower your exposure?
+
+There are times in life when you cannot avoid having a diagnostic procedure, such as when you’re extremely ill or have possibly broken a bone, or have a serious dental problem going on. In these cases, radiation exposure worries are secondary to taking care of the problem at hand.
+
+The key is to keep these procedures to a minimum. Sometimes your doctor may suggest an X-ray that may not be completely necessary. Or you may be seeing a different doctor who wants a diagnostic image you may have on file that’s recent. Be sure to communicate so such tests aren’t unnecessarily duplicated, causing you additional low-dose exposure.
+
+Is there anything else that might help?
+
+A study performed at the Wellcome Sanger Institute and the University of Cambridge found that giving mice the antioxidant N-Acetyl Cysteine (NAC) prior to low-dose radiation the equivalent of three CT scans, promoted the growth of healthy cells which outcompeted and replaced mutant cells that could turn cancerous. However, the effect on the heart or heart disease wasn’t part of their research.
+
+Ionising radiation and cardiovascular disease: systematic review and meta-analysis — The BMJ
+
+This 1-Minute Animation Shows How Much Radiation You’re Exposed to in Everyday Life — Science Alert
+
+What are the Radiation Risks from CT? — U. S. Food and Drug Administration

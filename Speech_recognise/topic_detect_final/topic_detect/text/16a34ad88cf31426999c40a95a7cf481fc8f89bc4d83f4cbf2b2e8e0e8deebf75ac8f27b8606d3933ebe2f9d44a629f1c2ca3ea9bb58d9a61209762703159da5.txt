@@ -1,0 +1,11 @@
+The first known custom design based on the upcoming RTX 4060 Ti GPU is reportedly factory-overclocked.
+
+According to T4C Fantasy, a maintainer of TechPowerUP database, the soon-to-be-released GeForce RTX 4060 Ti from Colorful is to feature non-standard clocks. The card in question is the Colorful RTX 4060 Ti iGame Ultra White, a custom design considered premium in the company’s lineup following models such as Vulcan or Neptune.
+
+It is said that the RTX 4060 Ti iGame Ultra would be clocked at 2580 MHz, which would be 1.8% or 45 MHz faster than the rumored reference clock. Since this is not the first custom Ultra OC model to be released, we can quickly look up all previous iGame Ultra releases from the RTX 40 series. As it turns out, the just-released RTX 4070 is still offered with a lower factory-overclock than said 4060 Ti.
+
+According to the leaks, the RTX 4060 Ti is to feature an AD106 GPU with 4352 CUDA cores, while RTX 4060 might be equipped with an AD107 GPU and 3072 cores. Both cards are said to feature 8GB of GDDR6 memory across 128-bit bus.
+
+As long as memory specs are concerned, we are looking at a downgrade from the RTX 3060 series. The same would apply to the PCIe specs, now limited to 8 lanes. The good news is that RTX 4060 cards reportedly require less power (40-55W) than the last-gen series.
+
+The most recent rumors point towards GeForce RTX 4060 Ti arriving in May.

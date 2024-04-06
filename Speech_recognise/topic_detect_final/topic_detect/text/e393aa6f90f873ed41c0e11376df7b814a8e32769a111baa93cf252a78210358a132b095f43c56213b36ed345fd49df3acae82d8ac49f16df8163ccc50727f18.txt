@@ -1,0 +1,25 @@
+MCLEAN, Va. and RESTON, Va., April  12, 2023  (GLOBE NEWSWIRE) -- ID.me, the secure digital identity network, and Carahsoft Technology Corp., The Trusted Government IT Solutions Provider®, today announced a partnership. Under the agreement, Carahsoft will serve as ID.me’s Master Government Aggregator®, making its identity solutions and expansive pre-verified network available to the Government through Carahsoft’s reseller partners, GSA Schedule, and the ITES-SW2 contracts.
+
+“We are excited to work with Carahsoft and its reseller partners to expand the acquisition pathways by which agencies can partner with ID.me,” said Derrick Roberts, Director of Business Development at ID.me. “With this new partnership, agencies will have greater choice in the way they procure ID.me products and services. Recognizing that Carahsoft is a leader in Public Sector technology distribution, we couldn’t be more thrilled to work with them to deliver our solutions to even more customers.”
+
+ID.me helps agencies improve security, end-user experience, and equitable access for online services by offering identity verification services and digital wallets that are conformant with Federal guidelines. ID.me increases equitable access to online services by being the only identity verification service to maintain its compliance with the NIST Federal Digital Identity Guidelines while offering three pathways to verification. Furthermore, ID.me protects agencies against fraud by providing an end-to-end suite of controls that can counter social engineering and other vulnerabilities.
+
+“With the increased number of digital applications for Government services, agencies are in need of reliable and secure digital identity verification technology that helps them meet security and equity objectives without compromise,” said Rich Maigue, Sales Director who leads the ID.me Team at Carahsoft. “We look forward to working with our resellers to make ID.me’s products and services accessible to agencies across the Public Sector.”
+
+ID.me’s products and services are now available through Carahsoft’s GSA Schedule No. 47QSWA18D008F, and ITES-SW2 Contract W52P1J-20-D-0042. For more information, contact the ID.me team at Carahsoft at (703) 889-9808 or ID.me@carahsoft.com.
+
+The dedicated Cybersecurity team at Carahsoft specializes in providing Federal, State and Local Government agencies and Education and Healthcare organizations with security solutions to safeguard their cyber ecosystem. To learn more about Carahsoft’s Cybersecurity solutions, visit www.carahsoft.com/solve/cybersecurity.
+
+About ID.me
+
+ID.me provides identity verification, authentication, and community affiliation for 102 million users, enabling access to more than 620 client partners, including 14 federal agencies and 35 state agencies. ID.me's omnichannel, consumer-centric model of identity improves user experience, makes existing workflows more efficient, increases equitable access for underserved populations, and promotes trust in online transactions. It accomplishes these by making secure, high-assurance identity verification portable across its network of users and supported organizations – one secure login for a user’s digital life. Companies and government agencies can have increased access and increased security without compromise. ID.me’s model also puts users in control of their data, helping companies and government agencies meet their privacy objectives as well. To promote security of its network, ID.me meets the federal standards for consumer authentication and is independently assessed to be conformant with NIST 800-63-3 IAL2 / AAL2 guidelines by the Kantara Initiative. It also holds multiple security certifications including a Federal Risk and Authorization Management Program (FedRAMP) Moderate Authority to Operate (ATO), SOC 2 Type II, and ISO27001:2013. ID.me strives towards its mission of "No Identity Left Behind" to enable all people to have secure access to online services. To learn more, visit https://www. ID.me
+
+Derrick Roberts
+
+ID.me
+
+derrick.roberts@id.me
+
+About Carahsoft
+
+Carahsoft Technology Corp. is The Trusted Government IT Solutions Provider®, supporting Public Sector organizations across Federal, State and Local Government agencies and Education and Healthcare markets. As the Master Government Aggregator® for our vendor partners, we deliver solutions for Cybersecurity, Geospatial Intelligence, MultiCloud, DevSecOps, Big Data, Artificial Intelligence, Open Source, Customer Experience and more. Working with resellers, systems integrators and consultants, our sales and marketing teams provide industry leading IT products, services and training through hundreds of contract vehicles. Visit us at www.carahsoft.com.

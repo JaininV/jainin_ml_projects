@@ -1,0 +1,23 @@
+The magic of “requesting files” into Microsoft 365 started with OneDrive (Oct. 2019) providing users with a quick and secure way to request and collect files from anyone. And now we have extended the same capability for SharePoint – specifically requesting file into document libraries. Voila!
+
+It is easy and safe. A file request can start from a link in your email signature (see below tip), a link in a chat, a hyperlink that is a part of your intake or onboarding processes with customers, clients, and vendors. For the recipient, it is a simple web interface to upload a file and send it. And for you, the file(s) arrive(s) without granting access to your SharePoint document libraries or other sites – just the ability to upload to a specific folder you manage and control.
+
+To start, you simply select a folder you want the recipient to place documents into and click Request Files. Fill in the name of the folder, and then type in the email address of the person you want to request files from. The recipient clicks on the link, picks her or his files, and uploads - only able to see the files they upload. The original requestor will get an email when new files are added - seeing the new files with the name of the person who uploaded them. Files requested - files done.
+
+Look at it all in action:
+
+Anyone with the file request link will be able to upload files without having to sign in, no Microsoft 365 account needed. Best of all, uploaders will only be able to upload files. They cannot view, edit, or even see who else may have uploaded to the request.
+
+Once guest sharing is enabled, site owners and members can select a folder to request files into – after which you can send a unique link or email direct from the SharePoint user interface.
+
+There are multiple use cases where this feature can be extremely valuable – consider "Request for Proposal" (RFP) scenario where you need to collect bids, or a marketing professional accumulating quotes from various vendors for a campaign, a teacher collecting assignments, a manager reaching out for feedback from team members, collecting images and videos from an event, or a financial rep or recruiter gathering documents from their clients – just to name a few.
+
+What a recipient sees when they click on a request files link – a web page with a simple browse and upload experience; no access or visibility to anything else in the sender's SharePoint environment.
+
+Note | If Anyone links are enabled at the tenant level, request files are available. Admins can use the SharePoint Online Management Shell to disable or enable the Request Files feature on OneDrive or SharePoint sites. If there is no change in sharing capability for all sites, then the file request feature can be enabled.
+
+Tip | Consider assigning a common folder for broader file requests. Once you set up the right folder within a SharePoint document library – use the request files link within your email signature with a simple phrase: “Send me a file” with the word ‘Send’ hyperlinked using your newly created request files link/URL.
+
+Support. Microsoft.com | Learn more about requesting files to OneDrive and SharePoint, plus how admins can enable file requests.
+
+Let us know what you think in the comments below. You can also reach us via Twitter (@SharePoint) and send future innovation requests to the SharePoint Feedback portal. We are here to expand content collaboration capabilities and refine your experience along the way.

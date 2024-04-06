@@ -1,0 +1,33 @@
+Design
+
+Building Our Figma Components Library
+
+It’s now in public beta V1.0 and free to use for your next design project.
+
+Design
+
+Building Our Figma Components Library
+
+It’s now in public beta V1.0 and free to use for your next design project.
+
+Postlight’s design team works with many industries, clients, and brands. In this bustling agency environment, it’s essential for our designers to be able to hop into any project at any level and ramp up quickly while setting our clients up for long-term success. We make sure that the work we deliver is something they can build on in the future and apply systems thinking that can scale as their products expand.
+
+Tips for being a more considerate collaborator.
+
+We found ourselves rebuilding and rethinking the same basic components every time we signed a new client or started a new project. Things like buttons, form inputs, and info cards are ubiquitous to most projects, and we’d spend time building the same components from scratch with a new coat of paint. After some group reflection, the Postlight design team came together and decided we needed a templated solution.
+
+And now, after months of endless comment chains, copyediting, and ⌥ ⌘ K, it’s here! We’ve built a suite of basic, templated Figma components, grounded them in foundational color, typography, and layout principles, and optimized them for modularity and flexibility.
+
+So why didn’t we start with an existing design library? Systems like Material Design and Carbon are beautiful, but burdened with highly industry-specific UX choices and laden with branding. We wanted components that were simple, brand-neutral, and optimized for Figma auto layout (surprisingly rare!).
+
+We also wanted a way to solidify and share a common approach to component usage. When looking at existing Figma component libraries, we didn’t find any that included guidance about things like accessibility, implementation, content, or interaction best practices. So a key to our creation was including written guidance that not only showed how Postlight thinks about design but helps others use the components as well. The guidance is by no means comprehensive — we started down that rabbit hole and ended up somewhere close to writing course curriculum! But it should provide a good foundational starting point as you start using them.
+
+And we didn’t stop there. Postlight takes pride in building experiences that are accessible and user-focused. We’ve baked this ethos into the DNA of our components, from color contrast to screen reader optimization to tap area guidance.
+
+Tell us what you think
+
+It’s worth noting that this beta is very much a living document and subject to revision. As we refine these components internally, we want to bring the larger design community into this process. If you use our designs, first off, thanks! If you have feedback, requests, or questions, we’d love to hear from you on Twitter or at hello@postlight.com.
+
+By sharing our beta component library, we hope you’ll have a leg up on your next project. We can’t wait to see what you build!
+
+Odelia Hoey and Patrick Delaney are Product Designers at Postlight. Reach out at hello@postlight.com.

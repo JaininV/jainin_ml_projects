@@ -1,0 +1,5 @@
+Deutsche Telekom is launching a new program called Integrated Private Wireless on AWS.
+
+Enterprise customers from Germany and Austria can select Telekom Campus Network packages from an AWS portal. After a customer makes their selection from the portal, Deutsche Telekom is responsible for planning, deploying, and operating the customized private wireless solution. Additionally, with just a few clicks, customers can combine their campus network with AWS services, as well as AWS’s dynamic community of more than 100,000 partners from over 150 countries, offering additional validated solutions that run on AWS.
+
+"Deutsche Telekom is focused on driving innovation and developing new solutions to better serve our enterprise customers. Working with AWS gives us the opportunity to further scale our campus network solutions and deliver even more value to business customers", says Antje Williams, Senior Vice President, 5G Campus Networks, Deutsche Telekom. "We see the cooperation as a promising sales approach where we combine AWS services and our campus networks for the benefit of our customers."

@@ -1,0 +1,41 @@
+Summer ‘23 preview orgs are live, so it’s time for a preview party! The exciting period of time when changes are available in preview orgs (note that this link will not work until preview org sign-ups are live on April 20) is about to kick off – we will then be able to explore the new Salesforce release features before they’re pushed to production. It’s the ideal time to learn how we can harness these new powers when they are released officially (full details here).
+
+You will be able to access these features prior to April 20 if you have signed up for a preview org in the past, but if not, you’ll need to wait until then to sign up. This is a good reminder to save your preview org credentials so you can access future features sooner!
+
+As usual, there should be a unique Trailhead Treasure Hunter badge up for grabs – earn this by posting about the treasures you discover (as a comment on this post in the Trailblazer Community with the hashtag #Summer23Treasure).
+
+Alright, alright, alright… Even though we are only a few days in, I have already made Summer ’23 discoveries that are sure to blow your mind! Here are my personal favorites so far…
+
+Salesforce have been working to make their platform easier for beginners (see Salesforce Easy), and Summer ‘23 brings some new guidance to the platform. Here’s an example you’ll be presented with when creating a screen flow for the first time.
+
+The intention here is to make sure new Salesforce users not only have the most powerful declarative tools in the CRM industry, but also have the knowledge of how to use them – all available at their fingertips.
+
+Salesforce always include some minor changes to the user experience – these may go unnoticed until they are pointed out, but they are slowly making the experience a lot more user-friendly. You’ll also notice a slight color change (more on that later in this article).
+
+If you’re subscribed to the Reactive Screens Beta, you’ll now be able to use formulas to drive your reactive components. In the example below, you can see the display field (a read-only URL component where the value is set to a formula) is being updated in real-time based on the Slider.
+
+Note: Reactive Components needs to be enabled in “Process Automation Settings” – this allows developers to build LWCs that support Reactive Components. This URL component hack works, but is not recommended for production applications. It’s a great demo though!
+
+The Choice Lookup component in Flow has lost its Beta label in Summer ‘23! Now generally available, you can use Choice Lookup to allow users to navigate a set of choices easier – this is particularly helpful when working with large sets of choices as users will be able to simply search for what they’re looking for, as opposed to scrolling through a massive list.
+
+The native Data Table component is handy, but there’s been a lot of conversation about when additional features will be added to it. The Summer ‘23 release brings the ability for you to add a search bar to the data table. Simply tick the checkbox, as in the screenshot below, and voila!
+
+Users will then be able to search the data table, making it easier to navigate.
+
+Throughout the Salesforce UI, there are a number of adjustments to the standard colors, making the experience feel slightly brighter than before.
+
+As Object and Field Security on Profiles is being retired and Permission Sets become the primary method of applying these permissions, Salesforce has made it easier to manage Field-Level Security of Custom Fields as they are created. You will need to make sure you have enabled the “Field-Level Security for Permission Sets during Field Creation” in the User Management Settings in Setup.
+
+Once completed, Step 3 of the New Field wizard will replace Profile FLS with Permission Sets FLS, as below.
+
+In the Summer ’22 release, it was announced that the Salesforce Platform API legacy versions 21.0 through 30.0 would be deprecated and no longer supported by Salesforce. Access to these versions has continued, but as of the Summer ‘23 release, these versions will be officially retired and made unavailable. If you have any applications still using these versions, you need to modify these to a more recent version ASAP.
+
+In Summer ‘23, developers have the option to automatically generate event log files when events occur in their Salesforce org. This setting was previously available so that developers wanting this feature could ‘pre-enable’ it, but it is now functional in Summer ‘23. You can enable this in your org right now in the Event Monitoring Settings menu in Setup, and it will automatically apply when Summer ‘23 comes out.
+
+Summer ‘23 brings new properties to the Send Email Action in Flows, including (but not limited to) the ability to save the email as an activity against a record – this is something that has been sorely lacking for many years.
+
+There you have it! These are my favorite features (uncovered so far!), including a few that I’ve read about but have not yet been lucky enough to get my hands on. As usual, there are a handful of larger upgrades and a plethora of smaller ones that are going to make for an even more polished experience for admins, developers (both declarative and programmatic), and end users alike.
+
+It’ll be exciting to see some of the more hidden features come to light when the Salesforce Release Notes are released on April 26, 2023.
+
+Don’t forget to sign up to a pre-release org (this link will only work when the preview is available) to see what you can find.

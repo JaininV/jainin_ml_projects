@@ -1,0 +1,9 @@
+As the world of artificial intelligence continues to evolve, it's no secret that the process of training the complex algorithms behind it demands an exorbitant amount of energy. In a recent paper, a startling fact came to light - the same training process was also consuming an astonishing amount of water.
+
+While training GPT-3 in its US-based data centres Microsoft is estimated to have used 1,85,000 gallons of water.
+
+The researchers noted that for a simple conversation of roughly 20-50 questions and answers, ChatGPT needs to drink a 500ml bottle of water.
+
+Server room must be kept cool, typically between 10-27 degrees Celsius, to prevent equipment malfunctioning.
+
+Data centres must use clean freshwater sources to avoid the corrosion and bacteria growth associated with seawater. Freshwater is also necessary for humidity control in the rooms.

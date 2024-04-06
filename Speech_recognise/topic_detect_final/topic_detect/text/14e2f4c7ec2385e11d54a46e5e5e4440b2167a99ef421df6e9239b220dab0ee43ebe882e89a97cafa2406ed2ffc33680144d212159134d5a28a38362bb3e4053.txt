@@ -1,0 +1,15 @@
+In good news for iPhone users around the world, the Meta-owned popular instant messaging application WhatsApp is reportedly rolling out the sticker maker tool, which will allow users to create stickers right within the app.
+
+According to WABetaInfo, a website that tracks WhatsApp, the official changelog still mentions new group features announced in the previous WhatsApp for iOS 23.6.74 update but it also said that it is possible to create your own custom stickers.
+
+“In particular, after extracting a subject right out of an image, it is needed to paste it into a chat. The app will automatically convert the image into a sticker that can be added to the user’s sticker collection. This feature is rolling out to all users on iOS 16, but there are no plans to bring it to older versions of iOS," said WABetaInfo in a report.
+
+The sticker maker tool, along with all the other improvements introduced in the previous beta versions of the app, are finally available for iOS users that install the latest update of WhatsApp from the App Store.
+
+If you don’t have one of these features, please note that some accounts may receive them over the coming weeks. You can regularly update WhatsApp from the App Store and the TestFlight app to get these features in the future in case you don’t have them after installing this update.
+
+Meanwhile, WhatsApp is releasing a new interface for the screen lock view. According to the report, the new screen lock view is definitely more intuitive and modern, as the label is now a button and the lock icon has been moved to the top of the screen. In addition, you can expect a screen lock option on the native macOS app soon due to this redesign.
+
+The Meta-owned instant app is also working on bringing a new style to the app settings, where every section of the app settings appears with rounded corners and small margins around the edges.
+
+Read all the Latest Tech News here

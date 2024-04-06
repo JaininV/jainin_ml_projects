@@ -1,0 +1,19 @@
+Melbourne consultancy Bourne Digital has developed a self-service portal for elderly people and their families to manage their home care needs.
+
+Created for start-up HomeMade, the platform is built on SAP’s Business Technology Platform (BTP) and claims to automate a number of processes for organising care packages.
+
+Built over 12 months, the portal is said to have improved the efficiency of processes and workflow management and provided greater transparency in terms of service provision.
+
+According to HomeMade, a start-up that offers to manage home care packages for a flat fee, the platform helps them offer more flexibility to participants looking to choose and access a variety of services and support.
+
+“HomeMade’s vision is to transform home care in Australia and we are continuously building our capabilities – whether that’s teams, processes, or technology. Leveraging SAP BTP has allowed us to create a solution that better supports older Australians in need of care and given us an exciting and innovative platform that will help us grow,” said Laura Westhorpe, general manager of HomeMade.
+
+“By implementing SAP BTP, HomeMade is able to offer faster and more transparent care options to older Australians and their families, while also reducing the money spent on admin fees so that more resources can be put towards improving their quality of life. The work done together with HomeMade and Bourne Digital demonstrates how next-generation technology can have a powerful positive impact when it comes to improving people’s lives.”
+
+Bourne Digital, an SAP AppHaus Network partner, specialises in cloud solutions including mobile, UX, advanced analytics and internet of things solutions.
+
+In 2019, it launched the Bourne Digital Experience Design Centre, which was the first SAP AppHaus in Australia and Asia Pacific and Japan and was also run by a partner.
+
+“Bourne Digital partnered with HomeMade to apply design thinking to build a scalable, secure and highly intuitive portal solution,” said Selim Ahmed, CEO and founder of Bourne Digital.
+
+“SAP BTP was a fantastic platform that was set up to accommodate one portal for multiple personas including aged care recipients, HomeMade customer service and service providers. It has been an amazing opportunity to partner with a forward-thinking organisation like HomeMade.”

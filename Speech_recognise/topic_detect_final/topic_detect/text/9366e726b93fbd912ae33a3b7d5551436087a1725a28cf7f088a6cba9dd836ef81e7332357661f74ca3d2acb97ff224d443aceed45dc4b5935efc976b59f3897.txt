@@ -1,0 +1,71 @@
+This talks about my Book about Harnessing the power of GPT-3. I know what you are thinking right now … GPT-4 is already avaible but give me a second to explain.
+
+GPT-3 is a powerful artificial intelligence (AI) system developed by OpenAI. It has an incredible 175 billion parameters in its neural network, which are values that can be adjusted and trained. These parameters has trained GPT-3 for about two months on the Google Cloud Platform.
+
+GPT-3 is the latest language model developed by OpenAI, and it has been making waves in the AI community. It is said to have as many weights as the human brain with 100 trillion parameters, though it works fundamentally differently. GPT-3 was trained with about 500 billion tokens, or 375 billion words, and 570 gigabytes of training data according to the paper. However, the whole training process was based on 45 terabytes of data that was collected before a filter.
+
+During training, the data is gradually fed through the entire network. The neural network then spits out a result, and the mistake is calculated and used by backpropagation to adapt the 175 billion parameters. OpenAI trained GPT-3 for about two months on the Google Cloud Platform.
+
+The more parameters a language model has, the more information can be stored and put into context. GPT-3 is a great example of this, as it has 100 trillion parameters and was trained on 45 terabytes of data. This allows it to generate more accurate results and better understand natural language the paper also states that the training was done on the Google Cloud Platform.
+
+OpenAI’s GPT-3 is an impressive feat of machine learning, but the amount of computing power needed to train it is even more impressive. According to OpenAI’s paper, the training took an incredible 3640 petaflop days.
+
+A petaflop is a measure of computing power, and is equal to one quadrillion (1,000,000,000,000,000) floating point operations per second (FLOPS). To put this into perspective, the RTX 3090, one of the strongest consumer graphics cards on the market today, generates a total of 0.56 teraflops. This means that it would take 1785 RTX 3090s running for almost 10 years to do the training of GPT-3.
+
+The training was done on the Google Cloud Platform, which is a cloud computing service that provides access to a wide range of computing resources. This allowed OpenAI to access the immense computing power needed to train GPT-3.
+
+The amount of computing power needed to train GPT-3 is a testament to the training to be completed in a few days.
+
+The RTX 3090 is a powerful graphics card, but can it really reach 125 teraflops? The answer is yes, but with some caveats.
+
+GPT-3, the AI model that was trained on Nvidia V100 graphics cards, was not trained on the RTX 3090. However, the RTX 3090 has Tensor cores, which are specialized chips that provide a lot of performance for AI tasks. This allows the RTX 3090 to reach up to 125 teraflops.
+
+However, training GPT-3 on the RTX 3090 would take about 80 years. To reduce this time, the batch size can be increased. This means that more training data can be used at the same time. In the case of GPT-3, 3.2 million training data were used, which allowed the training to be completed in a few days.
+
+So, while the RTX 3090 can reach 125 teraflops, it is not the ideal choice for training GPT-3. However, it can still be used to reduce the training time significantly. let’s say, a total of 10,000 hours of training.
+
+Microsoft is one of the largest cloud providers, second only to Amazon. In their range of services, they offer GPU servers, specifically the NCV3 series, which are equipped with V100 graphics cards and are specially designed for AI. According to Microsoft’s price table, these servers cost $12.24 per hour and contain 4 V100 graphics cards. If you rent the server for three years and pay monthly, you can save a bit of money.
+
+Let’s say you want to finish training in three years. That would require 10,000 hours of training. That would cost you $122,400 for the server rental. However, if you use the NCV3 series with V100 graphics cards, you can save time and money. The V100 cards are designed to handle AI training quickly and efficiently, so you can finish your training in less time. This means you can save money on the server rental, as well as on the time it takes to finish the training.
+
+In addition, the NCV3 series offers other benefits. It is designed to be highly big difference.
+
+According to my top calculation, running 27 V100 graphics cards requires seven servers. This is because each server can hold four of these cards. However, there is a communication overhead that must be taken into account. It is estimated that at least 50% of the computing capacity is taken up by this overhead, although some say it is closer to 20–25%.
+
+This means that if we use the optimistic 50% calculation, we would need 14 servers for three years, or 14 times 36 months. This would cost approximately 2.4 million dollars. However, if we use the more conservative 75% calculation, the cost would be closer to 5 million dollars.
+
+Fortunately, having a partner like Microsoft can make a big difference in the cost of running these graphics cards. Microsoft can provide discounts and other incentives that can help reduce the cost of running these cards. .
+
+Training a neural network can be a costly endeavor, but it doesn’t have to be. Depending on the size of the training data set, the cost can be as low as 1 cent per 1000 tokens.
+
+However, this cost doesn’t take into account such data.
+
+AI training is an incredibly expensive process, and there are some tips and results to consider for data scientists, both young and old. It’s important to keep in mind that these costs are related exclusively to the training of the AI, and do not include the design, coding, data collection, and data sorting. These costs are even higher than the cost of training the AI.
+
+Due to these high costs, AI is currently reserved for large companies that have access to the data needed to train the AI. As a startup, it’s impossible to get the data needed to train an AI. model.
+
+With the ever-increasing amount of data, it is becoming increasingly difficult for states to keep up with regulations. This has left the future of data ownership in the hands of tech giants such as Microsoft, Google, Facebook and Apple, who are all already working on their own solutions. Baidu, for example, is also working on its own solution.
+
+For startups, the only feasible option is to use the APIs of these tech giants. Researching and developing a solution of their own is often not financially feasible. Even universities, with their immense budgets, are often unable to develop their own solutions. For example, the KIT, the university I studied at, had a budget of roughly 1 billion euros in 2021. This budget is immense, but it has to cover salaries and all courses of study, not just one large language model. , the V100 is no longer the latest.
+
+The NVIDIA V100 is a powerful AI chip, but it has a consumption of about 250 watts. This means that for the entire training, it would require 350 terawatt hours of electricity. To put this into perspective, this is the same amount of electricity that 52 nuclear power plants produce in one year, or what Germany consumes in one year.
+
+It is important to note that it is not known if the electricity used for the V100 was obtained from renewable sources. However, it is clear that the AI chip industry is changing drastically. The V100 is no longer the latest AI chip, and newer models are being released with lower power consumption. For example, NVIDIA’s A100 chip has a power consumption of only 125 watts, which is half of the V100. This means that the A100 requires only 175 terawatt hours of electricity for the entire training, which is significantly less than the V100.
+
+In addition, other companies are also releasing AI chips with lower power consumption. For example, Google’s TPUv3 chip has a power consumption of only 40 watts, which is only 16% of the V100.
+
+The use of chips and graphics cards is commonplace in today’s world, but even newer smartphones often contain an AI unit, a Tensor Processing Unit (TPU). TPUs are chips developed by Google, which bring a lot of performance, especially for matrix multiplication.
+
+NVIDIA has also created a chip series with their Volta series, which is used for training and brings a lot more performance. Interestingly, NVIDIA has only been working on the Volta series since 2013 and the first Volta, the V100, was released in 2017. That’s not long ago, only six years.
+
+The successor, the A100, is up to 4.2 times as fast as the V100 and was released two years later. The H100 was recently introduced and is said to be ten times as fast as its predecessor, the A100. This means that the H100 is 42 times as fast as the V100. # The V100: A Look at the Rapidly Evolving AI Market
+
+The V100, released six years ago, has revolutionized the AI market. With its roughly 5 million dollar training costs, the V100 has become much more accessible to the average consumer, with training costs now estimated to be around 100,000 dollars.
+
+The AI market is still relatively young, and we can expect to see big steps in the coming years. AI is being used to develop chips that will eventually rebuild AI, and it is difficult to predict what will happen in the next few years.
+
+The most impressive thing about the whole topic is the rapid evolution of the AI market. In just six years, the V100 has gone from a 5 million dollar training cost to a much more accessible 100,000 dollar training cost. This rapid evolution has made AI much more accessible to the average consumer, and it is exciting to think of what the future holds.
+
+What do you think? Does the rapid evolution of the AI market leave you cold, or is it something that excites you?
+
+This article was enhanced by Chat-GPT4. Feel free to comment your feelings about the quality. Thanks for reading.

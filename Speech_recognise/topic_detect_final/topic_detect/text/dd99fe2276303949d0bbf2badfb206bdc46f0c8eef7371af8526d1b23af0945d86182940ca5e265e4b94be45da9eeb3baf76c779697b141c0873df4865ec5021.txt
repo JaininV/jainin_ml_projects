@@ -1,0 +1,75 @@
+Unless you’ve been in a coma or living under a rock, you’ll have either heard-of or read about the open letter signed by more than a thousand tech leaders including Steve Wozniak, Elon Musk – begging artificial intelligence companies to cease what they’re doing for the next six months.
+
+Their message is a simple one. AI left unchecked, they claim, poses a serious “threat to humanity.”
+
+We are on the verge of unleashing, they add, an ‘intelligence explosion’ that may be difficult to control. It follows research done last year where around half of AI researchers said they thought there was a 10% or greater chance that our inability to control AI will cause an existential catastrophe.
+
+It has some to ask a legitimate question – would you get on a plane if you thought there was a 10% chance it was going to crash?
+
+Although these people’s concerns are genuine, this is a futile gesture.
+
+Despite the entreaties for a pause, the slowdown in AI development progress won’t stop. There is no global governance structure that can get buy-in from all the world’s governments.
+
+So AI development will continue, regardless of what consequences may follow.
+
+So maybe the bigger question is whether AI really is a threat to anyone’s job?
+
+According to researchers at the University of Pennsylvania and OpenAI, maker of ChatGPT, about 20% of jobs are exposed to Generative Pre-trained Transformer (GPT) models or Generative AI, as the new brand is called.
+
+This includes accountants, mathematicians, interpreters, writers, journalists, tax preparers, court reporters and dozens of other jobs.
+
+The authors claim that 80% of workers are in occupations where at least one task can be performed more quickly by generative AI (recruiters, it must be noted, are not mentioned at all).
+
+Really? Well, maybe.
+
+A quote attributed to many people, from the Nobel prize-winning physicist, Niels Bohr, to Yogi Berra is: “It is difficult to make predictions, especially about the future.”
+
+We should all take heed of this.
+
+The history of predictions about the impact of technology on labor markets suggests that the sky is not about to fall.
+
+Take tax-preparers as an example. The vast majority of people file a rather basic tax return that can be readily completed by one of many tax preparation software products that have been available for decades, some of which are free.
+
+But there are more than 83,000 tax preparers in the industry and their number is actually predicted to keep growing.
+
+The reason is simple. Millions of people are unwilling to take the time to organize their financial records enough to allow them to complete their taxes with software that can do it for a fraction of the cost of a human preparer.
+
+High-speed internet connections were also predicted to make many professional jobs disappear, because the work could be done more cheaply offshore.
+
+Radiologists in low-cost locations would read MRIs and X-Rays, while actuaries in the United States would likely disappear.
+
+But none of this happened either, and the majority of jobs considered “offshorable” gained in employment.
+
+Predictions based on the impact of AI get derailed when they meet the real world.
+
+That’s because jobs, even seemingly mundane ones, are often too complicated to be replaced.
+
+Court reporters are one example. That speech recognition technology that can convert conversations to text is hardly new. Given the cost of a human reporter – they can earn over $100K – there is a powerful incentive to use technology to lower costs.
+
+But reality makes it near impossible to do so. In a courtroom legal proceedings can get heated with people talking over one another and witnesses may mumble. The court reporter asks for questions to be repeated if needed, identifies speakers, and ensures the accuracy of records.
+
+AI can help, but it will not replace humans doing the job.
+
+Apparently it doesn’t take much to fool a GPT model.
+
+Researchers at ETH Zurich university recently demonstrated that replacing just a thousand images in a data set of four million images was enough to get a GPT model to incorrectly identify the type of image when it was later used.
+
+That is, errors in as little as .00025% of the data can render a GPT model unreliable or essentially useless.
+
+GPT models are trained using data sourced from the open web, and it would take little effort to seed sites like Wikipedia with flawed information.
+
+The misinformation would likely eventually be discovered and removed but not before it corrupted the training data for a GPT.
+
+Preventing this from happening is difficult since GPTs have no objective standards they can apply to recognize misinformation.
+
+They are trained on literally millions of topics, and someone would need to know which ones to review to remove misinformation.
+
+The problem this creates is that the technology is capable of producing believable falsehoods. A professor at George Washington University was defamed by claims made by ChatGPT accusing him of sexual harassment, citing completely fake newspaper articles. Given such vulnerabilities, which appear easy to exploit, I would doubt whether the technology is really ready for primetime.
+
+GPT models could conceivably be applied to writing scripts for John Wick 5 or the next Mission Impossible movie, since no one knows or cares what the story is in the ones released until now.
+
+But in other cases, the only certainty is that Generative AI will be incorporated into tools that enhance productivity.
+
+This is much like what electronic spreadsheets did to replace paper and pencil ones that were laboriously constructed, or to speed up data analysis.
+
+With absent guarantees on the accuracy of the training data sets, adoption may be slow or restricted to narrowly defined tasks where the data has been thoroughly vetted. This may, ironically, require more human intervention.

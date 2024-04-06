@@ -1,0 +1,5 @@
+As requested and voted up 64 times, Salesforce customers want the ability to add company color palette in Salesforce settings. And then, there’s this.
+
+Salesforce can get what they need with RiteKit’s Company Brand Colors API. Test it here with no registration.
+
+Beyond just company logo, though, Salesforce could use, just in Community Cloud, several RiteKit APIs to enable Community Cloud customers to appeal to their customers with customized experiences that get:

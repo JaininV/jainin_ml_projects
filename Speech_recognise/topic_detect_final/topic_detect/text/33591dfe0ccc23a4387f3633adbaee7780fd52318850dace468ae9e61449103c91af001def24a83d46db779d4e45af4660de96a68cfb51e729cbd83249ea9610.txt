@@ -1,0 +1,31 @@
+OpenAI, the creator of the popular AI chatbot known as ChatGPT, has created a tried and tested method to eliminate bug and other problems.
+
+The firm announced that as part of its commitment to deliver secure artificial intelligence (AI), it is launching the OpenAI Bug Bounty Program.
+
+OpenAI said it will invest heavily in research and engineering to ensure its AI systems are safe and secure. However, as with any complex technology, it understands that vulnerabilities and flaws can emerge.
+
+OpenAI, despite its popularity, is not without its faults.
+
+Last week for example an Australian mayor threatened legal action against the AI chatbot parent.
+
+Brian Hood, who was elected mayor of Hepburn Shire (near Melbourne) last November, said he may sue OpenAI if it does not correct ChatGPT’s false claims that he had served time in prison for bribery.
+
+That possible first defamation lawsuit filed against the artificial intelligence chatbot, came after ChatGPT had falsely named him as a guilty party in a foreign bribery scandal involving a subsidiary of the Reserve Bank of Australia in the early 2000s.
+
+In fact Hood was the whistleblower who exposed the scandal.
+
+OpenAI is based in San Francisco, and at the time of writing, it had not responded to Hood’s legal warning.
+
+So the hope is OpenAI will be more responsive with its bug bounty program, which is looking at the “global community of security researchers, ethical hackers, and technology enthusiasts to help us identify and address vulnerabilities in our systems.”
+
+“The OpenAI Bug Bounty Program is a way for us to recognize and reward the valuable insights of security researchers who contribute to keeping our technology and company secure,” it said. “We invite you to report vulnerabilities, bugs, or security flaws you discover in our systems. By sharing your findings, you will play a crucial role in making our technology safer for everyone.”
+
+“We have partnered with Bugcrowd, a leading bug bounty platform, to manage the submission and reward process, which is designed to ensure a streamlined experience for all participants,” it added. “Detailed guidelines and rules for participation can be found on our Bug Bounty Program page.”
+
+OpenAI said it has, at the time of writing, already rewarded 14 vulnerabilities, with an average payout of $1,287.50 in the past three months.
+
+But it will pay more if the flaw is deemed serious enough.
+
+“To incentivise testing and as a token of our appreciation, we will be offering cash rewards based on the severity and impact of the reported issues,” said OpenAI. “Our rewards range from $200 for low-severity findings to up to $20,000 for exceptional discoveries. We recognise the importance of your contributions and are committed to acknowledging your efforts.”
+
+The Tuesday launch of OpenAI’s bug bountry scheme comes days after ChatGPT was banned in Italy for a suspected breach of privacy rules.

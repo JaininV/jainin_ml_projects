@@ -1,0 +1,17 @@
+If you have solar panels on your roof, it makes sense to add batteries, too, so you have some degree of self-sufficiency should you lose power. In fact, it might be a good idea to have such a storage system even if you don’t generate your own power. That way, you can charge the batteries when power is cheap and use that stored energy when electricity is eye-wateringly expensive and the mercury is reaching for the sky like it’s at a midsummer rave party and the bass just dropped.
+
+From a distributed power strategy point of view, it would make a lot of sense for everyone to have their own local power storage. But it’s unlikely that folks who don’t have solar, wind or, in some cases, hydroelectric power on their property will spend on huge and expensive powerwalls.
+
+However, there’s an unlikely solution for this: The enormous battery packs people already have in their electric vehicles, and the California Senate is discussing a bill that is hoping to cut through the red tape associated with V2G (vehicle-to-grid) charging.
+
+V2G has incredible potential: There are around 1 million plug-in electric vehicles in California. If we (blindly) assume that all of them are Nissan Leaf EVs with a 50 kWh battery pack kept at 50% charge, and that they all volunteer to deliver power to the grid until they hit 20%, we would have 15 kWh available per vehicle, times a million.
+
+“Inverter installation needs to be made super simple for vehicle owners; otherwise, not enough people will make it through.”
+
+That’s enough power to keep just over 600,000 homes powered for a day (assuming average usage of 715 kWh per month). And we could drastically extend that time frame by asking people to use less power (not run the AC, etc.).
+
+However, reality is as usual a pesky little problem: 600,000 homes represent only 4% of households in California, and the largest power cut on record in the region took out 2.5 million homes or so. V2G isn’t going to be the solution to end all discussion about power management. On the other hand, a distributed power strategy aimed at households, communities or even building resiliency for the entire grid is probably worth striving for, especially given the semi-regular power cuts we’re starting to see in California, which are usually linked to wildfires or extreme weather.
+
+Let’s talk about some of the challenges involved in V2G charging, and why the California Senate may be eager to get involved.
+
+There has been a fair amount of pushback against V2G charging. Some argue that warranties on vehicles are expressed in miles traveled and using the vehicle batteries for anything but propulsion could cause some quirks there. The same goes for secondhand vehicle sales. If you buy a Tesla with 20,000 miles on it, you wouldn’t expect it to have also powered a home 50% of the time and the state of the batteries to be far worse than the car’s mileage would indicate.

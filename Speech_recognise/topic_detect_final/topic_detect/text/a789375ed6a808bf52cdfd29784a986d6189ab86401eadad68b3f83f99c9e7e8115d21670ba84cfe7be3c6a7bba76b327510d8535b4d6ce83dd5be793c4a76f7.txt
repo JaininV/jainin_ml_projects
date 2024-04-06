@@ -1,0 +1,33 @@
+Hurry up and wait, as they say.... and after battling to the airport, through check-in and security, that's precisely what millions of travellers do every single day.
+
+Hours of mindless scrolling to pass the time in the queues, your trusty mobile that has pumped out pictures and videos to keep you occupied now needs a well-earned recharge.
+
+And the bright lights of the airport lounge at the end of the tunnel are the ideal place to slot in your phone for its much-needed refresh while you take refuge nearby – keeping a watchful eye on the USB socket like a protective parent at a playground.
+
+But not so fast. Your phone’s hour of need could be exactly what dastardly hackers have been waiting for.
+
+While a USB charging point at an airport or hotel might seem innocent, the FBI has now issued a warning to all smartphone users to avoid using them as hackers have figured out a way to load them up with viruses.
+
+The United States intelligence and security service put out the message via its official Denver twitter account.
+
+It stated: 'Avoid using free charging stations in airports, hotels or shopping centers. Bad actors have figured out ways to use public USB ports to introduce malware and monitoring software onto devices.'
+
+The tweet then advised people to always carry your own charger and USB cord to plug into an electrical outlet instead.
+
+The practice - known as 'juice jacking' - was previously warned against by the Los Angeles District Attorney's office as they reported signs of fraudsters accessing a person's phone or tablet.
+
+Once your phone is plugged into the USB port hackers can send malware programs from their own phones or laptops into the charging station hardware.
+
+This could then lead to your phone being locked or disabled and your private data could be compromised.
+
+It essentially means that the charging stations became a distribution hub for viruses.
+
+The FCC has also warned about this practice in the past, claiming cybercriminals leave infected USB cables plugged into ports in the hope that somebody might use them.
+
+If you do happen to plug in your phone to a USB charging port, make sure you do not agree to share your data when prompted via a pop up.
+
+By choosing the 'charging only' option this will at least make sure you are not handing over sensitive information.
+
+Other ways to protect yourself from becoming a 'juice jacking' victim is to never plug your device into a cable that has already been left there.
+
+Also, be careful when using public WiFi networks in an airport and around busy areas as this is another way you can get hacked by cybercriminals.

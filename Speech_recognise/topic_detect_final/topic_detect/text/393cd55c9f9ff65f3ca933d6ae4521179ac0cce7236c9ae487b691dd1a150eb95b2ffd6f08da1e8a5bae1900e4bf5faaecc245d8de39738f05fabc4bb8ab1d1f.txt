@@ -1,0 +1,71 @@
+Global Study: 70% of Business Leaders Would Prefer a Robot to Make Their Decisions
+
+85% of business leaders have suffered from decision distress – regretting, feeling guilty about, or questioning a decision they made in the past year
+
+72% admit the sheer volume of data and their lack of trust in data has stopped them from making any decision
+
+94% have changed the way they make decisions over the last three years; 97% want help from data
+
+and ,  /PRNewswire/ -- Oracle CloudWorld Tour -- People feel overwhelmed and under qualified to use data to make decisions and this is hurting their quality of life and business performance, according to a new study – The Decision Dilemma – by Oracle and Seth Stephens-Davidowitz, New York Times bestselling author. The study of more than 14,000 employees and business leaders across 17 countries found that people are struggling to make decisions in their personal and professional lives at a time when they are being forced to make more decisions than ever before.
+
+The number of decisions we are making is multiplying and more data is not helping
+
+People are overwhelmed by the amount of data and this is damaging trust, making decisions much more complicated, and negatively impacting their quality of life.
+
+74 percent of people say the number of decisions they make every day has increased 10x over the last three years and as they try to make these decisions, 78 percent are getting bombarded with more data from more sources than ever before.
+
+86 percent say the volume of data is making decisions in their personal and professional lives much more complicated and 59 percent admit they face a decision dilemma – not knowing what decision to make – more than once every single day.
+
+35 percent don't know which data or sources to trust and 70 percent have given up on making a decision because the data was overwhelming.
+
+85 percent of people say this inability to make decisions is having a negative impact on their quality of life. It is causing spikes in anxiety (36 percent), missed opportunities (33 percent), and unnecessary spending (29 percent).
+
+As a result, 93 percent have changed the way they make decisions over the last three years. 39 percent now only listen to sources they trust and 29 percent rely solely on gut feelings.
+
+Business leaders want data to help and know it is critical to the success of their organizations, but don't believe they have the tools to be successful which is eroding their confidence and ability to make timely decisions.
+
+85 percent of business leaders have suffered from decision distress – regretting, feeling guilty about, or questioning a decision they made in the past year – and 93 percent believe having the right type of decision intelligence can make or break the success of an organization.
+
+97 percent want help from data. In an ideal world, they want data to help them: make better decisions (44 percent), reduce risk (41 percent), make faster decisions (39 percent), make more money (37 percent), and plan for the unexpected (29 percent).
+
+In reality, 72 percent admit the sheer volume of data and their lack of trust in data has stopped them from making any decision at all and 89 percent believe the growing number of data sources has limited the success of their organizations.
+
+Managing different data sources has required additional resources to collect all the data (40 percent), made strategic decision making slower (36 percent), and introduced more opportunities for error (26 percent).
+
+Business leaders do not believe that the current approach to data and analytics is addressing these challenges. 77 percent say that the dashboards and charts they get do not always relate directly to the decisions they need to make and 72 percent believe most data available is only truly helpful for IT professionals or data scientists.
+
+Business leaders know this needs to change. They believe the right data and insights can help them make better HR (94 percent), finance (94 percent), supply chain (94 percent), and customer experience (93 percent) decisions.
+
+Data needs to be relevant to the decisions people make or they will give up on it
+
+Collecting and interpreting data has driven people to their breaking point at a time when the stakes are incredibly high for business leaders.
+
+70 percent of people say the headache of having to collect so much data and interpret it is too much for them to handle.
+
+This is particularly evident in the business world. 78 percent of business leaders say people often make decisions and then look for the data to justify them, 74 percent of employees believe businesses often put the highest paid person's opinion ahead of data, and 24 percent feel that most decisions made in business are not rational.
+
+The situation is so challenging that 64 percent of people – and 70 percent of business leaders - would prefer for all these difficulties to just go away and to have a robot make their decisions.
+
+Despite their frustrations with data in their personal and professional worlds, people know that without data their decisions would be less accurate (44 percent), less successful (27 percent), and more prone to error (39 percent).
+
+People also believe that an organization that uses technology to make data-driven decisions is more trustworthy (79 percent), will be more successful (79 percent), is a company they're more likely to invest in (76 percent), partner with (77 percent), and work for (78 percent).
+
+"People are drowning in data," said Seth Stephens-Davidowitz, data scientist and author of Everybody Lies and Don't Trust Your Gut. "This study highlights how the overwhelming amount of inputs a person gets in their average day -- internet searches, news alerts, unsolicited comments from friends -- frequently add up to more information than the brain is configured to handle. People are tempted to throw out the confusing, and sometimes conflicting, data and just do what feels right. But this can be a big mistake. It has been proven over and over again that our instincts can lead us astray and the best decision-making is done with a proper understanding of the relevant data. Finding a way to get a handle on the stream of data at their fingertips, to help businesses distinguish between the signal and the noise, is a crucial first step."
+
+"When our drivers are racing at more than 200 miles per hour, they have to make critical decisions very quickly. The correct race strategy decisions like when to pit and which tires are best for the conditions on the track can mean the difference between winning and losing," said Christian Horner, Team Principal and CEO at Oracle Red Bull Racing. "With Oracle Cloud Infrastructure, our team can take advantage of data by running billions of race strategy simulations during a Grand Prix weekend, ensuring that we make the best decisions in response to the performance of the cars, changes happening on the track, and the actions of our competitors during the race."
+
+"As businesses expand to serve new customers in new ways, the number of data inputs they need to get the full picture expands too. Business leaders that make critical decisions about how to manage their companies ignore that data at their own risk," said T. K. Anand, executive vice president, Oracle Analytics. "The hesitancy, distrust, and lack of understanding of data shown by this study indicates that many people and organizations need to rethink their approach to data and decision making. What people really need is to be able to connect data to insight to decision to action. With our span of connected cloud capabilities, ranging from foundational data management, to augmented and applied analytics, to our suite of operational applications, we are uniquely positioned to meet this need."
+
+This global sample of 14,250 people were surveyed in January 2023. In each country, the sample represented employees and business leaders, including titles such as President, CEO, Chairperson, C-Level Executive, CFO, CTO, Director, Senior Manager, HR Manager, and other select leadership roles, confirmed by consumer-matched data accessed via the global insights platform Prodege. Employee samples were calibrated, where possible, to reflect the age and gender demographics of the nation's workforce.
+
+DKC Analytics conducted and analyzed this survey with a sample procured using the Pollfish survey delivery platform, which delivers online surveys globally through mobile apps and the mobile web along with the desktop web. No post-stratification has been applied to the results.
+
+Oracle offers integrated suites of applications plus secure, autonomous infrastructure in the Oracle Cloud. For more information about Oracle (NYSE: ORCL), please visit us at www.oracle.com.
+
+Oracle CloudWorld Tour is Oracle's global celebration of customers and partners. Join us to discover the insights you need to tackle your biggest business challenges, build your skills, knowledge, and connections, and learn more about our cloud infrastructure, database, and applications from the people that build and use them. For live keynotes, session details, news and more visit oracle.com/cloudworld-tour or oracle.com/news.
+
+Oracle, Java, MySQL and NetSuite are registered trademarks of Oracle Corporation. NetSuite was the first cloud company--ushering in the new era of cloud computing.
+
+Also from this source
+
+Oracle Introduces New AI and Automation Capabilities to Help Customers Optimize Supply Chain Management

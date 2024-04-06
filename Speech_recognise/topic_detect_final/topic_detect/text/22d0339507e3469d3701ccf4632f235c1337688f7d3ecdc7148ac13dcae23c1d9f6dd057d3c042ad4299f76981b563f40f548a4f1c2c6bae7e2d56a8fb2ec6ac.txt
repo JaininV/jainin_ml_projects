@@ -1,0 +1,59 @@
+When implementing a new piece of rail safety equipment, a common mistake is to not consider how it relates to its broader operating environment, or the people who will use it.
+
+Generic technologies, like off-the-shelf ATPs, often boast impressive safety capabilities. But, as rail researcher and psychologist, Professor Anjum Naweed, points out, even the most safety-conscious tools won’t perform well if they don’t complement the end-user’s working style, or the unique requirements of the track.
+
+In fact, an untailored, or poorly considered, safety device could threaten safety and wreak havoc on the broader network, he said.
+
+“The best way to describe it is with a puzzle analogy,” Prof Naweed said ahead of the RISSB Rail Safety Conference, hosted by Informa Connect.
+
+“If you try and squeeze the wrong piece into a jigsaw, you could damage that piece, damage the wider jigsaw and, even if you make it fit, create a picture that doesn’t quite look right.”
+
+Prof Naweed has been helping one rail company deal with the challenges of an untailored ATP system after it inherited one from its former management.
+
+The company was operating on an already challenging part of Australia’s rail network and the technology had not factored in its unique requirements.
+
+“For example, on this particular line, there are large sections of steep gradient and single track, with a series of intersecting loops. There is also a segment where lots of cyclists come on board and cause delays. When the track is already very challenging for drivers, issues with poorly calibrated devices are more pronounced,” he said.
+
+Some of the drivers, particularly those with decades’ experience, expressed a strong dislike for the safety device. A large number complained about its alerts, claiming it added pressure to an already stressful situation. It was also thought to be overly conservative and did not allow drivers to operate at speeds they considered safe.
+
+These issues negatively impacted the timetable, as well as the drivers’ sense of job fulfilment.
+
+“Not being able to keep to time can make train drivers question their competency and take a considerable amount of pride out of the profession,” Prof. Naweed said.
+
+“It’s strange to think that devices such as ATPs, which are intended to make things more efficient, can have the opposite effect. In this case, performance in the entire network was diminished along with the drivers’ sense of purpose. It was a piece of the puzzle that sent ripples across the broader jigsaw and distorted the whole picture it was trying to create.”
+
+What could have been done better?
+
+ATP systems communicate with drivers through numbers, colours and instructions on a display in the cab. When these displays don’t work synergistically with the driver, it can create unsafe situations. A system that overprescribes information or instructions to the driver also risks creating errors, Prof Naweed said.
+
+“A well-designed ATP works in harmony with the driver’s existing competencies and workload. It is adaptive and steps in when the driver’s workload is high and backs off when it reduces. In contrast, a poorly designed ATP will make decisions that conflict with the driver’s own; or give instructions that don’t correspond with what they are seeing in the outside world – much like a GPS-device that has lost its signal. This breeds distrust and resistance to the technology. The driver doesn’t believe what the ATP is telling them.
+
+“One way to improve the functioning of ATPs is to take a closer look at its fit with the existing rail technology and make adjustments that recognise the nuances of the track and driver population.”
+
+To compensate for the challenges and limitations around technology adjustments, developing a tailored training program is also a sensible idea, Prof Naweed recommends.
+
+“Rail operators need to analyse the training needs of their team before they begin upskilling them on new systems like ATP. Insufficient or poor-quality training leaves drivers’ unclear on how the system functions and creates a multitude of issues. When drivers aren’t properly informed, they have little choice but to create their own theories and introduce new safety risks. When they are, there are performance and efficiency gains to be made.”
+
+Training drivers on how to effectively manage ATP systems when operating in less than ideal or “degraded modes” is also imperative, Prof Naweed said.
+
+“This will ensure drivers are engaged, satisfied and comfortable in their job and with ATP, and minimise delays on the network.”
+
+What else should companies consider before embarking on a safety upgrade?
+
+Before any new rail technology is purchased, Prof Naweed said consultation with drivers and wider stakeholders is critical.
+
+“Understanding the drivers’ perspective on the technology is important for protecting the delicate ecosystem of rail operations. Introducing something on the assumption that, ‘hey, this can only make things safer’ can be a big gamble in such a high stakes environment.”
+
+Listening to driver concerns can also help rail operators understand the mixed-demands of the cab environment and tailor any new technologies.
+
+“This can ensure the technologies suit experienced drivers that make quick and accurate decisions, have clean safety records and feel uncomfortable changing their way of working. Equally, it can ensure they suit less experienced drivers who feels uneasy making rapid-fire safety decisions, and therefore need more help. Of course, you will never be able to design a fool proof system, but you can design one that doesn’t create traps for driver error.”
+
+Prioritising the human factors is also crucial from a safety culture perspective, Prof Naweed said.
+
+“It speaks to the broader culture of safety engagement, particularly in a highly-regulated, unionised industry, in which drivers have to follow rigorous policies and procedures as part of their every day job. There is a lack of autonomy in the profession, so if you are not consulting with drivers before making a major change to their workplace, they will feel dehumanised and this has implications for their wellbeing. In turn, this impacts safety performance.”
+
+Professor Anjum Naweed is the cluster lead for Human Factors and Operational Readiness at the Appleton Institute—the Adelaide-based campus of CQUniversity. In the rail domain, his research includes decision-making in frontline workers, display design, teamwork, training, SPAD analysis and prevention, track worker safety, and rail suicide.
+
+Hear more from Prof Naweed at the RISSB Rail Safety Conference, due to take place on 2-3 May at the Amora Hotel Jamison Sydney. He will be joined by Reece Blaschek, Head of Drivers at Keolis Downer Adelaide.
+
+Learn more and register your place here.

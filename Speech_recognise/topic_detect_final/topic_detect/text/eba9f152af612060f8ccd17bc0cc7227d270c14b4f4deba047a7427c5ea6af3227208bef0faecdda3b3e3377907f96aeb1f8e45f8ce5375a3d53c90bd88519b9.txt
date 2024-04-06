@@ -1,0 +1,11 @@
+Smartphones have increasingly become more powerful (and boring) over the last few years, as a result of which many people are hanging on to their phones longer. It’s why Samsung (along with some other manufacturers) has started extending the software support period for their devices, with up to four years of OS upgrades and five years of security updates for all new Galaxy flagships and select mid-range phones.
+
+And the longer a smartphone is used, battery health becomes exponentially worse and so does battery life. To counter those effects and increase the lifespan of a Galaxy device’s battery, Samsung introduced a feature called Protect battery to its tablets, and back in 2021, the feature made its way to Galaxy phones as well, starting with the Galaxy Z Fold 3 and the Galaxy Z Flip 3.
+
+The Protect battery feature works by limiting the maximum charge to 85%, as regularly charging lithium batteries to 100% is one of the biggest factors that result in a shorter lifespain. So if you’re someone who doesn’t upgrade their smartphone very often, Protect battery is a very useful feature.
+
+The Protect battery feature can be found on most Galaxy smartphones that run One UI version 4.0 and Android 12 or higher, and the quickest way to enable it is through the dedicated toggle found in the quick toggles section.
+
+If you don’t see the Protect battery option in there, you can tap the three dots button above the quick toggles, hit the edit button, and drag the Protect battery toggle from the Available buttons section in the upper half of the screen to the lower half of the screen.
+
+The battery protection feature on Galaxy devices can also be enabled from the settings menu. Simply open the Settings app on your phone or tablet, select Battery and device care, and tap on the Battery option, where you will find a toggle for Protect battery at the bottom.

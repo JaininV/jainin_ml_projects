@@ -1,0 +1,45 @@
+Government agencies need access to data to make informed decisions. Increasingly, they require timely processing of data generated at the mission edge, and for this, they need to leverage the speed and scale of cloud computing.
+
+Rancher Government Solutions recently rolled out a new iteration of its cloud-based offering, tailored to the needs of the federal market. And the company did it remarkably quickly.
+
+Rancher Government Solutions President and CEO Lynne Chamberlain is a GovCon space veteran, having worked at RedHat, Unisys, NetApp and HP. We caught up with her to discuss how her team achieved speed-to-market on the new product, as well as current challenges in the GovCon world, and how she plans to expand the company’s federal presence.
+
+What are the common challenges your federal clients face?
+
+Our customers operate in mission-critical environments at the edge. There, they need security, they need compliance and they need fully disconnected or air-gapped, installs. We work to provide all of that by delivering secure Kubernetes distributions alongside the most knowledgeable Kubernetes containerization experts you can find anywhere.
+
+Together, our solutions, our people, the things they build and services they provide are solving a variety of difficult, but not impossible, challenges facing our customers.
+
+How does your new service, Rancher Government Carbide, help to solve those problems?
+
+Carbide is a federal-focused distribution of the entire Rancher cloud-native portfolio. It’s built on AWS GovCloud and hosted on the Azure Government container registry. It gives our customers a hardened Kubernetes stack that meets their complex mission security standards.
+
+Launching a new service like that is no small task, yet you had it up and running in two years. How did you ramp up so quickly?
+
+Again, it’s our people. Even though we’re part of a larger organization, we have a startup, get-it-done mentality.
+
+We have people who understand and are committed to the critical missions of our customers. They understand the importance, the environments and the technologies necessary to support our customers.
+
+And when it comes to developing and launching new products, they bring that same urgency and commitment to the table.
+
+How will the new service help drive growth for Rancher Federal? Where’s the opportunity and what’s the strategy for winning that business?
+
+We’re excited about the ability to bring the entire Rancher cloud-native stack to customers with additional software supply chain security and with a simplified way to adhere to federal security and compliance requirements.
+
+We know our customers are focused on securing software supply chains, following the cyber executive order and the growing number and complexity of cyberattacks. We also know compliance is a perennial and evolving concern as well.
+
+Carbide will offer them greater security, easier compliance and the continued capacity to run Kubernetes in mission-critical environments. In my experience, when a product can enable a capability and solve key problems for a customer, it’s typically a successful one.
+
+What’s the biggest challenge you face and how do you address it?
+
+I think one of the biggest challenges that any emerging technology company faces ⏤ Rancher is an emerging technology company ⏤ is finding opportunities for customers to try your products before they buy them.
+
+Emerging tech can be daunting for agencies, and the federal government’s procurement process is not set up in a way that encourages agencies to conduct quick, targeted proofs of concept and then to very quickly onboard a new partner.
+
+At Rancher, we love proof of concepts. We love proving our capabilities and our way of working ⏤ because we know that when we can do that, we win business and build solid, productive relationships with customers.
+
+On a personal level, what makes this work interesting/meaningful for you?
+
+If you look at our customer base, it’s very military heavy. I come from a military family. I went to college on the G. I. Bill. My sister is in the military and so from very early on, I understood the military and what it offered people.
+
+Every company I’ve been at ⏤ I spent 16 years at Red Hat, three years at Unisys, five years at NetApp and 10 years at HP ⏤ has been mission oriented. It’s been exciting to see all the change but also the continued and important focus on the warfighter and meeting their needs. And that’s what we’re doing at Rancher.

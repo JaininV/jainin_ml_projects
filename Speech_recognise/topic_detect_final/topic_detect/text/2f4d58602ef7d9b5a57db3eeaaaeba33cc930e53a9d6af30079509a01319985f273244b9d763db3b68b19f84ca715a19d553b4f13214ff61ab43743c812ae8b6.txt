@@ -1,0 +1,39 @@
+As a designers, have you experienced miscommunication with stakeholders at some point in your career? It can be a frustrating and time-consuming issue that can lead to delivering work that falls below expectations.
+
+Have you ever been in a situation where miscommunication resulted in delivering below expectations? I’ve worked with clients in the past where miscommunication caused delays and disappointment.
+
+It’s essential that you emphasize the importance of triple-checking with stakeholders before proceeding with a project. By doing this, you ensure that you get clear and accurate instructions on what to do.
+
+Have you ever considered asking smart questions to get even the tiniest details from the stakeholders to ensure you understand what they want and expect?
+
+If not, well do!
+
+This can help you do the project correctly and protect your work when problems arise.
+
+So, let’s consider an example of how you can triple check with stakeholders to avoid lapses in communication:
+
+Stakeholder: We need a UX designer to create a user-friendly interface for our new mobile app.
+
+UX Designer: Can you tell me more about the target audience and main features of the app?
+
+Stakeholder: Our target audience is primarily millennials, and the app’s main features include creating and managing tasks, setting reminders, and tracking progress towards goals.
+
+UX Designer: Okay, and what are the main objectives for this project?
+
+Stakeholder: We want to create an app that is easy to use, visually appealing, and provides a positive user experience. We also want the app to be highly functional, so users can complete tasks quickly and efficiently.
+
+UX Designer: To ensure we’re on the same page, can we define some specific outcomes for this project? For example, how will we measure success?
+
+Stakeholder: We want the app to have high user adoption rates, low bounce rates, and positive user feedback. We also want the app to generate revenue, so we’ll be tracking key performance indicators such as user retention, in-app purchases, and ad revenue.
+
+UX Designer: Just to clarify, you’re looking for a user-friendly interface that is visually appealing, highly functional, and optimized for revenue generation. Is that correct?
+
+UX Designer: Thank you for clarifying that. Just one more thing, can we set up a meeting to review the design before the final delivery to ensure it meets your expectations and objectives?
+
+Stakeholder: Yes, that’s a good idea. Let’s schedule a meeting for next week.
+
+UX Designer: Perfect, I’ll send you an invitation. Thank you for taking the time to clarify the project goals and outcomes. I look forward to working with you.
+
+By following this process, you can ensure that you fully understand the project requirements and deliver work that meets or exceeds your stakeholders’ expectations.
+
+Have you tried this approach before, and how did it work for you?

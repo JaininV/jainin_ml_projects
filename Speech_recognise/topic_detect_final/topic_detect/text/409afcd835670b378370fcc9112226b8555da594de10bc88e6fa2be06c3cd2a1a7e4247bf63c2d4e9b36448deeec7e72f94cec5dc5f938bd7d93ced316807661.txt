@@ -1,0 +1,35 @@
+Every time a physician or a nurse practitioner sees a patient, they create a document. It may be a clinic note or an encounter note. Similarly, every time a diagnostic physician such as a radiologist or a pathologist evaluates a case, they produce a document.
+
+All of these documents are in the form of unstructured text, written out in full sentences or phrases. For example, a primary care provider might write, “Tim came to see me last week with a three-week history of right knee pain.”
+
+As caregivers, we need this ability to create prose, to describe symptoms and explain treatment plans in ways that typically require addressing complexities and subtleties. This is medicine, after all, and what we document goes into a patient’s record for future reference, so unstructured text is hugely important.
+
+The problem is that much of this unstructured data can only be used if read by another human. A clinician can’t say to a smart device, “Tell me about Mrs. Smith.” And if you called up a hospital and asked how many of their patients had diffused large B-cell lymphoma last month, they likely would reply that they don’t know because such information “is trapped in our notes.”
+
+One unfortunate byproduct of the need for medical documentation is clinician burnout. Many physicians today are exiting full-time practices because so much of their time is spent on documentation. We not only have a fiduciary responsibility to our patients to produce documentation, but we also have legal requirements for healthcare organizations to produce significant amounts of documentation with every patient encounter.
+
+While it’s clearly essential that clinicians document patient encounters, it is a very time-consuming task. And as the healthcare system gets busier and busier, and as more patients with chronic conditions seek treatment, many clinicians feel chained to their electronic health records (EHR) systems and compelled to produce volumes of documentation each day. They’re coming in early, working through their lunch hours, and staying late – in large part to create documents.
+
+Technology is needed to help clinicians with documentation in a way that’s easiest for them and then to structure the data so it can be used more easily by others. This is where natural language processing (NLP) can be of immense value. NLP software can read and understand unstructured clinical notes, extract data from them in a structured format, store the data, and make it available to use in multiple ways.
+
+Researchers can use NLP to find exactly the cases they’re looking for to build a cohort. Hospitals get access to better data for analytics and insights. Physicians have smart devices they can ask questions of because now the contents of a chart are known and understood. NLP is a foundational technology that, through its ability to structure unstructured text data, can transform how healthcare is practiced and delivered.
+
+Theoretically, at least. In practice NLP, which has been deployed in healthcare as far back as the 1980s, generally has been disappointing. It frequently has been inaccurate and has dealt poorly with ambiguities in language. Traditional NLP software might even tell clinicians that patients had diseases they don’t actually have.
+
+Fortunately, the market is becoming more and more aware of the benefits and limitations of NLP just as a new generation of medical NLP technologies is becoming available. Powered by artificial intelligence (AI) and machine learning, these modern medical NLP platforms truly are clinical grade, overcoming problems with inaccuracies and the inability to understand shorthand and abbreviations.
+
+Clinical-grade NLP leverages AI and deep learning to contextualize language in medical notes and accurately identify common medical terms. Not only does this result in high levels of accuracy, AI-powered NLP can process and understand information from unstructured medical data exponentially faster than humans – and can do so at scale.
+
+However, even modern NLP platforms must rely on medical expertise to guide the deep learning models. Infusing these deep learning models with specialized medical knowledge enables modern medical NLP to meet the data optimization needs of providers, payers, pharmaceutical companies, and clinical researchers.
+
+One thing most physicians wish they could do today is effectively and efficiently search their patient’s chart when they’re not confident about information they’re getting from that patient. Deep learning NLP models would be able to go beyond a simple keyword search to a smart search where it knows whether the disease currently is present or absent.
+
+Automated patient summaries are another excellent use case for medical NLP. Most practices today are hand-curated, a painstaking process in which information from multiple sources (such as discharge summaries) is distilled by or for the clinician at the point of care. Automated summaries listing patients’ diseases, history of family health issues, and other relevant clinical information would allow clinicians to waste less time chasing down data and focus more on their patients.
+
+Medical NLP also can improve the quality, safety, and efficiency of healthcare by creating rich analytics that shed insights into how healthcare is being delivered inside any clinic, hospital, or other healthcare organization. Identifying adverse events that may fall below reporting thresholds or otherwise go unreported is very important in uncovering risk factors and inefficiencies. Thus, setting up automated systems to monitor events in a healthcare setting is vital.
+
+Another way medical NLP helps is by identifying cohorts of data for building AI models. Whether it’s a type of AI to detect patients at risk for something in a healthcare setting, or whether it’s image analysis, AI for specialties such as pathology or radiology provides clinical and research benefits.
+
+Clinical-grade NLP is in the earlier stages of adoption, but as healthcare organizations continue to struggle with unstructured data and clinician burnout, we will see a gradual increase in its use. Once these tools are in the hands of most caregivers, we will improve patient and population outcomes while removing a major cause of clinician burnout.
+
+The AI and deep learning models being developed today in conjunction with medical NLP will be used in healthcare five, 10 and 20 years from now. These technologies will be so tightly integrated into EHRs that they’ll be almost invisible to end users. The ability of these models to predict adverse events will help us prevent those events, which will save lives and reduce healthcare costs.

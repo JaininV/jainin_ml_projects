@@ -1,0 +1,59 @@
+C# 12 is the latest preview version of the popular programming language developers use worldwide to build software applications. Microsoft, the company behind C#, regularly releases new versions of the language with new features and improvements. This article will explore some C# 12 preview features with examples.
+
+One of the most significant features of C# 12 is the simplified parameter null validation. This feature allows developers to define a single parameter that can be null or non-null, making it easier to write cleaner and more concise code. By using the ! operator, developers can easily check whether a parameter is null without writing lengthy if-else statements.
+
+public void MyMethod(string! myParameter)
+
+// Do something with myParameter
+
+In the above code, the ! operator indicates that myParameter it cannot be null, so the developer doesn't have to perform a null check explicitly.
+
+Property patterns allow developers to pattern-match the properties of an object. In C# 12, this feature has also been extended to support positional patterns. This makes it easier to pattern-match objects with named and positional properties. Let's take a look at an example:
+
+class Person
+
+public string FirstName { get; init; }
+
+public string LastName { get; init; }
+
+Person person = new() { FirstName = "John", LastName = "Doe" };
+
+if (person is { FirstName: "John" } and { LastName: "Doe" })
+
+Console.WriteLine("Found John Doe");
+
+In this example, we have a Person class with two properties, FirstName and LastName. We create a new instance of the Person class with the first name "John" and last name "Doe". We then use property patterns to pattern match on the object and check if the first name is "John", and the last name is "Doe". If the pattern matches, we print a message to the console.
+
+Lambda parameters are now supported in C# 12, which means developers can pass parameters to a lambda expression. This makes it easier to create more flexible and reusable code. Here is an example:
+
+List
+
+In this example, we have a list of numbers and want to filter out the even numbers. We use a lambda expression with a parameter to filter out the even numbers. We then use a foreach loop to print the even numbers to the console.
+
+Records are a new feature in C# 9 that allows developers to define classes with value-based equality semantics. In C# 12, structs can now be used in records, which makes it easier to create lightweight data structures. Here is an example:
+
+record Point(int X, int Y);
+
+In this example, we define a record with two properties, X and Y. We use a struct to define the record, which makes it a lightweight data structure.
+
+Span is a feature that allows developers to work with contiguous memory blocks more efficiently. In C# 12, there are several improvements to the Span feature, including improved performance and better memory allocation. Here is an example:
+
+Span
+
+In this example, we create a Span of bytes with a size of 1024 bytes. We use stackalloc to allocate memory on the stack, which is more efficient than allocating memory on the heap.
+
+Async streams are a powerful feature in C# that allows developers to work with data streams asynchronously. In C# 12, there is improved support for async streams, including the ability to use them with the yield statement. Here is an example:
+
+async IAsyncEnumerable
+
+In this example, we define a method that generates a sequence of integers asynchronously using the yield statement. We use the async keyword to make the method asynchronous and return an IAsyncEnumerable of integers. We then use the await foreach loop to iterate through the sequence and print each number to the console.
+
+C# 12 introduces global using directives, allowing you to import namespaces globally instead of importing them in every file.
+
+global using System;
+
+global using System.Collections.Generic;
+
+List
+
+C# 12 preview features bring a lot of exciting improvements to the language, making it easier for developers to create efficient and flexible code. The extended property patterns, support for lambda parameters, use of structs in records, improved performance for Span, and more support for async streams are just a few of the new features developers can look forward to using in their projects. With these improvements, C# is a powerful and versatile programming language for building various software applications.

@@ -1,0 +1,31 @@
+With the use of malvertising – a malicious software in online advertising – reportedly growing in frequency, now’s the time for web pros to get their heads around the potential threat to protect both themselves and their clients.
+
+Malvertising is a tactic used by malicious actors to ransomware web user information and it’s on the rise.  With stats suggesting attacks are 72% higher on average since the COVID 19 pandemic began, it’s more important than ever that web pros looking after client websites understand the full extent of the threat and are equipped with the knowledge required to make sure they aren’t falling prey to these attacks in the current cybersecurity environment.
+
+Malvertising is really coming to the fore, with high profile accounts on social media recently indicating that they have been caught out. This has created a ripple effect throughout the cybersecurity world and emphasises the need for this topic to be spoken about in the public domain as a way of trying to prevent others from being caught out.
+
+Looking at the bigger picture, cybersecurity threats generally are increasing. There are several reasons for this, but they all come back to vulnerability and instability of the current global climate. The economic crisis can be pinpointed as a catalyst for these threats – when people are feeling the crunch, they may turn to other avenues to alleviate their financial burden. Of course, an economic crisis also creates the perfect environment for malicious actors (those carrying out cybersecurity attacks) to capitalise on people’s vulnerabilities. This is because when people are struggling financially, they are more likely to seek out and be responsive to online offers and deals. Other global circumstances that add to the volatility of the situation include severely impactful occurrences like the war in Ukraine, meaning people may be paying less attention to what is happening in their own back yard and in their online sphere.
+
+As a web pro, there are two main types of malvertising tactics to be aware of:
+
+The embedding of malware into ads on Google searches
+
+This is when malicious actors purchase Google ads for legitimate products and typically create a fake page that looks the same to get people to download malware. Only recently streamers downloading what they thought was a popular piece of software for YouTube and Twitch got caught out by a malicious actor who purchased an ad that exploited those visitors that innocently downloaded the software via the top ranking sponsored link, thinking it was genuine. What they didn’t realise is that as a result, a piece of very nasty malware was going through and pulling out personal data from users laptops, sending it through to a known IP and essentially destroying peoples’ online lives.
+
+This is dangerous because it’s all too easy to type something into Google and download the first result that comes up because it looks legitimate, and a user wouldn’t suspect it’s malicious.
+
+The other type of malvertising is more insidious and something that web content creators need to be aware of. When you are embedding adverts into a webpage, regardless of the advertising services you are using, you will typically create a box to generate revenue on a site and this will have adverts on it. On some advertising platforms you may be able to specify what services or what products you are allowing to be advertised on the site. Whether you are doing this or not, malicious actors can go onto these platforms, pay to have their adverts put into the stream and all of a sudden, your client is hosting content which pops up an advert, say for ‘Black Friday on Amazon’ for example.  Users then click on it thinking it’s legitimate and as a result they are redirected to a malicious website.
+
+It’s always a danger when you’re hosting content on a website that has content you have no control over. This applies to using software languages such as Java Script where you are pulling information from other places around the world and is a perfect example of a situation where you would have no control over what the advertising agency you’re using are sending out to your users on your website.
+
+So what can web developers and web content creators do to avoid these attacks? Well, it’s relatively simple but requires diligence and consistency.
+
+The key is when you are not in control of something, such as either hosting adverts on a site or people putting Google ad words up for a product, ensure you’re checking and monitoring the site for any external sources. This is crucial and will avoid any instances of your clients being contacted by their customers to let them know their website is causing them a problem.
+
+In terms of having control over the adverts your clients are hosting, whichever advertising agency they are using, it’s important to start being really clear as to which adverts are going to be hosted on the site.
+
+Finally, it’s important to remember malvertising is just one part of the supply chain of delivering malware to unsuspecting end users. It’s therefore crucial not to have a false sense of security and presume your clients are safe from all malware attacks because the main signs of malvertising are being looked out for on a regular basis.
+
+Clearly it’s a constantly evolving trend, so remember that there are many more malware tactics being used by malicious agents and the prevention tactics for malvertising are just part of a suite of wider tools and knowledge that web pros should be using to keep their client’s online presence secure.
+
+Dan Smale is Senior Service Owner, at Fasthosts. At Fasthosts, we’ve been designing new ways to give customers everything they need to manage and control their online space since 1999. Our innovative products have helped thousands of businesses and organisations create and grow their online ventures. More at www.fasthosts.co.uk/

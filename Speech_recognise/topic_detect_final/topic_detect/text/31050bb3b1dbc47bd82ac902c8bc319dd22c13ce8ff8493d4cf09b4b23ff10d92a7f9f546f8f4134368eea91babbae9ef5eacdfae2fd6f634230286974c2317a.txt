@@ -1,0 +1,21 @@
+Continuing its efforts to expand the Internet of Things (IoT) ecosystem and IoT use cases, Qualcomm Technologies announced new IoT solutions to enable the advancement of next-generation IoT devices: Qualcomm QCS8550, Qualcomm QCM8550, Qualcomm QCS4490 and Qualcomm QCM4490 Processors.
+
+The new and upgraded solutions offer a breadth of capabilities, advanced features, and versatility aimed to meet the needs of demanding industrial and commercial IoT applications. New use cases across the solutions support further expansion of the IoT ecosystems across key segments including video collaboration, cloud gaming, retail, and more.
+
+“Qualcomm Technologies is uniquely positioned to take the IoT ecosystem forward,” said Dev Singh, vice president, business development and head of building, enterprise & industrial automation, Qualcomm Technologies, Inc. “Our new solutions bring together the industry’s leading technologies across edge AI processing, innovative power efficiency, crystal-clear video, 5G connectivity, and more to fuel the next-generation of resilient, high-performing IoT applications.”
+
+The Qualcomm QCS8550 and QCM8550 Processors are designed for performance-intense IoT applications.
+
+The new Qualcomm QCS8550 and QCM8550 Processors combine maximum compute power, extreme edge AI processing, Wi-Fi 7 connectivity, and vivid graphics and video to enable and quickly deploy performance-heavy IoT applications, such as autonomous mobile robots and industrial drones.
+
+This premium offering is engineered with Qualcomm Technologies’ AI architecture optimized to deliver extreme processing power to a diverse range of business models and use cases. The Qualcomm QCS8550 and QCM8550 also feature robust video and graphics processing for enabling immersive cloud gaming, video collaboration, and video streaming experiences.
+
+The Qualcomm QCS4490 and QCM4490 Processors enable a new generation of industrial handheld devices.
+
+The Qualcomm QCS4490 and QCM4490 Processors deliver key advanced features such as premium connectivity and next-gen processing to industrial handheld and computing devices.
+
+The solutions are equipped with both 5G and Wi-Fi 6E for multi-gigabit speeds, extended range, and low latency, and powerful, efficient processing to handle complex computing tasks. The Qualcomm QCS4490 and QCM4490 Processors are designed with planned support for Android releases through version 18, meaning they can be used in industrial designs through 2030, providing flexibility and longevity for maximizing development time and cost savings.
+
+In addition to meeting the intense processing needs required by industrial handheld and computing devices, these mid-tier solutions are also ideal for other IoT applications that require low-latency connectivity, enhanced reliability, and an optimized development time including advanced retail and point of sale, as well as control and automation applications like security panels.
+
+With a suite of connectivity and processing capabilities, both the QCS4490 and QCM4490 Processors as well as the QCS8550 and QCM8550 Processors will create tremendous value for a range of industrial use cases, including through the all-new Qualcomm Aware™ Platform in the future.

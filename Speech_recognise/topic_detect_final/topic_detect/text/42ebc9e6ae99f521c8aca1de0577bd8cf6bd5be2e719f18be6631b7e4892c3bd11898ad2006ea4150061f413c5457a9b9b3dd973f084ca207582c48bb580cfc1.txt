@@ -1,0 +1,61 @@
+Most of us make basic cybersecurity errors every single day, an expert warns.
+
+These include knowing your password by heart, allowing junk mail to clutter your inbox and not using two-factor authentication.
+
+The threat of hackers and other bad actors in the cyberverse is large, with one in three homes with a computer estimated to have a device infected with malware.
+
+Overall, 47 percent of American adults have had their personal information exposed by cyber-criminals.
+
+This week the FBI smashed the world's biggest criminal online marketplace, where hackers were flogging bank, eBay, Amazon and Facebook log-ins for as little as 50 cents.
+
+Zane Bond, head of product at cybersecurity firm Keeper Security, warned that millions of Americans are making mistakes daily putting themselves and their information at risk. They are:
+
+If your password is easy enough to remember, it’s easy for cybercriminals to crack, Mr Bond warns.
+
+Bond also says that using one strong password across multiple accounts is 'setting yourself up for failure'.
+
+He says: 'The best way to ensure you have strong, unique passwords is through a password manager that can create and store them for you.
+
+'With a secure password manager, you only have to remember one master password and can rest assured your other passwords are too difficult for a cybercriminal to hack.'
+
+Cybercriminals rely on us making a mistake and clicking on the wrong link - so you should ensure you’re not inundated with promotions and marketing materials, the expert said.
+
+Unsubscribing from junk email (such as marketing emails you receive after buying something online) can help keep you safe, he says.
+
+Bond says: 'Unsubscribing every time you see the option will help prevent email overload.
+
+'Less junk cluttering your inbox means fewer opportunities for mistakes, and more time and energy available to keep an eye out for phishing attacks.’
+
+Users should also use built-in defenses to avoid clicking risky links.
+
+He says: 'Don’t click any link that you don’t have to. Instead, you should navigate to and open the website yourself through a browser.
+
+'You can also hover over the link to ensure it’s bringing you where it claims it is.'
+
+Most of us neglect to take basic security measures to protect our home Wi-Fi — such as setting up a separate 'guest' network.
+
+A guest network means that guests can’t accidentally introduce malware into your house — and can’t access your devices.
+
+It will show up as 'your network name — guest' and has a separate password, and is enabled from your router's menu.
+
+Bond says: 'Simple precautions you take to secure your home Wi-Fi network will help prevent cybercriminals from accessing your phones, tablets, computers and IoT devices.
+
+'You can secure your Wi-Fi network by ensuring it has a strong and unique password, setting up a separate guest Wi-Fi network, turning on your router's encryption, using a VPN, and keeping your router's software up to date.'
+
+One of the biggest cybersecurity mistakes we all make is failing to plan for death, Bond warns.
+
+When you die, your loved ones will need to access your information — and far too few of us bother to plan for it.
+
+Bond says: 'Two things are guaranteed in life: death and taxes. One we have to deal with, the other we try to avoid even thinking about.
+
+'Our lives are increasingly migrating to the digital realm, and we need to consider how our loved ones are going to access the information they need when we’re no longer here.
+
+‘The process involves taking a digital inventory of your online presence, assets and liabilities; designating a digital heir to receive your credentials and assets; and coming up with a plan such as storing credentials and personal documentation in a secure password manager that can be passed on to your digital heir.'
+
+Using two-factor authentication can make your accounts 99.9 percent more secure, Microsoft research shows.
+
+Two-factor authentication is offered by most online accounts (as well as a password, you are protected by requiring a code from an app or sent via SMS.
+
+Bond says: 'Add multi-factor authentication (MFA) where you can, starting with your most important accounts: email, social media, banks, crypto, etc.
+
+'You can also integrate MFA into a password manager's autofill feature, so the password manager takes that second step for you.'

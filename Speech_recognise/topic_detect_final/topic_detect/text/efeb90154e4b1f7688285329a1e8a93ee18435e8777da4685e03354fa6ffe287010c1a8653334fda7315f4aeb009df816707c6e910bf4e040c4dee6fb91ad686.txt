@@ -1,0 +1,3 @@
+Click here to read more >> https://www.prnewswire.com/news-releases/open-compute-project-foundation-expands-open-edge-ecosystem-301800318.html
+
+AWS Contributes New Edge Gateway Specification Establishing New Multi-vendor Edge Computing Supply Chain PRAGUE, April 19, 2023 /PRNewswire/ — Today, the Open Compute Project Foundation (OCP), the nonprofit organization bringing hyperscale innovations to all, announces that AWS has…

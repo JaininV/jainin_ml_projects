@@ -1,0 +1,15 @@
+As a front-end engineer, it’s important to ensure that the web applications and sites we build are accessible to all users, regardless of their abilities. Accessibility refers to the design and development of digital products that can be used by people with disabilities, such as visual, auditory, cognitive, or motor impairments. In this guide, we’ll discuss some of the key principles and best practices for designing accessible front-end applications.
+
+Semantic HTML refers to the use of HTML elements that convey meaning to assistive technologies (like screen readers). Using appropriate tags such as , , , , etc. helps to create a clear structure of the web page. This allows users with screen readers to navigate through the content more efficiently and makes it easier for them to understand the content.
+
+Not everyone can see images or videos, so it’s important to provide text alternatives to these media. Screen readers rely on the use of alternative text (alt text) to describe images and other visual elements on the page. Ensure that alt text is descriptive and conveys the same information as the visual content.
+
+Keyboard accessibility is crucial for users with motor disabilities who cannot use a mouse or touchpad. Ensure that all interactive elements on your web page, such as buttons, links, and form elements, are accessible using a keyboard. Use proper focus states on interactive elements and ensure that the tab order of the page is logical.
+
+Captions and transcripts are essential for users who are deaf or hard of hearing. Ensure that all audio and video content on the page is captioned or has a transcript available. This allows users to understand the content even if they cannot hear it.
+
+Designing for color contrast is important for users with visual impairments such as color blindness. Ensure that text and interactive elements have sufficient contrast with their background. Use tools such as the WebAIM contrast checker to ensure your colors meet the minimum standards.
+
+It’s important to test your web application with assistive technologies to ensure it’s accessible. Use screen readers and keyboard-only navigation to test your application. Ensure that all content and interactive elements are accessible using these technologies.
+
+Designing for accessibility is an essential part of front-end engineering. By following these basic principles and best practices, and doing more research for your own projects, you can ensure that your web application is accessible to all users, regardless of their abilities. When we design for accessibility, we create a more inclusive web for everyone!

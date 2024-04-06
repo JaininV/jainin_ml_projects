@@ -1,0 +1,67 @@
+LinkedIn offers a verification system that allows users to prove their identity and profession. It uses the CLEAR system to prove your identity. Meanwhile, the LinkedIn job verification uses your work email address and Microsoft’s Entra ID platform to obtain digital workplace IDs.
+
+Ankur Patel, head of product for Entra Verified ID, explained the new features in an email. “Our goal is to make it convenient and secure for users and organizations to build trust and authenticity online,” he said. As a result, LinkedIn job badges will help employees and job seekers establish rapport with potential clients.
+
+I will explain how you can get a LinkedIn job badge for your profile. Note that ID verification is only available to US users, and only a few companies offer LinkedIn verification. Then, I will share more ways you can improve your LinkedIn profile so that it can help your career further.
+
+You can verify your LinkedIn job using your corporate email, ID, and workplace verification. Let us start with the steps to verify your email on your desktop, Android, and iOS:
+
+Click on the Me tab at the top right of your screen.
+
+Click the More option at the top of your profile.
+
+Next, click the About this Profile option.
+
+Afterward, enter your email address for your company.
+
+Next, open your work email account to access your verification code. If you did not receive a code, choose the Resend code option.
+
+Input the code and click the Confirm button.
+
+Note that some companies do not offer this type of LinkedIn job verification. Also, you can verify your workplace if it uses the Entra Verified ID platform.
+
+Your LinkedIn profile will allow you to confirm your work at this organization if it does. Lastly, ID verification is available for US users with valid government-issued IDs and phone numbers.
+
+Head to your LinkedIn profile and head to the About this profile section.
+
+Next, choose the Suggested for you option to verify your choice: Workplace or Work Email verification. If you don’t see the prompts, click the Verify with CLEAR option.
+
+It will redirect you to a verification process using CLEAR. Enter your phone number or email, and then follow the on-screen instructions.
+
+Then, the online platform will ask you to photograph yourself.
+
+You may also need to take a picture of your government-issued ID.
+
+Afterward, click the “Yes, Share” option to share the verification with LinkedIn.
+
+The new LinkedIn job verification methods establish trustworthiness with potential employers and clients. However, you can improve your experience by becoming a LinkedIn power user.
+
+You can do that by customizing your profile’s URL into something more catchy or witty so that people easily remember it. Change yours by following these steps:
+
+Go to your profile page by clicking your photo. It will have the standard grey icon if you haven’t placed an image there yet.
+
+Look to the right of your profile page. You should see the option to change your URL at the top. Click on the pencil icon to edit it.
+
+Write the URL you want.
+
+Once you’ve decided, just click the Save button.
+
+You may also like: What Are The Jobs Safe From AI
+
+Then, place a good-looking profile picture. It should look like you, your face should fill the frame, and you should wear appropriate clothing.
+
+You should also have a concise and appealing headline and summary to leave a good first impression. Fortunately, LinkedIn uses ChatGPT to generate these texts.
+
+Connect with more people on the website to expand your reach. Moreover, publish content optimized for search engines so employers and clients can easily find you.
+
+LinkedIn offers more ways to confirm your profession and organization online. Nowadays, having a reputable online presence is important for building a career.
+
+A LinkedIn job verification badge alone will not boost your job goals. You must optimize other aspects of your profile to become more discoverable online.
+
+Do you want more handy tech tips? Head to Inquirer Tech for the latest updates regarding social media, artificial intelligence, cryptocurrency, and more.
+
+LinkedIn might ask you to verify your email address if you added an unconfirmed email address to your account. Also, it may remind you to confirm your email address if it received a bounced message notification from your email provider. That alert says, “A message wasn’t delivered due to a temporary system outage.”
+
+You may need to wait a few more minutes to receive the verification code. Otherwise, you may need to disable other apps blocking the verification code message. Adjust that by checking your phone’s Settings & Privacy under the Partners & Services settings. Also, you might need to turn on two-step verification on your LinkedIn account.
+
+LinkedIn usually takes two to five business days to verify your identity. However, that may vary depending on various factors. Also, check your LinkedIn account to see if it asks you to verify your identity. Once you do, choose your country, upload the required images, then click the Submit button.

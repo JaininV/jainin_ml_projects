@@ -1,0 +1,51 @@
+This article has been reviewed according to Science X's                                                      editorial process
+
+and policies.                                                     Editors have highlighted                                                     the following attributes while ensuring the content's credibility:
+
+This article has been reviewed according to Science X's                                                      editorial process
+
+and policies.                                                     Editors have highlighted                                                     the following attributes while ensuring the content's credibility:
+
+A new study shows promise for reducing risky drinking among Army National Guard members over the long term, potentially improving their health and readiness to serve.
+
+The number of days each month that Guard members said they had been binge-drinking dropped by up to half, according to the new findings by a University of Michigan team published in the journal Addiction.
+
+The drop happened over the course of a year among Guard members who did multiple brief online education sessions designed for members of the military, and among those who did an initial online education session followed by supportive phone calls every few months with veteran peers trained to talk about alcohol use.
+
+In addition to less binge drinking, the study also showed that both approaches led to lower scores on a scale that measures risky drinking habits. Those who got the peer phone calls over the year also had a reduction on a score that measures alcohol-related impacts on their lives. Those who were randomly assigned to receive no support beyond a pamphlet saw no decline by the end of the year on any of the measures.
+
+"This is the first study of its kind to show the effectiveness of a relatively inexpensive e-health intervention for hazardous alcohol use in a component of our nation's Army reserves," says Frederic Blow, Ph. D., lead author of the study and the director of the University of Michigan Addiction Center. "With risky drinking threatening the health and readiness of those who serve, we hope this approach could be useful in other National Guard units and beyond."
+
+The randomized controlled trial, called Mission Strong, grew out of previous work that showed the power of tailored education and peer support in reducing risking drinking among veterans who receive care at Veterans Affairs medical centers.
+
+The U-M team had also done a previous survey that showed that nearly a third of Michigan Army National Guard members who had deployed as part of their service showed signs of risky drinking. Other research has shown that National Guard members who have deployed have higher rates of risky drinking than active duty members of other branches of the military who have deployed.
+
+The Mission Strong study involved members of 41 Michigan Guard units who took surveys about their alcohol use during one of their monthly drill weekends. Of the 2,746 screened, 832 (30%) scored high enough to be considered to have hazardous alcohol use.
+
+"We're so grateful for the cooperation and ongoing engagement by the Michigan Army National Guard, which is working to improve the health and readiness of its members and made it possible for us to do a study that could help many other Guard units nationwide," says senior author Lara Coughlin, Ph. D., an addiction psychologist and researcher at U-M and Addiction Center member who also sees patients at U-M Addiction Treatment Services.
+
+The 739 Guard members who agreed to be randomly assigned to one of the three groups had an average age of 28, and 16% were women. While the majority were white and not of Hispanic backgrounds, 12% were Hispanic and 10% were Black. Just over 10% used cannabis despite the fact that it is against National Guard policy and was not generally legal in Michigan at the time of the study.
+
+On mental health surveys, 10% reported they had had thoughts of suicide, 19% had moderate to severe depression, and nearly 5% had a score high enough to qualify for a diagnosis of post-traumatic stress disorder.
+
+The study focused on National Guard members because of the unique nature of their service as citizen soldiers, who live in the community and work or study most of the time but drill regularly and are available to be called up for service to the state or nation.
+
+Among those in the study, 84% were employed full or part time, and 49% had ever been deployed as part of their Guard service. Just over half had an enlisted rank of private or corporal, with most of the rest having higher enlisted ranks; 6% were officers.
+
+By the end of a year, 550 of them had completed all three follow-up surveys, including 142 who had taken part in three phone calls from peers, 120 who had completed three follow-up web-based sessions, and the remainder who had only received the information pamphlet at the drill weekend and completed three follow-up surveys. All received a small amount of money for participating, to compensate them for their time.
+
+Binge-drinking was defined as six or more drinks in one sitting by men, and four or more by women. Their overall hazardous alcohol use level was measured using the AUDIT scale and the consequences of their drinking habits in their lives—from relationships and finances to risk-taking and accidents—was measured using the SIP survey.
+
+At the start of the study, participants reported binge-drinking four to five days a month. By the end, those in the peer-support group had gone from 5.2 days to 2.6 days on average, while those in the online education only group had gone from 4.2 days to 2.8 days on average. Those in the third group were still binge-drinking 4 days a month by the end of the study period.
+
+On the AUDIT scale of risky drinking, those who received the peer calls had a 3.6-point reduction over the course of the year on average, while those who received online-only contacts had a nearly three-point drop—both considered significantly larger than the two-point drop among those who only received a pamphlet and follow-up surveys. At the start of the study, the average score for all three groups was above 9, indicating hazardous drinking; by the end the average score for the two groups that received the tailored online education had dropped below the hazardous threshold while the group that received no online education was still at hazardous levels.
+
+On the SIP scale of the impacts of alcohol on a person's life, those who received peer calls were the only ones to have a significant change from the start of the study to the end.
+
+In addition to Coughlin, who is an assistant professor of psychiatry, and Blow, who is a professor of psychiatry in the U-M Medical School, the study's authors are Maureen Walton, Ph. D., Mark Ilgen, Ph.D., and Kristen Barry, Ph.D. of the Addiction Center and Department of Psychiatry; Heather Walters of VA Ann Arbor Healthcare System; Lynn Massey of the U-M Injury Prevention Center; statistician Rosalinda Ignacio of the U-M School of Public Health; and Richard McCormick, Ph.D., of Case Western Reserve University.
+
+More information:
+
+Frederic C. Blow et al, Peer‐ and web‐based interventions for risky drinking among US National Guard members: Mission Strong randomized controlled trial, Addiction (2023).  DOI: 10.1111/add.16172
+
+Details about the Mission Strong study are available via its listing on Clinicaltrials.gov (NCT02181283)

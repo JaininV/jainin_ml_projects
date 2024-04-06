@@ -1,0 +1,9 @@
+Solana has come out with an analysis report regarding the disruption that took place when various services on the network operating custom block forwarding software transmitted more data than was normal. This occurrence took place on Feb 25, 2023. It began with the Solana Mainnet Beta cluster witnessing a lengthy finalization time.
+
+It was at first presumed to be clogging inside of the primary block propagation protocol, otherwise called the Turbine. An unprecedented amount of traffic had filled the Turbine, resulting in a major number of block data being compelled to be transmitted over the slow fallback Block Repair protocol.
+
+After much trial and error, the team was able to narrow down the real reason. The irregular Turbine traffic that was blocking forwarding services was disrupted when faced with the unusually big block. This big block got the better of the validator deduplication filters. The resultant factor was that the data contained in the big block was being reforwarded over and over again amongst the validators. The entire situation got aggravated by the production of the new blocks, and the protocol finally got overcrowded.
+
+Once the problem was properly identified, the core engineers got down to making suitable alterations to the deduplication filter so that it fits in with a method that overcrowds along a logistic curve. The new filter comes with a different set of properties than the previous one. Along with that, the holding ability of the deduplication filter has been increased, paving the way for a greater number of unique components before overcrowding takes place.
+
+The new version of the deduplication filter is now parallelizable, providing effective throwing out of duplicates, and no bottlenecks happen by ordering restrictions on its components. The engineers are also using the help of shred forwarding service providers for carrying out enhancements on the overall resilience, as well as the adaptability of the designs.

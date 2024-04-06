@@ -1,0 +1,27 @@
+MetaMask, a leading Web3 wallet provider, is currently embroiled in a dispute over claims that its wallet was exploited in a massive “wallet-draining operation” — resulting in the disappearance of over 5,000 Ethereum (
+
+As
+
+by CryptoSlate on April 18, these allegations surfaced after Taylor Monahan — a MetaMask developer and founder of MyCrypto — took to Twitter to report the loss of $10.5 million in crypto and nonfungible tokens (NFTs) since December 2022.
+
+However, MetaMask has strongly denied the claims through a series of
+
+— stating that their platform has not been exploited in any way.
+
+“Recent reporting on [Monahan’s] thread has incorrectly claimed that a massive wallet draining operation is as a result of a MetaMask exploit. This is incorrect. This is not a MetaMask-specific exploit.”
+
+According to MetaMask, the funds were siphoned from different addresses across 11 blockchains and denied that their wallet was compromised in any way.
+
+In a series of tweets, the wallet provider confirmed that they were collaborating with others in the Web3 space to identify the root cause of the exploit.
+
+According to Monahan, it is unclear how the exploit was carried out but she speculated the attacker may have obtained a large amount of old data that was used to exploit the funds.
+
+Initially, she claimed that the attacker was targeting long-time MetaMask users and employees by exploiting a vulnerability in the MetaMask platform. However, Monahan later clarified that the exploit is not specific to MetaMask and that users of all wallets — including those created on a hardware wallet — had been affected.
+
+The cryptocurrency industry is no stranger to hacks, rug-pulls, and exploits of various kinds. Unfortunately, 2023 has been a particularly difficult year for several DeFi protocols, including  ,  ,   and  . All of these platforms have experienced significant losses due to various exploits, adding to the   in the industry.
+
+The post
+
+appeared first on
+
+Ethereum Hard-Fork—PulseChain Raises $26M+ In First 5 Days of Launch

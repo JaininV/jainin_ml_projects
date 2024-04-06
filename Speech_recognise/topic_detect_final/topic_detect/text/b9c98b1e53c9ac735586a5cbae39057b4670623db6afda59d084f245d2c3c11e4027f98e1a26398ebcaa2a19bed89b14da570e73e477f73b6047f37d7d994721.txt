@@ -1,0 +1,83 @@
+Your smartphone is not listening to you around the clock — but it's collecting so much information that it does not even need to.
+
+It has long been speculated that Apple, Google, Samsung and other popular phone makers are recording users 24/7 to collect information for advertising purposes.
+
+Most of us have seemingly randomly been promoted an advert for a product that we could have sworn was only talked about in private.
+
+To test this, we set up a freshly-factory-reset Samsung phone, using a new Google account on the Android device.
+
+We created a fictitious person named Robin, 22, and made a fake a Facebook account for him to use.
+
+After spending several days trying to bait the device into giving us ads for European vacations and floor sealant, the device would not react to our buzzwords.
+
+Jordan Schroeder, who manages network security at Barrier Networks, told DailyMail.com that these devices would not even need to record you, as they collect all the information they need via other means anyways.
+
+After two days of saying the names of products near the phone — without typing them in or entering them through the device's voice assistant, it was clear it was not recording me to use for advertising.
+
+Despite my attempts, I could not generate advertisements for vacations or home improvement goods.
+
+This is because the costs of secretly recording millions of people to hear what they are talking about would be enormous, Mr Schroeder said.
+
+The data would also be worthless, he added — particularly with the huge amount that companies such as Google already know about you.
+
+But Mr Schroeder said that voice assistants on phones have made the matter more complex - as they are constantly listening, so they can hear the 'wake words' such as 'OK Google' or 'Hey Siri.'
+
+He went on to say: 'Yes, Google, Apple, and Amazon listen to you all the time if you have the virtual assistant enabled to listen to 'keywords'.
+
+'Samples of sounds are regularly sent to their servers for analysis to improve their algorithms. And sometimes these samples go to people first to better classify the sounds before sending them to an algorithm for analysis.'
+
+But Google, Apple and Amazon deleted these samples (although there was an incident in 2019 where 1,000 private conversations leaked).
+
+Google is very transparent about its 'surveillance capitalism' - offering a page where you can see everything it is logging about you (we tested with a Google account on an Android phone, both made by Google).
+
+Your page can be accessed here, and signing in with your Google account shows you what the search giant knows about you.
+
+Collected data includes what you do in apps that use Google advertising, YouTube videos watched, searches performed, what you click on and what you say to Google's voice assistance feature.
+
+On that page, there is no sign of recording from the phone's microphone.
+
+But the huge amount of other data from apps, the phone and PC highlights just how much Google (and other companies such as Facebook) can know about you.
+
+In his book The Industries of the Future, Alec Ross suggests that companies trade 75,000 data points on each American consumer - but this is probably now a gross underestimate, as the book was written in 2016.
+
+So after several days of saying things in front of the phone, there are no personalized adverts anywhere in 'Robin's' internet experience (we tested by visiting web pages with adverts).
+
+That changes as soon as 'Robin' searches for 'luxury car' and 'expensive bed' using Google voice assistant and Google search.
+
+From that point on, adverts for bed companies and expensive cars appear everywhere.
+
+With a few more searches, Google has created a page with brands 'Robin' might be interested in.
+
+You can see yours here. It's worth noting you can customize this, switching off app tracking, website tracking - or even switching off personalized adverts altogether.
+
+The real risk comes from rogue apps which users might have downloaded, Schroeder said.
+
+He said: 'Phones have implemented controls to prevent apps from accessing microphones and cameras. They need to ask the user for permission first.
+
+'But there's the problem. This permission is asked for on download, and maybe for legitimate reasons, but any subsequent use of the mic could be for any reason.'
+
+Phone companies have implemented measures to stop such 'rogue' apps, Schroeder said, such as removing permissions from apps that have not been used in a while.
+
+He said: 'A determined app maker would still get windows of time to do what they wanted with the permissions they were granted.'
+
+Even then, it's unlikely any app maker would try and record the general public - and it's much more likely that such 'rogue' apps would be used in targeted attacks against individuals.
+
+He said, 'Recording and sending all that recorded audio from millions and millions of arbitrary people is not a trivial task and the costs are high to do so.
+
+'Considering much of the information would be completely useless to anyone, it is very unlikely that someone would make or modify an app to blanketly record audio from the publics' phones and all the other devices that everyone is slowly gathering.
+
+'The real risk is when individuals are targeted for a specific purpose.
+
+When there is value of knowing everything that an individual is doing, then this type of targeted surveillance makes more economic and technical sense.
+
+Pegasus spyware - which can listen to calls, track location and 'watch' app activity - was used to target human rights activists, journalists and politicians in several countries.
+
+Mr Schroeder said, 'If someone is a government employee or a member of the military, then the risks of being personally targeted are much higher too.
+
+But that is why governments and militaries have strict cybersecurity controls on how devices should be configured and what kind of use is acceptable on a personal device.'
+
+He said that the broader issue is around how much data is being collected on all of us - from where we go, to the buttons we press in apps, to what we say to personal assistants.
+
+By 2025, IDC forecasts that the world will generate 175 zettabytes of data (1,000,000,000,000,000,000,000 bytes).
+
+The danger of this is not to individuals - but to society as a whole, Schroeder said.

@@ -1,0 +1,41 @@
+Babbel is the world’s first and most sold online language learning platform, driven by the purpose to create mutual understanding through language. This means building an ecosystem of language learning offerings that helps people connect across cultures. Babbel, Babbel Live and Babbel for Business provide users with the most effective solution to be able to communicate with real people, in real situations.  Babbel’s team consists of 750 Babbelonians representing over 65 different nationalities working in Berlin and New York.
+
+For more information, visit www.babbel.com or download the apps in the App Store or Play Store.
+
+We are looking for a Senior Machine Learning Engineer for our Data Solutions team
+
+You will join a team of data scientists, machine learning specialists and data engineers building new product personalisation features driven by data and machine learning. Your work will deepen our understanding of our learners, and your code accelerates our journey into machine learning, impacting millions of language learners across the globe.
+
+* build and deploy models that power our personalisation solutions
+
+* collaborate with to cross-team systems and guidelines for model deployment
+
+* accelerate our journey into machine learning, impacting millions of language learners across the globe
+
+* Computer science or related engineering degree and 5 years of professional experience as machine learning engineer or data scientist focused on machine learning
+
+* Experience transforming data science prototypes into production-ready solutions with a  commitment to engineering best practices.
+
+* MLOps pipelines on the cloud from data gathering and transformation to model training, validation, benchmarking, and monitoring.
+
+* AWS services, operations and architecture, especially with respect to data heavy applications.
+
+* data modeling skills, and an eye for what the data means in a business and product context.
+
+* Exposure to big data solutions such as Snowflake, Databricks and Apache Flink
+
+Some perks of becoming a Babbelonian:
+
+* Enjoy 30 vacation days and the chance to take a 3-month Sabbatical. Plus family and life situation counseling.
+
+* Decide how, when and from where you want to work with our flexible working hours and remote friendly options as Jobbatical (up to 3 months inside the EU) or work from our fully equipped office with nap, faith and family rooms.
+
+* Learn and grow with the internal learning opportunities, and use a yearly learning & development budget for external training. Learn languages with Babbel for free with your full access to Babbel & Babbel Live classes.
+
+* Take advantage of your mobility benefits options and a discounted Urban Sports Club membership.
+
+* Be part of our employee communities (such as Femgineers, DE&I Ambassadors and LGBTQIA groups), attend cultural and regular social events.
+
+As part of our ongoing journey towards building a diverse, equitable and inclusive company, we welcome everyone to apply, especially those individuals who are underrepresented in tech. We are a learning company, inside and out, and we encourage you to apply even if you do not fit all the technical requirements - all candidates are assessed based on skills, qualifications and on our business needs. Please state your pronouns at the beginning of your application, and let us know if you’d like to be addressed by a name other than the one appearing on your official documents. If you have a disability or special need, feel welcome to inform us, so that we can provide you with the proper assistance in the application process.
+
+Sounds good? We are already looking forward to hearing from you! Check out our jobs page, our blog, and our techblog!

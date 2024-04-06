@@ -1,0 +1,51 @@
+SingleStore is steadily improving its high availability (HA)  and disaster recovery (DR) features. The design of primary partitions and their corresponding secondary partitions on leaf nodes provided HA, while the replications configured on a remote cluster support DR. SingleStoreDB Self-Managed 7.0 marked a major milestone with the introduction of fast synchronous replication. This makes it much more practical to use high availability (HA) with SingleStore, as you can easily keep a live copy of your database contents in the cluster.
+
+In this release, SingleStoreDB Self-Managed 7.1, we are adding a much-requested feature, fast disaster recovery failback (also known as simply DR failback). Our next release, SingleStoreDB Self-Managed 7.5, later in 2020, will add another much-requested feature, point-in-time restore.
+
+In this blog post I will describe how DR failback has worked in the past and the important improvements in this new release, SingleStoreDB Self-Managed 7.1. We believe that you will find the new DR failback feature to be robust and highly useful.
+
+Improvements in Replication for Failback
+
+The point of DR is that you can quickly switch processing away from your primary cluster, if it fails or needs to be upgraded, and onto your secondary. In most scenarios, you will then want to fix your primary database, switch operations back to it, and return to using the copy that you had failed over to as your secondary: DR failback.
+
+In previous releases of SingleStore, switching back to the original primary required you to halt operations, restore the original primary fully from the now-live backup site – a slow process – and only then resume operations. The length of the process, and resulting downtime, was a big problem, even preventing some sites from failing back.
+
+Now, in SingleStoreDB Self-Managed 7.1, you can bring the primary up-to-date with the backup by restoring only the changes that have occurred since the original failure (the “disaster” in the term “disaster recovery”). This is usually much, much faster than a full restore, and greatly improves the recovery time objective (RTO), sharply reducing downtime and minimizing the risk of additional problems. With fast DR failback you can reverse a replication relationship in minutes, instead of hours or even days.
+
+You may recognize that this improvement is also a significant step toward point-in-time restore (PITR), planned for the next major release of SingleStore.
+
+Using the REPLICATE Statement for Fast Failback
+
+The REPLICATE statement allows users to create a replica database from a primary database that resides in a different region. In previous releases of SingleStore, this replication was always a full replication. Just as it’s been with previous releases, the user can still pause and resume the replication as needed. But the full replication from scratch is not usually necessary, and takes a long time. We can do better.
+
+SingleStoreDB Self-Managed 7.1 delivers a new capability to replicate only the differences between the secondary and the primary, instead of requiring full replication. This improves the customer’s recovery time objective (RTO) by a great deal. We will describe the commands here, and then walk you through the correct steps to use for a couple of real-life scenarios: restoring to the original database site after a failover, and handling upgrades to hardware and/or software, with the upgrades implemented one cluster at a time.
+
+The following commands are used:
+
+`REPLICATE DATABASE db_name [WITH{SYNC | ASYNC} DURABILITY] FROM master_user[:'master_password']@master_host[:master_port][/master_db_name];`
+
+This is the version of replicate which SingleStore has had for a long time. In this version, you create a new replication relationship from the primary cluster/database to a secondary cluster/database. A new database, db_name, is created, and the system replicates master_db_name from scratch, in full, to new_db.
+
+`REPLICATE DATABASE db_name WITH FORCE DIFFERENTIAL FROM master_user[:'master_password']@master_host[:master_port][/master_db_name];`
+
+This is the new version of REPLICATE which is now available in SingleStoreDB Self-Managed 7.1. In this version, you create a new replication relationship from the primary cluster/database to a secondary cluster/database. (Note that the secondary database db_name should already exist for this command to work.) The system replicates master_db_name to db_name by replicating only the differences between the two.
+
+Note: For simplicity, in the rest of this blog post, we use a database name in place of the complex user, password, and host string used in 1. and 2. above.
+
+`FLUSH TABLES WITH READ ONLY;`
+
+This is also a new feature in SingleStoreDB Self-Managed 7.1. This command marks databases read-only. Similar to its cousin, FLUSH TABLES WITH READ LOCK, the system allows read-only transactions to go through and flushes out already-started write transactions. Instead of queueing new WRITE transactions, the READ-ONLY command fails new WRITE transactions. This syntax is used to stop any new changes on the primary cluster so the secondary cluster has a chance to catch up before a DR failback.
+
+`UNLOCK TABLES;`
+
+This is an existing syntax for opening up the current database for reads and writes.
+
+`STOP REPLICATING db_name;`
+
+This is an existing syntax for stopping a DR replication relationship. Only after this command is run on a secondary cluster/db can it become a primary cluster/db to accept writes.
+
+Scenario 1: The Original Primary Cluster Goes Down, then Comes Back Later
+
+This is the classic DR failback scenario. The primary cluster goes down, and processing switches to the secondary. Then the primary cluster comes back up, and you want to switch processing from the secondary back to the primary, as quickly as possible. This is much quicker with the new WITH FORCE DIFFERENTIAL option for the REPLICATE command.
+
+1. DB1 is serving the traffic and DB2 is replicating from DB1.

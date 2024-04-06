@@ -1,0 +1,23 @@
+I was recently required to use SharePoint Management shell to run some O365 PowerShell commands. But as soon as I run the SharePoint Management shell in administrative mode, I received the below error:
+
+Could not load type 'Microsoft. SharePoint.Client.Publishing.PortalLaunch.PortalLaunchRedirectionType' from assembly 'Microsoft.SharePoint.Client.Publishing, Version=16.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c'.
+
+I have gone through many links that tell me to uninstall the assembly and reinstall, but I didn’t find the exact step-by-step guide. So, I am writing this blog to provide a step-by-step guide in case someone else might face such an issue.
+
+The reason for this error is conflicts between different versions of Sharepoint Online SDKs (SharePoint Client Components, SharePoint Online Management Shell). So correct way to solve this problem is the following:
+
+Go to Control Panel > Programs and Features and uninstall all instances of SharePoint Online Management Shell and SharePoint Client Components
+
+Open the PowerShell console and uninstall existing versions of Microsoft. Online.SharePoint.PowerShell module:
+
+Uninstall-Module -Name Microsoft.Online.SharePoint.PowerShell -AllVersions
+
+After that, close PowerShell, open a new session and install the latest version of Microsoft.Online.SharePoint.PowerShell module:
+
+Import-Module -Name Microsoft.Online.SharePoint.PowerShell -Force
+
+Install the SharePoint Online Management Shell latest version from the below link:
+
+https://www.microsoft.com/en-in/download/details.aspx?id=35588
+
+When you start the SharePoint Online Management Shell as administrator, you will not face the error.

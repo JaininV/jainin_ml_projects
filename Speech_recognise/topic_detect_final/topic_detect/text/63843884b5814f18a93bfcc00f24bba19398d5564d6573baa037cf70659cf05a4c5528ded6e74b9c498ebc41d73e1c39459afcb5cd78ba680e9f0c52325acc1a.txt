@@ -1,0 +1,27 @@
+In recent years, man-portable anti-aircraft systems (MANPADS), particularly the FIM-92 Stinger, have gained prominence. The Stinger has a long history of service in various wars worldwide, beginning with its predecessor, the FIM-43 Redeye, which was the primary man-portable anti-aircraft system for the United States in 1967.
+
+General Dynamics began developing an improved version of the Redeye in 1971, which was accepted by the Army as the Redeye II and later designated as the FIM-92 Stinger.
+
+One significant drawback of the Redeye was that it could only “lock” onto a target if it had direct visibility with the engine exit (rear-aspect), as it shared a searcher with the AIM-9B.
+
+This limitation was overcome in the Stinger, allowing the operator to “lock” onto the target from all directions (all-aspect).
+
+* FIM-92B (POST): The first system upgrade with countermeasure improvements.
+
+* FIM-92C (RMP): Further resistance to countermeasures, as well as reprogrammability of its electronics.
+
+* FIM-92E (RMP Block I): Improved flight behavior thanks to hardware and software upgrades while improving its performance against small targets.FIM-92H (RMP Block I): An upgrade of version D to the E level.
+
+* FIM-92H (RMP Block I): An upgrade of version D to the E level.
+
+* FIM-92J: A version with new subsystems to upgrade Block I RMPs and extend their life.FIM-92K: A version of the FIM-92J with datalink integration.
+
+* FIM-92K: A version of the FIM-92J with datalink integration.
+
+* ATAS (Air-To-Air Stinger): An air-to-air version of the system. Block 0 is based on the FIM-92B/C, Block 1 is based on the FIM-92E, and Block 2 uses the RMP missiles with a new seeker, battery, and other electronics.
+
+The Stinger comprises three primary components: the missile, the launcher, and the canister that houses the missile.
+
+The missile itself consists of three parts: the guidance system (seeker, battery, control surfaces), the warhead, and the engine. The launcher holds the AN/PPX-3 IFF system and other electronic equipment.
+
+In conclusion, the FIM-92 Stinger is an essential component of modern anti-aircraft warfare, with a long history of service and a range of versions and upgrades to suit various military needs.

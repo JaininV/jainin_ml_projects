@@ -1,0 +1,69 @@
+As a leading financial technology platform, OppFi powers banks to bring credit access to millions of everyday consumers who are locked out of mainstream financial options. We go beyond our mission - to help people rebuild financial health - and further ensure we keep the customer at the center of everything we do. We are creating a Customer-obsessed culture with the capital "C".
+
+And it starts with our team here. We are a team of caring, innovative, and inclusive individuals who thrive in being immersed in diverse talents, expertise, perspectives, and backgrounds. Our employees approach every new challenge with an unparalleled ability to see what could be rather than settle for what is. We welcome individuals who want to make a difference in the financial system by creating and building simple, transparent products that facilitate credit access, enable savings, and build wealth.
+
+A few other fun facts about us. OppFi has been an Inc. 5000 company for six straight years, a Deloitte's Technology Fast 500™, the seventh fastest-growing Chicagoland company by Crain's Chicago Business, and was named on Built In's 2022 Best Places to Work in Chicago.
+
+We are looking for a motivated, and service-oriented Senior Security Engineer I with hands-on knowledge of AWS, cloud architecture, and security best practices to join our expanding Information Security team. You will work directly with OppFi internal teams to ensure overall environment security, visibility, and compliance measures are adhered to and enforced. You will evaluate existing technical capabilities and systems,  and identify opportunities for improvements while maintaining standard operating procedures and protocols to ensure Security Operations continues to meet operational requirements.
+
+What you'll get to do:
+
+* Balance the needs of delivering technical security assurance while still allowing development and operations teams to move quickly
+
+* Conduct cloud and on-prem vulnerability assessments, analyzing vulnerabilities, determining severity, and recommending paths for eliminating or mitigating security gaps
+
+* Act as a technical incident point person in the event of a security incident. Triage, investigate and respond to potential incidents.
+
+* Work with Engineering and IT teams to ensure that programmatically-deployed infrastructure is built following OppFi’s security principles
+
+* Ensure the proper security controls are deployed within our cloud environments to address confidentiality, integrity, and availability of these services
+
+* Help with the identification and evaluation of security gaps, and translate them into functional specifications to implement
+
+* Maintain a current understanding of the security threat landscape. Research and review new technologies and trends
+
+What you'll bring to the team:
+
+* Strong attention to detail with an analytical mind and outstanding problem-solving skills
+
+* Solid Understanding of Incident response process and procedures including in the cloud
+
+* Ability to work under pressure in a fast-paced environment
+
+* Expert knowledge of AWS, Azure cloud infrastructure and IT infrastructures
+
+* Able to automate/script daily tasks using Python, Bash or equivalent
+
+* Experience working in a containerized environment is a plus (AWS ECS, EKS, Fargate)
+
+* Experience with AWS SSO, and IDP configurations in AWS
+
+* Has worked with identity and access management solutions such as PingOne, OneLogin, OKTA, and others
+
+* Experience with security and risk management practices and security frameworks (FFIEC, NIST, ISO, CIS Benchmarks, SOC2)
+
+The minimum salary based on qualifications and experience is $144,000. The total compensation package includes eligibility for performance-based bonuses as well as a 1-time equity grant based on level.
+
+The actual offer, reflecting the total compensation package and benefits, will be at the company’s sole discretion, and determined by a myriad of factors including, but not limited to, years of experience, depth of experience, and other relevant business considerations.
+
+OppFi is committed to providing an exceptional employee experience from Day 1. Key new hire programs include Day 1 Orientation, training with your manager and team, lunches with our CEO and President, and an educational summit featuring presentations by our senior leaders. Throughout and beyond your first-year journey, you'll have access to a variety of events focused on culture, inclusion, connection, and education. We want you to feel welcomed, informed, and valued for who you are and what you bring to our company.
+
+* Day 1 - Month 3: Define Your Mission
+
+You’ll understand our company mission, values, and vision, and how your position at OppFi plays a part in that. With the help of your manager, you’ll set mission-aligned goals to make an impact in your role.
+
+* Months 3 - 6: Define Your Belonging
+
+You’ll understand OppFi’s culture and know how to engage with and influence that culture.
+
+* Months 6 - 12: Define Your Journey
+
+You’ll feel confident in your ability to execute in your role and empowered to take next steps in developing your career at OppFi.
+
+OppFi offers a flexible remote environment, 401(k) matching program, and flexible paid vacation. Other benefits include medical benefits, dental and vision coverage, and tuition reimbursement. To support your wellness & growth, we provide monthly meditation and yoga classes and access to all LinkedIn Learning courses. We also offer Fringe, which is a lifestyle benefits platform that lets you decide how you want to spend your rewards from dozens of vendors like Uber, Doordash, and Urban Sitter. Dress code is casual. #LI-Remote
+
+OppFi is an equal opportunity employer and does not discriminate based on any actual or perceived legally recognized protected bases under local, state, or federal law or regulations. Our goal as a company is to build an equitable workplace that actively works to dismantle systems of oppression in our processes, procedures, and interactions. We aim to help our employees thrive where they work and beyond. Check out our Culture page here.
+
+OppFi is committed to the full inclusion of all qualified individuals. As part of this commitment, OppFi will ensure that persons with disabilities are provided reasonable accommodations. If reasonable accommodation is needed to participate in the job application or interview process, to perform essential job functions, and/or to receive other benefits and privileges of employment, please contact our People team at recruiting@oppfi.com.
+
+Pursuant to the requirements of the California Consumer Privacy Act, OppFi is providing the "OppFi California Employee Privacy Policy", which details the categories of personal information collected and your rights under the policy. If you are a California resident, please review the policy here: https://www.oppfi.com/careers/

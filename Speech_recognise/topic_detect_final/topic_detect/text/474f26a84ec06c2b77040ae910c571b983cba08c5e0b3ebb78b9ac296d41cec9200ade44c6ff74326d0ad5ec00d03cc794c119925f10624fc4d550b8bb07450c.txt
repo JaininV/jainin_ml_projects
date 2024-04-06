@@ -1,0 +1,29 @@
+Intel announced the end of first-gen Blockscale 1000-series Bitcoin-mining ASICs on April 18, despite the chips contributing both efficiency and a rise in revenue in 2022 — up from 2021.
+
+The announcement — initially reported by Tom’s Hardware — cited “a tighter focus on its IDM 2.0 operations” as the rationale behind the decision to discontinue the chips.
+
+However, the chip was part of the Accelerated Computing Systems and Graphics Group (AXG) revenue segment — which registered a $63 million increase in 2022 in comparison to 2021.
+
+Intel annual report: AXG Revenue $B
+
+Intel Blockscale 1000-series chips were deployed by at least one public Bitcoin (BTC) mining company through 2022 and shown to be both efficient and profitable.
+
+In December 2022, Canadian Bitcoin mining firm Hive Blockchain mined a total of 213.8 BTC — worth $3.15 million — utilizing Intel Bitcoin-mining ASICs to do so.
+
+However, despite the improvement in efficiency and profitability offered by Intel’s Blockscale 1000-series chips, Intel operating income costs Year-on-Year (YOY) increased almost 50% to $1.7 billion in 2022, from $1.2 billion in 2021.
+
+Intel annual report: AXG Operating Income (Loss) $B
+
+These operating costs were “due to increased inventory reserves taken and investments” in Intel’s product roadmap, according to the company’s annual report.
+
+Committing to “delivering five technology nodes in four years” in 2022 — one of which was the first Intel Blockscale ASIC — Intel sought to accelerate its IDM 2.0 strategy by “investing in manufacturing capacity around the world.”
+
+Intel noted that its 2022 results were “impacted by an uncertain macroeconomic environment arising from inflation, the war in Ukraine, and COVID-19 shutdowns in [its] supply chain in China.”
+
+Intel’s reasoning behind the discontinuation of its Bitcoin-mining chips is supported by the extra $500M in operating costs YoY in 2022 — lending further rationale to the finality of the company’s decision.
+
+On the subject of the IDM 2.0 strategy, the firm said:
+
+“Though we aggressively adjusted capital investments in 2022 to respond to changing business conditions, we still made significant investments in support of our IDM 2.0 strategy during the year.”
+
+The post Intel Bitcoin mining chips discontinued despite chip efficiency, $63M revenue boost in 2022 appeared first on CryptoSlate.

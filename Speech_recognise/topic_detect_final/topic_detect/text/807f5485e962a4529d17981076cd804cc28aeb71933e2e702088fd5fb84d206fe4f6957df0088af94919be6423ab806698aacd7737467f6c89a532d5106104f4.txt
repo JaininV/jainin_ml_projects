@@ -1,0 +1,3 @@
+If you are a beginner to Jetpack Compose and interested in learning Kotlin, this article will be a guide for you.
+
+Appbar is an essential UI component in mobile app development. It will display details and actions relevant to the current screen. In Jetpack compose we have a TopAppBar component to create a simple Material appbar.

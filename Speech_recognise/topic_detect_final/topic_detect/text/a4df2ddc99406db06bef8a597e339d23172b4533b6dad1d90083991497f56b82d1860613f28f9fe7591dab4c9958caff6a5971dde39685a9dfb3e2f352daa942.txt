@@ -1,0 +1,87 @@
+We are happy to announce the general availability of VMware Cloud Provider Lifecycle Manager (VCPLCM) version 1.5 as on 18th April 2023.
+
+VMware helps services providers to keep up with the pace of innovations that allows them to offer the latest and greatest tools to their tenants to help their businesses. This is easy said than done. Service providers need to also focus on deployments, upgrades, and configuration of product stack to deliver seamless services and meet SLAs. Operations like, upgrades, deployment and overall management becomes an overhead that impedes time and innovation.
+
+With this version of VCPLCM, we have introduced many features which are beneficial to the providers both in terms of management and notification regarding the existing environment. We have delivered improvements and refinements that enable improved operational experience and quick process times, thereby allowing partners to focus on delivering innovative differentiation and seamless services to their tenants and deliver improved SLAs with faster time to market.
+
+With version 1.4 (that was announced in October 2022) we delivered GUI enhancements, extended trouble shooting and parallel task handling capabilities. Building on the same, we have delivered features that provide an enhanced user experience with simplified operations.
+
+We have focused more on offering vital improvements that allows partners to experience a refined and enhanced operational toolset.
+
+* First, we have enabled the Auto registration of VMware Usage Meter on the Commerce Portal, meaning, users can now start metering their VMware products right from the deployment that eases the providers to register their appliances separately.
+
+* Next, we have introduced notifications for tasks. Users can now either see the status right from the GUI as before or can set up a notification email that can free the users from frequently checking in.
+
+* Task Execution enhancements – This is another major feature that has been added. Should there be any failures while upgrading, the users now have the option to Roll-back or resume their upgrades from a “check point” reducing the effort and time for upgrades.
+
+* The Restart option has been introduced in the UI that helps users to Restart the product deployment and register datacenter component in case it fails. Barring the need to input the details again.
+
+Isn’t this great? I am sure you want to know more, let’s talk about these in detail.
+
+Below are the key features which are features which are included with version 1.5.
+
+Deployment & Management of Usage Meter and configuring collectors is one of the features of VCPLCM. We have gone beyond just that and have included auto-registration along with deployment.
+
+When deploying the Usage Meter, you will be able to register that with the VMware Commerce portal.
+
+Below are the steps you need to follow to register Usage Meter with the VMware Commerce portal using VCPLCM.
+
+While deploying Usage Meter you need to select UM Auto Register
+
+* CSP Token – API token to be retrieved from VMware Cloud Partner Navigator
+
+You can also provide the below proxy details for connectivity:
+
+Upon providing the above details, you can auto-register the Usage Meter with VMware Commerce portal during the deployment using VCPLCM.
+
+VCPLCM is executing tasks based on the API requests. Such tasks can be long-running until (including) VCPLCM 1.4 the only way to find out if a task was finished was to verify the status regularly.
+
+However, especially for long-running tasks, users might not stay with the user interface to get an update on the task. Instead, it would be good to get information on task updates via email.
+
+In addition to task execution, users might want to receive information on important product-related events, such as expired certificates or passwords.
+
+To get informed about such events without explicitly logging in to VCPLCM and querying products or other more specific details, VCPLCM 1.5 have introduced a notification system that would inform users if configured accordingly, also notify them via email of the status of the tasks executed and send notifications for expired passwords and certificates.
+
+This notification service provides an option to add a notification in case some event occurs. Below are the scenarios.
+
+* The task completes – either successful, failed or cancelled.
+
+* A certificate is about to expire (configurable threshold)
+
+* Password is about to expire (configurable threshold)
+
+The notification service is configurable through API, please refer to the VMware documentation for more details and download the latest Postman collection for the same.
+
+Interop reporting has been introduced, where details about the existing environments and their integrations with co-existing products are displayed, indicating version incompatibilities or pending/upcoming issues. Apart from version incompatibilities, it also shows the password status, expiration date and certificate status as well.
+
+You can define the current or target version and it will list related products, possible upgrades, upcoming expiring certificates or passwords.
+
+The report is downloaded in JSON format, and you can use the respective tool to view the same.
+
+Restart Option:
+
+The wait is over; you don’t need to input the details again for any failed or cancelled task. We have introduced the “Restart” option in UI which is available for product deployment and datacenter component registration as of now. You get an option to retrieve the original task payload by selecting “Download request Payload” and can start the deployment with modifying input.
+
+Rollback and resume option has been introduced in case of any failure during the upgrade.
+
+Enable Rollback option was available in the previous version, for any failure during the upgrade process, the product will be rolled back to the existing version. However, with this version, you get an option to disable that Automatic Rollback feature and get an option to roll back or resume from a checkpoint. These checkpoints are defined as sub-tasks, and you can select those checkpoints as per your requirement to resume/rollback.
+
+Now you can view alternate product versions including the build number in VCPLCM GUI.
+
+This is introduced to avoid confusion while selecting the product version for deployment.
+
+With earlier versions, we had to maintain a specific folder structure to copy the product binaries but now those binaries can be copied anywhere inside the /cplcmrepo directory.
+
+The above changes have been incorporated to ensure simplicity in terms of product deployment.
+
+VCP LCM REST API has been updated and stays with version 3.
+
+Version 1 and 2 of API are still accessible, but it is recommended to use v3.
+
+Below are the operations included:
+
+CLI and GUI are using v3, however, CLI has an option to work with v1 or v2 API as well.
+
+For more information on the release, please refer to the release notes. You can also visit our documentation page for more details. You can download the product from the downloads page.
+
+For more questions, please connect with us via our dedicated Slack channel and we’d be happy to respond to your queries and feedback. Or leave a reply.

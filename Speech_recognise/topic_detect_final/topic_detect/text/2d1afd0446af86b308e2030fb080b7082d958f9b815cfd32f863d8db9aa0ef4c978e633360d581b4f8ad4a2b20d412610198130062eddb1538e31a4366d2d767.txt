@@ -1,0 +1,25 @@
+Every January, businesses must issue Form 1099-Misc or 1099-NEC to non-incorporated entities or individuals who they paid at least $600 by a method of payment other than credit card for performing a service to their business. Keep reading for best practices to help you stay in compliance!
+
+As soon as you engage a service provider and before you pay them, have them complete a form W-9. This provides you with the information needed to prepare the Form 1099 (if required) including the name, address, tax identification number and type of entity.
+
+Review the completed W-9 from your service provider. If they are working as an individual and do not have a formal business entity, they should provide their Social Security number (SSN). If they have an Employer Identification Number (EIN) from the IRS, that is the number they should provide on the W-9 along with the complete business name as it appears on the IRS records, and the type of entity they are.
+
+A 1099-MISC or 1099-NEC is issued to a service provider who you have paid at least $600 or more in the calendar year. Corporations and S-Corps do not receive 1099s.
+
+* 1099-NEC is used to report all non-employee compensation (ex: Professional fees and sub-contractors)
+
+* 1099- MISC is used to report Rent paid and other income (ex: Prizes, Awards and Taxable Damages)
+
+* 1099- INT is used to report interest income of at least $10 or more.
+
+* 1099- DIV is used to report dividends and other distributions
+
+Late filing penalties vary by how late you file. Below is a chart that breaks this down. Be aware that these charges are PER EACH RECIPIENT FORM.
+
+* 1099-K: The threshold has changed. Prior to 2022 this form was only needed if payments exceeded $20,000 and more than 200 Transaction. As of 2022 any gross payments for goods or services that exceed $600 will need to file a 1099-K regardless of number of transactions.
+
+* 1099-NEC and 1099 –MISC: Both forms no longer have a pre-printed calendar year. On each form the year will be left blank so that when being prepared the preparer can indicate what Calendar year the payments are for.
+
+You can find much more information on the IRS publication. If you still have questions feel free to reach out to one of our Wiss members. And, if you don’t have W-9 forms on file now from your service providers, please request them and get a jump on your compliance!
+
+Questions or concerns? Reach out to a Wiss team member for more information or assistance.

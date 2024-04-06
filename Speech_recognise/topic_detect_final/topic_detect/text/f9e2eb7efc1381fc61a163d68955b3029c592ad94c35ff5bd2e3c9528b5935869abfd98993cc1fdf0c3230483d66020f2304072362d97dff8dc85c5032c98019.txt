@@ -1,0 +1,33 @@
+Deliver Your News to the World
+
+At Hannover Messe, Germany, BlackBerry Limited (NYSE: BB; TSX: BB) released the BlackBerry Manufacturing Cybersecurity Study with a warning that outdated and unsupported legacy operational technologies (OT) are exposing substantial vulnerabilities for manufacturers facing escalating threats from nation-state attacks.
+
+The survey of 1,500 manufacturing IT decision makers across North America, UK, Germany, Japan, and Australia revealed that while many (41%) anticipate an elevated risk of cyberattack in 2023, three-quarters of respondents (75%) fear nation-state attacks on the sector and 65% are concerned about foreign governments spying on their facilities. At the same time, 68% say OT infrastructure is difficult to defend and 86% admit to running core functions on outdated and unsupported legacy operating systems.
+
+Shishir Singh, Chief Technology Officer, Cybersecurity at BlackBerry, says: �Global manufacturers are headed for stormy waters as nation states up the ante on surveillance and the risk of a cyber incident is high � and rising � yet the industry is hampered by a threat surface that is largely antiquated and difficult to defend. Over the last year, three cybersecurity trends significantly impacted OT and IoT infrastructure: ransomware attacks, phishing attacks, and third-party software vulnerabilities.�
+
+�Cybersecurity has become a significant barrier to progress, and managers shackled by aging hardware and outdated operating systems are challenged to unify security across old and new to forge ahead with modernization. With aged and isolated equipment, the truth is that it is difficult to put protection into these environments. But not impossible, and with a lightweight footprint and OS agnostic solution, protection can be extended to every eligible endpoint to mitigate this exposure across manufacturing infrastructure,� Singh continues.
+
+BlackBerry�s research revealed that manufacturing IT decision-makers around the world are predominantly concerned with malicious malware attacks (56%), followed by phishing attacks (49%) and unauthorized access by non-malicious insiders (45%). This may reflect that manufacturers are concerned with nation-state threats that seek to create disruption and unplanned downtime, rather than extort ransom payments.
+
+The research also showed that 65% of manufacturing IT decision-makers believe the cost of a cyber breach to be $250,000 or less. Almost half (47%) of respondents estimate that business downtime would account for just one-tenth of that cost, while 63% point to cyber incidents resulting in a loss of customers or impacting supplier relationships (59%). With unplanned downtime costs soaring due to global inflation and production lines running at a higher capacity, this contrasts with a recent report estimating the true average cost of a data breach in the industrial sector to be more than 16x higher at $4.24M.
+
+The Tolly Group, a world-renowned independent testing lab, recently released comparative test findings verifying that BlackBerry�s Artificial Intelligence (AI) based endpoint protection platform (EPP) outperforms the competition. For more information, download the full Tolly report here.
+
+Join Shishir Singh, CTO, Cybersecurity at BlackBerry, for a LinkedIn Live event exploring highlights of the report on Apr. 19, 2023, at 12:30 p.m. ET.
+
+For more information on BlackBerry� solutions for securing OT environments, please visit BlackBerry.com.
+
+BlackBerry (NYSE: BB; TSX: BB) provides intelligent security software and services to enterprises and governments around the world.� The company secures more than 500M endpoints including over 215M vehicles.� Based in Waterloo, Ontario, the company leverages AI and machine learning to deliver innovative solutions in the areas of cybersecurity, safety and data privacy solutions, and is a leader in the areas of endpoint management, endpoint security, encryption, and embedded systems.� BlackBerry�s vision is clear - to secure a connected future you can trust.�
+
+For more information, visit BlackBerry.com and follow @BlackBerry.
+
+Trademarks, including but not limited to BLACKBERRY and EMBLEM Design, are the trademarks or registered trademarks of BlackBerry Limited, and the exclusive rights to such trademarks are expressly reserved.� All other trademarks are the property of their respective owners.� BlackBerry is not responsible for any third-party products or services.
+
+This news content was configured by WebWire editorial staff. Linking is permitted.
+
+Please type in this box the code you see above:
+
+Every day, hundreds of individuals and companies choose WebWire to distribute their news.
+
+WebWire places your news within numerous highly trafficked news search engines generating leads and publicity.

@@ -1,0 +1,33 @@
+In a recent study published in the Environment International Journal, researchers explored the impact of air pollution exposure during pregnancy on the neonatal brain.
+
+Study: Prenatal exposure to air pollution is associated with structural changes in the neonatal brain. Image Credit: VanderWolfImages/Shutterstock.com
+
+Air pollution exposure is linked to negative effects on cognitive function and brain health. Childhood exposure to various pollutants has been linked to developmental delay.
+
+Maternal exposure during pregnancy can negatively affect brain development, potentially leading to cognitive dysfunction. Animal studies have produced inconsistent findings regarding the link between air pollution exposure during the prenatal stages and brain development in early life.
+
+In the present study, researchers investigated the correlation between in-utero air pollution exposure and neonatal brain development.
+
+The neonatal developing human connectome project (dHCP) included infants born between the gestation age of 23 and 44 weeks, whose age was estimated using the mother's most recent menstrual period and verified, if possible, via early ultrasound scanning.
+
+The study included neonatal scans of subjects born between 2015 and 2020. The study cohort included 782 infants in the dHCP project, with 469 infants in the final sample. An online tool was used to calculate the Index of Multiple Deprivation (IMD) for all infants based on their postcode at birth.
+
+The London Air Pollution Toolkit was used to model maternal exposure to air pollution. The Air Pollution Toolkit employed a method that combined modeling and measurement and a kernel modeling technique to depict pollution dispersion.
+
+The tool models traffic emissions by considering hourly traffic speeds and flows on different road links. It used a specific vehicle stock for London and data from the National Atmospheric Emissions Inventory (NAEI). The London Atmospheric Emissions Inventory (LAEI) provided emission sources apart from road transport.
+
+The study included 469 infants born with a median gestational age of 40.14 weeks and underwent imaging at 41.29 weeks postmenstrual age.
+
+The study group had a median IMD of four. The male and female infants were scanned at a median age of 41.43 and 41.07 weeks, respectively. Both nitrogen dioxide (NO) and particulate matter 10 (PM) were found to have non-normal distributions. Furthermore, the distribution of relative cerebellum and total brain volume (TBV) was not normal.
+
+The study found that higher levels of PM and lower levels of NO were linked to larger ventricular sizes, moderately linked to larger relative cerebellum sizes, and modestly linked to smaller cortical gray matter (cGM), amygdala, and hippocampus sizes.
+
+Additionally, these factors were associated with a larger brainstem along with extracerebral cerebrospinal fluid (CSF) in the first mode. No significant association was found between exposure to PM and brain volume measures.
+
+After applying false discovery rate correction, all brain region correlations with the first mode displayed significance, except the deep gray nuclei and the white matter.
+
+The study findings revealed that prenatal air pollution exposure impacted the size of the cerebellum and ventricles in the neonatal brain.
+
+During fetal development, the brain is particularly susceptible to negative effects, which can have long-lasting impacts on an individual's well-being. The study highlighted the significance of reducing exposure to pollution during pregnancy, as it can adversely affect the newborn's health.
+
+This finding adds to the existing evidence and emphasizes the need for public health measures to reduce particulate matter concentrations. Further study is needed to interpret the finding that larger relative cerebellar and ventricular sizes are related to lower NO exposure.

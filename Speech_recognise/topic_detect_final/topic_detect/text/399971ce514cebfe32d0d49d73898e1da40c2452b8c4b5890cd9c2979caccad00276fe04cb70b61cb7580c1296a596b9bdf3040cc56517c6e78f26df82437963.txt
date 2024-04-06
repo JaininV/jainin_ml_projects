@@ -1,0 +1,57 @@
+You must have been asleep not to have heard about Splunk’s new mission - ‘to build a safer and more resilient digital world’. Why have we chosen this? Well, not because it is a snappy little tagline, but because we know how important digital resilience is to all of our customers in our ever changing times. In my role, I get to meet with and learn from leading organisations from all over the UK, the European Union and the Middle East who are driving quite frankly some amazing outcomes in security and observability, enabling them to help their organisations become more resilient.
+
+Through our conversations, our customers have shared with us why digital resilience is a business imperative for them, and I want to turn to one of our key domains, security, to share how leading security leaders think about this emerging business priority and how they are using technology solutions like Splunk to help them increased their resilience, often in some quite unusual and innovative ways. Read on to find out more.
+
+Cyber security as a concept has been around for a fairly long time and really focuses on the protection, defence and response to threats. Cyber resilience brings a new dynamic to this, introducing the ability to anticipate, adapt, withstand and recover from threats. However, resilience is a broader concept, which doesn't just include the cyber domain.
+
+Businesses need to consider all disruptions or impacts arising from any operational, financial, ecosystem, technology or people risks to become resilient. NIST, as well as many others, have produced definitions around resilience and cyber resilience, but in simple terms I like to think about it in relation to boxing.
+
+The greatest boxers don’t just defend and respond, they anticipate and adapt to their competitors’ tactics to withstand attacks, turning back-foot defence into a front-foot opportunity. This is especially true when things are not going their way and they are behind on points! Using this analogy, we are encouraged to think about cyber resilience as a more holistic approach to how we address the cyber domain and cyber threats.
+
+External forces are simultaneously pushing and pulling security leaders towards cyber resilience. Over recent years, security leaders have been pushed by constant and challenging change.
+
+From an ever-expanding threat landscape, rapid security adaptation required due to the pandemic, accelerated technology innovation - such as the demand for increased cloud adoption and devolved DevOps processes - have all spearheaded the need for security change. Additionally, recent macroeconomic and political factors only drive and accelerate this trend. Combined, these factors are demanding a new approach to security.
+
+Pull factors are also emerging. Regulators and governments are taking action to support and drive heightened resilience because of these changes. Consider examples such as the EU NIS2 regulation, EU DORA or the UK NCSC CAF guidance, which all focus on widening the scope of, responsibility for and penalties in security and resilience. The proposed Cyber Resilience Act will also shape how hardware and software providers build security by design into solutions and increase transparency of the level of security of those products. These push and pull factors are driving change both within and across the organisations of security leaders.
+
+We regularly hear from Splunk customers who tell us that cyber resilience is becoming, or has already arrived as, a top priority at the senior executive and board level and continues to be a critical organisational risk featuring heavily in annual report risk reporting. With this focus at the highest levels in an organisation, security leaders have an opportunity to:
+
+* Develop and lead the plan to make their organisation more cyber resilient.
+
+* Enable the communications strategy around cyber resilience making the security function central to the wider resilience agenda.
+
+* Gain the required support to ensure good security foundations are established.
+
+* Transform cyber security insights to make sure they are resilience-focused and ‘board-ready’.
+
+There is a lot of information out there to help everyone - but, as always in security, this can be a challenge in itself. Numerous bodies and groups have published guidance to support leaders to a more cyber resilient state. One of my personal favourite guides is provided by the World Economic Forum developed in conjunction with our shared partner, Accenture.
+
+The cyber resilience framework (CRF) and index (CRI) identifies 6 principles and practices to build a cyber resilient organisation alongside an index to help leaders measure cyber resilience. The CRF outlines the following areas for cyber resilience, building on existing good practices that you are likely already following:
+
+An emerging theme from these principles is one of collaboration. Like the best boxers, you need a team in your corner to help you and to plan your tactics to win!
+
+Building cyber resilience is easier said than done. We have been listening to security leaders during their maturity journeys to better understand resilience and I want to share a few themes we are seeing.
+
+For organisations just starting out on this resilience journey, their security leaders report it can be easier to begin within their own security teams. We have heard from security leaders who are focused on ensuring they establish, maintain and communicate core security fundamentals to drive the resilience agenda.
+
+This can often be in the form of ensuring industry frameworks and standards are followed, ensuring the organisation’s assets are logged and classified in a centralised asset repository, reviewing and testing backup and disaster recovery strategies or driving an internal focus on continuous development.
+
+Other leaders are moving along this maturity journey by focusing outside of the security function, ensuring there is increasing collaboration and communication, and driving an agenda of resilience across the organisation. This includes working with senior executives, other parts of the IT functions or board members to ensure that a cyber resilience governance structure is in place, enabling accountability through transparency and visibility across the organisation and driving an awareness of resilience through programmatic training that is customised to the appropriate level of cyber security knowledge various teams have.
+
+More mature organisations are combining both programs within security, other IT teams and business functions to drive to heighten resilience systemically and culturally across the organisation. Security leaders promote resilience by design in critical processes, drive innovation while implementing technical changes, and lead resilience measurement on an organisational level.
+
+Of course, technology can enable the maturity and growth of cyber resilience. Security leaders who leverage Splunk have a powerful toolset at their disposal to support resilience initiatives. For those just starting out, Splunk’s core data analytics platform and Splunk Enterprise Security SIEM can ensure assets are centrally logged and classified and also support the use of industry frameworks such as MITRE ATT&CK or regulations such as the EU NIS2.
+
+As leaders mature their journey to resilience, Splunk’s powerful automation, dashboarding and visualisations capabilities enables speed, transparency and accountability across an organisation. Security leaders use Splunk to visualise security risk and operational resilience in ways to innovate in their space.
+
+Here are a few examples where Splunk has helped security leaders and their business. Firstly, a leading global retailer adopted Splunk security to improve resilience to cyber threats via a 3x faster security response time, and also support their innovation initiatives by giving them the confidence and agility to launch new services and features for shoppers, whilst still maintaining a strong security posture.
+
+And it’s not just retail; let’s discuss an Italian operator of essential services who leverages Splunk to support compliance with the NIS Directive and alignment to both NIST cyber security and ISO27001 frameworks. They have generated an operational strategy to leverage precise metrics and dashboards to measure and articulate their security status organisation-wide.
+
+Why stop there? A global healthcare group uses Splunk to generate ‘Global Risk Scores’ to share and promote security visibility across the entire organisation. And finally, a global brewer and household name uses Splunk’s powerful data insights and visualisation to fulfil their mission to be the best-connected brewer globally by providing operational resilience and avoiding disruption across their business processes. Splunk has many more examples of use cases of how we can help security leaders drive an agenda of cyber and digital resilience. To dive in a little deeper with Splunk examples, start here.
+
+In this blog, I have talked about the cyber resilience journey for security leaders, but what is next? Over the next few weeks and months, we will publish more insights on how security leaders can help their organisations to become more resilient and how they can use technology and data insights to empower teams and make that journey easier.
+
+In today’s realities, it is not how well a security leader can protect their organisation at a point in time, it is how well they can protect their organisation when faced with unexpected disruptions and impacts. That is the difference between being a good or a great boxer.
+
+Let’s all keep fighting, even when things don’t go our way.

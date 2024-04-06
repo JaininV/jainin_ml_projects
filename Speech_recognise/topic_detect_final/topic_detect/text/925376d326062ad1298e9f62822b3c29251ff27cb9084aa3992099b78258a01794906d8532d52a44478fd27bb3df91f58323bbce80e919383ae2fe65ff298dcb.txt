@@ -1,0 +1,41 @@
+AN EXPERT in 'deepfakes' has agreed the tech means people can no longer trust their eyes and ears when it comes to videos and voices they encounter online.
+
+Cyber criminals are increasingly being found using artificial intelligence (AI) for hostile purposes.
+
+Metaphysic's signature technology is one that can create 'deepfakes', which are hyper-realistic videos and pictures of people that look real but aren't.
+
+In a TED Talk yesterday, Metaphysic CEO Tom Graham said: "We’re going to have to understand a new set of institutions to verify what is authentic media.
+
+“But then we can begin to lean into some of the creative things that happen from it.
+
+"And there are benefits that come with it too. So it’ll be an accommodation.”
+
+Graham’s company got famous by making a fake version of Top Gun: Maverick actor Tom Cruise which went viral.
+
+Deppfake technology has been used for some light-hearted fun, but it also has more sinister capabilities.
+
+These include being used by rogue state actors to sow disinformation online, as well as bad actors looking to create deepfake porn of innocent web users and even phone scammers.
+
+“At Metaphysic, we specialise in creating artificially generated content that looks and feels exactly like reality,” Graham added.
+
+“We take real-world data. We train these neural nets and it can more accurately than VFX or CGI create this content that looks and feels so real.
+
+"It’s a great example of AI being prompted by the natural performances of a person and the face goes on top.”
+
+Graham added that deepfakes are only getting easier to create.
+
+This means the amount of deepfake content online is only going to increase, unless regulation steps in.
+
+“Personally, you know, we build this stuff, and I’m worried, right? Worried is the right instinct that everybody has,” he continued.
+
+“Beyond that, think about what can we do to prepare ourselves. How can we try to impact the future as it spirals in this direction."
+
+Graham noted how nothing will stop this kind of technology.
+
+“It’s really hard to process,” he said.
+
+“We’re talking about a future where a large part of our interface with the internet, what we do online, how we interact with each other, through the medium of technology is going to be impacted by this kind of very photorealistic AI visual interface which features our own hyper-realistic AI avatars.”
+
+Graham recently applied for a copyright for his own AI likeness, according to VentureBeat, as he wants to maintain control over it and how it’s used.
+
+We pay for your stories! Do you have a story for The Sun Online Tech & Science team? Email us at tech@the-sun.co.uk

@@ -1,0 +1,19 @@
+The FBI is warning consumers against using public phone charging stations in order to avoid exposing their devices to malicious software.
+
+Public USB stations like the kind found at malls and airports are being used by bad actors to spread malware and monitoring software, according to a tweet last week from the FBI's Denver branch. The agency did not provide any specific examples.
+
+"Carry your own charger and USB cord and use an electrical outlet instead," the agency advised in the tweet.
+
+While public charging stations are attractive to many when devices are running critically low on battery, security experts have for years raised concerns about the risk. In 2011, researchers coined the term "juice jacking" to describe the problem.
+
+"Just by plugging your phone into a [compromised] power strip or charger, your device is now infected, and that compromises all your data," Drew Paik, formerly of security firm Authentic8, explained to CNN in 2017.
+
+The cord you use to charge your phone is also used to send data from your phone to other devices. For instance, when you plug your iPhone into your Mac with the charging cord, you can download photos from your phone to your computer.
+
+If a port is compromised, there's no limit to what information a hacker could take, Paik previously explained to CNN. That includes your email, text messages, photos and contacts.
+
+"The FBI regularly provides reminders and public service announcements in conjunction with our partners," Vikki Migoya, public affairs officer at the FBI's Denver branch, told CNN. "This was a general reminder for the American public to stay safe and diligent, especially while traveling."
+
+The U. S. Federal Communications Commission also updated a blog post on Tuesday warning that a corrupted charging port can allow a malicious actor to lock a device or extract personal data and passwords.
+
+"In some cases, criminals may have intentionally left cables plugged in at charging stations," according to the FCC blog post. "There have even been reports of infected cables being given away as promotional gifts."

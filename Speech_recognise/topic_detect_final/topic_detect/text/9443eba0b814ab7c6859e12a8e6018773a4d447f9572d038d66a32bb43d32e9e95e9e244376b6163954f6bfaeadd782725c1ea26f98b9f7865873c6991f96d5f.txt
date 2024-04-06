@@ -1,0 +1,17 @@
+As more electric trucks start to arrive and as our truck manufacturers begin to test the waters around alternative power, PowerTorque takes an electric Scania out on the road.
+
+The evaluation truck Scania have been using is the P25, a 4×2 truck with a 16T GVM. Both Swedish truck makers are bringing their smallest trucks in at the start of the electrification process as this is the sector of the market where the business case, and practicality of introduction, will make the strongest argument for the first move to an electric truck.
+
+This truck come with five 33kWh battery packs (in Europe with longer wheelbases, you can get up to nine). This means the truck can carry 165kWh total when fully charged. The driveline includes the electric motor and a two-speed gearbox (AMT), producing 230kW (313hp) continuous and 295kW (401hp) peak power.
+
+Just looking at this power rating and the masses the truck is designed to carry illustrates the strength and the practical considerations which come along with electrification. With all that power, the driveline also gets full torque at the get-go. There is no torque curve, just a straight line. This means the driveline is more than capable of handling the task, but in some circumstances it has a too much and needs to be tightly controlled to get a safe and stable result.
+
+All of that power and torque needs strict modulation to ensure the safe operation of the truck and a pleasant ride for the driver and freight. First impressions, the computer control on the takeoff is fantastic. It doesn’t matter what the driver does, even if they floor it, it will just take off at about the same acceleration rate as an ordinary diesel truck. This means it is stable, safe and it’s not wasting power.
+
+Then there is the deceleration phase, where the system uses the regenerative braking to recharge the batteries. In this case, using the two-speed gearbox, the truck has not got that same level of modulation finesse it has on the pick-up. It tends to be less smooth, especially if it’s decides to change gear. A gear change during deceleration seems to introduce a small jump in the driveline.
+
+Out on the road, the truck is eerily quiet, definitely a lot quieter than the other electric trucks in Australia, which PowerTorque has been able drive.
+
+In terms of visibility, this is excellent, the new P Series from Scania is definitely a city truck. It’s even got a quarter light behind the passenger seat, plus an array of mirrors around the cab.
+
+The screen right in front of the driver is a different one to the diesel version and it’s set up for electric drive, no fuel gauge but the level indicator tells this driver the battery has gone from 82 to 72 per cent in the past few hour’s driving.

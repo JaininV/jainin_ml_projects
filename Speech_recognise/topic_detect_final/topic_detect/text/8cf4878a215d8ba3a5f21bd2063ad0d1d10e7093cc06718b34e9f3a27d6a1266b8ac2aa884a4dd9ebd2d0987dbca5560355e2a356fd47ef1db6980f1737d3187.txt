@@ -1,0 +1,17 @@
+The Court of Appeals for the Third Circuit has upheld the dismissal of a Fair Debt Collection Practices Act class-action lawsuit, while also reiterating its stance on what it takes for a plaintiff to have standing to sue in its jurisdiction.
+
+A copy of the ruling in the case of Deutsch v. D&A Services can be accessed by clicking here.
+
+The plaintiff received a collection letter from the defendant that included the following statements:
+
+Unless you notify this office within 30 days after receiving this notice that you dispute the validity of this debt or any portion thereof, this office will assume this debt is valid. If you notify this office in writing within 30 days after receiving this notice that you dispute the validity of this debt or any portion thereof, this office will obtain verification of the debt or obtain a copy of a judgment and mail you a copy of such judgment or verification. If you request of this office in writing within 30 days after receiving this notice[,] this office will provide you with the name and address of the original creditor, if different from the current creditor.
+
+If you dispute the debt, or any part thereof, or request the name and address of the original creditor in writing within the thirty-day period, the law requires our firm to suspend our efforts to collect the debt until we mail the requested information to you.
+
+The plaintiff claimed the second paragraph of the statement was misleading and violated the FDCPA because it gave her the incorrect impression that she could suspend collection by disputing all or part of the debt orally outside of the 30-day window, which would conflict with her rights under Section 1692g(b) of the FDCPA. While the defendant was not required to notify the plaintiff about her rights under 1692g(b), including inaccurate information about those rights gave her contrary and inconsistent information.
+
+A District Court judge granted the defendant’s motion to dismiss for failure to state a claim, ruling that the two paragraphs, when read together, were mot misleading because it did not suggest that she could have collection activity suspended by orally disputing the debt outside the 30-day window.
+
+The plaintiff attempted to argue that she did not have standing to pursue her claim in federal court, but the Appeals Court ruled she satisfied all three prongs of its standing test — claiming the omission of information to which the plaintiff claims entitlement, adverse effects that flow from the omission, and the requisite nexus to the concrete interest Congress intended to protect.
+
+Moving on to the statement, the Appeals Court agreed with the District Court judge that the first paragraph of the statement “eliminates any ambiguity” because it “explains that a debtor who wishes to avail herself of her statutory right to validation of a debt must request validation in writing and within 30 days of receiving a collection notice.”

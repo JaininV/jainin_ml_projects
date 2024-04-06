@@ -1,0 +1,9 @@
+Using the latest nRF toolchain (2.3.0), on a MacBook Pro (M1) developing on a custom PCB with an nRF5340.
+
+I have an app based on the peripheral_uart example.  It works fine, but I needed to switch it to use a dynamic Device Name instead of the one hard coded in pro.conf.  I was able to get that working, however on the devices I had previously connected with (MacBook and iOS devices), the old static device name is displayed.  I noticed that the advertising data does contain the new name, but it looks like the various connecting OSs have cached the old name.
+
+After researching a bit, it appears there's a GATT characteristic call the "Service Changed" characteristic which when used properly indicates to the connecting device that it should discard any cached data and use the new data in the advertisement.
+
+Unfortunately, any questions about how to use this characteristic appear to be referencing the older soft device architecture, not the newer Zephyr-based code.
+
+Could someone kindly tell me what sanctioned technique should be used from the nRF5340 to properly indicate to the connecting device that the service has been changed?  (a short code snippet would be ideal).

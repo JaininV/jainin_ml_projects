@@ -1,0 +1,19 @@
+New Jersey's cybersecurity team noticed something phishy about a round of emails sent to state employee inboxes earlier this month.
+
+At first blush, the communiques appeared to come from the state Attorney General's Office and sported a convincing njoag.gov domain. But further inspection of the sender's address revealed the alerts had been cleverly disguised by the emails' real host using a practice known as "spoofing," according to the New Jersey Office of Homeland Security and Preparedness, which flagged the scam on April 8.
+
+The bogus emails prompted recipients to confirm their address with what they thought was the state's top law enforcement bureau. Hapless recipients were sent to a webpage adorned with the same design as the official attorney general's website and asked to verify their password.
+
+Luckily, most of the the emails were marked as suspicious by the state server, the homeland security office said, although the agency did not say whether any government information was compromised.
+
+The attorney general's and homeland security offices did not immediately respond to follow-up questions about the scam.
+
+The state's Cybersecurity and Communications Integration Cell urged all email users to remain vigilant against phishing attacks by expanding the header of any suspicious emails to view more detailed information about the sender and reveal possible domains behind spoof accounts.
+
+Instructions on how to expand an email's header for various providers can be found here.
+
+The agency also advised users to scrutinize seemingly legitimate domains for easily mistaken letters, such as an email account that would appear to belong to google.com, but has replaced the lowercase "L" with an uppercase "I."
+
+Likewise, users should verify suspicious messages through other means, such as calling the website or agency that appears to have sent the email and asking its support staff to confirm that the message came from the organization.
+
+Phishing emails and other malicious cyberactivity can be reported to the FBI’s Internet Crime Complaint Center and the NJCCIC.

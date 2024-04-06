@@ -1,0 +1,11 @@
+NTT Electronics Corporation is showcasing its digital video and network products at the 2023 NAB Show. Three product categories are being showcased: HEVC contribution encoder/decoders, media converters, and an AI chipset.
+
+The HEVC encoder/decoder offering includes the HC Series, a high-end UHD HEVC encoder/decoder, suitable for live sporting events and international video transmission.
+
+The HC32000 and HC1x000 feature 4K support, high image quality and ultra low latency @33ms for HD and @100ms for UHD.
+
+In addition, the MV7000 is a compact HEVC HD IP encoder/decoder that offers a variety of functionalities for IP transmission. This inckudes SRT support, high image quality and ultra low latency @33ms for HD.
+
+The Plus Repeater Series of media converter devices that convert electrical signals into optical signals in order to construct an optical transmission network are also on show. Suitable for long-distance content transmission, they offer 100Mbps to 100Gbps bandwidth support and support optical transmission with one fibre.
+
+Finally, the ‘Green’ smart AI chip, which performs object recognition and human pose estimation useful for edge AI cameras and remote production is also available for evaluation. Features include real-time object recognition and pose estimation, low power consumption @1-2W, H.264 Full HD encoding and a compact size at size 12mm x 12mm.

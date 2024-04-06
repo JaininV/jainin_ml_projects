@@ -1,0 +1,23 @@
+Meta Outlines its Latest Image Recognition Advances, Which Could Facilitate its Metaverse Vision | Social Media Today
+
+https://www.socialmediatoday.com/news/Meta-Shares-Latest-Image-Recognition-Developments/647894/
+
+Metaが今回発表した「DINOv2」のデモンストレーション映像が以下。「DINOv2」はMetaが以前発表した「DINO」という画像モデルの発展系で、動的な映像を取り込んで従来のものより高精度なセグメンテーションを生成することができます。
+
+Announced by Mark Zuckerberg this morning — today we're releasing DINOv2, the first method for training computer vision models that uses self-supervised learning to achieve results matching or exceeding industry standards.
+
+More on this new work ➡️ https://t.co/h5exzLJsFt pic.twitter.com/2pdxdTyxC4— Meta AI (@MetaAI)
+
+Metaは自然再生事業を行う非営利団体・WRI Restorationと共同で、大陸ほどの面積の森林を樹���1本単位でマッピングすることに成功しました。
+
+Models like this will be useful in a wide variety of applications. For example, we recently collaborated with @RestoreForward to use AI to map forests, tree-by-tree, across areas the size of continents. pic.twitter.com/T2we4cqTa4— Meta AI (@MetaAI)
+
+DINOv2を使用すると、ビデオチャットのデジタル背景の改善や、映像コンテンツのタグ付け、新しいタイプのARコンテンツやビジュアルツールなどが実現すると期待されているとのこと。ひいては、AIが生成するVR世界の開発も可能になり、最終的にはインタラクティブな仮想環境を丸ごと構築することも��可能ではないと、海外メディアのSocial Media Todayはコメントしました。
+
+MetaはDINOv2をオープンソース化しており、PyTorchコードとしてGitHubから誰でも入手することが可能になっています。
+
+GitHub - facebookresearch/dinov2: PyTorch code and models for the DINOv2 self-supervised learning method.
+
+https://github.com/facebookresearch/dinov2
+
+You can read the machine translated English article here.

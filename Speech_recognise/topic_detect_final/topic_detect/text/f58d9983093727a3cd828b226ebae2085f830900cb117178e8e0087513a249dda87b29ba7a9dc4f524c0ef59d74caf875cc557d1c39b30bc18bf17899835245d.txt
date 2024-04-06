@@ -1,0 +1,33 @@
+As a SaaS product manager, you've probably used Net Promoter Score (NPS) to measure user sentiment and guide your product development decisions. However, using NPS does not tell you what to do and where to improve, so it only seemingly provides value. It's time to say goodbye to NPS and embrace new, more effective methods of measuring user sentiment.
+
+I’ll explain why NPS is a bad metric and why it's time to stop relying on it.
+
+First, let's define Net Promoter Score. NPS is a metric that asks users to rate how likely they are to recommend your product to others on a scale of 0 to 10. The scores are then grouped into three categories: Promoters (9-10), Passives (7-8), and Detractors (0-6). To calculate the NPS, you subtract the percentage of Detractors from the percentage of Promoters.
+
+One of the first things you learn about user interviews is:
+
+Never ask about future actions. People may change their minds. They tell you they will do one thing and then do another thing. Instead, ask them: “Tell me about the last time you were in situation X”.
+
+The NPS is the former: Asking about potential future actions that have not yet been performed at all. It is not reliable and therefore does not have any value.
+
+A better way is to ask about the past: Has the user recommended the product already? This is a question about actual behavior instead of future plans.
+
+The scale of NPS and the distinction between detractors, neutrals and promoters is arbitrary. Who said that an 8 is not a promoter, and why? Obviously, someone voting a 5 is not a strong promoter, but still, the scale is arbitrary.
+
+Net Promoter Score does not provide any actionable feedback. If your NPS is -10, what should you do? You won’t know. If it improves to 40 over time, why is that so? You won’t know. You’ll always need follow-up questions. The NPS alone does not tell you why people will recommend or not recommend your product.
+
+NPS is mostly used to show off on the website or sales processes. “Our NPS is 70!” This is meant to sound impressive, but it does not say anything about the product matching a prospect’s needs.
+
+It's time to move on from NPS and embrace new, more effective methods of measuring user sentiment. Here are some modern methods that you can use:
+
+Customer Satisfaction (CSAT): CSAT surveys can focus on specific features and functionalities, providing valuable insights into what users like and don't like about your product. It is possible to have one CSAT score per product area or feature. That makes it much more actionable than a general score.
+
+Customer Effort Score (CES): CES surveys focus on how easy it is for users to complete a task, providing insights into user satisfaction and frustration.
+
+Feature Adoption: If people use a feature regularly, chances are high that there is some value in the feature. If they rarely use it, chances are lower (even though there might be very good reasons for it).
+
+Time-to-value: How long does it take a user to get value out of a feature? The shorter the time, the better. The user will likely use the feature more often and think of it having a higher value.
+
+The good thing about these metrics is that you usually measure them per feature or product area. That makes them much more actionable, because you get insights into what people value and where there is room for improvement.
+
+As a modern (SaaS) product manager, it's important to embrace new, more effective methods of measuring user sentiment, such as CSAT, CES, and Feature Adoption, and Time-to-value. Combine them with qualitative feedback, and you’ll be much better off than measuring a generic NPS score. So, let's bid farewell to NPS and welcome in a new era of effective user sentiment measurement!

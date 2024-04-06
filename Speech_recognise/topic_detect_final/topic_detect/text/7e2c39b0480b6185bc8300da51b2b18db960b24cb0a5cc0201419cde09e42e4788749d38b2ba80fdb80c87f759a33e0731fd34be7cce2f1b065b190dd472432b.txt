@@ -1,0 +1,19 @@
+AMSTERDAM (Reuters) - ASML Holding NV, a key supplier to computer chip makers, reported better than expected first-quarter earnings on Wednesday despite signs of weakness in chip markets.
+
+The report showing healthy earnings at Europe's largest technology company follows news that customers including Samsung will cut production because of a downturn in semiconductor demand, while memory chip manufacturers SK Hynix and Micron have cut spending plans.
+
+ASML posted a threefold jump in net profit to 1.96 billion euros ($2.15 billion) on revenue up 91% at 6.74 billion euros. Analysts had forecast net profit of 1.62 billion euros on revenue of 6.31 billion euros, Refinitiv data shows.
+
+The outlook for ASML remains strong despite belt-tightening among its client base, ASML said.
+
+"Overall demand still exceeds our capacity for this year and we currently have an (order) backlog of over 38.9 billion euros," CEO Peter Wennink said in a statement.
+
+ASML plays a key role in the semiconductor industry because it dominates the market for lithography equipment used to create the minute circuitry of chips.
+
+It has struggled to meet demand as top customers TSMC (2330. TW), Samsung and Intel (INTC.O) continue to spend billions on expansion.
+
+ASML maintained a forecast for 25% sales growth this year, with sales of between 6.5 million and 6.7 billion euros in the second quarter.
+
+Finance chief Roger Daasen said some major companies were "delaying the timing of their demand for certain tools" but others were happy to take over their orders.
+
+"For memory customers, we do see them limiting their capex ... (and) we see some of that behaviour also in certain segments of logic," he said, referring to the two largest categories of computer chips.

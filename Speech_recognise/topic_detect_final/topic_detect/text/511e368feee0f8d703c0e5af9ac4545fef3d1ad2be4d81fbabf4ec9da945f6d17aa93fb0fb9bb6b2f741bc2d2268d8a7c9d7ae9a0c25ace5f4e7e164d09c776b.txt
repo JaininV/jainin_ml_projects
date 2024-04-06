@@ -1,0 +1,21 @@
+Real-Time Court Decisions and Other Developments in Asbestos Litigation.
+
+Featured Topics
+
+In this asbestos action, decedent Donald Jordonek used brake lathes and grinders manufactured by AMMCO while working at a tire center in Ohio from 1972 until 1999. The plaintiff sued defendant Hennessy as a predecessor-in-interest to AMMCO. Although this court is venued in Delaware, the court determined that Ohio substantive law applied to this matter. Hennessy filed a motion for summary judgment, arguing that it did not have a duty to warn the plaintiff as the AMMCO equipment he used did not contain asbestos. The court denied Hennessy’s motion, and Hennessy subsequently filed a motion to reargue.
+
+In its motion to argue, Hennessy reiterated it does not have liability under Ohio law for asbestos-containing product or component parts that AMMCO neither manufactured nor supplied. In 2004, Ohio enacted Ohio Rev. Code Ann. §2307.96 which adopted the Lohrmann v. Pittsburgh Corning Corp. standard. Under this standard, Hennessy contends “since Hennessy did not manufacture, supply, or install the product, and the product was not used by the defendant in the action, no cause of action against Hennessy lies.” Plaintiff opposed Hennessy’s motion. They argued that the “used by” language in §2307.96 would apply to this scenario. Further, “§2307.91(C), which defines asbestos claims as “any claim means any claim for damages, losses, indemnification, contribution or other relief arising out, based on, or in any way related to asbestos.”
+
+The court first explained that the plain words of the statute did not resolve the issue. In addition, the parties conceded that there was no Ohio case law on point. As such, the court predicted what an Ohio court would do under these circumstances.
+
+Thereafter, the court set forth that there are exceptions to the bare-metal defense followed by Ohio. The court ultimately determined that an Ohio court would adopt an exception to the bare-metal defense rule under this scenario. The court found a California case cited by the plaintiff to be persuasive. When faced with the issue in question in this case, the California Court of Appeals for the Second Circuit found that a duty should be imposed on Hennessy in Sherman v. Hennessy. The Delaware court pointed to the public policy rationale laid out in Sherman. Specifically, imposing a duty on Hennessy was warranted as the imposition “places the burden on the party who increased the risk and profited from it.” The court set forth that imposing a duty was not based on a foreseeability argument. Instead, “[t]he reason for imposing liability is because defendant’s product was intended to be used with another product for the very activity that created a hazardous situation.” As such, the court determined that an Ohio court would find an exception to the bare-metal defense where “(1) the manufacturer’s product is necessarily used in conjunction with another product; and (2) the danger results from the two products together.”
+
+Under these circumstances, the court found that Hennessy did not meet its burden on reargument as Hennessy did not present new arguments and the only new case cited did not change the court’s conclusion. Therefore, the court “did not overlook a controlling precedent or legal principle or misapprehend the law or facts in a manner affecting the outcome of the decision.” Thus, the court denied Hennessy’s motion for reargument.
+
+Cancel
+
+Post was not sent - check your email addresses!
+
+Email check failed, please try again
+
+Sorry, your blog cannot share posts by email.

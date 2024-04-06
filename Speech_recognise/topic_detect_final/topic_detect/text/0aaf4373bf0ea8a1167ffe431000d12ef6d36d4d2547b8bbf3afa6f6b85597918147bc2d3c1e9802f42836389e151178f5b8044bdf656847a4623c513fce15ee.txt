@@ -1,0 +1,13 @@
+The Kubernetes team has released version 1.27. Since the work on it was extremely relaxed, the release was given the title “Chill Vibes”. Changes introduced on time include a consistent move to the new Container Image Registry registry.k8s.io. In addition, numerous functions have reached alpha status, beta status or general availability.
+
+The new Container Image Registry, registry.k8s.io, which has been available since the last few months has replaced k8s.gcr.io. The latter is now considered frozen and the Kubernetes team will not release any more images and related sub-projects on it. This also applies to the current release. Therefore, maintainers of subprojects must update their manifests and helm charts to the new registry.
+
+After April, patch releases for the Kubernetes versions 1.24, 1.25 and 1.26 will no longer appear on the old registry. Since Kubernetes 1.25, the new registry has been set as the default, but this can be overwritten using kubeadm and kubelet. For new releases after April, setting the old registry will lead to an error, since they are not there.
+
+The switch to registry.k8s.io should offer, among other things, a faster download for many users. If you want to know more about the background, you can read about it in a blog entry from last autumn. Since March 20, 2023, traffic has been k8s.gcr.io redirected to the new registry.
+
+Kubernetes 1.27 updates a total of 60 features: It stabilizes 13 of them, raises 29 to a beta status and introduces 18 alpha features. Among other things, the changeable planning guidelines for jobs introduced as a beta feature in Kubernetes 1.22 TimeZone and the handling of CronJob are now considered stable and therefore generally available.
+
+One of the new beta features is pod scheduling readiness. Basically, pods are ready for scheduling when they are created, but according to the Kubernetes team, in a real use case, they can sometimes remain in a phase where they lack essential resources for quite a long time. can therefore .spec.schedulingGates be used to determine whether a pod is ready to be considered for scheduling.
+
+Alpha features include node log access using the Kubernetes API. It is available to cluster admins on all nodes of their clusters and subsets of them. Further details can be found in the changelog.

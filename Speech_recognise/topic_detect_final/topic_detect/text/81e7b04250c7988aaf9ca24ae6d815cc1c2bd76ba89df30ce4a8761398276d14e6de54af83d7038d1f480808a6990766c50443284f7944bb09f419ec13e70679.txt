@@ -1,0 +1,35 @@
+Last week, at a private event held at the Hollywood Bowl, L-Acoustics announced the new L Series with patented Progressive Ultra-Dense Line Source (PULS) technology following its debut at the BRIT Awards with pilot phase partner Britannia Row/Clair Global, on tour with Helene Fischer and pilot phase partner Solotech, and at Coachella Valley Music and Arts Festival with support from RAT Sound.
+
+The company adds that L Series will continue its pilot phase validation with PRG, Tokyo Sanko, Novelty and Winly, before it becomes available in production this fall.
+
+“L Series is a breakthrough concept in concert sound that is made possible through the culmination of 30 years of intensive R&D in software modeling, loudspeaker technology, and electronics,” says Germain Simon, director of product management, Loudspeakers at L-Acoustics. “When we analyzed hundreds of projects using line source array across all genres and venues, we realized that most audience geometries and array shapes followed a similar trend. This led to the understanding that a fixed element with predefined progressive angles would provide incredible gains in quality, efficiency, and sustainability.”
+
+L Series comprises two elements that are designed to work together or on their own: L2 above and L2D below. The company states the one L2 or L2D element provides the same contour as four K2 elements in a format that is 46 percent smaller and 40 percent lighter. The  smaller, lighter footprint reduces truck space and requires fewer elements, cutting the number of actions needed to load in and out.
+
+Each element contains eight 3-inch high-frequency drivers with eight 10-inch low-frequency drivers, complemented by four side-loaded 12-inch drivers with front and back exits designed to deliver efficient, precision broadband coverage with a choice of cardioid or supercardioid patterns. L Series also incorporates proprietary Panflex technology that provides access to a choice of four horizontal directivity patterns: 70 or 110 degrees symmetrical, or 90 degrees asymmetrical on either side. Each L2 element includes four Panflex modules, while L2D contains two Panflex modules on the top elements, and two fixed L-Fins progressing from 110 to 140 degrees on the bottom elements.
+
+Josh Lloyd, Britannia Row head of engineering and special projects, led the BRIT Awards team from design to delivery while continuing his tenure as the BRIT Awards Music FOH Engineer. “L Series was truly impressive in terms of its coverage consistency, it was nearly impossible to hear any transition between elements of the array,” he states. “The tonal consistency was incredible; every listener had the same audio experience. The cardioid behavior of the box meant that once moving out of the coverage zone, it was difficult to tell if the system was on!
+
+“At the BRITs, where we hear presenters, acceptance speeches, and a wide variety of musical performances, gain before feedback wasn’t a worry. The broadcast team received inputs that were uncolored due to the remarkable off-axis performance. L Series sounded incredibly musical, delivering output and punch that do not seem possible, based on its size.”
+
+The operating efficiencies of L Series originate from its shape. With no inter-element angles, a pin-less auto-lock rigging system, and a single cable connector, repetitive load-in/out actions are diminished. This creates a set-up environment that reduces errors and leads to a stated three-fold decrease in loading time versus a similar K2 configuration or up to five times faster than Kara II.
+
+The company notes that L Series also realizes material savings, including 56 percent less paint, 30 percent less wood, and 60 percent less steel, as well as 30 percent less volume and 25 percent less weight as compared to an equivalent line source array,
+
+Holger Schader, senior consultant concert touring and special events at Solotech, which has been deploying L Series on tour with Helene Fischer, says, “Our L2 system uses a fraction of the truck space as an equivalent K1/K2 system would have. We used just one truck instead of two for the audio on this tour. Load-in is also easier and more fail-safe because we only have four elements to connect instead of 16.”
+
+L Series is driven by the new LA7.16 high-resolution touring amplified controller that supports L2 and L2D with 16 channels of high-power amplification and processing. LA7.16 comes in a new LA-RAK III touring rack offering 48 channels of amplification in a Milan AVB-ready package with more than 60,000 watts of power in 9U.
+
+With L Series, L-Acoustics also introduces the new Clamp1000, which can carry up to four L2/L2D. It can also be used with Kara II, K3, or K2, supporting up to 16 K2. Using Clamp1000, users can rotate a flown line array from the ground, saving set-up time and the number of motors needed.
+
+“The team of L Series, Clamp1000, and LA7.16 with its best-in-market amplification efficiency, along with advanced Autofilter processing, will make immersive audio deployments with L-ISA technology faster, easier, and more budget-friendly,” explains Germain Simon. “And these benefits also extend to traditional stereo projects where the pressure to create quality sound with less people and less time is ever-present.”
+
+In January of this year, L-Acoustics began an L Series pilot phase with partners Britannia Row and Solotech, and between April and October, the pilot program will include six certified partners around the globe. PRG and Solotech in the Americas, Britannia Row/Clair Global and Novelty Group in EMEA, and Tokyo Sanko and Winly in APAC will be deploying the new technology for various live events in October of 2023 when the pilot phase concludes. Additionally, L-Acoustics deployed L2 and L2D at the Coachella Music and Arts Festival and Stagecoach in California with support from RAT Sound and AEG Presents.
+
+“We were privileged to be the world’s first to deploy L Series last February at The BRIT Awards 2023. The process was seamless, from initial training and warehouse prep to system deployment at the O2 Arena,” says Lez Dwight, director of Britannia Row Productions.
+
+“L-Acoustics is a long-term partner, and we are quite proud to be the first company to pilot L Series on tour with Helene Fischer, for whom we are providing audio, lighting, and video,” adds John Probyn, head of business development, Live Productions Division, Europe, Solotech.
+
+L Series will be at Prolight + Sound Booth #C06, in Hall 11.0, and at InfoComm Booth 5751, Level 2, and Demo Room W320, Level 3.
+
+L Series ships in Q4, 2023. Go here for more specifics, and a video presentation of the launch last week in Hollywood follows.

@@ -1,0 +1,75 @@
+When Claire* was caught up in the Optus data hack, she had to get a new drivers licence.
+
+But it meant her name, address and date of birth were out there.
+
+Six months later, her data was leaked again when Latitude Financial was targeted. She feared that the information she provided to apply for finance had been exposed to potential criminals — and was told to get another new drivers licence.
+
+This month, she received one of the 145,000 emails sent by the Tasmanian Government to individuals who may have had their personal information leaked as part of a hack on third party file transfer system GoAnywhere MFT.
+
+The state's Education Department had used the service during the four days when it was exposed to a ransomware attack in February. The hackers have published 16,000 documents online, including names, addresses, dates of birth and invoice details.
+
+This time, it had another more troubling aspect for Claire.
+
+"It's pretty uncomfortable, particularly when it potentially involves your child," she said.
+
+"Information like your birth date, if it's then linked up with other information that might have found its way to the dark web from the other breaches, you start to be able to get a fairly broad picture of somebody.
+
+The Tasmanian Government has confirmed that 11,500 individuals have been caught up in the release of the 16,000 documents and more document leaks are likely.
+
+The government emails – described as "precautionary" – were sent to anyone who may have had data transferred at that time, by various departmental agencies including Libraries Tasmania, the Commissioner for Children and Young People and the Office of Tasmanian Assessment, Standards and Certification.
+
+Of the email recipients, 730 people are considered to be in a "vulnerable" category.
+
+Claire said she is checking her bank accounts regularly.
+
+"It's just a really frustrating and discomforting feeling," she said.
+
+Since September, Australia has seen several large-scale hacks of personal data, including the Medibank cyber attack. In each instance, millions of people have had their personal information compromised.
+
+The Tasmanian Government leak may have been smaller – and included potentially less damaging information – but experts say each incident increases the risk to those involved.
+
+University of Tasmania senior business and economic lecturer Joel Scanlan said they helped to form a "picture" of someone's identity, which could be used to commit crime.
+
+"If they're looking at committing identity theft, for example, and an individual appeared in multiple breaches, each individual breach might not have enough to do a lot of damage, but the cumulative effect across multiple breaches really then increases the risk," he said.
+
+The Tasmanian incident may result in an increase in targeted scams or phishing emails for those affected, using their date of birth or other leaked details to entice recipients to click on malicious links.
+
+Dr Scanlan said hackers often send out millions of emails based on one hack, in the hope of just a few people falling for it — resulting in more personal data being leaked.
+
+"Within a given data breach, there might be thousands of people affected, but the amount of data that can be operationalised by an attacker to actually commit harm or to undertake identity theft, might actually be a small fraction of that," Dr Scanlan said.
+
+Once a certain level of data is reached, identify theft could occur.
+
+Dr Scanlan said he knew of people who, every few months, had another bank account opened in their name.
+
+"It's not like the breach occurred, they changed a few passwords and a month later they're all rosy, it's actually dragged on for years on end," he said.
+
+Australian Microsoft regional director Troy Hunt, who runs the Have I Been Pwned? blog, said most Australians have, by now, been caught up in a cyber attack.
+
+He said it made it even more important to exercise vigilance in giving out personal information – and to use strong and unique passwords and avoid malicious links.
+
+"From an individual perspective, you have to work on the assumption that it is inevitable [that data will be leaked], then you take the appropriate steps to assume it's going to happen," Mr Hunt said.
+
+"It goes far beyond just trying to minimise your data footprint.
+
+"Don't provide information to parties that you don't need to."
+
+The Tasmanian leak included individual documents, rather than a complete database, making it more difficult for criminals to cross reference with other leaks.
+
+Mr Hunt said the onus was on the Tasmanian Government to ensure each person was aware of what data had been leaked, so individuals could take appropriate action.
+
+"It's pretty much the same for every single data breach, where the onus for disclosure and advising people what's been exposed really needs to fall on the entity that's suffered the breach.
+
+"Very often, after these breaches, there's offers of things like identity protection services. Take that up."
+
+The Tasmanian Government has promised to review its cyber security policies in the aftermath of the hack.
+
+The state's relevant laws say that the holders of information "must take reasonable steps to destroy or permanently de-identify personal information" if it is no longer needed. Some of those affected have told the ABC their data could be from a decade ago.
+
+Science and Technology Minister Madeleine Ogilvie said governments were facing new threats, and a root cause analysis would highlight vulnerabilities.
+
+"We're absolutely having a law reform conversation both at a national level, and a state level, around digital and data management, particularly around ID," she said.
+
+"That conversation, we're not the only state or country having that. That is a global conversation."
+
+The Tasmania Law Reform Institute is also reviewing the state's privacy laws.

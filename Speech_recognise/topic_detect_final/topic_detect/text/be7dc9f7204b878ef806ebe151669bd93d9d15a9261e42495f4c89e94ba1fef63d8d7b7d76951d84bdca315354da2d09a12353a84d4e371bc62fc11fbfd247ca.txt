@@ -1,0 +1,65 @@
+Rumours have been swirling for years about a secret AR and VR headset in development at Apple. The exciting new product was reportedly going to be unveiled at an Apple event, alongside the new 14in and 16in MacBook Pro, Mac mini and the second-generation HomePod smart speaker, but the announcement never came, nor did an Apple keynote event.
+
+Still, the mixed-reality headset is reportedly on its way, if the serial leakers are to be believed, and could give some of the best VR headsets a run for their money. While a pair of lightweight AR glasses – also perpetually stuck in the rumour mill – have apparently been delayed indefinitely, an AR/VR Apple Reality Pro headset could launch in the next few months.
+
+According to the ever-reliable tech reporter Mark Gurman, the Apple AR/VR headset could be unveiled this spring ahead of the company’s Worldwide Developers Conference (WWDC) in June. The brand-new product line is rumoured to feature its own operating system and App Store.
+
+But what exactly is the Apple Reality Pro AR/VR headset? When could it launch? And how much could it cost? We’ve rounded up all the Apple mixed-reality headset rumours to get you up to speed. As always with rumours, take everything here with a healthy pinch of salt. Until we hear it from Apple’s mouthpiece directly, we can’t be certain of anything.
+
+Read more: Apple iPhone 15 rumours: Release date, specs and more
+
+Apple’s mixed-reality headset has been in the works for seven years, according to Mark Gurman. The Apple insider says the device was originally supposed to launch in 2019, but got pushed back to 2020, 2021, 2022 and then January 2023. The latest is that the headset will be unveiled at WWDC in June 2023, before being released in the autumn.
+
+The rumour has been corroborated by prolific Apple leaker Ming-Chi Kuo, who, on 6 January, said the mixed-reality headset was behind schedule due to issues with “mechanical component drop testing” and the “availability of software development tools”. He suggested the AR/VR headset could be unveiled at WWDC, with the release date being pushed back to the end of the second quarter of 2023 or even the third quarter.
+
+Gurman said that early production of the device could have begun as early as February 2023 in China, and that Apple is considering launching the product in just the US (initially).
+
+But it appears Mark Gurman is bullish about the headset’s unveiling at WWDC in June. The analyst said in a Bloomberg report in early April 2023 that “Apple Inc. has chosen June 5, 2023, as one of the most important days in its history. That’s the date it’s planning to debut its first mixed-reality headset, which it sees as the beginning of a post-iPhone era”. Keep your eyes peeled.
+
+In the summer of 2022, Bloomberg claimed Apple was securing trademarks for its mixed-reality headset, and had begun securing the names “Reality One” and “Reality Pro” across different territories, reportedly via various law firms the company had enlisted previously.
+
+The current sentiment is that the headset will most likely be called Reality Pro, while the operating system will be called realityOS. It is rumoured to bring the iPhone experience to a headset, with mixed-reality versions of the core Apple apps, such as Messages, FaceTime and Maps available.
+
+The new gadget is expected to be a costly one, with leakers currently converging on a $3,000/£2,430 price tag, while, in August last year, Ming-Chi Kuo said it could cost between $2,000 and $2,500.
+
+That could put it way above its competition, if true. Meta and HTC Vive are the two major companies to have released mixed-reality headsets in the past few months.
+
+In October 2022, Mark Zuckerberg announced the launch of the Meta Quest Pro (£999, Currys.co.uk) – a mixed-reality headset that previously cost £1,499, but received a permanent price cut to £999 in March. That would make it more than half the predicted price of the Apple Reality Pro headset.
+
+At the Consumer Electronics Show earlier this year, HTC unveiled the HTC Vive XR Elite (£1,299, Amazon.co.uk), another mixed-reality headset.
+
+However, Gurman claims Apple is planning to launch a second, more low-cost model after the initial Reality Pro is released. He suggests the headset will use chips found in iPhones, instead of the premium high-spec ones found in the latest MacBooks.
+
+Most of the rumours surrounding the design of the mixed-reality headset come from a 2021 report from The Information. The publication said the headset could contain 8K displays, eye-tracking technology, LIDAR sensors and more than a dozen cameras that can be used to track people’s hands and overlay video of the real world.
+
+The company also mocked up an image based on the headset’s renders
+
+The rumoured design of the headset borrows from other Apple products. The headband, for example, is similar to the Apple Watch’s sport bands, while the front is similar to Apple’s AirPods Max headphones.
+
+A further report from Display Supply Chain Consultants, as seen by 9to5Mac, claims Apple’s headset will feature 4K 4000 x 4000 displays developed by Sony. There will be a third AMOLED display for low-resolution peripheral vision.
+
+On 23 January 2023, Bloomberg’s Gurman revealed a mass of information about the rumoured device. According to the insider, its core features will include video-watching inside the headset and advanced FaceTime-based video-conferencing within meeting rooms, something not currently a feature on other Apple devices.
+
+Users will allegedly be able to switch between AR and VR modes using a digital crown, like the one found on the AirPods Max. The sensors would be able to analyse the user’s hands and eyes, and they will be able to look at something on-screen and pinch their fingers to activate it, rather than use a hand controller, as with other VR devices.
+
+Gurman says it could also be used as an external display, will feature an option for prescription lenses and come with external battery pack. The OS could replicate that of iOS, and partnerships are being formed with streaming giants such as Disney, so content can be viewed inside the headset.
+
+In 2021, a research note from Ming-Chi Kuo said the mixed-reality headset will have a processor “with the same computing power level as the Mac”. That was further expanded on in a report released in June 2022, where it was reported that Apple’s headset would be powered by an M2 chip, which is found in the current MacBook Air, and will feature 16GB of RAM.
+
+According to the 2021 report, the headset will be able to operate independently without relying on a Mac or an iPhone, and will support a “comprehensive range of applications rather than specific applications”.
+
+On 18 April, Gurman claimed in a fresh report that the Apple VR/AR headset would run adapted iPad apps, including Safari, “calendars, contacts, files, home control, mail, maps, messaging, notes, photos and reminders, as well as its music, news, stocks and weather apps”. He alleges that it will also support Freeform, Pages, Numbers, Keynote, iMovie, and GarageBand.
+
+He also said that there would be headset versions of FaceTime and Apple TV, as well as a new camera app and a focus on gaming and virtual reality workouts. The new interface could give users access to millions of apps already available on the App Store, making the device a more enticing proposition. The home screen itself might even look like an iPad, according to Gurman.
+
+Can’t wait for the Apple AR/VR headset’s existence to be confirmed? There are some other virtual-reality and mixed-reality headsets you might want to check out in the meantime.
+
+The Meta Quest 2 isn’t a mixed-reality headset, but a full-on virtual-reality headset that doesn’t require users to be tethered to a computer to work. You just slip it on, grab hold of the controllers, and are immediately immersed in a believable 3D space. Sensors and cameras embedded in the headset can track your physical location in the room and translate your movements at 1:1 scale in the game world. “When you take a step forward in real life, you take a step forward in the virtual world, cementing the illusion that you exist within the virtual space,” our writer explained in their review. “If you want a VR experience without the fuss, there’s no better entry point than the Meta Quest 2. The fact you still have the option to plug it into a gaming PC for high-end VR gaming is a real bonus.”
+
+This is Meta’s most premium headset and the first mixed-reality device. The Meta Quest Pro is a combined augmented-reality and virtual-reality headset that many expect Apple’s Reality Pro will be directly competing with. It features 10 virtual-reality and mixed-reality sensors spread out throughout the headset, enabling you to see your surroundings and overlay content while your headset is on, with AR images superimposed onto your environment. It is expensive, but Meta reduced the price of the headset by £500 in March due to dwindling sales.
+
+HTC Vive is another manufacturer who has launched a new mixed-reality headset this year. The HTC Vive XR elite is a VR and AR headset that is lighter than the Meta Quest Pro. It features 3,840 x 1,920 2K resolution on each eye and has built-in hands-tracking, passthrough and a 90Hz refresh rate. You can still hook it up to a computer as well. The device was unveiled at CES 2023, and is available to pre-order now.
+
+For discounts on tech and video games, try one of our voucher codes:
+
+Don’t care for a mixed-reality device? We have a guide to the best VR headsets

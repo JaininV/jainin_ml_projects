@@ -1,0 +1,33 @@
+If any data can help truly attribute the effectiveness of media spend, it is consumer spending data.
+
+But purchase data isn’t only useful for closing the loop.
+
+In this video interview with Beet. TV, Jonathan Silver, Founder & CEO, Affinity Solutions, explains how his company is providing purchase data for a range of use cases.
+
+Affinity Solutions initially developed Cardlink, a model for banks that issue credit and debit cards to engage customers through targeted offers. Consumers get rewarded for shopping with certain retailers. Now Affinity receives data from over 3,000 banks daily, over 7 billion credit and debit card transactions annually.
+
+Affinity Solutions secured rights to provide data solutions to various stakeholders, becoming the purchase insights partner for consulting firms like Deloitte, Accenture, BCG and McKinsey.
+
+These firms use Affinity Solutions’ data to help retailers and other businesses understand consumer behavior outside their own four walls.
+
+Silver emphasized the importance of this data for businesses, saying, “We have a strong conviction that, unless retailers understand what’s happening and clients in general that deal with consumers on what their customers are doing outside their four walls, they’re going to be at a major disadvantage.”
+
+But purchase data has application outside of retail insights alone.
+
+More recently, Affinity Solutions has introduced Purchase Media Metrics, which Silver says is a measure of presence of buyers and level of spend. It is offered to buyers, sellers, agencies, clients and media players like TV networks.
+
+In 2022, Omnicom signed a multi-year agreement through which its Annalect analytics division would leverage Affinity’s “purchased-based media scoring” data against its own Inventory Graph.
+
+In February 2023, advanced TV ad platform Cadent also signed an agreement to use Affinity’s Consumer Purchase Audiences data in its Cadent Aperture Audience Data Marketplace.
+
+Silver explains, “Our mission right now is to bring that data into the media ecosystem and provide visibility on the presence of buyers and level of spend for every television show, every media property, every audience, so that finally advertisers can see to what extent the people that buy what they have to sell are present in a given media option.”
+
+This data is also being used by measurement companies to embed into their workflows. In 2022, former Nielsen EVP Damian Garbaccio joined the company as chief business and marketing officer.
+
+Silver says applying data to media was present from the beginning of the company.
+
+The initial model allowed retailers to advertise directly to bank cardholders based on their transaction behavior. Silver says: “While we can’t use the data for privacy reasons deterministically in media, we can use it in a way that allows businesses to optimize the allocation of their media budgets in a very efficient way.”
+
+As the company continues to refine its data-driven solutions, the potential for revolutionizing the media ecosystem becomes increasingly apparent.
+
+You’re watching “Advancing Media Measurement,” a Beet. TV Leadership Series and Dinner, presented by Affinity Solutions. For more videos from this series, please visit this page.

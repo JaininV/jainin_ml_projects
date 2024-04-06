@@ -1,0 +1,103 @@
+Check the Task Scheduler to ensure no task related to shutdown is set
+
+This error code indicates a random or unplanned shutdown enforced by an app or other factor.
+
+You need to check Event Viewer to know more about the shutdown and the process or app causing it.
+
+To fix various PC problems, we recommend Restoro PC Repair Tool:
+
+This software will repair common computer errors, protect you from file loss, malware, hardware failure and optimize your PC for maximum performance. Fix PC issues and remove viruses now in 3 easy steps:
+
+Download Restoro PC Repair Tool that comes with Patented Technologies .
+
+Click Start Scan to find Windows issues that could be causing PC problems.
+
+Click Repair All to fix issues affecting your computer's security and performance
+
+Restoro has been downloaded by  readers this month.
+
+The error code 0x80070000 is a common issue that occurs in legacy applications indicating a shutdown error in the Application Programming Interface functionality. This error code could cause disruptions in the app’s normal behavior.
+
+In this guide, we will discuss potential ways to deal with the issue.
+
+The Legacy API shutdown indicates that some process has issued a shutdown request using the older of two API functions available to request a shutdown.
+
+To get more information about the issue, you must check the Event logs to ensure which process is initiating the shutdown.
+
+Some PC issues are hard to tackle, especially when it comes to corrupted repositories or missing Windows files. If you are having troubles fixing an error, your system may be partially broken.
+
+We recommend installing Restoro, a tool that will scan your machine and identify what the fault is.
+
+Click here to download and start repairing.
+
+There could be various reasons for this error code to appear; some of the common ones are:
+
+* Process requested shutdown – If a process issued a shutdown request using the older of the two API functions available to request a shutdown, you could see this message. You need to check the Event Viewer to understand more.
+
+* Task is scheduled –  Your device might randomly shut down if a task is scheduled to restart your system. Check the Task Scheduler and disable the task if necessary.
+
+* Outdated app – If the legacy application is no longer supported or maintained by the developer, it may have known issues that can trigger the 0x80070000 error.
+
+* Antivirus is causing the issue – You might see this message if your antivirus is set to restart after scanning your machine or making any changes.
+
+Now that you know the causes let us check out how to fix the problem.
+
+Before engaging in advanced troubleshooting steps, you should consider performing the following checks:
+
+* Turn off your Wi-Fi or ethernet connection, temporarily disable your antivirus, and restart your PC. If the antivirus is causing the issue, reinstall it.
+
+* Restart your computer in a safe mode to check what caused the issue.
+
+* If Windows is restarting every hour, check for Windows activation.
+
+* Make sure to install the latest Windows patches.
+
+* Check for any recent app installation which could have caused the issue.
+
+Now from the right pane, locate the time and event when the restart happened to know the reason for the shutdown.
+
+If the reason behind the shutdown is an application installation or hardware replacement, undo the change to fix the issue.
+
+Select View by as Small icons and click Windows Tools.
+
+Go to Task Scheduler Library, go to each entry, and check if there is a scheduled restart for any entry to understand the issue.
+
+Remove the scheduled task to avoid the random shutdown.
+
+Type gpedit.msc and click OK to open Group Policy Editor.
+
+Locate and double-click Turn off Windows Customer Experience Improvement Program from the right pane.
+
+Click Apply, then OK to confirm the changes.
+
+Type regedit and click OK to open Registry Editor.
+
+Locate and double-click DisableShutdownNamedPipe to modify it. Change the Value data to 0 and click OK.
+
+Reboot your PC to save the changes.
+
+Go to System, then click About.
+
+Remove the checkmark next to Automatically restart and click OK.
+
+Click Apply and then OK.
+
+On the contrary, if you want to know how to set a shutdown timer on Windows 11, you can check out this guide.
+
+So, these are a few ways to check and fix the 0x80070000 Legacy API shutdown on your computer. If you have any questions or suggestions, feel free to mention them in the comments section below.
+
+More on this Topic
+
+0x87d00669 SCCM Update Error: How to Fix It
+
+0x80041002: What is This Error Code & How to Fix It
+
+0xc1900101 0x30017: How to Fix This Update/Install Error
+
+Aires.dll Missing or Not Found: How to Fix This Error
+
+rbxfpsunlocker.dll: What Is It & How to Download It
+
+qqmail.dll is Missing? How to Fix or Download It Again
+
+pholder.dll: What Is It & How to Download if It’s Missing

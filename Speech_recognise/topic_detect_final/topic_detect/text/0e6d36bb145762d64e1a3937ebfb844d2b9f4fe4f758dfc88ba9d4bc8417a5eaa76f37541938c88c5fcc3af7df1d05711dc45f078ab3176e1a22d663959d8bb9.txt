@@ -1,0 +1,43 @@
+Better production, higher quality, more dependable operation and a more efficient workforce: Autonomy is bringing benefits such as these to industrial technology environments every day. To track its full impact, Trimble and Industry Dive surveyed more than 160 leaders in the construction, agriculture and mining industries at the end of 2022.
+
+Here are the top five takeaways based on those survey results.
+
+It’s clear from the survey that the vast majority of construction, agriculture and mining companies are committed to continuous investments in autonomous technology. Autonomous work was a top priority last year, and it’s top of mind again this year and well into the future.
+
+Most of the surveyed leaders (87%) said their organizations made autonomy investments of some kind in 2022. An additional 6% planned to make investments last year, but those investments were delayed because of budgets, timelines or other factors.
+
+In the next five years, 94% of industrial technology professionals revealed, their companies would continue their autonomy investments. For 60% of respondents, these funds will go toward autonomous capabilities in machine control, but many other possibilities exist to deploy autonomous technology. Once a solid autonomous machine control foundation is in place, fully autonomous operations are possible in the future.
+
+Sensors (54%), functional safety (52%) and path/mission planning (51%) are also on the list of near-term investments.
+
+The lack of a unified definition for autonomous work may lead to a lack of understanding about what full autonomy means — and what it makes possible.
+
+“If people in these industries are seeing their solutions as being fully autonomous, then it’s important to define what fully autonomous really means,” explained Kevin Andrews, strategic marketing manager, autonomy, at Trimble. “Without a shared vision, it’s limited to individual interpretation.”
+
+While many professionals in these three industries said they’ve fully implemented some level of autonomy, they also recognized they had room to grow and further automate their processes.
+
+For example, 34% said that autonomous technology or autonomous work had been fully implemented (indicating full workflow automation) — but, as referenced above, 94% still planned to make future investments, indicating that leaders may not be as far along in their autonomy journeys as they think.
+
+Supply chain issues, escalating prices, labor shortages, inflationary concerns and tight financial conditions make autonomy investments more vital for industrial technology operations.
+
+Given the current global economic uncertainty, 75% of respondents indicated that autonomy investments had become a higher priority for them. This is likely due to technology’s ability to hedge against uncertainty and rising costs, as well as alleviate labor pressures and improve efficiency. Autonomy can help fill gaps in skilled labor — or free up workers’ time so they can focus on more critical tasks.
+
+Company leaders already see positive results from the autonomy investments they’ve made.
+
+For 53%, this meant fewer people are doing more work. For 49%, it translated to more work being completed in less time. Building a stronger competitive advantage and improving quality were also identified by more than four out of 10 respondents as improvements resulting from autonomy investments.
+
+Based on these results, it’s evident that autonomy delivers expected outcomes and protects against uncertainty by alleviating labor pressure and improving efficiency.
+
+When it comes to hesitations about improving work through autonomous technology, it’s easy to assume that cost would be the biggest concern among leaders who try to balance productivity with finances.
+
+It turns out, however, that cost is far from their biggest concern. In fact, it’s last on the list. The obstacles holding construction, agriculture and mining companies back from autonomous work instead involve:
+
+* The fear that technology still requires too much human intervention (39%).
+
+“Proper system design and training can alleviate many of these concerns,” said Giri Baleri, director of product management and strategic marketing, autonomy, at Trimble. He also emphasized the importance of finding the right partner to help bring multifaceted autonomous technology to life.
+
+“As the survey reveals, many companies probably don’t have all the in-house expertise they need,” he explained, “but that’s where partners come into the picture. You don’t have to know or understand it all. A good partner can address technology or knowledge gaps within your team.”
+
+Trimble and Industry Dive surveyed more than 160 C-suite executives, directors, managers and supervisors in construction, agriculture and mining. These leaders gave us an inside look at where and how they’re using autonomy now, along with their plans for the future.
+
+“Investments in Autonomous Technology Are on the Rise — Even in an Uncertain Economy”to access the complete set of exclusive data and expert insights.

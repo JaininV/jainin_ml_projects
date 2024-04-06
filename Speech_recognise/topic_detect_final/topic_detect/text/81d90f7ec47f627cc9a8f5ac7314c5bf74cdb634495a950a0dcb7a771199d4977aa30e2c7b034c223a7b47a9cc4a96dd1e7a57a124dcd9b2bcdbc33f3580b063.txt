@@ -1,0 +1,15 @@
+Loops and samples can sometimes sound lifeless thanks to over-processing, but if you’ve got the perfect beat for your song then you need something to add that life back in. An expander is a good choice, but sometimes they’re complicated and difficult to set up. Acustica has gone to great lengths to make setup for the right sound easier than ever with its new Fire The EXP expander plugin.
+
+On its surface, Fire the EXP looks like a simple one knob plugin, and you can use it just like than and be happy with the results. If you want to dig deeper though, it has more possibilities than meets the eye.
+
+Everything is built around the large Magic control in the center of the plugin’s UI. It’s basically a threshold control but it’s set to seem more like a “more effect” control, which in the grand scheme of things is exactly what it is.
+
+There are 21 compression/expansion custom modes derived from Acustica’s most renowned plugins, which can be found under Mode above the large control. To each side is a Bypass button, and an Autogain button, which automatically adjusts the output gain to match the input as the effect is increased (there’s also a manual Output slider on the bottom).
+
+At the top of the plugin is a Ratio control that sets the range of the expander for 0 to 100. To the right is a Morph fader that allows each of the dynamic elements to be seamlessly transform from an expander/compressor to an expander/limiter to an exp/saturator.
+
+On the top left is a Size dropdown menu that sets the size of GUI of the plugin, and on the right is a oversampling selection menu that goes from 1x up to 128x. The higher the oversampling rate, the less artifacts there will be and the audio quality will be better, but at the expense of the computer horsepower.
+
+The Time slider on the right adjusts the attack and release simultaneously, while the meter below the big knob shows the amount of compression/expansion of the plugin. Add the Dry/Wet balance adjustment and there’s more control of the sound than you thought possible from what seems to be a simple plugin.
+
+Acustica’s Fire The EXP plugin is available for around $75 USD. You can find out more here, or watch the video below for more details.

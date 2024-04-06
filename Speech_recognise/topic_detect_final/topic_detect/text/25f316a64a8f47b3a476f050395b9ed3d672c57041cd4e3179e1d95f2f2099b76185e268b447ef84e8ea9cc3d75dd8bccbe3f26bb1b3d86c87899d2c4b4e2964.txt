@@ -1,0 +1,23 @@
+A sentinel value is a special value used to flag different things, like the absence of optional input from the user or that a loop (or program) should be terminated or that during a lookup operation, nothing relevant was found. The important thing to notice here is that the chosen sentinel value must not overlap with “valid” data (e.g. if valid data are positive integers the sentinel value should not be a … positive integer).
+
+The most obvious example in Python would be None. It is used almost always as the default value when no input is given for an optional argument. Another example is when trying to .get something from a dictionary that doesn’t exist, you will get a None value back — what you do with it is up to you.
+
+So at this point, you might be thinking that None is a great option for a sentinel and most of the time it is. However, what do you do when None is also part of the valid data?
+
+weather_journal = {  '2023-04-01': 'Rain and wind - broke my umbrella',  '2023-04-02': 'Sunny',  '2023-04-03': None,  # no comments - playing video games all day in a dark room  '2023-04-04': 'Sunny'}obs_a = weather_journal.get('2023-04-03')  # no commentsobs_b = weather_journal.get('2023-04-25')  # no key for 2023-04-05 because it's in the future
+
+In the example above, both obs_a and obs_b will be None but 2023-04-03 has an entry in the journal and 2023-04-25 does not. We need something else to help us differentiate the two. We can do something similar to [1] and define a new object that’s used to indicate that a date has not been added to weather_journal yet.
+
+Why is this beneficial? Well, we might want to handle each case differently later in our code and now we have a way to tell which is which.
+
+Note that we are using the is operator because we want to check the identity of the object and not its value.
+
+If you have played around with dataclasses in Python, you might have come across some sentinel values like dataclasses. MISSING, used to mark a missing default value — None is a valid default value so they couldn’t use that — and dataclasses.KW_ONLY used to mark keyword-only fields.
+
+Another example is Python’s built-in iter. You can modify its behaviour by passing a sentinel value.
+
+STOP_RANDOM_STUFF = object()def get_random_stuff():  return np.random.choice([1, 2, 3, STOP_RANDOM_STUFF], size=1)[0]list(iter(get_random_stuff, STOP_RANDOM_STUFF))# example result: [1, 3, 2, 3, 1, 3]
+
+When iter is passed a sentinel value it will call the first argument, in our case get_random_stuff, until it returns the sentinel i.e. STOP_RANDOM_STUFF.
+
+In this post, we talked about what sentinel values are, how to use them and also what to do when the commonly usedNone is part of the valid data and therefore cannot be used as a sentinel value.

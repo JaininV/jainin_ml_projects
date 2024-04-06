@@ -1,0 +1,53 @@
+You’re in a meeting, and someone says, “We should really leverage AI for this use case—it’s time to start using our big data and democratizing insights.”
+
+Wait… but what does that mean? And is it even feasible?
+
+It’s so easy to throw around buzzwords in a business setting, but once the projects start rolling, it becomes crucial to understand the data terms that people use (and whether they mean what they are saying).
+
+You might be new to the data field or working in a role where you are increasingly working with data in your day-to-day. So let’s demystify some data buzzwords!
+
+I have to start with the buzziest as of late—artificial intelligence (AI for short). Thanks to OpenAI’s ChatGPT, Google’s Bard, AI image generators, and countless other players in this space, we’ve seen a lot of chatter about AI recently.
+
+Artificial intelligence is when a machine performs tasks that traditionally require human intelligence. These tasks involve perceiving, synthesizing, and inferring information.
+
+According to IBM, some of the most common examples of AI applications include the following:
+
+AI is sometimes used interchangeably with machine learning (ML), but it’s important to note that machine learning is a sub-field of AI. ML is all about using data to make predictions with models, while AI contains a broader array of tasks.
+
+While the popularity of the term big data appears to have peaked a few years ago, it is still a widely used buzzword today and is googled often.
+
+The tough thing about this term is that “big” can mean something different to everyone, and there isn’t a standard definition. However, big data is often categorized as such because of the 4 V’s: velocity, veracity, volume, and variety. Here’s a brief description of each of these:
+
+* Velocity: the data collection happens quickly (real-time) and continuously
+
+* Volume: there is a huge amount of data—so much that it’s difficult to store and process in some organizations
+
+* Variety: the data can come in all forms, including structured (data types with defined formats and lengths) and unstructured (think images, videos, etc.)
+
+* Veracity: the accuracy and quality of your data [2]
+
+The first 3 V’s are a good litmus test to see if you are dealing with big data—if your data is high in volume, velocity, and variety, then you likely are. And the veracity of the data will be a determining factor of whether or not your analysis is valuable.
+
+According to Google Trends, we are at an all-time high for the search “data governance.” So what does this term mean?
+
+Data governance is the practice of applying structure and controls to data processes. It helps ensure that data quality is maintained. Data governance can look different depending on the organization and sector of a company, but according to Informatica, some common policies include:
+
+I find it interesting that the height of popularity for “big data” was a few years ago, and now “data governance” is at its peak. It’s a logical progression because as we have more and more data, the need for standardized data processes grows—otherwise, you amass lots of messy data that lacks real value.
+
+In the business world, the acronym KPI is thrown around so much that it might as well mean Keep Pulling Information. But it really stands for Key Performance Indicator.
+
+KPIs are measures that are set as performance targets in a business. The “key” element means that these measures are the ones the company has determined to be most critical to success.
+
+Often people will use “KPI” and “metric” interchangeably. However, a metric is a more broad term that encompasses any measure that you might report on, while KPI refers to the few that are the most indicative of success for the business's objectives/initiatives. [4]
+
+This is one of my favorite buzzwords! (And as a data journalist, it should be.)
+
+Data literacy is about knowing how to work with data and communicate the meaning of data effectively. A data literacy initiative would include teaching around topics like data terms, standard processes, analytics best practices, and data storytelling.
+
+This gets a bit meta because this article could be categorized as a data literacy article—I am working to increase understanding around popular data terms so that we can know we are speaking the same language.
+
+For a deeper dive into what data literacy includes, check out this article.
+
+Good communication is critical when it comes to working with data. Understanding data buzzwords and using them correctly can ensure everyone is on the same page about your project's goals and value.
+
+I would also love to hear from you—what’s a buzzword or technical term you had to learn when you started in the data field?

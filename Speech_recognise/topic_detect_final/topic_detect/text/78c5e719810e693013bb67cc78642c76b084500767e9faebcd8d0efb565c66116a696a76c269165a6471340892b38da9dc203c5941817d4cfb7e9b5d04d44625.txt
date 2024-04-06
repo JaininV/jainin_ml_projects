@@ -1,0 +1,27 @@
+After a dismal 2022 in which its price fell roughly 65%, Ethereum (ETH) is now up almost 75% since the beginning of the new year. To some investors, this increase might make Ethereum less attractive, as it seems to be trading at a premium.
+
+Yet, even with its price on a tear in 2023, there is plenty of reason to believe Ethereum's best days remain ahead. Considering that it still remains more than 50% below its all-time high, if it can muster the momentum to eclipse that previous mark, an investment today could represent and increase of more than 130%.
+
+Here are three reasons today could be a perfect opportunity to buy Ethereum.
+
+Although its price may change day to day, there is one metric that has remained fairly stable -- total value locked (TVL).
+
+By using TVL, we can compare the value different blockchains support in the decentralized finance (DeFi) economy. Since DeFi is one of Ethereum's primary use cases, ensuring that it remains successful in the sector is vital to gauging Ethereum's overall success.
+
+Despite the hit its price took during the last crypto winter, Ethereum still dominates the burgeoning DeFi sector. In fact, it has the largest TVL of any smart-contract-capable blockchain, with a whopping $31.7 billion, and it makes up almost 60% of all the value in DeFi. The next closest blockchain is Tron, with a measly 10% and just over $5 billion TVL. Clearly, Ethereum leads by a long shot.
+
+Back in August 2022, Ethereum benefited from a brief rally as the deadline for a highly anticipated upgrade known as The Merge approached. Although The Merge was and still is a very important achievement, there is another upgrade that could help Ethereum's price even more.
+
+In preparation for The Merge, an upgrade dubbed the London Hard Fork was implemented in August 2021. With this new upgrade, the dynamics around Ethereum's supply and the creation of new ether tokens completely changed. For most of Ethereum's history, it had a supply inflation rate of about 3.5%. It also had an unlimited supply. But with the arrival of the London Hard Fork, this all changed.
+
+Now Ethereum's inflation rate fluctuates. Thanks to a new burn mechanism, the number of ether in circulation can actually decline as the number of transactions increases. And if there are enough transactions, Ethereum can actually become deflationary.
+
+In fact, for the first time in its history, Ethereum has entered a deflationary stage. Today the rate of new ether entering circulation is -0.125%. That means there are fewer ether today than there were when The Merge was adopted in September 2022.
+
+With Ethereum in deflationary territory, its price will likely benefit as the pressures of a more limited supply and increased demand ensues.
+
+It could come as a surprise, but Ethereum isn't a finished product. There are a host of developers working on making it more capable of supporting demand on a global scale.
+
+While it may seem lofty, Ethereum's ultimate goal is to "grow Ethereum until it's powerful enough to help all of humanity." As it currently stands, Ethereum isn't quite there yet, but that is slowly changing.
+
+Based on comments from one of Ethereum's co-founders, Vitalik Buterin, the blockchain is only at about 55% of its potential. Eventually, more upgrades will make the network faster and cheaper to use, two of the primary impediments it faces today. Should developers keep their current trajectory of continued progress, it seems more likely that Ethereum's gains will continue.

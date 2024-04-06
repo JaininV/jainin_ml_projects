@@ -1,0 +1,29 @@
+The first artificial intelligence (AI) war is dead ahead. No, I don't mean an AI-generated apocalypse -- at least, I really hope not.
+
+No, what I'm talking about is far more ordinary. It's a battle to determine which corporate titan -- or titans -- will dominate the AI industry.
+
+And in this battle, size matters. That's why my top AI picks are both companies with market caps over $1 trillion already: Microsoft  and Alphabet .
+
+Let's start with the company many industry experts say has the early lead in the race for AI dominance: Microsoft.
+
+Analysts are quick to note that the company has several key competitive advantages when it comes to AI, such as:
+
+* OpenAI partnership: Microsoft has been a major investor in OpenAI (the company behind ChatGPT) since 2019. As a result, Microsoft has reaped the benefits of its partner's AI research. In addition, Microsoft's Azure is the exclusive cloud provider for OpenAI -- meaning as the popularity of ChatGPT (and other OpenAI applications) grows, Azure will land more business.
+
+* Abundant talent: Microsoft is a legendary brand within the software industry. For years, it has attracted talented individuals within the computer science field. Without a doubt, Microsoft will call on its thousands of skilled employees to innovate and improve its AI in the future.
+
+* Ready-made applications: Many of Microsoft's applications are already iconic. The tech giant has many uses for its AI between its Windows operating system, its Office product suite, and LinkedIn. What's more, users are already familiar with its products, meaning it can integrate new AI features into them in a user-friendly, non-threatening manner.
+
+In summary, Microsoft is likely to be the early-round leader in the battle for AI dominance. Regardless, it is already an excellent stock to own. The company's diversified business segments, strong history of revenue and earnings growth, and outstanding management team are some of the reasons the stock has grown by more than 1,000% in the last decade. And now, you can add its growing clout within the AI industry to the long list of reasons to own Microsoft stock.
+
+My second pick goes somewhat against the grain. However, investors would be mistaken to think that Alphabet is hopelessly behind in the battle for AI dominance. The company might seem to have been slow out of the gate, but it still has plenty of tricks up its sleeve.
+
+Indeed, consider some advantages Alphabet has:
+
+* Data, data, and more data: One of the most important factors in building great AI systems is having data -- lots of it -- to train them on. And perhaps no company has more data than Alphabet. The company has decades of Google Search requests and results at its disposal. In addition, the process of indexing the internet is a massive task -- one that Alphabet could use to build a more dynamic AI.
+
+* Practical personalized applications: Alphabet's suite of applications may not be as legendary as Microsoft's, but they are popular. Gmail, Google Maps, YouTube, and, of course, Google Search are just some of the applications that could benefit from a dose of AI enhancement.
+
+* Research and development: Alphabet spent $39.5 billion on research and development during the last 12 months alone. And while that is an enormous sum, it's less than 14% of Alphabet's revenue. In short, developing cutting-edge AI is expensive, but Alphabet is one of the companies that can afford to do it.
+
+Many analysts have seen the recent developments in the AI space as a threat to Alphabet and its dominance of the online search business. And, on the face of it, Microsoft has stolen the show thus far. There are, however, good reasons to remain optimistic that Alphabet will be able to compete in the AI arms race. Its wealth of data, its popular applications, and its deep pockets should keep it competitive in this field for years to come.

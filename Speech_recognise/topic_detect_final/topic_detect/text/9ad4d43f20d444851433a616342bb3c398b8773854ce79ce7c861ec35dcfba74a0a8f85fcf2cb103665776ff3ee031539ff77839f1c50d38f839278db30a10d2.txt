@@ -1,0 +1,21 @@
+A new type of drug could provide a way to treat multidrug-resistant bacteria, according to a study published in Nature Communications. Instead of targeting the bacteria directly, the drug blocks key toxins involved in the infection process. This both reduces inflammation and makes the bacteria more vulnerable to antibiotics.
+
+Antibiotics have been invaluable in the fight against bacterial infections, but bacteria are becoming more and more resistant to them. In the early days of antibiotics, bacteria took about 11 years on average to become resistant, but that figure has dropped to 2-3 years today.
+
+The situation is dire. Many common bacterial infections are becoming resistant, and new antibiotics aren't being developed quickly enough to keep pace."
+
+In 2019, 1.27 million deaths were directly attributable to antimicrobial resistance, and that number is expected to rise to 10 million per year in 2050. 'We urgently need new tools to tackle these resistant infections,' says Osmekhina. Despite this, no new antibiotics have been approved in decades, and there are just six currently under development that might sidestep resistance, only two of which target highly resistant bacteria.
+
+A different approach would be to directly target the toxins and biofilms that pathogens use to establish the infection and cause inflammation, collectively called virulence factors. These virulence factors include small molecules that bacteria use to communicate and larger molecules that are part of their protective membrane. A drug that binds to these molecules could interfere with processes that are vital to the bacteria.
+
+An international team led by researchers at Aalto went looking for drugs that could do just that. They found a good candidate after screening a library to identify molecules that interact with virulence factors but don't affect the bacteria's growth. 'Because the drug disarms the pathogen instead of killing it or halting its growth, our approach generates much weaker selection pressure for the development of resistant bacteria,' explains Christopher Jonkergouw, a doctoral student who led the study.
+
+The team tested the drug against the pathogenic bacteria Pseudomonas aeruginosa and Acinetobacter baumannii, which feature at the top of the World Health Organization's priority list. The treatment sequestered toxins released by the pathogens and disrupted their ability to communicate, reducing the formation of protective biofilms.
+
+While these experiments showed that the drug could effectively disarm these pathogens, the researchers also wanted to know if it could make them more vulnerable. Supplementing an antibiotic treatment with the new drug made the antibiotic effective at a lower dose. But more importantly, when the team treated bacteria with a combination of antibiotics and the new drug for two weeks, the bacteria didn't evolve resistance to the antibiotics, although they rapidly became resistant when exposed to the antibiotics alone. This suggests that the new drug could be used to preserve the efficacy of the antibiotics we have left.
+
+'The drug interacts with part of the bacterial outer membrane, which is a strong barrier against antibiotics. The drug loosens the membrane and makes it more permeable. That means it's easier for antibiotics to get into the bacteria and kill them,' explains Osmekhina.
+
+Having shown that the drug is effective against bacterial pathogens, the next step was to determine whether it could actually provide protection. To test that, human lung cells were exposed to toxins that cause inflammation and cellular damage. The drug directly sequestered the toxins and protected against inflammation and cellular damage. The researchers found similar protective results when mice were exposed to the toxins.
+
+While more work needs to be done before clinical trials, these findings open the door to an exciting new alternative to antibiotics, one that could potentially break the vicious cycle of antibiotic discovery and resistance. This treatment and others like it could provide the boost we need to keep ahead in our never-ending arms race with bacterial resistance.

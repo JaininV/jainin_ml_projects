@@ -1,0 +1,19 @@
+Kibo, a market leader in composable commerce products, and Builder.io, the leading visual headless content management system, today announced its jumpstart solution to help companies implement headless and composable commerce experiences faster, while making it easier for non-technical business users to update and maintain them. With this new prebuilt solution, customers will get the best of both worlds – the only modular commerce platform that spans order management, eCommerce and subscriptions, paired with a flexible, headless CMS that allows teams to easily create and maintain content through a visual editor.
+
+Marketing and commerce teams continue to face mounting pressure to create intuitive content and commerce experiences with speed, but often face challenges due to siloed data, complex workflows and integrations, and technical bottlenecks. According to Forrester’s Predictions 2023: Commerce Report, “Some digital businesses are overcorrecting as they abandon proprietary and legacy tech to embrace the most custom and flexible — but massively complex — commerce tech ecosystems. […] Digital businesses will pivot to reengage with commerce solutions that balance ecosystem management, business user experiences, and Function-First Tech Buying enablement.”
+
+“Kibo and Builder.io are aligned in our mission to empower commerce teams to simplify the complexity of optimizing and launching customer experiences with usability for business users at the forefront,” said Ram Venkataraman, CEO of Kibo. “With this joint solution, our clients will be able to get to market faster and gain the agility benefits of composable solutions without the significant overhead or development costs.”
+
+“We believe intuitive digital experience and content development workflows are the keys to operating a successful composable commerce architecture,” said Builder.io COO, Brent Locks. “Our joint solution and partnership with Kibo are making it easier for commerce teams to achieve those workflows faster.”
+
+With rules-based automations, visual merchandising, and built-in visualizations, eCommerce teams can automate merchandising workflows and confidently make data-driven decisions. The visual content editing experience allows marketers to drag and drop content and commerce components, giving both business team users and developers their time back. A headless, API-driven approach allows for deep extensibility and customization to meet the needs of any complex business use case.
+
+Kibo and Builder.io debuted their joint solution at Shoptalk Las Vegas, a Retail and Commerce tradeshow, in March 2023. Customers can easily get started through a seamless integration and unified front-end commerce experience. To learn more, request a demo, or to purchase and implement the joint solution synchronously through Kibo, please visit https://kibocommerce.com/builder-io/.
+
+About Kibo
+
+Kibo Commerce is a composable digital commerce platform for retailers, manufacturers, distributors, and wholesalers who want to simplify the complexity in their businesses and deliver modern customer experiences. We are the only modular commerce platform supporting experiences that span Order Management, eCommerce, and Subscriptions. Companies like Zwilling, Ace Hardware, and Coastal Construction trust Kibo to bring simplicity and sophistication to commerce operations and exceed customer expectations.
+
+About Builder.io
+
+Builder.io is a visual headless content management system (CMS) for teams building composable commerce experiences, modern marketing sites, and multi-brand digital experiences. Used by Everlane, Zapier, and Anheuser-Busch, its unique visual drag-and-drop editor and headless CMS integrates with any tech stack or platform, allowing customers to easily extend the platform to meet their needs. For more information on Builder.io, please visit: https://www.builder.io/

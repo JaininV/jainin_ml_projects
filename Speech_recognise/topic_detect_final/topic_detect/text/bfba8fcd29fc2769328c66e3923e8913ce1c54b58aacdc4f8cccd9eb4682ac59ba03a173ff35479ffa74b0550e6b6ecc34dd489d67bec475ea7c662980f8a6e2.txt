@@ -1,0 +1,15 @@
+Germany: A new study has found that hypochromic red cells  (HRC) may be used as a biomarker for predicting mortality risk among systemic  sclerosis (SSc) patients according to a study published in BMC: Arthritis Research  and Therapy.
+
+The study, conducted by a team of researchers in Germany,  aimed to investigate the prognostic value of % HRC in SSc patients who were  screened for pulmonary hypertension (PH).
+
+The retrospective study included 171 SSc patients, out of  the 280 screened for PH, with available data on iron metabolism. The study  analyzed clinical characteristics, as well as laboratory and pulmonary  functional parameters, to determine their association with the prognosis of SSc  using uni- and multivariable analysis. The patients were followed for an  average of 2.4 ± 1.8 years.
+
+The study concluded with the following clinical takeaways:
+
+1.77% of the patients had limited cutaneous SSc,  65 had manifest PH, and 73 had pulmonary fibrosis.2. HRC > 2% at baseline was significantly  associated with worse survival in both uni- and multivariable analyses,  independent from the presence of PH or pulmonary parenchymal manifestations.3.The combination of HRC > 2% and low diffusion  capacity for carbon monoxide (DLCO) ≤ 65% predicted was significantly  associated with survival.
+
+Patients with SSc are frequently affected by iron  deficiency, particularly those with PH, and the first data indicate the  prognostic importance of HRC > 2% among patients with PH. Although this is  the first study to report on the potential use of HRC as a biomarker for SSc  patients, the researchers emphasize that larger studies are required to confirm  these findings.
+
+The study’s lead author, Dr. Panagiota Xanthouli, emphasized  the importance of these findings for the management of SSc patients, stating  that “the combination of HRC > 2% and DLCO ≤ 65% predicted is a simple and  easily obtainable marker, which could be easily implemented into clinical  practice and help identify patients at higher risk of mortality.”
+
+Xanthouli, P., Gordjani, O., Benjamin, N. et al. Hypochromic  red cells as a prognostic indicator of survival among patients with systemic  sclerosis screened for pulmonary hypertension. Arthritis Res Ther 25,  38 (2023). https://doi.org/10.1186/s13075-023-03020-y

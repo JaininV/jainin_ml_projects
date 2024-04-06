@@ -1,0 +1,165 @@
+Before you start reading this article, I recommend looking at my blog, Application Ideas for Beginner, Intermediate and Advanced, using Blazor.
+
+Dollar To Cent Converter would enable you to practice your fundamental programming knowledge. It allows the user to input a dollar value (float), assuming that it can also accept extra cents (ex. $2.75), and convert it into an integer (in this case, if $2.75 = 275). After this, they converted into coins with the sub-type of dollars: penny, nickel, dime and quarter. Use an algorithm to divide the dollar value into the four coin types and output as few coins as possible. Loops, if conditions and a simple algorithm will be used.
+
+MudBlazor is "a Material Design Component framework" for Blazor to ease up the web development framework without struggling with CSS and javascript if you're looking for Date pickers, progress bars, Ratings, etc.
+
+The vision of MudBlazor is to keep it clean, simple, and with a highly customizable modern design: no Javascript, just Blazor and CSS. MudBlazor has your back, and nearly all components use just C# (no Javascript, except where it's strictly necessary). The team has documented the library in a very understandable way. You can check the documentation here.
+
+Open the Visual Studio and search for Blazor App. Click on the Next button,
+
+Define the project name, path, and solution name. Click on the Create button,
+
+After that, a new window will pop up to choose the target framework (.Net 6.0) from the dropdown and ensure "Configure the Https" is checked.
+
+Open up the package manager console and try running the following command to install the MudBlazor in our project.
+
+Install-Package MudBlazor
+
+After the package is installed, open up the startup.cs file and try adding the services inside the ConfigureServices() method, adding all the common services required by the MudBlazor component.
+
+services.AddMudServices();
+
+We need to add the references of CSS and js files of MudBlazor inside the wwwroot /index.html  page,
+
+Here we need to import the MudBlazor package inside the _Imports.razor file,
+
+@using MudBlazor
+
+Once after that, we need to add the providers we consume from the MudBlazor package. Open up the Shared/MainLayout.razor and add the below code.
+
+To have the logic in place, we must create a c# class in ViewModels/Beginner/DollarToCentConverterViewModel.cs.
+
+using MudBlazor;
+
+using SmallApplications_Blazor.Helpers;
+
+using SmallApplications_Blazor.Models;
+
+using System.Globalization;
+
+namespace SmallApplications_Blazor.ViewModels.Beginner
+
+public class DollarToCentConverterViewModel
+
+public string? DollarValue { get; set; }
+
+public int Cents { get; set; }
+
+public string? ReturnMessage { get; set; }
+
+public bool HasError => !string.IsNullOrEmpty(ReturnMessage);
+
+public IList
+
+Here is a brief description of the above code snippet
+
+* DollarValue holds the value the user types into the input element.
+
+* ReturnMessage is a display message whenever an error happens in the conversion.
+
+* Convert( ) performs that operation using the DollarValue property value.
+
+To have the UI in place, we must create a Razor component in the Pages/Beginner/DollarToCentConverter.razor.
+
+@page "/Beginner/dollarToCent"
+
+@using SmallApplications_Blazor.ViewModels.Beginner;
+
+@if (vm.HasError)
+
+@code {
+
+public DollarToCentConverterViewModel vm = new DollarToCentConverterViewModel();
+
+Line 54- 60. Section to show or not Error Message
+
+Adding the page routing in a new card in the Beginner/Main_Beginner razor page
+
+At this point, we can build and run the project locally. Enter some binary data into the input element and click the 'Covert to Decimal' button to see the result (and covert back).
+
+We will finish this article by creating some tests to verify the functionalities.
+
+The separate DollarToCentConverterViewModel class makes it easy to unit test the logic. Create a ViewModels/Beginner/DollarToCentConverterViewModelTests
+
+using SmallApplications_Blazor.ViewModels.Beginner;
+
+using System.Text;
+
+using Xunit;
+
+namespace SmallApplications_Blazor.Tests.ViewModels
+
+public class DollarToCentConverterViewModelTests
+
+private const string dollarErrorMessage = "The dollar value must be a valid number between 0.00 and 1000.00.";
+
+[Fact]
+
+public void Construction()
+
+// arrange
+
+// act
+
+var vm = new DollarToCentConverterViewModel();
+
+// assert
+
+Assert.NotNull(vm);
+
+Assert.Null(vm.DollarValue);
+
+Assert.Equal(0, vm.Cents);
+
+Assert.Empty(vm.CoinResults);
+
+Assert.Null(vm.ReturnMessage);
+
+Assert.False(vm.HasError);
+
+[Theory]
+
+[InlineData("0.41", 41, "", false)]
+
+[InlineData("1.49", 149, "", false)]
+
+[InlineData("", 0, dollarErrorMessage, true)]
+
+[InlineData("1.e4", 0, dollarErrorMessage, true)]
+
+[InlineData("-3.89", 0, dollarErrorMessage, true)]
+
+public void Convert_WithDollarValue(string initialDollar, int expectedCents, string expectedErrorMessage, bool expectedHasError)
+
+// arrange
+
+var vm = new DollarToCentConverterViewModel
+
+DollarValue = initialDollar
+
+// act
+
+vm.Convert();
+
+// assert
+
+Assert.Equal(expectedCents, vm.Cents);
+
+Assert.Equal(expectedErrorMessage, vm.ReturnMessage);
+
+Assert.Equal(expectedHasError, vm.HasError);
+
+We notice the xUnit [Fact] and  [Theory] attributes on each method. The xUnit test runner uses these attributes to discover the unit tests in our class. [Fact] It is for a single test method. [Theory] It is used to define a method with variations run for each [InlineData] attribute on that same method. The method signature  [InlineData] must match the test method's signature, and that data is passed into the method for each test.
+
+All of the unit tests conform to the same outline: arrange (set up the requirements for the test), act (perform the test on the method), and assert (validate the state after the method is tested). This helps other developers, and ourselves understand the intent of the tests.
+
+I hope this article helps you understand the Dollar To Cents Converter implementation with .NET 6, Blazor wasm and MudBlazor.
+
+Thank you for reading; please let me know your questions, thoughts, or feedback in the comments section. I appreciate your feedback and encouragement.
+
+The source code is available on the following repository GitHub.
+
+This is an open-source project, and contributors are what makes such a project with rich features to learn, inspire, and motivate. Any contributions you make are greatly appreciated. Fork the Project to add a new application.
+
+Happy Documenting!

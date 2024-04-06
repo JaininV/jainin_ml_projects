@@ -1,0 +1,23 @@
+We inherited a reasonably large Python Tornado appserver code we wanted to use in a web-based product with thousands of concurrent users. My line of thinking was: how hard could it be? All we have to do is put a load balancer in front of it, run as many stateless servers as needed according to load, and point it to a Postgres DB in some cloud. Lo and behold, I was in for a roller coaster ride. The project took a little less than 3 months instead of the anticipated 1 month and reduced our runway as a company.
+
+We could implement all of what we initially thought in a few weeks. We realized during implementation that the appserver is not async; who writes sync stuff in today’s world as an application server? The fun had just started. Each server could just do 10 requests per second. We thought we can at least postpone the problem by running many appservers. If we launch 30, we could do 300 requests per second to serve a decent number of concurrent users. Wait, rps is not the only issue here; latency is also an issue. If a request goes to a server with 100 requests in front of it because one request was slow, the response time for that request is 10 seconds.
+
+So now, we decided to go async. It allows other request handlers to start as soon as one gets stuck. Thankfully, Tornado itself supports async with asyncio pretty well. We know this will be a large change to change the whole codebase to async/await, but we do it in the interest of humanity. We start making the changes.
+
+We want to do test-driven development, and we fire up the unit tests, but unit tests would not work for async code. Again, Tornado itself has a nice async unit test framework that works pretty well with pytest. We get some basic stuff working together and live with the fact that tests need to be rewritten.
+
+We now think that library calls should be pretty easily moved to async. But we have not encountered a beast named SQLAlchemy in savage mode before. Now, SQLAlchemy is the smoothest salesman when using sync mode. ORM works like a charm, code looks beautiful. But the async version is just savage. We have to realize that it is fighting a bigger battle for us and the people supporting the software are just phenomenal. caseIIT and mike bayer (mike bayer) are crucial in getting async SQLAlchemy to work for us.
+
+We quickly realize that all of the code has to declare any ORM attribute before using it. For eg, if you had an ORM mapped object x in sync mode which is from table “USER” and “USER” has a column “name”. You could easily use x.name and sync sqlalchemy would do the trick for you. Now, you cannot do that anymore. You must tell SQLAlchemy to load “name” with a SQLAlchemy statement. This means the whole codebase is now to be littered with these loads.
+
+The other issue is that any add, delete, update to the database needs to be explicitly specified. Before, you could just update something in sync mode and when the session (session is like a cache of ORM objects from the database) completes, it makes the necessary changes in the database. Not anymore. You have to now explicitly call the add, delete, update methods to make it happen. What makes it worse is that the session is expired after each of these operations. So you have to reload objects often before the second operation if you do more than one operation in a single appserver HTTP request.
+
+The other libraries used by the appserver are easy to make async: fs, request etc.
+
+We now are happy we have a huge number of concurrent requests going through, but we need to tweak a few things to make it good.
+
+The number of stateless application servers running, we need at least 2 for fault tolerance. We are using 3 at the moment. Number of concurrent connections possible in each appserver, itis specified in a function create_async_engine that takes possible number of concurrent db connections. We set it to 200 per appserver for now. This is the number of DBAPI connections or the number of possible concurrent transactionsThere is a limit to number of connections on server side postgres, called max_connections . It is a flag to the database. The sum of all client number of concurrent db connections should be less than this number. We set it to 900. Tip: Google cloud’s postgres would auto adjust this number according to the number of CPU/Memory given. But you could manually increase it too.
+
+After all these changes, we are in a position where we can scale our requests per second to as much as one postgres can handle with the best hardware(we hear 20000 rps). Beyond this, we would need sharding. We also now have a much nicer test suite that gives us good code coverage numbers.
+
+I hope you would give Lab. Computer a try to teach your favorite CS subject.

@@ -1,0 +1,49 @@
+This article has been reviewed according to Science X's                                                      editorial process
+
+and policies.                                                     Editors have highlighted                                                     the following attributes while ensuring the content's credibility:
+
+This article has been reviewed according to Science X's                                                      editorial process
+
+and policies.                                                     Editors have highlighted                                                     the following attributes while ensuring the content's credibility:
+
+A team of researchers from the University of Toronto has created a triple-junction perovskite solar cell with record efficiency by overcoming a key limitation of previous designs.
+
+The prototype represents a significant advance in the development of low-cost alternatives to silicon-based solar cells, which are the current industry standard.
+
+"In addition to lower manufacturing cost, perovskites offer us the ability to stack multiple layers of light-absorbing materials on top of each other, and even on top of traditional silicon cells," says Professor Ted Sargent, who recently joined the department of chemistry and the department of electrical and computer engineering at Northwestern University but maintains his lab at U of T's Faculty of Applied Science & Engineering.
+
+"In this work, we used rational design to address a critical challenge that can arise in this multi-layered paradigm, improving both efficiency and durability."
+
+Today's solar cells are made from a single wafer of ultra-pure silicon, which is energy-intensive to produce. By contrast, perovskite solar cells are made using perovskite polycrystalline films that are coated onto surfaces with low-cost, solution-processing techniques similar to those used in the printing industry.
+
+By varying the composition of the perovskite crystals within these films, each layer can be "tuned" to absorb different wavelengths of light, making efficient use of the entire solar spectrum. This is not possible with silicon, which always absorbs the same wavelengths.
+
+Sargent's group is among those developing new ways to unlock the potential of perovskite solar cells. Their previous work has included two-layered tandem cells, but their latest study, published in Nature, focuses on a three-layer design.
+
+"Multi-layered cells are typically designed so that the top layer with wide-bandgap perovskites absorbs the most energetic photons, meaning high-frequency light with short wavelengths, toward the violet end of the spectrum," says post-doctoral researcher Zaiwei Wang, one of four co-lead authors on the new paper.
+
+"The next layer will absorb medium wavelengths and the bottom one will absorb longer wavelengths. But it's in the top layer that we get the challenge of light-induced phase separation."
+
+The team used a type of perovskite material known as ABX3, which is made from a mix of different substances—including cesium, lead, tin, iodine, bromine and some small organic molecules. The top layer, in particular, is composed of mixed halide perovskites, which have a high proportion of bromine and iodine.
+
+"What happens in light-induced phase separation of these mixed perovskites is that the bombardment of high-frequency photons causes the phases that are richer in bromine to get separated from those that are rich in iodine," says Hao Chen, a post-doctoral researcher and co-lead author of the study.
+
+"This leads to an increase in defects and a decrease in overall performance."
+
+To overcome this problem, the research team used detailed computer models to simulate the effect of altering the composition of the crystals. This work suggested two changes: removing the organic molecules for an all-inorganic perovskite structure and introducing the element rubidium.
+
+"The introduction of rubidium suppresses the light-induced phase separation issue," says Tong Zhu, another post-doctoral researcher and co-lead author.
+
+"Our rubidium/cesium mixed inorganic perovskites show better light stability than [other] perovskite materials, including cesium-based inorganic perovskites and widely used organic-inorganic hybrid perovskites with similar band gaps."
+
+Using this knowledge, the team then designed and built a triple-junction cell with this composition. They measured its efficiency at 24.3 percent with an open-circuit voltage of 3.21 volts. They also sent it to be independently certified by the National Renewable Energy Laboratory, which measured a quasi-steady-state efficiency of 23.3 percent.
+
+"In the past, triple-junction perovskite solar cells have demonstrated a maximum efficiency of around 20 percent, so this is a big improvement. To our knowledge, this is also the first reported certification efficiency of triple-junction perovskite solar cells," says Ph. D. candidate Lewei Zeng, another co-lead author.
+
+"Previous designs also tended to lose a lot of their performance in a matter of hours. By contrast, ours maintained 80 percent of its initial efficiency even after 420 hours of operation—so that's a big step in terms of durability as well."
+
+The team says that although further improvements to the performance will be needed before perovskite solar cells can compete with silicon in commercial applications, the latest study demonstrates a path forward.
+
+"Theory tells us that perovskites have the ability to overcome a lot of the inherent limitations of silicon as a material," Zeng says.
+
+"But it's not simply a matter of one displacing the other. There might be some applications better suited to perovskites, and some where silicon is better—or we could combine them both. There are a lot of exciting possibilities ahead."

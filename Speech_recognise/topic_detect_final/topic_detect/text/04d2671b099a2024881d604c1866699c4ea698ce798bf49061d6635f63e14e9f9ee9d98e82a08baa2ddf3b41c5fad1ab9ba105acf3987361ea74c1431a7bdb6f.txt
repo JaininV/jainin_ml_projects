@@ -1,0 +1,49 @@
+Chinese tech giant Alibaba announced the development of its new generative AI chatbot, similar to the US ChatGPT. The company calls the Alibaba ChatGPT rival Tongyi Qianwen, or “truth from a thousand questions,” and it hasn’t released a shorter name. Moreover, Alibaba says it will integrate the chatbot into all proprietary apps.
+
+Alibaba demonstrated the capabilities of Tongyi Qianwen in its recent Alibaba Cloud stream. The video showed how it could take meeting notes, write emails, and draft business proposals. Moreover, the Chinese firm claimed its AI chatbot is more powerful than ChatGPT.
+
+The Chinese eCommerce brand also said it would use Tongyi Qianwen as a foundation for its new AI service. Specifically, it will create custom large language models for customers. Alibaba’s chairman and CEO, Daniel Zhang, said, “We are at a technological watershed moment driven by generative AI and cloud computing.”
+
+Alibaba news website Alizila summarized what the new AI chatbot could do. It said the bot adds features to the enterprise communication platform DingTalk.
+
+Tongyi Qianwen will enable DingTalk to create campaign ideas, proofread documents, and generate meeting notes. Moreover, it can turn a hand-drawn sketch into a mini-app in seconds.
+
+In contrast, ChatGPT’s new large language model GPT-4 lets it turn napkin drawings into websites. Also, Tongyi Qianwen will improve the voice assistant Tmall Genie to provide a more personalized experience.
+
+It will create children’s bedtime stories and recommend background music for workouts. On the other hand, various individuals and companies have been adding these functions to ChatGPT.
+
+You may also like: The Top 10 Business Applications Of ChatGPT
+
+For example, Brett Schickler used the AI bot to create the children’s book, The Wise Little Squirrel: A Tale of Saving and Investing. Also, PlaylistAI uses ChatGPT to recommend songs on Spotify and other music apps.
+
+The Alibaba ChatGPT competitor will soon have eCommerce, navigation, entertainment, and online search functions in the future. Zhou Jingren, Alibaba Cloud’s Chief Technology Officer, said the new AI chatbot would help businesses keep up with rapid technological advancement.
+
+“We hope to facilitate businesses from all industries with their intelligence transformation and, ultimately, help boost their business productivity,” he said. Moreover, the company will use the new chatbot to build LLMs for customers.
+
+Tongyi Qianwen will allegedly save time and energy training new artificial intelligence solutions. As a result, companies can afford to use the Alibaba ChatGPT rival for customer services and voice assistants.
+
+ChatGPT is the AI chatbot that captivated the world with its ability to generate seemingly manmade text in seconds. As a result, it inspired the creation of the Alibaba ChatGPT rival Tongyi Qianwen and similar tools.
+
+Despite its popularity, its creator OpenAI continues to innovate. Thus, it released a new LLM for ChatGPT called GPT-4, which add powerful features.
+
+For example, it enables ChatGPT to understand photos and perform tasks based on them. For example, let us say you uploaded a photo of a Shiba Inu dog.
+
+Ask for a description, and it will tell you the canine’s breed, its color, and the other objects around it. Then, you could ask a follow-up question like, “Which dog breeds have a similar fur color?”
+
+You can tell the chatbot to provide answers in a casual or professional tone. For example, you can tell it to “provide Bitcoin news as if you are an anchorman.”
+
+You can rest assured that it will not provide harmful or offensive comments. OpenAI improved its training to ensure it will resist being tricked by users.
+
+You may also like: The Top 10 Applications Of ChatGPT In Daily Life
+
+The past version, GPT-3.5, can only remember around 8,000 words. In contrast, GPT-4 can handle roughly 64,000 words. Combined with its image recognition feature, it becomes a more powerful transcription tool.
+
+For example, let us say you need to turn a 50-page scientific article into a digital format. You may submit photos of each page, so ChatGPT can turn them into editable text.
+
+Lastly, GPT-4 makes ChatGPT more accessible than ever, thanks to additional language support. It can understand and write in 26 languages, including Ukrainian and Korean.
+
+Alibaba announced a competitor to ChatGPT, which it will incorporate into its products and services. CEO Danial Zhang believed artificial intelligence “will bring about big changes to the way we produce, the way we work, and the way we live our lives.”
+
+However, the Chinese company hasn’t specified when it will release Tongyi Qianwen at the time of writing. Also, we do not know how much its AI services will be.
+
+The AI race is heating up, so make sure you can keep up with the latest trends. Follow Inquirer Tech for the most recent trends in artificial intelligence, virtual reality, and more.

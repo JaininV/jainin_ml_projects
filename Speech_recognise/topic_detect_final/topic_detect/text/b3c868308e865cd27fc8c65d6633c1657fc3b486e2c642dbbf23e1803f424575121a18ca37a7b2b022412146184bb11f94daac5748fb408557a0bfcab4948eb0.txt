@@ -1,0 +1,1 @@
+Following on the epoch-making performance of transformer architecture-based large language models, vision transformers (ViTs) have emerged as a powerful approach to image processing. Like their text-based predecessors, ViTs initially relied on multi-headed self-attention layers to capture features from input images…

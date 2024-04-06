@@ -1,0 +1,9 @@
+トロント大学のThe Citizen Labが、イスラエルのデジタル監視企業NSO Groupが2022年にAppleのデバイスを使用して人権活動家などをターゲットに、少なくとも3つの新しいゼロクリック攻撃を展開したと報告しています。この攻撃は、被害者��悪意のあるリンクをタップしたり何らかの操作をしたりしなくても、NSOが被害者のデバイスに侵入できるというもので、NSOがiPhoneをハッキングする手段を開発しつづけていたことを示していたそうですが、iOS 16から採用されている「ロックダウンモード」によって被害者のiPhoneが一部の攻撃を回避することに成功したこともわかりました。
+
+Triple Threat: NSO Group’s Pegasus Spyware Returns in 2022 with a Trio of iOS 15 and iOS 16 Zero-Click Exploit Chains - The Citizen Lab
+
+https://citizenlab.ca/2023/04/nso-groups-pegasus-spyware-returns-in-2022/
+
+NSO Group Targeted Apple's FindMy and Homekit Features With New Zero-Click Exploits
+
+https://www.gizmodo.com.au/2023/04/nso-group-targeted-apples-findmy-and-homekit-features-with-new-zero-click-exploits/

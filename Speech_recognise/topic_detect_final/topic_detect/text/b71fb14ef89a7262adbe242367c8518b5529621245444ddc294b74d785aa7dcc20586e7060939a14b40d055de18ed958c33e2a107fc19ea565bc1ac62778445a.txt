@@ -1,0 +1,31 @@
+Reddit is a community of communities where people can dive into anything through experiences built around their interests, hobbies, and passions. Our mission is to bring community, belonging, and empowerment to everyone in the world. Reddit users submit, vote, and comment on content, stories, and discussions about the topics they care about the most. From pets to parenting, there’s a community for everybody on Reddit and with over 50 million daily active users, it is home to the most open and authentic conversations on the internet. For more information, visit redditinc.com.
+
+The Transport Infrastructure team��s mission is building and maintaining interservice and edge networking infrastructure that is performant, reliable, and secure. The infrastructure provides self-serve features for Reddit engineers that make the network easy to understand and easy to use.
+
+As a Senior Engineer on this team, you’ll work closely with other infrastructure engineers, SREs and service owners, drawing on your expertise to help set the technical direction for Reddit’s networking architecture. You’ll be responsible for leading broad infrastructure projects through design, planning, and implementation.
+
+* Design, plan, and implement architectural projects such as service mesh and RPC standardization.
+
+* Work closely with the Compute, Storage, Developer Tooling, and Security teams to ensure service mesh works seamlessly and meets high performance/security standards.
+
+* Improve and maintain the software and infrastructure that your team develops and operates.
+
+* Contribute to the technical direction for the networking platform while aligning with Reddit’s overall strategy.
+
+* Collaborate with other technical experts within the Transport Infrastructure team.
+
+* Experience working with and/or operating Envoy/HAProxy/Nginx or any other networking proxy.
+
+* Familiarity with networking disciplines, such as load balancers, API gateways, DNS management, HTTP2, GRPC, etc.
+
+* Proficiency in several high-level programming languages and are an expert in at least one of [Golang, Javascript, Python].
+
+* Experience working with container technologies such as Docker and Kubernetes
+
+This job posting may span more than one career level.
+
+In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U. S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/.
+
+To provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.
+
+The base pay range for this position is: $183,500 - $275,300.

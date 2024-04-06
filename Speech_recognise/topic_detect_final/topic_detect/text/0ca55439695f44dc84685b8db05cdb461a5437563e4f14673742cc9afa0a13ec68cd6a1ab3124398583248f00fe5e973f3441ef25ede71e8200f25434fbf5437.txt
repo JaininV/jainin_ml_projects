@@ -1,0 +1,43 @@
+More needs to be done to protect the UK from the threat posed by Russia-aligned cyber groups, the head of the National Cyber Security Centre has warned.
+
+It comes as Cabinet Office minister Oliver Dowden warned that the “cyber equivalent of the Wagner group” posed a serious threat to the UK, as he announced that the National Cyber Security Centre (NCSC) was issuing an “official threat notice” to operators of critical national infrastructure amid concerns about the growing cyber threat.
+
+The Chancellor of the Duchy of Lancaster, as he made the comparison to the private Russian military company, announced plans for more ambitious cyber resilience targets for all critical national infrastructure sectors to meet by 2025, as well as moves to bring private sector businesses working on critical infrastructure into the scope of resilience regulations.
+
+Lindy Cameron, who heads up the GCHQ arm, said: “I don’t think we are yet doing enough to protect our infrastructure from the cyber threats emerging from Russia-aligning groups.”
+
+She told an audience in Belfast: “If the UK is to be the safest place to live and work online, then resilience must urgently move to the top of our investment shopping list.”
+
+She said that there needs to be “resilience to all threats, whether they come from nation states or cyber criminals”.
+
+It comes as she echoed the language of the Government’s recent integrated review refresh, referencing the rise of China as a technology power and the “epoch-defining” challenge it poses to the West.
+
+Mr Dowden did not focus on China in his address, instead using it to stress the need for the Government and businesses to take seriously cyber security.
+
+“Ransomware is no longer just a crime, it is a national security threat,” he told the audience as he stressed the key role cyber officials were playing in protecting British democracy.
+
+The senior minister compared global interest to the visible presence of an alleged Chinese sky balloon floating over US airspace to the less well-known threats to UK cyber security that “silently and invisibly breach our digital defence, both in the UK and the rest of the world”.
+
+Speaking specifically about Russian-aligned groups, Mr Dowden that the NCSC “has seen the rise of several Russia-aligned groups, sympathetic to Putin’s invasion of Ukraine”.
+
+Comparing them with the Wagner group, he said that focus had turned to the UK and its allies.
+
+“They are now seeking opportunities to compromise our critical national infrastructure,” he said.
+
+“Instead of seeking to profit or spy on us, their primary motive is to disrupt or destroy our infrastructure.”
+
+He said that they were “ideologically motivated”, adding that it made them “more opportunistic and less likely to show restraint”.
+
+Ms Cameron, who pointed to her “Derry girl” credentials as she addressed the conference, warned that it was “crucial” for cyber security to be built into future technology such as artificial intelligence (AI).
+
+Pointing to the growing interest in tools such as ChatGPT, she warned of the danger of inadvertently designing vulnerabilities into AI.
+
+“We as the NCSC think it is crucial for cyber security to be built into future technology and supply chains from the outset,” she said as he offered the semi-conductor industry as another area of focus.
+
+Earlier, on Sky News, Ms Cameron was pressed on the threat posed by China.
+
+“The scale and pace of their ambition and technology is something that all of the people here at the conference need to take seriously and think about how it is that we build security into our future technology to keep our people safe,” she said.
+
+She added: “We shouldn’t be surprised that, as technology changes and improves, our adversaries are thinking about how they can use that as well. That’s not a shock.
+
+“You don’t have to simply be passive in the face of that threat. You can actually make yourself much more effectively resilient to those kinds of threats.”

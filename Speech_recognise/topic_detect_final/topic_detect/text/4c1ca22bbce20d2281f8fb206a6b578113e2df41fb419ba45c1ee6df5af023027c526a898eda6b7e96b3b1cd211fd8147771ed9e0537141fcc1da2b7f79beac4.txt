@@ -1,0 +1,29 @@
+A team of researchers has developed a medical sensor that can transform from rigid to soft to accommodate changing structural needs and can heal its own normal wear and tear. Credit: Provided by Larry Cheng. All Rights Reserved. UNIVERSITY PARK, Pa. — For wearable electronics to live up to their promise for health care monitoring, they need to do at least two things: transform from rigid to soft to accommodate changing structural needs, and heal their own normal wear-and-tear. With the help of liquid metal and specialized polymers, researchers have developed sensors that can do both.
+
+A team of researchers led by Hyanyu “Larry” Cheng, who is James L. Henderson, Jr. Memorial Associate Professor of Engineering Science and Mechanics at Penn State, published their results in Advanced Materials.
+
+According to Cheng, manufacturing sensors in a rigid state is better than in a soft state because the different layers can stack on one another without deforming. Sensors also benefit from being in a rigid state when a person needs to read the vital information provided, which displays best on a rigid screen. However, being in a soft state while being worn by a patient — who may be monitoring their temperature, heart rate or other vital signs for disease progression or for general health awareness — allows for the sensor to conform to the skin’s topography and gather more accurate vital information.
+
+“In the past we have to really use two types of devices, because we didn’t have a way to get these two married together,” Cheng said. “But now, we prove that switching a sensor from rigid to soft can be modulated by a simple temperature switch. When the sensor is skin temperature, it is soft, but when it is very cold, it will become rigid again.”
+
+This also helps with adhesion to the skin and removal of the sensor, according to the researchers.
+
+“When the sensor is soft, the adhesion property is stronger,” said first author and co-corresponding author Li Yang, formerly a visiting scholar in the Penn State Department of Engineering Science and Mechanics and now of the School of Health Sciences and Biomedical Engineering at Hebei University of Technology, Tianjin, China. “For example, you can apply an ice pack on the skin so the sensor material will gradually become rigid, and it naturally peels off the skin. It’s a switch in the adhesion from strong to weak, and it is easier to get it off without damaging the skin. This is especially important for infants and the elderly, who may have very delicate skin.”
+
+A team of researchers has developed a medical sensor that can heal its own normal wear and tear and can also transform from rigid to soft to accommodate changing structural needs when triggered by temperature changes, which is shown here. Credit: Provided by Larry Cheng. While leveraging temperature changes, or thermal switching, to alter the state of the material isn’t entirely new, as it has been done at very high temperatures. To do this at a temperature relevant to the human body is new, according to Cheng. A key to their successful demonstration of this approach with medical electronic sensors was a liquid metal, which provides performance close to a solid metal but allows for flexibility in the design shape. The liquid metal also contributed to the successful demonstration of a sensor with self-healing properties.
+
+When the sensor develops cracks or other mechanical damage from wear-and-tear, self-healing allows for vital monitoring to continue uninterrupted. It can also extend the device life.
+
+In addition to the liquid metal, the researchers used a type of polymer that can create a hydrogen bond to aid in device healing. While previous work has used the hydrogen bond for self-healing, it has done so in a more limited way, increasing the time required for the device to heal, according to Cheng.
+
+“Even though people have been working on different self-healing materials in the past, the results can only be achieved after 24 hours or more, and here we can do that in a much faster manner, possibly as fast as five minutes or so,” Cheng said. “You don't want to wait for 30 hours without data collected from the human body, especially in situations where the disease being monitored could be life threatening. With our approach, we want to — and can — restore the function in almost no seconds.”
+
+The researchers plan to next integrate the thermal-switching and self-healing properties into sensors at scale and for use in a variety of settings from nursing homes to disease-progression monitoring.
+
+The other authors of the paper are Zihan Wang, Chuizhou Meng, Xue Chen, Runze Li, He Wang, Mingyang Xin, Zeshang Zhao and Shijie Guo, all of Hebei University of Technology in Tianjin, China; and Hao Wang, Biqiang Jin and Jinrong Wu, all of Sichuan University in Chengdu, China.��
+
+Cheng also is affiliated with mechanical engineering; biomedical engineering; architectural engineering; industrial and manufacturing engineering; the Materials Research Institute; the Institutes of Energy and the Environment; the Institute for Computational and Data Sciences; the Engineering, Energy, and Environmental Institute; and the Sustainability Institute, all at Penn State.
+
+This work was supported by the National Natural Science Foundation of China, the Key Research and Development Project of Hebei Province, the China Postdoctoral Science Foundation, the National Institutes of Health, the National Science Foundation and Penn State.
+
+Get the news by emailSubscribe

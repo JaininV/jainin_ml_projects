@@ -1,0 +1,47 @@
+External web applications can prove difficult to secure and are often targeted by hackers due to the range of vulnerabilities they may contain. These risks, which may stem from a lack of monitoring can lead to cyberattacks and data leaks.
+
+Organizations with business-critical web applications need to take effective measures of their digital attack surface, and pay close attention to these common security risks.
+
+According to OWASP, the following are the most common attacks targeting web applications.
+
+Injection vulnerabilities allow threat actors to input malicious code into an application or inject malware onto a system via a web app. The four main types of injection attacks are SQL, OGNL, Expression Language, and Command.
+
+This is a broad term for several vulnerabilities exploited by an attacker who attempts to impersonate an authorized user. Typically, a lack of session and credential management causes this vulnerability.
+
+Sensitive data exposure can occur in two ways: when an organization unknowingly exposes such data, or via a security breach when unauthorized individuals gain access to sensitive data.
+
+This can result in data loss, destruction, alterations, or data exposure all of which can have catastrophic effects on businesses.
+
+The banking sector, in particular, is vulnerable to this security risk, with 1 in 10 adults reporting financial fraud attacks in the UK and similar figures reported in the US.
+
+Misconfiguration of security settings commonly puts systems at risk. This type of security risk can be caused by a lack of documentation when configuration changes are made, failure to update the default settings, or a technical issue that has not been discovered.
+
+Security analysis of web applications showed that 83% of them had vulnerabilities associated with security misconfiguration.
+
+This type of custom XML entity contains predefined values that are loaded from an external source and not from the document type definition (DTD) it is declared on.
+
+These values can be defined based on a file path or URL and are very difficult to detect, presenting a significant challenge for cybersecurity teams.
+
+Using components that contain known vulnerabilities with the same access privileges as the web application poses a significant security risk.
+
+Components can include frameworks, libraries, and other software modules, and if exploited could result in a hacker successfully taking over a server or seizing control of sensitive data.
+
+Although this is not a direct vulnerability, a lack of logging and monitoring leaves a web application open to malicious activity. This negligence also means that weaknesses are unlikely to be identified and mitigated.
+
+An XSS attack involves a hacker injecting a malicious client-side script into the code of a web page.
+
+The most common attack method is to send a link to a user of the targeted web application, appearing as if it has come from a legitimate source.
+
+Often, this type of attack is executed in an attempt to bypass access controls.
+
+This security risk relates to when user-controllable data is deserialized by a website, thus enabling an attacker to manipulate any serialized objects to inject malicious data into the web application’s code.
+
+This type of security flaw allows an unauthorized user to gain access to restricted areas of a web application.
+
+For example, a standard user account may have permissions that should only be granted to an administrator.
+
+Hackers can exploit web applications in many ways, which put organization’s data and infrastructure at risk. PTaaS is often the most effective way to offer continuous application security and help identify vulnerabilities and determining the digital attack surface of web applications and related infrastructure.
+
+This is achieved by testers assuming the role of a threat actor and gathering usable information to exploit a system.
+
+To enhance your organization’s cybersecurity posture, Outpost24’s classic penetration testing and PTaaS can help your organization proactively keep its web application secure.

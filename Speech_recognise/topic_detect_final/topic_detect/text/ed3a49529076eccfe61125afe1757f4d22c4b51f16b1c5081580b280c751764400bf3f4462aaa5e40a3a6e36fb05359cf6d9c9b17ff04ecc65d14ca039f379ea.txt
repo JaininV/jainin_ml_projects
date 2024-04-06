@@ -1,0 +1,27 @@
+Gretel, a Catalan startup specializing in real-time anomaly detection software for marketing departments, has closed a funding round of €630K, led by venture capital funds Inveready, Extension Fund, Enzo Ventures, and business angels.
+
+The Barcelona-based company has worked during 2022 on validating its business idea with over 100 marketing professionals.
+
+Its founders, Martí Gou and Alex Hughes, agreed on the need to create a platform capable of simplifying internal information management in companies.
+
+“We are thrilled to have closed this funding round and have the support of top-notch investors who believe in our vision. We are committed to making marketing teams more efficient and successful, and this funding will allow us to take our product to new markets”, says Martí Gou, co-founder of Gretel.
+
+“We are eager to see the impact this innovative product will have on the market and are excited to continue supporting its growth and future success”, says Aniol Brosa, Partner at Inveready.
+
+“We see a new generation entering the workforce with a more dynamic methodology and a much more advanced understanding of technology, which is why we are betting on Gretel’s vision,” adds Edgar Vicente of Enzo Ventures.
+
+During this last year, they have developed the first prototype capable of detecting critical information, with the help of AI.
+
+From essential applications for marketing departments such as Google Analytics, Google Ads, and Meta Ads and displaying relevant information proactively in real-time to their users.
+
+The Catalan startup has used the funding raised to increase its team to 7 professionals and develop its first prototype that will be launched on the market in 2023.
+
+“We are frustrated with losing more than 20% of our daily time searching for information through the huge number of applications we use”, adds Alex Hughes.
+
+They report that, with Gretel, relevant data is delivered in simple messages to each user proactively at the right time.
+
+The software makes necessary information reach each person according to their needs via email, Slack, or the Gretel platform.
+
+Earlier this year, Gretel was selected for the Lanzadera program, the business accelerator promoted by Juan Roig, obtaining the necessary support for the launch phase of the platform and its subsequent growth.
+
+With this first launch, they hope to impact more than 1,000 marketing professionals and continue to develop new integrations.

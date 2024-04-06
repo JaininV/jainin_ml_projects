@@ -1,0 +1,47 @@
+HealthifyMe’s journey started with Tushar Vashisht’s personal need to lose weight and get fit.
+
+“When I joined Aadhar, I'd come back to India after nearly a decade abroad and I just ballooned up in size. I gained 25 kg of weight,” the Co-founder and CEO of HealthifyMe tells Shripati Acharya, Managing Partner of Prime Venture Partners, in an episode of Prime Venture Partners Podcast.
+
+“And while I was beating myself up about it initially, when I looked around and I read the stats, turns out I wasn't the only one. The whole world, unfortunately, has become an increasingly obese and overweight place,” he adds.
+
+During his weight loss journey, Vashisht realised the need for tools and solutions to help others manage and keep track of their lifestyle, metabolic health, and fitness.
+
+He started using Microsoft Excel to track Indian food and its calorific values, micro-nutrients, and macro-nutrients. Soon enough, the project had grown beyond Excel Vashisht he turned to Google Sheets, then a website, and eventually, an app.
+
+What was driven by a personal experience, today, has become a healthtech company with 35 million registered users and a quarter of a million paying subscribers.
+
+Getting people to change their behaviour is a tough ask, and that was the challenge the team faced while developing the product. So, HealthifyMe started onboarding customers by making their app free.
+
+Vashisht spent the first four years just building the free solution, enabling customers to interact and find value in fitness.
+
+"We started monetising to further accelerate our consumer's journey towards their goals and behaviour change objectives, which was the human coaching component," he explains.
+
+As the customer doesn’t have to do anything at all to start engaging with the brand and its products, it enabled them to acquire customers effectively.
+
+"The genesis of it was having a pre-app that also allows for good LTVs (loan-to-value ratio) in the business because once you're done with your paid subscription, you don't have to completely churn out and forget about us as a brand,” says Vashisht. “You can continue the free journey with us all the time, but our free app is a tremendous source of engagement as well as of acquisition."
+
+"If there's anyone who's tuning in who's, like, just at the early days of starting a company, you should probably know that you are going to run out of money at some point or the other in this journey," he cautions.
+
+Vashisht says that the first time a founder runs out of money can be scary, but it is also a good right of passage—like one of the milestones you need to cross.
+
+Three years into building HealthifyMe, the company was missing a revenue model with no means to monetise the app. The CEO recollects how difficult it was to deal with being at the edge.
+
+"Anything that you do might be the last time you're doing it so that, you know, death (of the company) is a reasonable possibility. That when it comes, it's not like a complete shock that you know complete shutdown is a decent possibility. The second piece is that running out of money does not have to equal death," he says
+
+Vashisht gave a few insights into the mistakes he made ten years ago. He wishes he could have been calmer and patient through crises, especially the first hurdles—launch or demo fail, running out of money initially, or the first time a key employee quit.
+
+"I would've told myself that, look, there'll be a lot more failure than there'll be successes before the eventual success comes in. So, be ready for that along the way, and don’t let it bother your head so much. It’s all part of it,” he says.
+
+Apart from this, he says he would've spent more time on hiring and maintaining good talent. Lastly, he wishes that he could’ve been more aggressive about his ambitions and would’ve thought big.
+
+You can listen to the episode here.
+
+07:00: From Google Sheets to website to a mobile app
+
+13:00: Who is the most effective: Human, AI or human+AI?
+
+18:00: Near-death experiences in the life of a startup
+
+32:00: AI, healthtech and the next trillion-dollar company
+
+37:15: Time for less noise and more efficient growth

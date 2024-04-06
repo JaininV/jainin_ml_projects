@@ -1,0 +1,43 @@
+~$700B GDV opportunity for breakout volume growth as the network could “double” in scale as every cardholder could become a “merchant” in 20-30 min.
+
+This month was a first! During my 25 yrs in payments, I could accept a card payment (in person) with no additional hardware. Enrolling as a Square merchant took only 30 min and I was then live with Apple Tap and Pay. A fantastic experience! (see Square). This is a tremendous “team effort” by Visa (VAS), Apple (See Mobeewave blog) and Square (as PayFac).
+
+Last Week, Stripe, Google and Visa also announced the Tap to Pay on Android (Beta). This will likely be limited to Pixel and Samsung phones that satisfy Google Hardware Abstraction Layer hardware requirements (blog).
+
+One of the biggest mistakes in the history of payments was restricting the roles within the payment network to EITHER a payor or merchant. Think of the companies that would not exist if this shortcoming were addressed sooner.
+
+In 1998, PayPal solved eBay’s marketplace problem. Letting consumers pay and act as part-time merchants.
+
+Zelle allowed consumers to move funds in real time between their own accounts or trusted third parties. Both send and receive
+
+MPesa, PIX, UPI.. all solve the problem of sending and receiving money. Either party can be on either end of the transaction.
+
+There is significant disagreement on Tap-to-Pay GDV opportunity as P2P schemes solve many of the problems today (at 0 cost). My personal belief is that card has advantages in
+
+Consumer Behavior for “payor” (ie crosses all demographics and geographies)
+
+Consumer Experience (CX)  –  example try reading a Venmo QR code in the sunlight
+
+Integration of “credit” for high ticket purchases (P2P is debit integration only)
+
+Economic model (currently merchant incurs 2.5%-3% fee. Downside for merchant/beneficiary, but supports marketing and 3rd party platform investment).
+
+The Visa Acceptance Cloud (VAS) has eliminated hardware from the merchant side. As Stripe, Adyen and Braintree embedded payments into software for CNP transactions, VAS now eliminates hardware for POS transactions. No more specialized terminals in gas stations, vending machines, parking meters… etc (see
+
+Lack of issuer support for allowing every card holder to accept payments
+
+Competitors well established in certain flows (college tab splitting, millennial payments, …etc)
+
+A survey of global payment initiatives shows that the greatest areas of GDV growth are in domestic P2P schemes where consumers operate either as originators or beneficiaries.
+
+Clearly, there is demand in established and emerging markets. For Visa investors, it is important to note that most US P2P schemes operate on the debit card network. For example, linked debit cards support a balance transfer function with a consumer’s “core” transaction account (ex credit transactions OCT-Visa, PT-Mastercard). Third parties like Venmo and Square invested in network services to build front end systems to support consumer interaction and gained revenue from exempt bank interchange (linked debit card on stored balance).
+
+From my perspective, Tap and Pay (and VAS) is the first network innovation strongly supported by all payment stakeholders: Issuers, BigTech, FinTech, Merchants, Consumers, and Specialists. No one loved the 2 yr device certification and key injection mess.
+
+The only thing missing is a broad consumer push by either Big Tech, Issuers (or both). The key to unlocking growth is broad issuer support for improving the Payment Facilitator (PayFac) role (ie consumer as micro-merchant for underwriting and merchant onboarding). I see a significant near-term opportunity for a major issuer to make Tap and Pay part of their mobile banking platform. For example, CapOne allows all of the consumers to make or take payments with consumer underwriting by CapOne as both issuing and merchant bank.
+
+The top question Dan Schulman always asked is how Zelle was gaining volume so quickly. My simple reply was that Venmo is for millennials and college students without much money, and Zelle is for people with money. There are clearly different UCs and demographics within P2P scheme volume. The near-term opportunity is for SMBs, and infrequent merchants to accept payments online or in person (omnichannel), AND for issuing banks to simplify the micro-merchant underwriting (with Stripe, Square as partners). This underwriting function would most logically be done on the credit side of the business.
+
+Visa has 3.9B cards worldwide, with approximately 1.2B credit.  If 2% of credit holders, were SMBs and received 30 $80 credit transactions/mo this would yield $691B in GDV. Visa’s global GDV is $14T, thus Tap and Pay would represent a 5% GDV growth opportunity (above baseline).
+
+Given US SMB revenue is approx $4.2T (with 42% comprised of women-owned businesses), and Zelle’s $692B this target seems about right.

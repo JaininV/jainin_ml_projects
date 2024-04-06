@@ -1,0 +1,23 @@
+MANILA, Philippines — A total of 1,279,437 records from law enforcement agencies, including police employee records, were left exposed in a massive data breach, according to a report published by cybersecurity research firm VPNMentor on Tuesday.
+
+The breach was of an unprotected database containing 817.54 gigabytes of both applicant and employee records under multiple state agencies, including the Philippine National Police (PNP), National Bureau of Investigation (NBI), Bureau of Internal Revenue (BIR), Special Action Force Operations Management Division, and Civil Service Commission.
+
+Exposed records include personal information such as fingerprint scans, birth certificates, tax identification numbers (TIN) and tax filing records, educational transcript records, and passport copies.
+
+Internal directives addressing law enforcement officers were also exposed in the data breach.
+
+“As an example, these would be orders from the top leadership of how to enforce what laws and what gets priority or additional training that is needed etc… I cannot further confirm or verify the accuracy or authenticity of these documents contained within this database. As such, I cannot guarantee that the contents of the documents are accurate or reliable,” writes cybersecurity researcher Jeremiah Fowler, who authored the report.
+
+Fowler reported that these government documents were stored in an unsecured, non-password-protected database “readily accessible to individuals with an internet connection” and left vulnerable to potential cyberattacks or encryption via ransomware. While Fowler recorded no current indication of such attacks, he emphasized that law enforcement officers are endangered when their personal documents are left in the open.
+
+“Any data breach that exposes personal information belonging to police and members of law enforcement or other officials can be dangerous. Individuals whose data is exposed could be potential victims of identity theft, phishing attacks, and a range of other malicious activities,” stressed Fowler.
+
+“The availability of government records in an unsecured database raises concerns about potential national security issues. The exposed records could also potentially allow criminals to target members of law enforcement for blackmail or other schemes,” he added.
+
+This database was left exposed for a minimum of six weeks, according to the report. However, Fowler recommended that a full forensic audit be conducted to “fully understand the extent and impact of the breach.”
+
+ACG Public Information Officer Capt. Michelle Sabino told INQUIRER.net that the group has yet to validate the research firm’s report.
+
+INQUIRER.net has requested further comments from the PNP, but has yet to respond as of posting time.
+
+PH firms among most vulnerable to cyberattacks, says Kroll report

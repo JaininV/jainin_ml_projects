@@ -1,0 +1,53 @@
+Bob Pearson, Chair, The Next Practices Group and The Bliss Group.
+
+The emergence of generative AI is wonderful for Microsoft, Google, Baidu and other technology leaders all vying for leadership in search. It could be game-changing for how they build their future market share.
+
+Wonderful for them. Not so relevant for you and me.
+
+Anytime we enter a cycle of breakthrough innovation (and hype), the key is for us to dig in and figure out what steps are important for our teams to create or more effectively use new techniques, tools and platforms that provide our communications organization with better ways to help those we serve.
+
+We start with a very simple point. If you want to be mediocre, do what everyone else is doing.
+
+Generative AI is pulling from the largest data lake in the world—the universe of content available via search. Everyone is pulling from the same body of content.
+
+If we want to lead, we need to shift from data lakes to data puddles.
+
+Data puddles are proprietary data sets that we curate from the wider and deeper data lake of the world. We select the data sources, we decide what is inside, and we delete the noise before it impacts future insights.
+
+Generative AI is a tool, and tools are enablers, but not answers. Techniques, however, lead to breakthroughs and create models that scale into platforms.
+
+It is always easier when we imagine a scenario, so here is an illustrative one.
+
+How can we improve our approach toward the treatment of metastatic breast cancer?
+
+Let’s start by dealing with the noise.
+
+For example, generative AI can pull from a database containing 445,181 clinical trials today in all 50 states and 221 countries for any disease. We know that only about 10% of these studies will succeed.
+
+Our goal is to identify the right data puddles that will create a unique data pond for us to pull insights on a regular basis. Here is an example related to metastatic (advanced) breast cancer.
+
+The most important data puddles are clinical trials; the investigators who lead them; the publications that result from their work; the medical centers that drive cancer research; the medical treatments that have been approved; and the online conversations, search behaviors and questions of people with metastatic breast cancer worldwide.
+
+This constitutes six important puddles. We now go back at least 10 years, so that we can see how the marketplace is evolving. This timing also matches up with the average patent life for a new treatment.
+
+Why do we start here? Well, it is what we have learned from creating algorithms and advanced machine learning training sets.
+
+The best algorithms used in the world of media measure a defined period of time; they have a clear profile of keywords; we have weighting built in to measure reach and relevance; we know which media channels to include and which to exclude; we know how to narrow or widen our topic search; and we know which media sources to pull from.
+
+With algorithms used in open-source media, we have more precision and control over what we will learn, as a result. And by embracing generative AI in new ways, it can be used to train our own data puddles, which is very exciting since it can help untangle some of the inefficiencies of large and highly generalized data sets.
+
+If we take responsibility for the data we pull from and we know what we will measure, then our new tool, generative AI, can create content in ways we could not imagine last year.
+
+We can see how patients have changed in how they talk about metastatic breast cancer over time, and generate chatbots and content that is more closely aligned to that conversation than ever before. We can see which publications and media outlets are viewed as most important and how this media mix has changed in its relevance on a country-by-country basis worldwide over the years, and then let that guide the media choices and content that generative AI would produce. We could map out a clinical trial site plan in seconds. And on and on.
+
+We are building our own brain that generative AI can power. A brain that doesn’t lose neurons over time like ours does.
+
+Generative AI today is fine if we want to know how many lollipops were sold last year or create a fable of an 8-year-old and their dog. It’s entertaining, but it is not yet capable of advancing science, until we catch up with its potential.
+
+It is always up to us to make technology useful, and as leaders in communications, we have a major opportunity in front of us.
+
+As we innovate, let’s remember that the best models are almost always simple.
+
+Thank you ChatGPT and other platforms for waking us up to new possibilities that can improve our world.
+
+Forbes Communications Council is an invitation-only community for executives in successful public relations, media strategy, creative and advertising agencies. Do I qualify?

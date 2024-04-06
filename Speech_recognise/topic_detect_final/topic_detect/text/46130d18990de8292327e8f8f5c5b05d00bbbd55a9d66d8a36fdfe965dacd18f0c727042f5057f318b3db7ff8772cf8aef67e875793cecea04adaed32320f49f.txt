@@ -1,0 +1,11 @@
+Samsung Internet v21.0 is live already in our beta channel, with enhanced customization functionalities for you.
+
+Starting from version v16.0.2, Samsung Internet allows users to move the URL bar to the bottom of the browser for better mobile usability, but this feature was not supported on tablets yet. With version 21.0, tablet users can now also move the URL bar to the bottom for their preference.
+
+With the bottom URL bar on tablets, Samsung Internet now supports the relocation of bookmark bar and tab bar, which can also be moved to the bottom with the URL bar on both mobile and tablet devices. Therefore, anyone who uses the tab bar or bookmark bar can relocate them with the URL bar at either the top or bottom of the browser.
+
+By supporting URL bar relocation on tablet, along with tab bar and bookmark bar, the long journey to provide maximum flexibility for our users to customize the browser’s main view are done, but this would not be the end. We will keep trying to provide better usability to our users.
+
+Some of our users are able to manage tabs very well, while others struggle to do so. Those who do not actively maintain the number of tabs often reach the maximum limit of tabs, which is 99. Until v20.0 of Samsung Internet, when opening the 100th tab, the oldest tab would be automatically closed. However, with v21.0, users will have the option to reopen the tab which was closed, and they will even receive a warning when the number of tabs is approaching the limit.
+
+v21.0 also updates the underlying Chromium engine to version 110. You can download Samsung Internet Beta v21.0 (on any Android device, with Android N and above) via the Galaxy Store or Play Store.

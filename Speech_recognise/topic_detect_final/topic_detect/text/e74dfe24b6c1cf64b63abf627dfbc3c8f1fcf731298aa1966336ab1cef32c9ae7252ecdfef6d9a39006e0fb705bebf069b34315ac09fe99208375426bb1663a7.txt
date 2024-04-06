@@ -1,0 +1,15 @@
+Most websites have mobile versions that are optimized for smartphone screens. Sometimes, you might need to see the full desktop version of the site. iPhone and Android devices allow you to switch between desktop and mobile mode.
+
+On the iPhone and iPad, tap the “Aa” icon in the Safari URL bar and select “Request Desktop Website” from the menu. It’s really that simple. If you have a device running iOS 12 or older, for some reason, viewing a desktop site in Safari is a bit different.
+
+The same thing applies to most browsers on the iPhone and iPad. For example, with Google Chrome, simply tap the three-dot menu icon in the bottom right and select “Request Desktop Website” from the menu.
+
+To view a website in desktop mode with Chrome for Android, tap the three-dot menu icon in the rop right and select “Desktop Site.”
+
+There are many browsers available for Android, and you can enable desktop websites in them in a similar way.
+
+If you’re viewing a website in desktop mode on an iPhone or iPad, simply tap the “Aa” button in the Safari URL bar and select “Request Mobile Website.” Now you’re back in the mobile-optimized website layout.
+
+To switch back to the mobile version of a website in Chrome for Android, tap the three-dot menu icon in the top right and uncheck the box for “Desktop Site.” Other Android browsers have this option in a similar place.
+
+That’s all there is to it. Switching between desktop and mobile versions is no big deal on iPhone, iPad, and Android. Thankfully, most modern websites work perfectly fine in their mobile-optimized layouts, but you still may need the full version once in a while. Now, if you want to browse an old version of a website, that’s a different story.

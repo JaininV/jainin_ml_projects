@@ -1,0 +1,9 @@
+I used to park a lot at Toronto’s Pearson Airport. Often, I’d go for a day or two. Because of access to some perks, I’d get free curbside valet parking. It was amazing and luxurious. I could arrive at the airport and be through US customs and security and in the Air Canada Maple Leaf Lounge within 7 minutes of pulling up at the curb. Sometimes, even quicker than that. When I returned, I had to pay the daily parking rate. Today, it’s $38 CAD per day.
+
+In a recent visit to Toronto, I was amazed to an enormous An-124 parked on one of the taxiways. As an aircraft enthusiast and aerospace engineering grad, I was enthralled! What a beautiful plane with so much capability. It had been seized and parked at Pearson since the grounding of all Russian planes over Canadian airspace in February 2022.
+
+Today (April 2023), the aircraft is being sent over to Ukraine. The total bill for the aircraft to park at the airport is reportedly $683,000. Let’s assume that’s Canadian dollars. In this case, we can do some quick calculations.
+
+The apron area for an An-124 is approximately 80x80 meters. With a parking spot size of 2.75 m x 5.5 m, we could easily create a parking lot with 168 cars. 14 cars per row, two pairs of rows separated by an aisle, making six pairs of rows of 28 cars. If we divided up the price, that would be less than $10 per day per car. If Pearson used the lot for daily parking, it could earn more than $2.6M over the same period.
+
+That calculation was done in about a minute with ChatGPT, including asking the service to re-check itself several times and catching a few errors.

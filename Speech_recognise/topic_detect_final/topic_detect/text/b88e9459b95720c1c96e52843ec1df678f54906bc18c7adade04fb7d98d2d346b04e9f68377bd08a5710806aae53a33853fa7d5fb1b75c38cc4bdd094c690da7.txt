@@ -1,0 +1,3 @@
+Well-known VR modder praydog is working on a universal mod that could bring most Unreal Engine games into VR. The modification adds motion control, head tracking, and other features to non-VR titles, which can potentially be a game-changer for the modder community and players in general.
+
+According to Flat2VR, from the 255 random Unreal Engine games chosen for testing, over 90% work well without any tinkering.

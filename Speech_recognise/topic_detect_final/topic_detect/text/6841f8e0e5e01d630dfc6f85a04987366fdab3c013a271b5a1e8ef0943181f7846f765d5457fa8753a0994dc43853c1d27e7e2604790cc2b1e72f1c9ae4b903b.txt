@@ -1,0 +1,17 @@
+Since the color of NoMemoText is defined as
+
+${(props) => props.theme.Bg.color3}
+
+The color of Icon Memo also should be the same.
+
+const MemoIconWrap = styled(Memo)`  width: 8rem;  height: 8rem;  color: ${(props) => props.theme.Bg.color3};`;
+
+I simply added the same code to MemoIconWrap style to see if the color of Icon changes. But it didn’t work.
+
+const MemoIconWrap = styled.div`  width: 8rem;  height: 8rem;  svg {    fill: ${(props) => props.theme.Bg.color3};  }`;
+
+Since the format of the imported Icon is svg file, I applied the code above to change its color. It worked and the color of Icon changed, but the problem is, it just covered the required color on the original Icon. The original color of the Icon was skyblue and this code couldn’t remove the original color of the Icon.
+
+const MemoIconWrap = styled(Memo)`  width: 8rem;  height: 8rem;  filter: brightness(0) invert(80%);  /* replace "1" with "100%" to match the color of the NoMemoText */`;
+
+With the CSS property filter, I could manually arrange the color of the imported Icon.

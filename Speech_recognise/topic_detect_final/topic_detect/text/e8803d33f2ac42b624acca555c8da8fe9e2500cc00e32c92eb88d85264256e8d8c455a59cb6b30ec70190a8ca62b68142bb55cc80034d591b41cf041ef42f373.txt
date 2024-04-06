@@ -1,0 +1,9 @@
+audiolatry has announced the release of FunkBass 3, the newest and updated version of their free bass virtual instrument plugin for Windows and macOS.
+
+The third version kicks in with a completely new and redesigned GUI making room for a new distortion unit with drive, gain and mix, alongside a simple on/off cabinet emulation.
+
+The preset list has been increased with 12 new multi-sampled presets covering both electric bass emulations but also an array of funky synth basses. There are now 21 presets in total compared to 9 that were in the previous version.
+
+FunkBass is suitable for a wide range of genres including Funk, Pop, RnB, Hip Hop, EDM, etc.
+
+FunkBass is available in Windows VST/VST3 and macOS VST/VST3 & AU plugin formats.

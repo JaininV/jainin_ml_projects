@@ -1,0 +1,27 @@
+An Iranian government-backed actor known as Mint Sandstorm has been linked to attacks aimed at critical infrastructure in the U. S. between late 2021 to mid-2022.
+
+“This Mint Sandstorm subgroup is technically and operationally mature, capable of developing bespoke tooling and quickly weaponizing N-day vulnerabilities, and has demonstrated agility in its operational focus, which appears to align with Iran’s national priorities,” the Microsoft Threat Intelligence team said in an analysis.
+
+Targeted entities consist of seaports, energy companies, transit systems, and a major U. S. utility and gas company. The activity is suspected to be retaliatory and in response to attacks targeting its maritime, railway, and gas station payment systems that took place between May 2020 and late 2021.
+
+It’s worth noting here that Iran subsequently accused Israel and the U. S. of masterminding the attacks on the gas stations in a bid to create unrest in the nation.
+
+Mint Sandstorm is the new name assigned to the threat actor Microsoft was previously tracking under the name Phosphorus, and also known as APT35, Charming Kitten, ITG18, TA453, and Yellow Garuda.
+
+The change in nomenclature is part of Microsoft’s shift from chemical elements-inspired monikers to a new weather-themed threat actor naming taxonomy, in part driven by the increasing “complexity, scale, and volume of threats.”
+
+Unlike MuddyWater (aka Mercury or Mango Sandstorm), which is known to operate on behalf of Iran’s Ministry of Intelligence and Security (MOIS), Mint Sandstorm is said to be associated with Islamic Revolutionary Guard Corps (IRGC).
+
+The attacks detailed by Redmond demonstrate the adversary’s ability to constantly refine its tactics as part of highly-targeted phishing campaigns to obtain access to targeted environments.
+
+This includes rapid adoption of publicly disclosed proof-of-concepts (PoCs) linked to flaws in internet-facing applications (e.g., CVE-2022-47966 and CVE-2022-47986) into their playbooks for initial access and persistence.
+
+A successful breach is followed by the deployment of a custom PowerShell script, which is then used to activate one of the two attack chains, the first of which relies on additional PowerShell scripts to connect to a remote server and steal Active Directory databases.
+
+The other sequence entails the use of Impacket to connect to an actor-controlled server and deploy a bespoke implant called Drokbk and Soldier, with the latter being a multistage .NET backdoor with the ability to download and run tools and uninstall itself.
+
+Drokbk was previously detailed by Secureworks Counter Threat Unit (CTU) in December 2022, attributing it to a threat actor known as Nemesis Kitten (aka Cobalt Mirage, TunnelVision, or UNC2448), a sub-cluster of Mint Sandstorm.
+
+Microsoft also called out the threat actor for conducting low-volume phishing campaigns that culminate in the use of a third custom and modular backdoor referred to as CharmPower, a PowerShell-based malware that can read files, gather host information, and exfiltrate the data.
+
+“Capabilities observed in intrusions attributed to this Mint Sandstorm subgroup are concerning as they allow operators to conceal C2 communication, persist in a compromised system, and deploy a range of post-compromise tools with varying capabilities,” the tech giant added.

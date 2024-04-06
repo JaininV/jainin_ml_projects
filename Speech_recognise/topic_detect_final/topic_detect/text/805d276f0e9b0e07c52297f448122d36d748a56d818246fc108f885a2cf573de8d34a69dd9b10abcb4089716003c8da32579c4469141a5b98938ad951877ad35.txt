@@ -1,0 +1,7 @@
+The Fedora Project has announced the availability of Fedora 38. The main new feature in this update is that the Workstation edition uses GNOME 44. GNOME 44 includes a new lock screen, improvements to accessibility settings, and a new background apps section on the quick menu. There are new Spins including Fedora Budgie, Sway, and Sericea. There�s also a version for mobile devices now which is described as an early effort.
+
+For anyone out there who loves efficiency, this update brings a shorter default timeout for shutting down services. This means that powering off the systems should be faster, so if you�re in a hurry to go somewhere, you can get going quicker. Another performance improvement is the inclusion of dnf5. It�s not the default yet but it will be in future Fedora releases; it includes a smaller memory footprint and performance improvements.
+
+One of the key audiences of Fedora is developers. With Fedora 38, several important programming languages and system library packages have been updated. In this release, we have gcc 13, Golang 1.20, LLVM 16, Ruby 3.2, TeXLive2022, PHP 8.2, and �many more�.
+
+If you�re running Fedora 37, you can upgrade to Fedora 38 by opening Software, heading to Updates, refreshing, applying available updates, and then proceeding with the upgrade. If you�d like more detailed instructions or want to see other upgrade methods, . Alternatively, you can download a brand new ISO from the refreshed .

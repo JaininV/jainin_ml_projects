@@ -1,0 +1,17 @@
+Toku, a leader in applying AI-powered diagnostic and screening tools to retinal imaging, announced the closing of its $8 million Series A Preferred financing round. The financing was co-led by National Vision,, one of the largest optical retailers in the United States, and Topcon Healthcare, a leading provider of medical devices and software solutions for the global eye care community.
+
+Read More about AiThority Interview: AiThority Interview with Thomas Kriebernegg, Managing Director & Co-Founder at App Radar
+
+“This is an opportunity to help shape AI technologies that will prioritize better outcomes for patients and deepen the quality of care we’re able to provide.”
+
+The investment round will help Toku accelerate the development of technologies that use artificial intelligence to analyze retinal images for biometric markers linked to overall health and risk of cardiovascular events, stroke, and diabetes. To maximize market access, Toku applies its technology to leading retinal cameras.
+
+“We are proud to gain the support of two companies that play essential roles in vision care and optical technologies worldwide,” said Toku co-founder and CEO Dr. Ehsan Vaghefi. “Over 80% of cardiac events and diabetes related blindness could be prevented by identifying risk and applying targeted interventions. We are building a future in which more people have affordable access to this critical health data — all from analyzing a retinal image.”
+
+“Through AI-powered technology, Toku has found a way to identify potentially life-saving information quickly, accurately, and unobtrusively during a routine eye exam. We’re investing to help make that technology available to everyone who relies on us to help them see better, to live better, while also bridging the gap between eyecare providers and primary care,” said Priti Patel, O. D., National Vision’s Senior Vice President of Healthcare Strategy and Development. “This is an opportunity to help shape AI technologies that will prioritize better outcomes for patients and deepen the quality of care we’re able to provide.”
+
+“Topcon is supporting technology for early detection of diseases of and through the eye,” said Akifumi Baba, President of Topcon Medical Systems. “Toku retinal image analysis technology will do just that by giving people access to potentially life-saving health insights while overcoming traditional access and affordability barriers that too often accompany new healthcare tools. We are excited to provide our data science expertise to Toku Inc. and to welcome them as our first Entrepreneur in Residence.”
+
+AiThority Interview Insights: AiThority Interview with at Brian Sathianathan, Co-Founder and CTO at Iterate.ai
+
+[To share your insights with us, please write to sghosh@martechseries.com]

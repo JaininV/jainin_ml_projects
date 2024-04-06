@@ -1,0 +1,35 @@
+Discord is a popular VoIP and messaging platform that has a lot of useful features helping it cater to the needs of users worldwide.
+
+However, some are unhappy as they are facing some issues in editing their Discord profile information.
+
+According to reports (1,2,3,4,5,6,7,8,9,10), some Discord users are experiencing difficulties while updating the information in the ‘About me’ section in their profile.
+
+Allegedly, this happens due to an enlarged Discord Nitro ad that is being displayed to the app users.
+
+The ad overrides the ‘About me’ text box, which prevents the platform users from seeing the information that they are typing. Due to this. one needs to constantly close the keyboard to view it.
+
+Some are totally unable to edit the section info while others are able to do so after much struggle. The issue has popped up recently and mostly affects iOS app users.
+
+The ads are getting annoying. Especially as someone who already pays for nitro.
+
+Source
+
+Seems to only affect iOS, as the text box moves above the keyboard on the Android app.
+
+Source
+
+Notably, the glitch affects Discord Nitro users (1,2) as well. And those affected are now requesting the developers to fix this bug.
+
+Luckily, we did come across a potential workaround that may help solve your problem.
+
+A Redditor suggests that you hold the screen in place and type single-handedly. Although, it is worth mentioning that you will not be able to paste any text in the field.
+
+We are hopeful that Discord will soon resolve this problem.
+
+That said, we’ll continue to monitor the issue where the Discord users are experiencing difficulties in editing the ‘About me’ information.
+
+We will also update this story to reflect the latest information.
+
+There are more stories like this in our dedicated Apps section. So make sure you’re following them as well.
+
+PiunikaWeb started as purely an investigative tech journalism website with main focus on ‘breaking’ or ‘exclusive’ news. In no time, our stories got picked up by the likes of Forbes, Foxnews, Gizmodo, TechCrunch, Engadget, The Verge, Macrumors, and many others. Want to know more about us? Head here.

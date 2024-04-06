@@ -1,0 +1,49 @@
+New details on how healthy neurons metabolize glucose have implications for understanding neurodegenerative diseases
+
+,  /PRNewswire/ -- The human brain has a sweet tooth, burning through nearly one quarter of the body's sugar energy, or glucose, each day. Now, researchers at Gladstone Institutes and UC San Francisco (UCSF) have shed new light on exactly how neurons—the cells that send electrical signals through the brain—consume and metabolize glucose, as well as how these cells adapt to glucose shortages.
+
+Previously, scientists had suspected that much of the glucose used by the brain was metabolized by other brain cells called glia, which support the activity of neurons.
+
+"We already knew that the brain requires a lot of glucose, but it had been unclear how much neurons themselves rely on glucose and what methods they use to break the sugar down," says Ken Nakamura, MD, PhD, associate investigator at Gladstone and senior author of the new study published in the journal Cell Reports. "Now, we have a much better understanding of the basic fuel that makes neurons run."
+
+Past studies have established that the brain's uptake of glucose is decreased in the early stages of neurodegenerative diseases like Alzheimer's and Parkinson's. The new findings could lead to the discovery of new therapeutic approaches for those diseases and contribute to a better understanding of how to keep the brain healthy as it ages.
+
+Many foods we eat are broken down into glucose, which is stored in the liver and muscles, shuttled throughout the body, and metabolized by cells to power the chemical reactions that keep us alive.
+
+Scientists have long debated what happens to glucose in the brain, and many have suggested that neurons themselves don't metabolize the sugar. They instead proposed that glial cells consume most of the glucose and then fuel neurons indirectly by passing them a metabolic product of glucose called lactate. However, the evidence to support this theory has been scant—in part because of how hard it is for scientists to generate cultures of neurons in the lab that do not also contain glial cells.
+
+Nakamura's group solved this problem using induced pluripotent stem cells (iPS cells) to generate pure human neurons. IPS cell technology allows scientists to transform adult cells collected from blood or skin samples into any cell type in the body.
+
+Then, the researchers mixed the neurons with a labeled form of glucose that they could track, even as it was broken down. This experiment revealed that neurons themselves were capable of taking up the glucose and of processing it into smaller metabolites.
+
+To determine exactly how neurons were using the products of metabolized glucose, the team removed two key proteins from the cells using CRISPR gene editing. One of the proteins enables neurons to import glucose, and the other is required for glycolysis, the main pathway by which cells typically metabolize glucose. Removing either of these proteins stopped the breakdown of glucose in the isolated human neurons.
+
+"This is the most direct and clearest evidence yet that neurons are metabolizing glucose through glycolysis and that they need this fuel to maintain normal energy levels," says Nakamura, who is also an associate professor in the Department of neurology at UCSF.
+
+Nakamura's group next turned to mice to study the importance of neuronal glucose metabolism in living animals. They engineered the animals' neurons— but not other brain cell types—to lack the proteins required for glucose import and glycolysis. As a result, the mice developed severe learning and memory problems as they aged.
+
+This suggests that neurons are not only capable of metabolizing glucose, but also rely on glycolysis for normal functioning, Nakamura explains.
+
+"Interestingly, some of the deficits we saw in mice with impaired glycolysis varied between males and females," he adds. "More research is needed to understand exactly why that is."
+
+Myriam M. Chaumeil, PhD, associate professor at UCSF and co-corresponding author of the new work, has been developing specialized neuroimaging approaches, based on a new technology called hyperpolarized carbon-13, that reveal the levels of certain molecular products. Her group's imaging showed how the metabolism of the mice's brains changed when glycolysis was blocked in neurons.
+
+"Such neuroimaging methods provide unprecedented information on brain metabolism," says Chaumeil. "The promise of metabolic imaging to inform fundamental biology and improve clinical care is immense; a lot remains to be explored."
+
+The imaging results helped prove that neurons metabolize glucose through glycolysis in living animals. They also showed the potential of Chaumeil's imaging approach for studying how glucose metabolism changes in humans with diseases like Alzheimer's and Parkinson's.
+
+Finally, Nakamura and his collaborators probed how neurons adapt when they are not able to get energy through glycolysis—as might be the case in certain brain diseases.
+
+It turned out neurons use other energy sources, such as the related sugar molecule galactose. However, the researchers found that galactose was not as efficient a source of energy as glucose and that it could not fully compensate for the loss of glucose metabolism.
+
+"The studies we have carried out set the stage for better understanding how glucose metabolism changes and contributes to disease," says Nakamura.
+
+His lab is planning future studies on how neuronal glucose metabolism changes with neurodegenerative diseases in collaboration with Chaumeil's team, and how energy-based therapies could target the brain to boost neuronal function.
+
+The paper "Neurons Require Glucose Uptake and Glycolysis In Vivo" was published online in the journal Cell Reports on April 6, 2023.
+
+The first authors are Huihui Li and Yoshitaka Sei of Gladstone and Caroline Guglielmetti of UCSF. Other authors are Misha Zilberter, Lauren Shields, Joyce Yang, Kevin Nguyen, Neal Bennett, Iris Lo, and Yadong Huang of Gladstone; Lydia M. Le Page, Brice Tiret, Xiao Gao, and Martin Kampmann of UCSF; Talya L. Dayton and Matthew Vander Heiden of Massachusetts Institute of Technology; and Jeffrey C. Rathmell of Vanderbilt University Medical Center.
+
+The work was supported by the National Institutes of Health (RF1 AG064170, R01 AG065428, AG065428-03S1, R01 NS102156, R21 AI153749 and RR18928), National Institute on Aging (R01 AG061150, R01 AG071697, P01 AG073082, R01 CA168653, R35 CA242379, R01 DK105550), the UCSF Bakar Aging Research Institute, the Alzheimer's Association, a Bright Focus Foundation Award, a Berkelhammer Award for Excellence in Neuroscience, and a Chan Zuckerberg Initiative Neurodegeneration Challenge Network Ben Barres Early Career Acceleration Award.
+
+Gladstone Institutes is an independent, nonprofit life science research organization that uses visionary science and technology to overcome disease. Established in 1979, it is located in the epicenter of biomedical and technological innovation, in the Mission Bay neighborhood of San Francisco. Gladstone has created a research model that disrupts how science is done, funds big ideas, and attracts the brightest minds.

@@ -1,0 +1,15 @@
+Fix line numbers after inlined type checks ( gh #42 ). Previously, the code for type checks was inlined literally, so if a particular check took 5 lines of code, all the following line numbers in the source file would be off by 5 (they would be "pushed down" by the interpolated code). These bad line numbers would show up in error messages from Perl (including warn and die) as well as __LINE__ and caller (and thus stack traces).
+
+To install Function::Parameters, copy and paste the appropriate command in to your terminal.
+
+cpanm Function::Parameters
+
+perl -MCPAN -e shell
+
+install Function::Parameters
+
+For more information on module installation, please visit the detailed CPAN module installation guide.
+
+Bring up this help dialog
+
+go to github issues (only if github is preferred repository)

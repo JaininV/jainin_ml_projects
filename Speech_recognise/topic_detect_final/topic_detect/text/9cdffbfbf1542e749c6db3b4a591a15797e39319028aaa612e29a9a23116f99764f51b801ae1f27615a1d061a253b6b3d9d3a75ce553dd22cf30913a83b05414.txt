@@ -1,0 +1,21 @@
+Good Morning Dra/g/on Maids!
+
+I was playing more with MaidCard2 to see if I can use it to send mp3s, so an album can be in a Maid Space and tried an mp4 to see if I can put the Bad Apple video in a Maid Space. Since Kurumi the Vampire Maid from Touhou told me about Successor Function I decided to include the Touhou National Anthem.
+
+So I change the mp4 into base64 string and write it in one line and compress it with Maid-LZW and decompress it and my mp4 comes back out, but somehow the file got corruption and won't open.
+
+Is there a better way than base64 encoded string to convert audio/video to string?
+
+This is the same process I use for putting a png in a Maid Space and that works well. The resulting file data Maid Space is actually larger than the original png, but it is drawn with less pixels so I am okay with this, though also shrinking the filesize would be nice.
+
+Also, I need more AI generated maids to finish my book.
+
+Please give me AI generated maids and post researches about converting files into text.
+
+Thank you dra/g/ons for reading my post.>>92890609
+
+>Is there a better way than base64 encoded string to convert audio/video to string?
+
+only way I see would be if we go to an encoding with more bits, like UTF-16.>>92890729
+
+Thank you for telling me. When writing in a file, I have been using ISO 8859-1 as the character set. I will change it to UTF-16 and see what happens.

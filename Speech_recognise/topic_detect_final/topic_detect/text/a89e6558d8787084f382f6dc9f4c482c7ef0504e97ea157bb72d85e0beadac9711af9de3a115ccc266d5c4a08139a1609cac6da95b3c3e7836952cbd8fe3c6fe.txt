@@ -1,0 +1,5 @@
+You will need to make the blower tube for directing air at the cut site.  I used a set of nested copper tubes soldered together to direct the air and increase air velocity by decreasing the tube diameter at the air exit.  You can bend copper tubing without collapsing it by packing it with sand or salt first.  Soldering can be done with electrical solder and a small micro torch (use solder flux).
+
+I used PTFE tubing (same kind as used in FDM printers for 1.75mm filament paths) for the Nozzle, and 0.25 inch ID silicone tubing everywhere else.
+
+The nested copper tubing I used:  K&S Precision 3404 Round Copper Telescopic Tubes, 1/16, 3/32, 1/8, 5/32, 3/16, 7/32, 1/4 O. D. X .014" Wall Thickness x 12", Pack of 7

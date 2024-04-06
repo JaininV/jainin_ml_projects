@@ -1,0 +1,17 @@
+Samsung Electronics targeted the healthcare sector with an open source platform to boost digital research by simplifying app development, and the analysis and management of data from clinical and medical studies.
+
+In a statement, Lee Yunsu, head of Samsung’s data intelligence team, explained Health Stack 1.0 aims to make it easier and safer to acquire digital health data.
+
+The project comprises an app software development kit (SDK), back end services and data analysis tools for Android and Wear OS-based wearables.
+
+Health Stack 1.0 also includes a web portal for creating surveys, managing participants and analysing data. It was developed by Samsung Research and Samsung Research America.
+
+Lee stated the move will “lower the barriers between medical researchers and digital technology experts”.
+
+“By promoting the development of digital health services, we hope to ultimately improve the quality of life for people around the world.”
+
+The company announced the platform at the Healthcare Information and Management Systems Society, an annual conference and exhibition taking place this week in the US. The official launch is scheduled for June.
+
+Samsung noted Health Stack 1.0 improves on the alpha version’s ability to add participants, collect wearable data and basic survey functions, with both security and stability enhanced.
+
+Back

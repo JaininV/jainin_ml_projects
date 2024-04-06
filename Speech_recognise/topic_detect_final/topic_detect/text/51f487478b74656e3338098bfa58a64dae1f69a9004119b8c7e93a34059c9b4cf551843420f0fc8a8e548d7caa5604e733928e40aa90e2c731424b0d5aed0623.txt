@@ -1,0 +1,95 @@
+In this series of 4 blogs we are exploring the emerging work that we are undertaking in partnership with Laudes Foundation. The overall goal of the collaboration is to look with fresh eyes at the challenges and opportunities presented by an equitable decarbonisation of Europe’s land and buildings. As always, we would welcome your comments and feedback so please do get in touch if you would like to contribute.
+
+In this series of 4 blogs we are exploring the emerging work that we are undertaking in partnership with Laudes Foundation. The overall goal of the collaboration is to look with fresh eyes at the challenges and opportunities presented by an equitable decarbonisation of Europe’s land and buildings. As always, we would welcome your comments and feedback so please do get in touch if you would like to contribute.
+
+“If I were given one hour to save the planet, I would spend 59 minutes defining the problem and one minute resolving it.” — Einstein
+
+In the first blog of this series, we explored how using different filters can help us to identify the constraints (and related opportunities) that exist in relation to a just transition. In this next reflection we would like to shift our attention, to consider the wider socio-economic context in which the built environment is nested.
+
+As we zoom out to the broader context, what does this signify for the dominant trends? What happens when we combine a requirement (or even desire) for using less energy with a financial system that is tethered to that same resource? How realistic is dematerialisation as a response to increasing resource pressures, when this kind of strategy flies in the face of the prevailing economic logic? Improving resource use efficiency in manufacturing processes might align with reducing costs, but simply leaving minerals in the ground and thus forgoing or delaying profits does not. However much we disagree with this worldview, economic value is a reality that we must explain and understand if we want to build effective strategies. It is easy to shrug our shoulders and make comments like ‘it’s just the way it is’ or ‘capitalism is the problem’, but what exactly do we mean when we make such statements? What are the dominant forces or dynamics that are holding this kind of logic in place?
+
+In our previous blog we highlighted a concern about excluding an inequality filter from our constraints analysis. We would therefore like to pick this up here, by exploring some system dynamics that are fundamental to holding the current imagined order¹ and crippling levels of inequality in place. When we use the term system dynamics, we are referring to patterns and forces that play out across multiple areas of the systems that we interact with (e.g., political, ecological, cultural, physical).
+
+There are many excellent resources that consider these types of dynamics in depth (we can recommend some focused texts if you would like to look into anything mentioned in more detail), but the following examples highlight some key drivers and practical illustrations of how they manifest in the built environment.
+
+‘It is well enough that people of the nation do not understand our banking and monetary system, for if they did, I believe there would be a revolution before tomorrow morning.’ — Henry Ford
+
+The fact that most of the money used in our economy is essentially created out of thin air, by bankers tapping digital numbers into existence, has been well documented². Less well publicised however, is the link between the seemingly benign mechanism of money creation and rising housing inequality. A good example of how this occurs is the practice of quantitative easing (QE) that began in Japan and has been used extensively by the Bank of England, the ECB and the American Federal Reserve. QE involves a Central Bank creating new digital money and using it to buy back government and corporate bonds (IOUs). The idea behind this process is to reboot a sluggish economy by reducing interest rates and making it easier for people to take out loans. Irrespective of whether this actually works, the process also results in the value of bonds rising (as the supply of bonds decreases the value of those that remain goes up). It also causes a general inflation of asset prices, as investments in the stock and property markets are closely linked to the bond markets. In short, those who are already wealthy and own assets benefit from QE, whilst those that don’t fall further behind. For example:
+
+* In the 12 years since the financial crisis where QE has been liberally deployed, UK house price increases have far outstripped the growth in wages, with the UK first time buyer house price to earnings ratio rising from 4.3 to 5.6 in the past decade³.
+
+* In August 2020 at the height of the first Covid lockdown, western economies slumped to levels beyond the crash of 1929, whilst the FTSE100 and S&P500 rose dramatically. On the face of it this made no sense — how could share prices be rising when the entire global economy had been put into standby? The answer was that the newly created credit was predominantly lent to large corporations, who as they didn’t need the money, used it to buy back their own shares. These buy-backs inflated both the company share prices and the management bonuses that were linked to them⁴. Many of those bonuses were used to buy additional properties, thus creating further upward pressure on house prices and compounding existing housing inequalities.
+
+In both of the above examples, the prioritisation of investors and asset prices over businesses and livelihoods was not a decision taken by citizens on behalf of society. It was a judgement made by bankers on behalf of existing asset holders, that dramatically increased both social and housing inequalities across the continent.
+
+In our view this is one of the most important drivers in our current global economic and ecological situation, with severe consequences for the just element of Europe’s decarbonisation challenges. We see this as a chain of interlinked factors that will ultimately lead to increased economic volatility, with potentially devastating consequences for the most vulnerable members of society:
+
+* Firstly, GDP (a proxy for the sum of everything that is bought and sold in the economy) is currently 99% correlated to energy consumption, whilst the relationship to material use is more like 100%. This means that at current economic forecasts of 2–3% GDP growth per year, we will double our energy and material use every 25 years. It is important to note that many prominent economists such as Dianne Coyle⁵ and Thomas Piketty⁶ have provided robust challenges to GDP being used as a measure of societal progress at all. However, as GDP growth is currently still the dominant measure of economic success globally, its correlation to resource use remains a central consideration.
+
+* To date, absolute decoupling of GDP from energy on a global scale has not been achieved, despite dramatic technological and efficiency gains⁷. This is largely driven by a rebound effect (often referred to as Jevron’s Paradox), whereby improvements in technological efficiency result in increased demand and greater resource consumption overall⁸. A good example of this can be seen in improved refrigeration technologies, because as the price of fridges has decreased our overall use of them has escalated (the average garage now offers more refrigerated goods than a supermarket would have stocked in the 1970s).
+
+The Jevons paradox for energy consumption in the EU-27, 1995–2019
+
+* An additional issue is the impact of new debt which creates a future claim on energy, as its creation is currently entirely decoupled from our physical reality. To clarify, the creation of new debt does not automatically lead to growth; without the accompanying strategies proposed by MMT proponents such as Stephanie Kelton, the creation of new money would simply result in inflation. Instead, the availability of credit (and its associated interest) creates a future need to generate income by producing a good or service. This in turn equates to a forward claim on the energy that will be required to bring it into being. Thus, despite finance itself being a system without biophysical boundaries, the physical claims coded into its creation are essentially a contract with the future of the Earth⁹.
+
+* The levels of debt relative to GDP have steadily increased globally over the last decade (debt is doubling c.8.5 years compared to 25 years for GDP), showing that we are already struggling to service existing debt with current economic activities. As energy and resource costs rise and the quality of energy available decreases this issue will be magnified, fundamentally threatening the legitimacy of the global financial system.
+
+What happens when the music stops and we can’t make good on those embedded energy claims? Who will be the losers? After the 2008 crisis it was the lower income mortgage holders and general taxpayers who took the hit. As energy becomes scarce and expensive how will the risks be allocated? If we fail to address people’s needs at a rapid and inclusive scale (for example by implementing a continent-wide equitable repurposing of vacant space) it will be the poorest citizens of Europe who suffer the most. Unless we can fundamentally shift the relationship between how we finance real estate and its intrinsic value to society, initiatives aimed at repurposing space and retrofitting existing homes will remain as marginal interventions.
+
+“Remember, always, that everything you know, and everything everyone knows, is only a model. Get your model out there where it can be viewed. Invite others to challenge your assumptions and add their own.” ― Donella Meadows, Thinking in Systems
+
+Thinking about these kinds of dynamics in addition to the constraint filters, whilst trying to make anything happen day to day, can leave our heads spinning. It feels impossible to know where to begin or which thread to pull at first. For us at least it doesn’t feel humanly possible, so we have tried to create a framework to pull everything together. By doing so, we have of course been forced to simplify and use reductionist assumptions. We are aware of the irony of trying to illustrate complex systems by putting things into conceptual boxes. We would ask you to hold it lightly, taking what’s useful and leaving what’s not.
+
+In designing this model we have drawn on extraordinary thinkers from diverse disciplines. If you are interested in exploring this work in more depth, then we wholeheartedly recommend the following: Professor Beinhocker’s Ontological stack, Marvin Harris’s Cultural Materialism, Daniel Schutemberger’s analysis of our political economy, the International Futures Forum’s 3 Horizons model and of course Donella Meadows’ Points to Intervene in a system.
+
+The following 3 by 3 grid provides some prompts to think through how we can design responses to the different constraints, in the context of the systems we are working within.
+
+On the vertical axis we have the different domains (or levels) of the system. We have summarised these into three umbrella domains to make it easier to visualise:
+
+* The cultural suprastructure: this relates to the values, wisdom, spirituality, ways of being and ways of knowing that are dominant in our culture. This domain results in the collective sense-making of what it means to live a good life and it is this value system that then shapes the political and economic structures below.
+
+* Political & economic domains (governance & jurisprudence, finance & investment, market logic and ownership patterns): these are the institutions and processes that determine how we organise society. They provide the system’s overall goals, rules, decision making structures, patterns of behaviour and information flows.
+
+* Physical domains (resource & land use): The physical domains represent the material and ecological economies and ground the socio-economic and ontological domains in the systems’ biophysical reality.
+
+Across the horizontal axis we can start to think about specific constraints and responses:
+
+* Constraints: these blocks can be viewed as physical (e.g. biodiversity, energy, labour, materials), structural (e.g. money creation, embedded inequality, private property rights) or psychological (e.g. failure of the imagination).
+
+* Systemic capabilities: to unlock and repattern the structural blocks, we will need to create new capabilities in the system. Examples could include democratising money creation, embedding beyond GDP metrics in national policy, creating a new material economy or reimagining land as a common asset.
+
+* Pathways: these are the practical tools and pathways that can be used to start building towards the systemic capabilities.
+
+Once we have identified a constraint, we can use the matrix to think more granularly about the implications for a just transition. To bring this idea to life we have worked through two potential strategies that were highlighted in Blog 1 of this series, to give examples at each intersection of the matrix:
+
+(A) Consider a no (or low) build future: If we can’t build the required volume of low carbon homes, how can we intensify our use of existing ones?
+
+This strategy suggestion was driven primarily by physical constraints; i.e. intensifying pressures on energy and material resources. It was also however in consideration of inflated land and asset prices, which are excluding increasing numbers of people from home ownership.
+
+(B) Embrace low-tech dematerialisation: If we cannot feasibly mine or recycle the materials needed, how can we radically adapt the way that we use them?
+
+Reducing our material throughput cannot be left to individual choice alone as people still have to live and operate in the existing system. Instead, we need to recognise the main factors that are holding a linear material economy in place, so that we can think practically about how they can be shifted.
+
+Part 2: visualising the response pathways over different time horizons
+
+A second step that we find helpful in looking for response pathways is to think about the desired capabilities over different timeframes. Some issues are immediately threatening and require rapid mitigation responses, whilst others will play out over the longer-term and invite us to think more tactically. Inspired by the IFF’s 3-Horizon model, we have begun to think about these time-bound responses in three tranches, that intersect vertically through the system domains as shown in the following matrix:
+
+Taking the example above of dematerialisation we can break the potential response pathways down by timeframe. For example, if we take the pathway of citizen engagement:
+
+* A mitigation response to the cost of living and energy crisis might be to ask citizens to temporarily reduce their electricity consumption;
+
+* A more transitional approach may be to introduce wide scale citizen assemblies, to debate how to live better with less;
+
+* A transformational pathway could be to work towards a new form of democracy, where citizens’ views on limited resource use are continuously consulted using digital technologies.
+
+Or, if we are thinking about promoting a circular economy:
+
+* An immediate response could be to provide easily accessible recycling facilities for household devices;
+
+* An example of a transitional initiative can be seen in France where they have introduced an obsolescence law, which requires manufacturers to comply with a repairability index¹⁰;
+
+* In terms of a transformational strategy, we could start thinking about a planetary level governance mechanism for total material use, to bring it back inside the earth’s carrying capacity.
+
+We do not believe that each type of response will intersect with every level of the system. In some triage situations for example, the appropriate response may be limited to an immediate governmental intervention, such as imposing lockdowns during the Covid crisis. Furthermore, in categorising the pathways, we are not attempting to create a hierarchy of responses, or to prioritise transformational pathways over mitigation tools. In our view, we will need to think and act over multiple timeframes using diverse system leverage points. Our goal with this framework is to probe the problem space, to try and make different elements of the system easier to visualise and thus to interact with. We hope that by doing this we can begin to identify gaps in the existing response landscape, thus promoting flexible precision in the response pathways we choose to pursue. As always we would welcome your feedback and suggestions so that we can modify and improve this conceptual tool.
+
+In our next Blog (3 of 4) we will introduce an emerging community of just transition practitioners, that we have had the privilege of engaging with during this project. This has been both a challenging and exciting journey, where we have embraced the idea of working out loud, using the framework introduced above to guide our work. We will endeavour to share what we have learned so far, together with areas of our analysis that require strengthening and developing.

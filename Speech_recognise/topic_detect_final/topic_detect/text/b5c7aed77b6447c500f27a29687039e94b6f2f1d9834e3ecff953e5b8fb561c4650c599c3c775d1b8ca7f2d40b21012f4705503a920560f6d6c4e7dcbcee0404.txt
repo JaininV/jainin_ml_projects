@@ -1,0 +1,19 @@
+On 02/17/2023, the firm verbally notified its customers that as part of their post-approval commitments to FDA, a final version of the product labeling was submitted to FDA on 01/17/2023.  Upon FDA's review of the final label version, FDA deemed the Instruction For Use changes to be significant, such as, changes to allow use of an alternate form to document patient information and modified shipping instructions.
+
+On or about 03/23/2023, a formal updated "URGENT: Medical Device Recall" letter will be communicated to customer providing them with the recall details.
+
+Customers are instructed to:
+
+1. Stop use of Sample Collection Kits and place under quarantine (see Table 1 for affected product and lot numbers).
+
+2. Complete the following four (4) records and return them to Resolution s Quality Team at qa.pdl-resolution@agilent.com:
+
+i. Attachment 1, Recall Acknowledgement and Customer Return Form: Confirm that you have received this notification by returning enclosed acknowledgement form within 3 business days of receipt, answering the questions, documenting the inventory quantities, and completing the acknowledgement box.
+
+ii. Prepare the inventory for return according to provided instructions in Attachment 2, Shipping Instructions
+
+iii. Attachment 3, Product Return - Shipping Record: For each lot number and Quest Hub location, record the number of unused products being returned, shipped by and date, shipping tracking number, scan attachment 3 and email to qa.pdl-resolution@agilent.com, include attachment 3 with the shipment.
+
+iv. Attachment 4, Certification of Product Destruction Record: If there are any devices that were opened or in the process of being used please document their destruction in this attachment, scan and return via email to qa.pdl-resolution@agilent.com. Destroy devices following your laboratory procedures as deemed appropriate by your company.
+
+For questions, contact Agilent Corporate Communications at 669-225-7696 or via emails at sarah.litton@agilent.co

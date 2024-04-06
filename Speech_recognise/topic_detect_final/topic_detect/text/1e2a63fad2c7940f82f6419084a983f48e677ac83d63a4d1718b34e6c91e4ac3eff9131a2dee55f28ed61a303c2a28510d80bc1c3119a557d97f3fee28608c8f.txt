@@ -1,0 +1,21 @@
+Minecraft is a sandbox game developed by Mojang Studios and has been there for more than a decade now. It has also received a lot of updates in the past year and continues to receive. It is also one of the most modded games. Like many other video games, Minecraft can also get some added features by making some modifications and these changes can be done by installing MC mods. MC Mods allow players to get new features and change the gameplay. Minecraft’s huge modding community brings in thousands of mods that are available for the game. Here are some of the best Minecraft mods for 2023.
+
+OptiFine is a Minecraft optimization mod. It allows Minecraft to run faster and look better with full support for HD textures and many configuration options. This is pretty useful if you are having a PC with a lesser configuration and this helps in better overall quality. This is one of the popular mods for Minecraft.
+
+Journey Map is a real-time mapping in the game or in a web browser as you explore. JourneyMap is a client+server mod for Forge or Fabric and Quilt which maps your Minecraft world in real time as you explore. You can view the map in a web browser or in-game as a Minimap or full-screen.
+
+Just Enough Items is the most downloaded MC mod on CurseForge. A lot of popular mod packs come with Just Enough Items mod included. It is one of the straightforward mods that shows the recipe for every item in the game and this in turn is very useful for beginners who find it tough to create recipes.
+
+This mod adds way stone blocks that the player can return to once they’ve been activated, either through a Warp Scroll, a rechargeable Warp Stone, or by using an existing way stone to hop from one to the other. This is very useful and can be used in Survival Mode, for Adventure Maps, or on Multiplayer Servers as an alternative to /warp and /home commands. Waystones can be made globally available for all players and a configurable inventory button can be set up to allow warping without any additional items.
+
+Biomes O’ Plenty is an expansive biome mod for Minecraft that adds a slew of new, unique biomes to the Overworld and Nether!  To go along with the new biomes, it adds new plants, flowers, trees, building blocks, and much more.
+
+Chisel & Bits uses inset model faces to render the bits. Normal Minecraft Ambient Occlusion calculations do not process these faces properly, as such you will need to enable the experimentalForgeLightPipelineEnabled in the forge-client.toml configuration file.
+
+Sodium is a free and open-source rendering optimization mod for Minecraft 1.16+ which greatly improves frame rates and stuttering while fixing many graphical issues. It boasts wide compatibility with the Fabric mod ecosystem when compared to other rendering-focused mods, and it does so without compromising on how the game looks, giving you that authentic block game feel.
+
+Quark is a fully modular Minecraft mod, named after the subatomic particle. In simpler terms, it’s a large mod with lots of small features, aimed at improving the vanilla game. Every feature can be turned on and off individually at your will, and most features contain further options to tweak the game just how you like it.
+
+While there are a lot of advancement options included in Minecraft users will be looking for more. Players can use the Advancement Plus mod to add new advancements to the game.
+
+Immersive Portals mod makes all the portals in Minecraft see-through. You still won’t be able to hear sounds from the other end until you enter the portal, but you can see them before you enter. And there is no waiting time when you enter the portal, and you land directly on the linked map location.

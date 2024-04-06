@@ -1,0 +1,29 @@
+The Income Tax Department recently launched a mobile app called “AIS for Taxpayer” for individuals to access their Annual Information Statement (AIS)/ Taxpayer Information Summary.
+
+According to the IT department, AIS gives a comprehensive view of information for a taxpayer displayed in Form 26AS. The app is aimed at showcasing a complete perspective of AIS/TIS with data gathered from multiple sources.
+
+The application is available for download from Google Play and the App Store for Android and iOS users, respectively. Individuals can examine information regarding GST data, foreign remittances, TDS/TCS, interest, dividends, share transactions, tax payments, and income tax refunds.
+
+* Also read: How to surrender duplicate PAN
+
+Taxpayers should register themselves on the e-filing portal to access AIS mobile app.
+
+Step 1: Head to the Google Play Store or App Store and download the AIS for Taxpayer app.
+
+Step 2: You will have to enter your PAN number and details and agree with the terms and conditions to use the app.
+
+Step 3: Enter your primary contact details as per the e-filing portal.
+
+Step 4: After OTP verification, you will be required to set a four-digit MPIN.
+
+* Also read: How to find a fake GST invoice?
+
+Step 1: Head to the application and log in by entering the MPIN.
+
+Step 2: Click on the AIS head to view AIS and TIS.
+
+Step 3: Now, choose the financial year from the tab.
+
+Step 4: The AIS section will now present the data.
+
+* Also read: How to view EPF passbook using UMANG app

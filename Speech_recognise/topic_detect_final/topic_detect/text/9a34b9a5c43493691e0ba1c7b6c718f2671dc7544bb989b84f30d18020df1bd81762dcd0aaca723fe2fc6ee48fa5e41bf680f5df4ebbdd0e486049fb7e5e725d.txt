@@ -1,0 +1,15 @@
+19/04/23
+
+Audiomovers says that when the first introduced OMNIBUS, it solved a problem plaguing computer users for decades by delivering seamless audio routing within a MacOS computer – getting audio between applications or to hardware outputs. Now, they tell us that OMNIBUS 2.0 doubles down on the original virtual driver count and adds hardware audio device I/O support. Whether routing audio from applications or hardware devices, OMNIBUS 2.0 allows users to combine or split different audio sources and send the resulting audio to multiple destinations.
+
+Igor Maxymenko, Cofounder and Head of Audio Products at Audiomovers, told us, "OMNIBUS makes complex audio routing easy, whether you're an audio professional or enthusiast. Now with OMNIBUS 2.0, there is hardware input support and a new and much improved user interface for greater flexibility."
+
+OMIBUS 2.0 now has two 16-channel, one 32-channel and one 64-channel virtual audio device to cover the most demanding use cases from engineers. Users can now save up to 100 routing snapshots. Additional features include individual channel naming, pre-assignment "hints" and device rearrangement, and a "Click-to-Focus" function, as well as precise metering and optional color coding for each audio device in a matrix.
+
+"With a couple of clicks on the matrix display, you can connect audio from a web browser to DAW inputs for sampling," says Maxymenko. "Mixers and mastering engineers can split multi-channel output from Dolby Renderer or a Pro Tools session to the LISTENTO application or LISTENTO Web Streamer for remote approval with ease. Live streamers or tracking engineers could combine the DAW output with a live mic input and any other signal and route it to OBS for audio streaming or capture."
+
+Pricing and Availability:
+
+The OMNIBUS 2.0 app is available for download for a limited time at the introductory launch sale price of $99.99 (USD). The regular MSRP will be $149.99 (USD) following the introductory period. All existing users of OMNIBUS 1.0 will be entitled to a free upgrade.
+
+Even more news...

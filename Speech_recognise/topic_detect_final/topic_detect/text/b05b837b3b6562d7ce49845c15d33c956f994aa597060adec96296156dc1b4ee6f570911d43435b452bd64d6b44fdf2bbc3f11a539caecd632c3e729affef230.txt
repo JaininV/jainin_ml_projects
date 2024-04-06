@@ -1,0 +1,467 @@
+Forum Rule: Always post  & details to reproduce any issue!
+
+HEllo All!
+
+I am working on a simple GPS logger and I followed this tutorial from Adafruit: https://learn.adafruit.com/track-you...ker/gps-shield
+
+I have my Teensy4.1 wired up to the GPS module and I am receiving data. However, when I try compile my code I get the following error:
+
+Arduino: 1.8.19 (Mac OS X), TD: 1.56, Board: "Teensy 4.1, Serial, 600 MHz, Faster, US English"
+
+test_gps_log_2:35: error: expected constructor, destructor, or type conversion before '(' token
+
+SIGNAL(TIMER0_COMPA_vect) {
+
+test_gps_log_2:35: error: expected constructor, destructor, or type conversion before '(' token
+
+SIGNAL(TIMER0_COMPA_vect) {
+
+Multiple libraries were found for "SD.h"
+
+Used: /Users/cameronthompson/Library/Arduino15/packages/teensy/hardware/avr/1.57.0/libraries/SD
+
+Not used: /private/var/folders/t4/4yy3m0f15_vb604mb2trhhvm0000gn/T/AppTranslocation/4C007519-390B-48F1-AB2F-332E465702EC/d/Teensyduino.app/Contents/Java/libraries/SD
+
+Multiple libraries were found for "SdFat.h"
+
+Used: /Users/cameronthompson/Library/Arduino15/packages/teensy/hardware/avr/1.57.0/libraries/SdFat
+
+Not used: /Users/cameronthompson/Documents/Arduino/libraries/SdFat_-_Adafruit_Fork
+
+expected constructor, destructor, or type conversion before '(' token
+
+This report would have more information with
+
+"Show verbose output during compilation"
+
+option enabled in File -> Preferences.
+
+I am working on sorting out the multiple SD libraries, but I am puzzled by the error
+
+Any ideas?
+
+Thanks!
+
+P. S.
+
+My code for reference:
+
+#include
+
+#include
+
+#include
+
+#include
+
+#include
+
+#include
+
+#define SCREEN_WIDTH 128 // OLED display width, in pixels
+
+#define SCREEN_HEIGHT 64 // OLED display height, in pixels
+
+// what's the name of the hardware serial port?
+
+#define GPSSerial Serial1
+
+// Connect to the GPS on the hardware port
+
+Adafruit_GPS GPS(&GPSSerial);
+
+int led = 13;
+
+#define OLED_RESET     -1 // Reset pin # (or -1 if sharing Arduino reset pin)
+
+#define SCREEN_ADDRESS 0x3C ///< See datasheet for Address; 0x3D for 128x64, 0x3C for 128x32
+
+Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, OLED_RESET);
+
+// Set GPSECHO to 'false' to turn off echoing the GPS data to the Serial console
+
+// Set to 'true' if you want to debug and listen to the raw GPS sentences
+
+#define GPSECHO false
+
+uint32_t timer = millis();
+
+Sd2Card card;
+
+SdVolume volume;
+
+SdFile root;
+
+const int chipSelect = BUILTIN_SDCARD;
+
+uint32_t logCounter = 0;
+
+File logfile;
+
+// Timer interrupt called every millisecond to check for new data from the GPS.
+
+SIGNAL(TIMER0_COMPA_vect) {
+
+// Check for new GPS data.
+
+GPS.read();
+
+// Decrease the count since last location log.
+
+if (logCounter > 0) {
+
+logCounter--;
+
+// Log the current GPS location with the specified note.
+
+void logLocation(const char* note) {
+
+logfile.print(GPS.latitudeDegrees, 6);
+
+logfile.print(',');
+
+logfile.print(GPS.longitudeDegrees, 6);
+
+logfile.print(',');
+
+logfile.print(note);
+
+logfile.println();
+
+logfile.flush();
+
+void setup() {
+
+pinMode(led, OUTPUT);
+
+// SSD1306_SWITCHCAPVCC = generate display voltage from 3.3V internally
+
+if (!display.begin(SSD1306_SWITCHCAPVCC, SCREEN_ADDRESS)) {
+
+Serial.println(F("SSD1306 allocation failed"));
+
+for (;;); // Don't proceed, loop forever
+
+display.display();
+
+delay(2000); // Pause for 2 seconds
+
+// Clear the buffer
+
+display.clearDisplay();
+
+// 9600 NMEA is the default baud rate for Adafruit MTK GPS's- some use 4800
+
+GPS.begin(9600);
+
+// uncomment this line to turn on RMC (recommended minimum) and GGA (fix data) including altitude
+
+GPS.sendCommand(PMTK_SET_NMEA_OUTPUT_RMCGGA);
+
+// uncomment this line to turn on only the "minimum recommended" data
+
+//GPS.sendCommand(PMTK_SET_NMEA_OUTPUT_RMCONLY);
+
+// For parsing data, we don't suggest using anything but either RMC only or RMC+GGA since
+
+// the parser doesn't care about other sentences at this time
+
+// Set the update rate
+
+GPS.sendCommand(PMTK_SET_NMEA_UPDATE_1HZ); // 1 Hz update rate
+
+// For the parsing code to work nicely and have time to sort thru the data, and
+
+// print it out we don't suggest using anything higher than 1 Hz
+
+// Request updates on antenna status, comment out to keep quiet
+
+GPS.sendCommand(PGCMD_ANTENNA);
+
+delay(1000);
+
+// Ask for firmware version
+
+GPSSerial.println(PMTK_Q_RELEASE);
+
+if (!card.init(SPI_HALF_SPEED, chipSelect)) {
+
+Serial.println("initialization failed. Things to check:");
+
+Serial.println("* is a card inserted?");
+
+Serial.println("* is your wiring correct?");
+
+Serial.println("* did you change the chipSelect pin to match your shield or module?");
+
+return;
+
+} else {
+
+Serial.println("Wiring is correct and a card is present.");
+
+// print the type of card
+
+Serial.print("\nCard type: ");
+
+switch (card.type()) {
+
+case SD_CARD_TYPE_SD1:
+
+Serial.println("SD1");
+
+break;
+
+case SD_CARD_TYPE_SD2:
+
+Serial.println("SD2");
+
+break;
+
+case SD_CARD_TYPE_SDHC:
+
+Serial.println("SDHC");
+
+break;
+
+default:
+
+Serial.println("Unknown");
+
+// Now we will try to open the 'volume'/'partition' - it should be FAT16 or FAT32
+
+if (!volume.init(card)) {
+
+Serial.println("Could not find FAT16/FAT32 partition.\nMake sure you've formatted the card");
+
+return;
+
+// print the type and size of the first FAT-type volume
+
+uint32_t volumesize;
+
+Serial.print("\nVolume type is FAT");
+
+Serial.println(volume.fatType(), DEC);
+
+Serial.println();
+
+volumesize = volume.blocksPerCluster();    // clusters are collections of blocks
+
+volumesize *= volume.clusterCount();       // we'll have a lot of clusters
+
+if (volumesize < 8388608ul) {
+
+Serial.print("Volume size (bytes): ");
+
+Serial.println(volumesize * 512);        // SD card blocks are always 512 bytes
+
+Serial.print("Volume size (Kbytes): ");
+
+volumesize /= 2;
+
+Serial.println(volumesize);
+
+Serial.print("Volume size (Mbytes): ");
+
+volumesize /= 1024;
+
+Serial.println(volumesize);
+
+//Serial.println("\nFiles found on the card (name, date and size in bytes): ");
+
+//root.openRoot(volume);
+
+// list all files in the card with date and size
+
+//root.ls(LS_R | LS_DATE | LS_SIZE);
+
+// Create the next log file on the SD card.
+
+char filename[15];
+
+strcpy(filename, "GPSLOG00.CSV");
+
+for (uint8_t i = 0; i < 100; i++) {
+
+filename[6] = '0' + i / 10;
+
+filename[7] = '0' + i % 10;
+
+// Create file if it does not exist.
+
+if (!SD.exists(filename)) {
+
+break;
+
+Serial.print("Using log file: ");
+
+Serial.println(filename);
+
+// Open the log file.
+
+logfile = SD.open(filename, FILE_WRITE);
+
+if (!logfile) {
+
+// Set the first line of the log file as the column headers.
+
+logfile.println("latitude,longitude,note");
+
+logfile.flush();
+
+void loop() {
+
+display.clearDisplay();
+
+// put your main code here, to run repeatedly:
+
+// read data from the GPS in the 'main loop'
+
+char c = GPS.read();
+
+// if you want to debug, this is a good time to do it!
+
+if (GPSECHO)
+
+if (c) Serial.print(c);
+
+// if a sentence is received, we can check the checksum, parse it...
+
+if (GPS.newNMEAreceived()) {
+
+// a tricky thing here is if we print the NMEA sentence, or data
+
+// we end up not listening and catching other sentences!
+
+// so be very wary if using OUTPUT_ALLDATA and trying to print out data
+
+// Serial.print(GPS.lastNMEA()); // this also sets the newNMEAreceived() flag to false
+
+if (!GPS.parse(GPS.lastNMEA())) // this also sets the newNMEAreceived() flag to false
+
+return; // we can fail to parse a sentence in which case we should just wait for another
+
+// approximately every 2 seconds or so, print out the current stats
+
+if (millis() - timer > 2) {
+
+timer = millis(); // reset the timer
+
+Serial.print("\nTime: ");
+
+if (GPS.hour < 10) {
+
+Serial.print('0');
+
+Serial.print(GPS.hour, DEC); Serial.print(':');
+
+if (GPS.minute < 10) {
+
+Serial.print('0');
+
+Serial.print(GPS.minute, DEC); Serial.print(':');
+
+if (GPS.seconds < 10) {
+
+Serial.print('0');
+
+Serial.print(GPS.seconds, DEC); Serial.print('.');
+
+if (GPS.milliseconds < 10) {
+
+Serial.print("00");
+
+} else if (GPS.milliseconds > 9 && GPS.milliseconds < 100) {
+
+Serial.print("0");
+
+Serial.println(GPS.milliseconds);
+
+Serial.print("Date: ");
+
+Serial.print(GPS.day, DEC); Serial.print('/');
+
+Serial.print(GPS.month, DEC); Serial.print("/20");
+
+Serial.println(GPS.year, DEC);
+
+Serial.print("Fix: "); Serial.print((int)GPS.fix);
+
+Serial.print(" quality: "); Serial.println((int)GPS.fixquality);
+
+if (GPS.fix) {
+
+Serial.print("Location: ");
+
+Serial.print(GPS.latitudeDegrees, 4); Serial.print(GPS.lat);
+
+Serial.print(", ");
+
+Serial.print(GPS.longitudeDegrees, 4); Serial.println(GPS.lon);
+
+Serial.print("Speed (knots): "); Serial.println(GPS.speed);
+
+Serial.print("Angle: "); Serial.println(GPS.angle);
+
+Serial.print("Altitude: "); Serial.println(GPS.altitude);
+
+Serial.print("Satellites: "); Serial.println((int)GPS.satellites);
+
+Serial.print("Antenna status: "); Serial.println((int)GPS.antenna);
+
+//      digitalWrite(led, HIGH);   // turn the LED on (HIGH is the voltage level)
+
+//      delay(500);               // wait for a second
+
+//      digitalWrite(led, LOW);    // turn the LED off by making the voltage LOW
+
+//      delay(500);
+
+logLocation("Still Here");
+
+//      display.setTextSize(1);      // Normal 1:1 pixel scale
+
+//      display.setTextColor(SSD1306_WHITE); // Draw white text
+
+//      display.setCursor(0, 0);     // Start at top-left corner
+
+//      display.print(F("lat: "));
+
+//      display.println(GPS.latitudeDegrees);
+
+//      display.print(F("lng: "));
+
+//      display.println(GPS.longitudeDegrees);
+
+//      display.display();      // Show initial text
+
+} else {
+
+//      display.setTextSize(1);      // Normal 1:1 pixel scale
+
+//      display.setTextColor(SSD1306_WHITE); // Draw white text
+
+//      display.setCursor(0, 0);     // Start at top-left corner
+
+//      display.println("WAITING FOR SIGNAL");
+
+//      display.display();
+
+// Periodically log the location.
+
+if (logCounter == 0) {
+
+logLocation("Location");
+
+logCounter = LOGGING_PERIOD_SEC*1000;
+
+My breadboard:
+
+You may not post new threads
+
+You may not post replies
+
+You may not post attachments
+
+You may not edit your posts

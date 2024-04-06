@@ -1,0 +1,13 @@
+80.lv: Can you do a little intro? How long have you been with the company? What do you do there?
+
+Saxs Persson, Executive Vice President at Epic Games: I'm Saxs Persson, and I have been at Epic Games for 14 months. I've known Tim Sweeney since back in the 90s when we were programming together, and we've always been philosophically very aligned. UEFN, I would say, represents the next step of his and my vision for how these ecosystems need to evolve.
+
+I've been in games for over 30 years, and we started within a year of each other. It was always about making the best game, but at some point, it became much more about enabling other people to make games – and it is actually much more fun and fulfilling.
+
+I think Epic Games started working on Unreal Engine in 1993 or 1994, and UEFN is the next logical step for the company. How do we get the power of Unreal into more hands, and when you make something in Unreal, how do we get players to connect with that much easier than making a finished game – worrying about multiplayer, store rules, and how to sell it. We want to provide an ecosystem that's ready for the game and then for developers to just focus on the game. That was the biggest thing.
+
+It's 100% up to the creator where they want to go, and the only thing you can purchase is what you purchase in the item shop. How do we construct an economy that's fair to everybody? Where you can build a business knowing that if people play your game, if they're successful, and if there are people who like it, you will make money.
+
+That's the philosophy around the economy and those two pieces – how do we have a fair and transparent economy and how do we have tools in the hands of creators with a built-in audience – are the essence of what the announcement was about and the proof of why we did it is that 40% of the time in Fortnite is already being spent with other people's islands, not in Battle Royale.
+
+That number grew from zero four years ago when there were no in-game tools and has just been increasing. We also think that 40% is about as far as we can go with in-game tools, because functionally, it is a remix of things available in Fortnite. Unreal Editor opens up custom assets, custom meshes, Sequencer, landscape tools, and more – a lot of the things Unreal Engine can do, now in a world with a one-click publish so we should see an explosion in genres and that is what we think the next growth is going to come from the ecosystem.

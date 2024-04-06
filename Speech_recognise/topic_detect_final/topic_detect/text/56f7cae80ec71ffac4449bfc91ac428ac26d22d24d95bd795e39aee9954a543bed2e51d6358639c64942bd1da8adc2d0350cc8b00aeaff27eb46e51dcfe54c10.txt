@@ -1,0 +1,17 @@
+The start of 2023 has been challenging for many Customer Experience (CX) leaders and will continue to be so as consumer expectations rise and the economy becomes more turbulent. Service quality matters even more, and creating trust and loyalty becomes the lifeblood of a business. Organizations recognize that CX is a key growth driver, with 82% of CX leaders predicting budget increases in this year. CX roles also continue to be important, with nearly 90% of organizations now having a Chief Experience Officer or Chief Customer Officer.
+
+Despite these heavy investments, CX leaders need to ensure they can show return-on-investment (ROI). Worryingly, many companies still struggle to accurately measure the impact of their CX programs; only one in seven have models linking CX success to financial performance.
+
+Recommended: Red Hat Summit 2023 – Workshops & Sessions to Keep A Tab On
+
+Here are three key budget priorities for CX leaders:
+
+In spite of economic uncertainty, companies continue to invest in CX technology. Metrigy reports that 65% of companies plan to increase their CX technology spend in 2023 as this correlates with success in revenue, costs, customer satisfaction and employee productivity. For example, the LEGO Group uses their customer management platform to track customer feedback in real-time, and proactively engage those who are having a negative experience. Their action-led program has resulted in greater customer satisfaction, improved NPS® and increased revenues across both brick-and-mortar and online stores.
+
+As customers engage with brands across more channels and touchpoints, their journeys become more complex.
+
+In APAC, those who make in-store purchases use at least one digital channel for research, and 90% expect brands to have an online presence. Although brands continue to invest in technology to manage new channels, the disconnect between these systems, channels, and departments creates frustration. Journey Orchestration platforms can resolve this by connecting customer data, and enabling real-time and personalized experiences.
+
+IDC found that 85% of companies that improved employee experience (EX) saw better CX, higher customer satisfaction, and revenue growth. Therefore, getting EX right is crucial to an organization’s CX. Great EX requires empowering, training, and investing in employees. However, there has been a shortage of in-house CX expertise, with over 85% of CX leaders coming from a non-CX background. To overcome this, CX leaders need to empower employees with the right tools and insights to understand and solve customer problems. Companies with highly engaged workers grow revenue 2.5x faster than those with low engagement levels.
+
+CX is critical in any customer-centric business strategy, and CX leaders must prioritize investments that build long-lasting, value-based customer relationships to succeed in what will continue to be a challenging year.

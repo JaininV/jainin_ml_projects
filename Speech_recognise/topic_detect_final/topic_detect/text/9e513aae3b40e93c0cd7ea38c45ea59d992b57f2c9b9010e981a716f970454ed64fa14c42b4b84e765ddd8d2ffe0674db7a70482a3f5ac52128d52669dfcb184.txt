@@ -1,0 +1,31 @@
+Other platform updates include performance enhancements around device scanning, unmanaged device discovery, agent lockdown, Bitlocker encryption key storage, and more.
+
+NEWPORT BEACH, Calif. – April 11, 2023 – Syxsense, a global leader in Unified Security and Endpoint Management (USEM) solutions, today released new updates to the Syxsense product suite designed to extend automated workflow capabilities, improve usability, and enhance overall platform security. Key to this release is the introduction of Cortex Sequences, which uses the power of automation to chain together workflows or playbooks, further enabling Syxsense customers to have intelligent endpoints that can dramatically simplify endpoint security and management.
+
+With today’s complex digital infrastructure and cybersecurity landscape, organizations are increasingly relying on automation to streamline endpoint management and reduce their attack surface. This is critically important, given recent research shows that 75% of organizations have experienced at least one attack related to poor endpoint device management. Syxsense Cortex already enables customers to combine logic, approvals, and actions to automate complex processes. With Cortex Playbooks, customers get pre-built workflows of common processes, such as ensuring a device has enough memory before running a patch scan and then pushing approved patches for any identified issues.
+
+Cortex Sequences supercharges these capabilities by giving IT and security teams incredible control to build out a series of sequence-based automation chains between servers and clients that include targeted devices and timing handlers. All of this streamlines the management and security remediation associated with endpoint devices and provides detailed, scheduled reporting around all actions. For example, you can set up a sequence of workflows that allow you to push patches to a group of test endpoints; set a time window of a week to ensure those devices are stable; then push those patches to a core production group; wait another week; and repeat across the entire organization. All of this can be run via a Cortex Sequence, freeing up staff from manual and sometimes tedious tasks.
+
+“Endpoint security and management can be extremely time consuming, even if you just think about scanning for critical patch updates or vulnerabilities and resolving issues that are found. With Cortex Sequences we’re extending our no-code automation technology and giving customers an extremely powerful tool that enables them to condense highly complex security and management projects into one-click, sequenced playbooks,” said Ashley Leonard, Founder and CEO at Syxsense. “This new feature, plus all the other updates in this release, means better usability, valuable reporting, and ultimately, more time for IT and security pros to spend on more business-critical initiatives.”
+
+Syxsense Enterprise is the industry’s first USEM solution that addresses the three key elements of endpoint security – vulnerabilities, patching, and compliance. In addition to the launch of Cortex Sequences, this new product release has a variety of other security, performance, and usability enhancements:
+
+* Agent Lockdown – Administrators can protect and prevent end users from removing Syxsense endpoint agents from their devices.
+
+* Bitlocker Enablement and Encryption Key Storage – Syxsense can now show which devices have Bitlocker enabled and take action to enable or disable it via Cortex workflows. In addition, encryption key storage and recovery capabilities for administrators are now available in the Syxsense console, helping to prevent data security issues on lost or compromised devices.
+
+* CIS Level 2 Benchmarking – CIS Level 1 Benchmark reporting was released earlier this year. This update includes Level 2 Benchmark reporting at the click of a button, providing security executives with measurements against industry norms and standards.
+
+* Enterprise-scale Process Optimization – Improved server-side processes enable Syxsense to run actions, from Cortex processes to security evaluations, across thousands of devices in seconds.
+
+* Integrated Cortex Playbooks – Improved usability through in-console access to the complete library of Cortex Playbooks.
+
+* nMap Integrations – Improved visibility into unmanaged devices (including IoT devices) with detail discovery via nMap.
+
+* Pop-out Help Guides – In-console pop-out guides and educational resources so administrators can easily self-service on tasks.
+
+For more information on Syxsense, please visit www.syxsense.com or come see a live demo at the Syxsense booth, South Hall #4339, during the RSA Conference from April 24-27, 2023.
+
+Syxsense is a leading software vendor providing endpoint security and IT operations management solutions to Managed Service Providers (MSPs), enterprises, and government organizations. Its solutions provide real-time visibility and control over endpoint devices, networks, and cloud infrastructure, helping organizations to protect against cyber threats, improve IT operations, and reduce risk. Syxsense is the first Unified Security and Endpoint Management (USEM) platform that centralizes the three key elements of endpoint security management: security and patch vulnerability management, remediation, and compliance controlled by a powerful drag-and-drop workflow automation technology called Syxsense Cortex™. Syxsense is a single cloud-based platform supporting Windows, Linux, Mac, and mobile devices on-premises and in the cloud. For more information, visit www.syxsense.com.
+
+Follow Brilliance Security Magazine on Twitter and LinkedIn to ensure you receive alerts for the most up-to-date security and cybersecurity news and information.

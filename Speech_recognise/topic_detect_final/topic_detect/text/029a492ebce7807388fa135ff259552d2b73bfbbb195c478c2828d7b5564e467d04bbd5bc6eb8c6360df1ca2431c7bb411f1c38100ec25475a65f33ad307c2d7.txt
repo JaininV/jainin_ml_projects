@@ -1,0 +1,31 @@
+Enterprises face dramatic shifts in work streams and data applications as states re-evaluate how to protect consumer information. California and Virginia have led the charge in data privacy with the California Privacy Rights Act and Virginia Consumer Data Privacy Act. Colorado, Connecticut, and Utah will follow suit with their own  privacy laws  later this year, with Iowa, Texas, and others also on their way.
+
+With many of these laws, we are seeing a significant shift in the U. S. approach to a particular category of consumer data. Under these laws, individuals will be given the opportunity to opt in to share sensitive data (the definition of which varies depending on the law) rather than being opted in by default, with the choice to opt out, as has been industry practice until now. This will change how enterprises collect certain customer insights in the defined areas.
+
+Related: The Case for a Strong Data Governance Program in 2023
+
+Technology teams need to respond to the new data privacy landscape with a critical look at the types of data their company is using, who is working with this data, and why. Data will be the fuel for IT and engineering teams as they use it to build products and software, for analytics, or to explore advanced, customer-facing AI. A foundation of accountability in  data governance  can deliver business-generating consumer trust moving forward. Here are four ways your enterprise can develop an accountable data privacy culture.
+
+Understanding the differentiators and core principles of each new privacy law is the first step, and there is no need to do so in a silo.
+
+As data is increasingly productized, evaluating, managing, and responsibly using it has become a cross-organizational responsibility that requires cooperation across IT, Product and Engineering, Legal, and Privacy teams. With IT owning the core data infrastructure that is leveraged for commercial functions, all in the enterprise who touch data must work in lockstep to understand how the laws, together with factors such as your products and services, target audiences, and geographic reach affect their company.
+
+Privacy doesn't work without continuity throughout the entire enterprise. As use cases evolve and data-fueled AI engines are adopted, data transparency and stewardship will require new forms of evaluation. Questions such as, “When was the data received?” and “Who is responsible for this data?” are important to ensure data protection is traceable and unconsented re-identification of personally identifiable information (PII) does not occur.
+
+Enterprises who want to lead the way in AI, customer experience, and product innovation will need to conduct frequent, thorough data audits — ensuring sensitive data is collected, stored, managed, and used appropriately. The results of the audit can be built upon long-term to ensure customer data is not unintentionally biased or unethical.
+
+A growing priority for many technology teams is AI offerings such as chatbots, recommendation engines, and content creation. Successful implementation is only possible after auditing sensitive data, understanding what notice the consumer was given as to the purpose of data collection, and how it can legally be applied to marketing and product building. Being intimately aware of the data in your internal ecosystem is critical to success and future growth.
+
+Data clean rooms are becoming increasingly utilized in enterprise settings as a safe and neutral space for data partnerships to exist without moving customers' PII. Data in a clean room never leaves the data owner's control, creating a better balance between privacy and utility that helps enterprises effectively leverage their data — and cloud investments — to increase business value.
+
+Through privacy-enhancing technologies, such as encryption and differential privacy, data clean rooms protect sensitive consumer data without inhibiting the ability to create stronger customer experiences. This allows business units to work more effectively together, or for external partnerships to strengthen with better analytics, measurement, and performance. The goal is the same for all data collaboration use cases — to create an engaging brand experience while respecting consumers and their privacy.
+
+Creating a culture of accountability means being transparent with consumers about what data is collected, why it's collected, and how it's used. Beyond privacy compliance, transparency is crucial for customers to have a positive experience with your company. With a few exceptions, all consumers have the right to opt out of sharing their data in a way that is easy and without deceptive influence or repercussion. It's equally as important for enterprises to be transparent about the value consumers will get in exchange for sharing their data. When consumers understand this and can choose to opt in, a mutually beneficial brand-consumer relationship is established.
+
+The future will become more data-driven; but enterprises need to help consumers understand the value they're getting in exchange for their data. When this happens, businesses can effectively grow that value, and everyone wins.
+
+Amy Lee Stewart, SVP, General Counsel and Chief Data Ethics Officer of LiveRamp, brings over 30 years of legal and data ethics experience.
+
+She has served as lead counsel in matters involving complex commercial contracts, antitrust, FCRA litigation, trade secrets, and unfair competition, and prior to joining the company in early 2019, served as Acxiom and LiveRamp's external counsel. Amy has been a Certified Information Privacy Professional/United States (CIPP/US) by the International Association of Privacy Professionals (IAPP) since 2015.
+
+In private practice Amy was a Member and Director at Rose Law Firm and an Adjunct Professor at the William H. Bowen School of Law, University of Arkansas. She has served on the Arkansas Supreme Court Model Rules Committee, and as a Special Justice for the Arkansas Supreme Court. Amy is a graduate of the New York University School of Law and received her B. A. in Economics from Wellesley College. She is also an alum of Phillips Exeter Academy.

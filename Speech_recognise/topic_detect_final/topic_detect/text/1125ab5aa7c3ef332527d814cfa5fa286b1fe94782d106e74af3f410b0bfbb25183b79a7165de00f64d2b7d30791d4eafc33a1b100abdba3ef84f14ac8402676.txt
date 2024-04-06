@@ -1,0 +1,81 @@
+Meta Platforms Inc. (formerly Facebook) is facing legal scrutiny over allegedly targeting ads to people based on information about their health collected via Meta Pixel code in hospital websites.
+
+Findings by the Markup and STAT have revealed that Meta’s tracking pixel has been added to the websites and web applications of many U. S. hospitals, including patient portals and appointment scheduling pages. The findings discovered that 33 of Newsweek’s top 100 hospitals in America used Meta Pixel, with seven major health systems implementing the tool within password-protected patient portals.
+
+Advocate Aurora Health (AAH) is a healthcare company in the Midwest with over 500 care sites, 750,000 employees, and $12 billion in yearly revenue. It recently informed patients that an incorrectly configured version of Pixel exposed the personal data of 3 million patients.
+
+When patients used AAH portals available through MyChart and LiveWell, as well as some scheduling widgets, the systems seemed to have leaked protected health information (PHI) to Meta.
+
+WakeMed Health and Hospitals in North Carolina also sued Meta for data exposure, discovering that the Pixel tool might have transmitted data entered in MyChart back to Facebook.
+
+In August 2022, Novant Health, a four-state integrated network of physician clinics, outpatient centers, and hospitals, disclosed a data breach affecting approximately 1.4 million people, where Meta Pixel collected sensitive patient information and sent the data to Meta.
+
+At least three separate class action suits have been filed against hospitals and Meta over the collection. These contend that the impermissible disclosure and use of data collected via the Meta Pixel tool played a role in alleged illegal information gathering. Plaintiffs allege that the data has been used to serve patients with targeted ads related to their medical conditions.
+
+The growing number of lawsuits and recent data breach disclosures from health systems like Advocate Aurora Health and WakeMed Health and Hospitals have intensified scrutiny of Meta’s data collection and sharing practices, especially regarding the use of Meta Pixel on hospital websites.
+
+This blog post will discuss the intersection of Meta’s tracking pixel and HIPAA rights, highlighting the importance of hiring a knowledgeable lawyer through LegalMatch.
+
+Meta’s tracking pixel is a small, invisible snippet of JavaScript code that can be embedded into websites and mobile apps for tracking user activity using cookies. It collects information from HTTP headers, button clicks, form field names, and other user-specified data.
+
+This pixel allows Meta to collect data about users, their behavior, and their preferences when they interact with the site or app. Businesses can then use this data to create more targeted and effective marketing campaigns.
+
+The Health Insurance Portability and Accountability Act (HIPAA) is a federal law that sets standards for protecting sensitive patient health information. Under HIPAA, healthcare providers must follow strict guidelines when it comes to collecting, storing, and sharing protected health information (PHI).
+
+The problem arises when Meta’s tracking pixel is used on websites or mobile apps that handle PHI, which under HIPAA, requires patient consent before being transmitted to a third party like Meta. The STAT and Markup investigations found no evidence of such patient consent being obtained. This means the data collected by the pixel could have potentially violated millions of patients’ HIPAA rights.
+
+The lawsuits against Meta and healthcare providers are still in their early stages and face questions of standing and the viability of claims under cited laws.
+
+However, if the suits are successful, the courts could order Meta to delete health information that should not have been used for targeted ads and force hospital systems to clearly disclose their data-sharing practices with Meta.
+
+The suits might also result in damages paid to consumers, including compensatory, statutory, and possibly punitive damages:
+
+Compensatory damages aim to compensate affected patients for any financial loss, emotional distress, or harm suffered as a result of the improper data-sharing practices. The damages may include costs associated with identity theft, credit monitoring services, or damages related to privacy invasion.
+
+Statutory damages are awarded based on the statutes or laws that have been violated, such as HIPAA or state-level privacy laws.
+
+Punitive damages are intended to punish the defendants (in this case, healthcare organizations and Meta) for their wrongful conduct and to deter similar behavior in the future.
+
+If you want to join the class actions mentioned previously, you should contact a lawyer in your state.
+
+You typically don’t need to take any specific action at the early stages of a class action lawsuit. If the lawsuit is certified as a class action by a judge, affected people will usually receive a notice informing them of the class-action status and providing instructions on how to opt-in or out of the lawsuit.
+
+If you choose to participate in the class action, you will be bound by the outcome of the case, whether favorable or unfavorable, and may be eligible for a portion of any damages awarded.
+
+If you believe you have been affected by these data-sharing practices, you should meet with an attorney to discuss your legal options and any potential risks or benefits associated with participating in a class-action lawsuit.
+
+The Department of Health and Human Services (HHS) enforces HIPAA by investigating complaints and imposing fines and penalties for privacy violations.
+
+Although the agency does not comment on open or potential investigations, it could play a role in these cases, particularly through its Office for Civil Rights (OCR).
+
+The OCR is responsible for enforcing HIPAA regulations designed to protect the privacy and security of patients’ PHI.
+
+In these cases, if it is determined that healthcare organizations improperly shared PHI with Meta without obtaining proper consent or having appropriate contracts in place, the OCR could launch investigations into the potential HIPAA violations.
+
+The OCR has the authority to impose civil monetary penalties, corrective action plans, or even refer cases for criminal prosecution.
+
+The HHS could potentially use these cases as an opportunity to raise awareness about privacy risks associated with using tracking tools like Meta Pixel and other web beacons. The outcomes of these cases may provide clarifications or serve as new case law on the use of such technologies in the healthcare sector to ensure that organizations are compliant with HIPAA and other relevant privacy laws.
+
+If you are a healthcare provider or business striving to stay compliant with HIPAA while using digital marketing tools like Meta’s tracking pixel, you need to have a legal professional on your side. LegalMatch can connect you with experienced, vetted lawyers who specialize in healthcare law and HIPAA compliance.
+
+These lawyers can provide invaluable guidance on how to use digital marketing tools without violating privacy laws, helping you:
+
+Review and assess the use of Meta’s tracking pixel and other marketing tools to ensure compliance with HIPAA.
+
+Develop and implement policies and procedures to protect PHI and maintain HIPAA compliance.
+
+Train employees on HIPAA requirements and best practices for handling PHI.
+
+Respond to potential HIPAA breaches and mitigate any potential damage.
+
+If you’re a patient who believes your privacy has been breached due to improper data-sharing practices by healthcare providers using tools like Meta’s tracking pixel, you can also use LegalMatch. The platform can help you seek legal help from experienced lawyers who specialize in privacy law and have a deep understanding of HIPAA compliance and digital marketing tools.
+
+By using LegalMatch, you can:
+
+* Find a lawyer with expertise in privacy law and HIPAA violations to represent you in a potential lawsuit.
+
+* Receive a thorough evaluation of your case and guidance on the best course of action to protect your privacy rights.
+
+* Understand your legal options, including the possibility of joining a class-action lawsuit, seeking compensation for damages, or advocating for changes in data-sharing practices.
+
+Don’t let your privacy rights be trampled upon. Protect yourself and your personal health information by finding the right lawyer on LegalMatch today.

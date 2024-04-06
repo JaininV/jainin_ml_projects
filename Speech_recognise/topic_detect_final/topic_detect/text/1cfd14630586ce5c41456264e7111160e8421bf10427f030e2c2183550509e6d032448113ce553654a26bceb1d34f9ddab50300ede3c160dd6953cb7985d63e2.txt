@@ -1,0 +1,47 @@
+FILE PHOTO: Amazon's Kindle e-book app is seen on an iPhone in an illustration taken April 11, 2023. REUTERS/Chris Helgren/Illustration
+
+FILE PHOTO: Amazon's Kindle e-book app is seen on an iPhone in an illustration taken April 11, 2023. REUTERS/Chris Helgren/Illustration
+
+(Reuters) – Apple Inc and Alphabet Inc have raised concerns with Amazon.com Inc after learning that sexually explicit photographs could be accessed by children on the popular Kindle app and called on Amazon to strengthen its content moderation.
+
+The warnings were sparked by questions posed by Reuters to spokespeople at the three companies about users’ ability, via the Kindle app, to access and view online volumes of photographs of naked women, with titles such as “75 hot fully nude photos of a young blonde” and “Real Erotica: Amateur Naked Girls – Vol. 4″. Some appeared to show women and men engaging in sexual acts.
+
+The companies said their concerns were around policy violations but did not provide more details of how their rules were broken or about their warnings to Amazon.
+
+Reuters learned of the issue when two families told Reuters their pre-teen sons downloaded the explicit material via Amazon’s Kindle Unlimited e-book subscription service and viewed the full-color photographs on the Kindle iPhone app. Pornography also is available through Amazon’s Kindle online store and viewable on versions of the Kindle app.
+
+The parents, who declined to be named, told Reuters they were initially attracted to the $10-per-month service because it offered access to age-appropriate book series that would otherwise be expensive to purchase and were not available on Amazon’s Kids+ subscription service.
+
+“We’re committed to providing a safe shopping and reading experience for our customers and their families and we take matters like this seriously,” said Amazon in a statement to Reuters. “We are reviewing all of the available information and are taking action based on our findings.”
+
+Referring to Amazon, Apple said, “We’ve shared these concerns with the developer and are working with them to ensure their app is compliant with our guidelines.” Google in a statement said that “Google Play does not allow apps that contain or promote sexual content and we’ve been in contact with the developer on this issue.”
+
+Such exchanges are rare among tech companies which, while competitive, also rely on one another for a variety of services. The Kindle and Amazon apps are consistently among the most downloaded on Google’s and Apple’s app stores.
+
+The adult material at issue is primarily self-published through Amazon’s Kindle Direct Publishing arm. Authors can self-publish their books nearly instantaneously through Amazon and may designate the content as available for the Kindle Unlimited service. In Amazon’s terms for its self-publishing arm, it says it can refuse to sell content it deems “offensive or inappropriate,” which may include content that “contains pornography.”
+
+Amazon is the world’s leading e-book distributor, controlling two-thirds or more of the market, according to some estimates. E-books can be viewed on black-and-white Kindle devices but also in full color on the Kindle mobile app.
+
+Three internet law experts interviewed by Reuters said that Amazon was unlikely to face legal ramifications, given First Amendment protections.
+
+Eric Goldman, a Santa Clara University law professor, said there’s a body of law that broadly protects distributors of pornography and other potentially objectionable materials even if it might end up in the hands of minors, comments that were echoed by the other two experts.
+
+After Reuters alerted Apple of the availability of pornography in the Kindle app, Amazon earlier this month changed the age rating in the app store to 12 years or older from 4 years or older. The app is rated “teen” on Alphabet’s Google Play store.
+
+The companies can, at their discretion, remove an app from their app store for rules violations or other reasons. And Apple and Alphabet have in the past policed their app stores for disallowed adult material, including removing apps that displayed explicit content or ads.
+
+There are no parental controls available for the Kindle Unlimited service.
+
+The Apple app store’s guidelines “prohibit apps dedicated to portraying overtly sexual or pornographic material,” the company said in a statement. “App developers are responsible for moderating the user-generated content on their platforms, and we work with developers to take immediate corrective actions whenever we find any issues.”
+
+Amazon said it was also updating the Kindle app, without offering specifics, and noted that its terms require parental involvement for users under 18.
+
+Kindle Unlimited, for $10 per month, offers users a mix of self-published e-books and more traditional fare from publishing houses. The service has grown in popularity for customers seeking to binge read series like the “Hunger Games” trilogy and other prior bestsellers like “The Handmaid’s Tale” and “The Queen’s Gambit.”
+
+Kindle Unlimited also has spawned a cottage industry of self-published titles catering to a wide range of interests, including text-based erotica, with many thousands of titles in niche areas, including dinosaur and alien erotica. Pornographic content can be found on Amazon’s site without a subscription and purchased for as little as $2.99.
+
+Amazon generally allows authors to self-publish online without interference and will respond to credible complaints regarding copyright, content or other issues by removing the book, according to three people who have worked in the Kindle division. Amazon has software tools to help detect some disallowed content prior to publication.
+
+The people said the Seattle tech company has stricter guardrails for its Amazon Kids+ service but noted that’s designed and marketed for children aged 3 to 12, leaving Kindle Unlimited as the lone subscription service option for customers seeking book content aimed at 13 to 17 year olds.
+
+As of Monday, adult materials were still accessible on Kindle and Kindle Unlimited via the iOS and Android apps.

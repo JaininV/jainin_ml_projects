@@ -1,0 +1,77 @@
+Russian forces are achieving greater success in shooting down HIMARS rockets with coordinated use of S-300 and Buk AD systems and striking more HIMARS launchers using satellite-guided glide bombs.
+
+On April 5, 2023, the Press Center Chief of the Zapad Group of Forces stated, “In the defense area of the 1st Tank Army, the Armed Forces of Ukraine attempted to launch a missile strike using the HIMARS MLRS against Russian positions close to Pokrovskoye. As a result of the coordinated work of Buk and S-300 SAM teams, all the missiles were intercepted.”
+
+In its press release on the same day, the Russian MoD stated, “Air defense forces shot down 13 HIMARS MLRS shells and one HARM anti-radiation missile during the day.”
+
+The first mention of the coordinated use of Buk and S-300 systems to shoot down HIMARS rockets came in a Vostok Press Center release on April 2, 2023. The release stated, “In the South Donetsk direction, Russian troops intercepted combined strikes of two HIMARS and three Smerch MLRS. S-300 and Buk SAM systems engaged all the targets.”
+
+Past Russian MoD statements on HIMARS & MLRS rocket shootdowns did not refer to the AD systems involved in the engagements. However, based on Russian press reports, it was assumed that HIMARS rockets were being engaged by the short-range Pantsir and Tor AD systems and the medium-range BUK systems.
+
+In January 2023, TASS reported that a software upgrade had improved the ability of the Pantsir-S1 system to intercept HIMARS rockets.
+
+The S-300 is a long-range integrated air defense system of systems featuring radars and missiles that can engage aerial targets (aircraft, missiles, drones) at long, medium, and short ranges. The S-300 system has the mobility to reposition but is static when deployed for the operation.
+
+The S-300PMU variant of the system features the 64N6 (BIG BIRD) surveillance radar, capable of tracking up to 300 targets with a maximum range of 300 kilometers, and the 30N6-1 missile guidance radar. It uses variants of the 48N6 interceptor missile with Track Via Missile (TVM) guidance and a max range of 150 kilometers.
+
+The S-300 is deployed deep behind the front line, well beyond adversary barrel and rocket artillery range. It’s protected from air attacks by capable medium and short-range systems such as the Buk, Pantsir, and Tor.
+
+The Buk-M3 is a medium-range missile system used to defend combat troops, equipment, and logistics choke points like bridges from attacks by enemy aircraft, cruise missiles, and guided munitions.
+
+Buk is a more mobile and quicker-to-deploy system than the S-300. The latest variant, the Buk-M3, has a range of around 45 miles and is designed to simultaneously handle up to 36 targets. The Buk system is generally deployed behind the front line, outside the range of enemy artillery.
+
+It’s likely that the S-300 and Buk coordination pivots around the longer-range detection capability of the S-300 radar and the optical tracking capability of the Buk systems.
+
+The Buk system can be equipped with a fallback passive tracking system that combines an optical tracking system with a thermal camera and a laser rangefinder.
+
+Passive tracking of targets would keep the Buk system safe from HARM missiles launched by Ukrainian air force MiG-29, in coordination with a HIMARS rocket salvo.
+
+The fact that the S-400 can operate in a completely automated mode that requires no human interaction would reduce the reaction time to facilitate the interception of the rocket projectile.
+
+Typically, this is how the coordinated system would work. The long-range radar of the S-300 would detect HIMARS rockets and automatically cue a Buk system. The Buk system would momentarily switch on its radar to obtain a lock, hand over the target to the passive system, and immediately go dark to preclude a HARM attack.
+
+It’s even conceivable that the Buk system would not need to switch on its radar. The sequence of actions might appear complicated, but it would likely not involve more than flipping a switch in the Buk system.
+
+This type of coordination would be very cost-effective since it would not entail using expensive S-400 missiles. Also, it would allow HIMARS rocket engagement at much longer ranges than possible using shorter-range AD systems such as Pantsir and Tor. The increase in the HIMARS rocket interception range would increase the volume of the protected airspace envelope.
+
+Using S-300 and Buk to intercept HIMARS and other guided munition such as HARM, JADAM-ER, and GLSDB at long range and Pantsir and TOR at short range would reduce the number of guided munitions that can strike their target.
+
+It is important to note that despite the recent supply of US JADAM-ER & GLSDB to Ukraine, the guided munitions haven’t had a noticeable impact on the course of the battle. Also, there have been no reports of major Russian defeats because of HARM rockets.
+
+It’s believed that the US has supplied 38 HIMARS launchers to Ukraine so far. How many of those remain operational is moot. Since the start of the war, Russia has claimed that 40 launchers have been struck.
+
+More importantly, Russian defense minister General Sergei Shoigu recently claimed that Russian forces had struck 14 American-made HIMARS launchers since the beginning of the year.
+
+Western media has ridiculed Russian claims pointing out that the US has supplied just 38 HIMARS, so Russian claims of having struck 40 are ridiculous. Not really. The fact is, Russia has claimed to have struck, not destroyed.
+
+More often than not, barreled artillery systems like M-777 & rocket artillery systems like HIMARS are struck without being destroyed.
+
+Even pinpoint hits by Russian Lancet-3 kamikaze drones on M-777 howitzer mainly result in damage to varying extents, not destruction. In the case of a HIMARS launcher, a direct hit would be an extremely rare event.
+
+M-777 systems, because of their limited range, operate relatively close to the battlefront and are often within the operational range of optically guided kamikaze drones, facilitating pinpoint strikes.
+
+In contrast, HIMARS rockets are launched from up to 50 kilometers behind the front line as limited-range kamikaze drones cannot strike them.
+
+HIMARS can only be attacked with long-range satellite SATNAV (satellite navigation) guided rockets launched from MLRS systems such as the Russian Tornado-S or glide bombs launched by Russian fighters up to 70 kilometers away. Russia has occasionally struck HIMARS launchers with Buk missiles, also.
+
+Russia has recently increased the use of satellite-guided glide bombs. According to Ukrainian Air Force spokesperson Yuriy Ihnat, Russia drops around 20 glide bombs daily.
+
+“The enemy uses planning bombs that can fly tens of kilometers — up to 20 bombs a day along the entire line of demarcation. Bombs are launched from Su-35 and Su-34 aircraft, which are not included in the zone of destruction of our air defense. This is a threat for us, to which there is nothing to respond yet,” he said.
+
+The CEP (Circular Error Probability) of SATNAV-guided munition at such ranges makes a direct hit improbable. The best you can hope for is a strike in close proximity. However, a strike in close proximity would disable a HIMARS launcher with its blast.
+
+The disablement would be classified as a hit if the blast damage was severe enough to mandate repairs. In most cases, the launcher would be operationally fielded again after repairs. Some strikes, however, would result in damage beyond economical repairs resulting in a write-off of the launcher.
+
+Perhaps more important than the number of operational launchers in Ukraine is the current stock level of HIMARS rockets.
+
+With practically every aid package, the US has been sending undisclosed numbers of Guided Multiple Launch Rocket Systems (GMLRS) munitions for use with the HIMARS launchers, but the use of HIMARS rockets by Ukraine hasn’t increased, suggesting that new supplies are merely replenishing depleted stock.
+
+The US is estimated to be producing 10,000 HIMARS rockets per year, or around 800 a month. Even if the entire production were diverted to support the war, Ukraine would, at best, be capable of launching five salvos of six rockets daily.
+
+Russia’s improved ability to shoot down HIMARS rockets, from software modification to the Pantsir system and the coordination use of S-300 and Buk systems, would result in fewer rockets getting through to their targets.
+
+Improvements in Russian ISR capability, which we didn’t discuss, and the use of long-range glide bombs are forcing HIMARS launchers to operate from extreme ranges and face greater attrition. Finally, the HIMARS rocket supply severely limits the use of HIMARS.
+
+As such, it’s reasonable to think that Russia has contained the threat it faces from Ukraine’s use of HIMARS.
+
+* Vijainder K Thakur is a retired IAF Jaguar pilot. He is also an author, software architect, entrepreneur, and military analyst. VIEWS PERSONAL

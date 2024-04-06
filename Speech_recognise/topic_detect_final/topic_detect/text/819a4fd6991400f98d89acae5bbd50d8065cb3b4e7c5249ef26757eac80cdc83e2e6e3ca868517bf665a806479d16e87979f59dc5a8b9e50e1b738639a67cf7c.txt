@@ -1,0 +1,23 @@
+In this blog, we will learn how to hide the Export to Excel option from the list settings ribbon in SharePoint online list view using JSON view formatting.
+
+Sometimes, you may want to restrict certain users or groups from exporting list data to Excel or any other Out-of-the-Box (OOTB) element provided by SharePoint in the list view. Fortunately, SharePoint Online provides several options for customizing list views and hiding the 'Export to Excel' option from the ribbon. In this demo, we'll show you how to use JSON formatting to hide the 'Export to Excel' button in a SharePoint Online list view
+
+Below are the steps to hide the export to Excel button from the list view
+
+Go to the SharePoint Online list view and click on format current view.
+
+Add the below JSON and click on save to apply the changes.
+
+"commandBarProps" : {
+
+"commands": [
+
+"key": "export",
+
+"hide": true
+
+You can use JSON view formatting to customize other elements of the list view, such as columns, rows, and formatting.
+
+If you want to show the "Export to Excel" button again, simply remove the code from the JSON formatting editor and save the changes.
+
+In this blog, we learned hiding the "Export to Excel" option from the ribbon in a SharePoint Online list view can be useful for preventing certain users or groups from exporting sensitive data. Using JSON formatting, we can customize the list views to show/hide other elements. Thanks for reading.

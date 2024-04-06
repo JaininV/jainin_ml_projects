@@ -1,0 +1,53 @@
+In addition to offering a way to connect with friends and family, Instagram is an incredibly effective channel for selling products. Businesses can leverage this social media platform to make the most of an extra sales channel.
+
+In this blog, we’ll analyze why Instagram is such a powerful e-commerce tool and explain the features you can use to boost your Instagram sales.
+
+Here are just some of the ways Instagram can help your e-commerce strategy.
+
+First and foremost, Instagram is a visual platform. Businesses can present their products in many different formats, making them visually appealing to users scrolling through their feeds.
+
+Instagram's influence on impulse purchases makes it effective as an e-commerce channel. Thanks to Instagram’s algorithm, users are naturally exposed to content they’re interested in and rarely to ‘salesy’ content. Plus, it only takes a few clicks to navigate from an Instagram post to the purchase page of a product. And this brings us to the following point.
+
+In 2020, Instagram introduced ‘Shops’ – a way for brands to showcase their product offering on Instagram. Brands can create a storefront directly on Instagram and fill it in with products from their catalog.
+
+Brands can also ‘tag’ their products on their organic posts. This means that if users are looking at a post and want to know more about the featured items, they'll be shown the product's name and price immediately. This feature allows businesses to advertise products in a natural way.
+
+Now we’ve seen the different reasons why Instagram is a power force when it comes to selling products, let's dive into the best strategies you can use to get even more out of Instagram.
+
+We’ve already mentioned that Shops are an incredibly useful tool. Let’s have a look at the best practices for creating a stellar shopping experience.
+
+Firstly, make sure you have an Instagram Business account or a Creator account. If you don’t, it’s time for you to transition. Check you meet all of Meta’s commerce eligibility requirements and that your country is eligible for shopping on Instagram.
+
+Next, create your Shop and connect it to Instagram and Facebook. Login to Commerce Manager and click on ‘Get Started with Shops.’ Choose where customers will buy your products – for example, your website. You can also set up the checkout directly on Instagram if your business is located in the US. Select your sales channels and choose your Instagram account to link to your Shop. If you have a Facebook page, you can also associate that with your Instagram Shop. On Instagram, select ‘Edit profile,’ go to ‘Public Business Information,’ and select ‘Page.’ Then choose your Facebook page.
+
+Now, it's time to work on your Product Catalog. In Commerce Manager, click ‘Catalog’ and then ‘Add products.’ You can either do this manually, or integrate your catalog from a certified eCommerce platform like Shopify. Add your product image, its name, a description, and the price. You can even add an SKU in the content ID section. Add a website link to each of your products so users will be able to purchase them. You can add plenty of other options, such as tax category, the condition of the product, shipping options, and a return policy. Finally, click ‘Add product.’ Repeat this for each of the products you would like to feature in your catalog.
+
+Now you’ll need your account to be reviewed by Meta. This can take up to 2 days, but sometimes it might be a bit longer. In your Instagram profile settings, click on ‘Sign up for Instagram Shopping’ and submit your account for review. If you wish to check the status of your application, you can go to settings and then to ‘Shopping.’
+
+Once you're approved, it's time to activate Instagram Shopping! Now, you can connect your product catalog with your Instagram Shop. In your Instagram business profile, go to settings, tap ‘Business,’ and then ‘Shopping.’ Select the catalog you would like to connect with and click ‘Done.’
+
+Now that you have an Instagram Shop set up, you need to drive users to visit it. And just like you can tag other accounts on Instagram, you can also tag products in your content.
+
+When users tap on a post, they will see the tag for your item. If they click on the tag, they will be redirected to your Instagram Shop, and more specifically to that product page. So, let's get started promoting your products on Instagram.
+
+You can tag your products using Brandwatch following these steps:
+
+* Login to Brandwatch and go to ‘Publish’
+
+* Open a published post or create a new one: Upload an image, write compelling copy, and add hashtags.
+
+* Select ‘Tag Products’, click on the image to choose where you want the tag to be, and finally, choose the product from your catalog.
+
+Note: Only clients with an Instagram Business account and an Instagram Shop will be able to tag products with Brandwatch on Instagram.
+
+Adding a link to your bio is an additional powerful sales tool to drive Instagram sales. This link is a clickable URL that you can insert on your Instagram account. This link redirects users to a custom immersive landing page, where brands can populate links to specific website pages – like content pages, product pages, and even Youtube videos.
+
+At Brandwatch, we call this ‘Link in Bio*,’ which is a dynamic hub which can drive traffic from Instagram to your website.
+
+Creating your Link in Bio landing page is easy in Brandwatch.
+
+* From Publish, click ‘Link in Bio’ in the menu on the left, then on ‘Create Page.’ This is where you'll be able to build the landing page for your link.
+
+* Give a name to your page, and if you want, select the Instagram channels you want to link to this specific landing page.
+
+* Now you need to work on your page and the different modules to include. For example, a popular choice is to add trackable links – such as to your blog posts or contacts page, etc. You can also customize the page with your logo and choose your brand colors.

@@ -1,0 +1,49 @@
+Josh Martin is a London-based journalist who writes across business and travel topics.
+
+OPINION: “Hey there, traveler! Are you tired of feeling like a hot mess trying to plan your next vacay? Well, fear not, because ChatGPT is here to save the day! This virtual travel agent can help you make reservations, plan your itinerary, and even suggest personalized recommendations. With ChatGPT, you can get all the juicy details about a historical site without having to suffer through a bad pun or an awkward joke from a human guide. Sounds too good to be true, right? Well, some folks worry that relying solely on technology might take away from the thrill of traveling. And let's be real, sometimes you need a human touch to help you out when things go wrong. So, is ChatGPT the future of tours or just a passing fad? Let's find out!”
+
+Not a terrible intro, for a chatbot unfamiliar with the Stuff style guide, although points off for using the terms “hot mess” and “vacay”... and I’ve got nothing against tour guide puns.
+
+Since I’ll be assessing AI programme ChatGPT’s ability to plan a holiday I thought I’d let it introduce itself. I typed in: “Write me an informal opinion column introduction about the benefits and risks of using ChatGPT as a tour guide”.
+
+After a minute of slight refinement (it has a tendency to waffle) this is what it came up with.
+
+For the uninitiated, ChatGPT is a tool powered by artificial intelligence allowing you to have human-like conversations in real time with a chatbot. It can answer questions and help you to compose emails, essays, campaigns and code. It pulls data very quickly from Wikipedia, books, news websites and scientific journals. It’s a bit like a know-it-all at a party bloviating on any topic or question you throw at them, but slightly less irritating.
+
+It has been purchased by Microsoft, while other tech giants like Google and Alibaba have had a crack at their own versions.
+
+Can ChatGPT plan a better holiday than you?
+
+AI’s set to shake up the world, by putting AI tools within easy reach of us mere mortals. But could it successfully navigate the complex labyrinth of traveller demands?
+
+I put the bots to the test with a long weekend trip to Sousse, Tunisia to see if it could help me squeeze maximum enjoyment from the Mediterranean city. It was Ramadan as well, just to throw that spanner into the itinerary planning mix.
+
+There’s not yet a smartphone app for ChatGPT, so I was not easily able to berate my AI chatbot when they got it wrong on-the-go. Which is exactly what I wanted to do, when I was out roaming the streets of Sousse’s medina after the bot promised a tourist-friendly restaurant would be open for lunch during Ramadan.
+
+We arrived to see brightly coloured doors very much bolted shut. Real world - 1, AI - zero.
+
+ChatGPT had already warned us that we were better off taking a taxi from the airport to its accommodation recommendation in Sousse, as the airport was far from a train station, but it proved to be invaluable when dealing with the complexities and three languages of the Tunisian train operator SNCFT, whose website was barely functioning.
+
+Thankfully, a city break guide had been written by a Sunday newspaper travel section on Tunis only a couple of weeks beforehand.
+
+Although when asked about departure times and ticket prices the AI bot concluded answers with an annoying reminder to “always check with the provider’s website or office” – sort of undermines your whole existence, doesn’t it ChatGPT?
+
+Before heading off to the station we consulted our host, who advised us on train times to Tunis, but they ended up being incorrect. Real world - 1, AI - 1.
+
+Armed with a long list of recommendations for our day trip into the bustling capital city, Tunis, it was on Day 2 that the bot started to come unstuck. It was a shame, as I had gone back and forth with follow-up questions and refinements, telling it our interests, ages, and preferences to try and get passed generic recommendations.
+
+Still, we were told to head to Tunis’ Bardo museum, which looked nice, but has been closed for months, a seaside lunch spot that was shut for renovations, a beautiful terraced tea-spot that had 5-star views and a plethora of 1-star reviews for its prices and service on Google, and a mosque that locals told us was not open to non-Muslim tourists.
+
+Since many of these errors were unrelated to Ramadan and had been apparent since the chatbot’s database closing date of September 2021, it was shoddy advice.
+
+Thankfully, a city break guide had been written by a Sunday newspaper travel section on Tunis only a couple of weeks beforehand, which offered more insight, timeliness and became a go-to point to cross-reference some of the nonsense spewed up by our overly chatty ChatGPT.
+
+Although I didn’t always agree with our palateless chatbot’s restaurant suggestions (or directions), when it came to churning out facts on some of Tunisia’s famous sites, it excelled.
+
+Within five seconds of a question typed, I had all the info I needed on the ancient ruins of Carthage or the Rome-rivalling colosseum of El Jem, both of course ending with a recommendation to also hire a guide.
+
+However, like any overly prescriptive guide, a reliance on sticking to the script – AI-generated or not – means stubbing out the spontaneity that often gives rise to the best travel memories.
+
+What would my chatbot pal make of the invitation from our taxi driver to join his family for a post-fasting Iftar feast? Would they say, “Go for it, you hot mess”, warn me of yet another possible scam, or – more likely – a generic cop-out: “Does not compute, seek other advice?” I would hope it wouldn’t be the latter.
+
+The verdict: As ChatGPT exists in its current form, without the ability to book and pay for services (yet), I see it more as a supplement to add to your kit, rather than a replacement. I wouldn't trust it with something important like visa guidelines. I don’t think travel guides, agents and, yes, travel writers, should be too concerned just yet.

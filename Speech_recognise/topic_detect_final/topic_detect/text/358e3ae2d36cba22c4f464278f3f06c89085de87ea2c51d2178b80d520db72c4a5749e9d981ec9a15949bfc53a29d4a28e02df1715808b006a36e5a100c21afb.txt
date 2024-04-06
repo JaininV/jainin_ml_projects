@@ -1,0 +1,55 @@
+Outbound with Omningage – What you need to know on how to improve your contact centre outbound calling performance.
+
+When companies need to pro-actively contact large numbers of people, outbound calling is the “go to” solution.
+
+It’s most commonly used for outbound sales and debt collection. It has also been used by pharmaceutical companies to call thousands of experimental subjects and can capture symptoms and side effects of the product on trial.
+
+Outbound campaigns are seen as “difficult”. In many countries, they are highly regulated. Customers are more likely to abuse the agent who calls them. Outbound is considered expensive. Customers often do not answer, or the decision maker is not at home etc.
+
+These best practices can help you set up and run a more effective campaign.
+
+Many jurisdictions have quite strict rules regarding outbound calling. When landline or mobile subscribers get themselves registered on “do not call” lists, it makes it illegal for an outbound contact centre to call them.
+
+These numbers have to be removed form calling data before calling begins.
+
+Predictive diallers use the Average Talk Time (ATT) or Average Handling Time (AHT) to predict how long an outbound call will be. It starts calling the next customer an agent will talk to, anticipating that he will finish at the predicted time. If he doesn’t, and no other agent finishes at that time, the customer may be dialled, but not connected to an agent. This is illegal in many countries.
+
+There are measures that can be taken, including a standby recorded message, so ensuring the customer does not receive a silent call.
+
+The issue is privacy and data protection. GDPR, for example, requires that you have the customer’s permission to call them. Calling customers without this permission is a major violation.
+
+When the dialler routes calls to agents, it can present extra data about the customer, such as their customer ID and other information from the CRM system. This helps agents build rapport and have more meaningful conversations.
+
+Check your data to remove, where possible, out of date, inaccurate or duplicate records and numbers on “do not call” lists.
+
+You can use customer data to time calls for when they will be most effective. Where a customer is known to be employed, it is better to call in the evening after work.
+
+Before starting your campaign, test your technology and data. Make sure that customers are being connected to agents. Make sure agents get to see the information about the right customer when the call connects.
+
+Outbound campaigns move fast. The dialler can seem absolutely relentless to an outbound agent. Don’t just train your agents on the basic script, make sure they know how to handle the main scenarios they are likely to encounter. That way, they will be ready with the most effective responses to the most common objections.
+
+During & after the campaign:
+
+Keep your eyes firmly on the KPIs.
+
+Your main KPI will be your “Conversion Rate”. For sales, this is Sales Per Hour (SPH), for collections this is Promises to Pay Per Hour (PtPPH).
+
+Other KPIs will take you closer to the heart of the process.
+
+Connection rate is calculated by dividing the number of calls answered by the total number of calls dialled. Where connection rates are low, consider changing the time of day you call. Perhaps your target group are not at home at this time. Your data may be old and out of date.
+
+Average Talk Time / Average Handle Time (ATT / AHT) both measure how long an agent takes to handle a single customer. Use AHT where the agent does after call work before making himself available for the next customer.
+
+Some contact centre managers want to keep ATT / AHT down so that agents can make more calls in the time available. Others are happier when they see a longer ATT / AHT figure since they argue this is the result of more right-party connects.
+
+It’s worth calculating the AHT of “successful” calls where a sale or promise to pay is achieved. If unsuccessful calls are as long as, or longer than, unsuccessful calls, then it’s worth looking into why agents are taking so long to handle unsuccessful calls.
+
+Most outbound campaigns use scripts for the agents. These maintain consistency and predictability in terms of compliance, branding and call length.
+
+Quality process is centred around monitoring adherence to these scripts and how this affects legal compliance and conversion rates.
+
+The combination of KPIs and Quality Monitoring will tell you how effective your campaign strategy is and wat you need to do to improve it.
+
+Omningage has recently released its own outbound solution. This integrates the Omningage Desktop with AWS’ Pinpoint and Amazon Connect for an easy-to-use dialler that gives you the power to call your customers quickly and proactively for a competitive price point.
+
+To find out more, make your outbound call straight to our sales team today!

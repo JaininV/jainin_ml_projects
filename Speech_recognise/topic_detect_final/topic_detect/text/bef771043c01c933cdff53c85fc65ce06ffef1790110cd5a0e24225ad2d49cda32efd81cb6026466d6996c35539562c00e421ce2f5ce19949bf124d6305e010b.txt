@@ -1,0 +1,19 @@
+The behavior of so-called " strange metals " has long puzzled scientists—but a group of researchers at the University of Toronto may be one step closer to understanding these materials.
+
+Electrons are discrete, subatomic particles that flow through wires like molecules of water flowing through a pipe. The flow is known as electricity, and it is harnessed to power and control everything from lightbulbs to the Large Hadron Collider.
+
+In quantum matter, by contrast, electrons don't behave as they do in normal materials. They are much stronger, and the four fundamental properties of electrons—charge, spin, orbit, and lattice—become intertwined, resulting in complex states of matter.
+
+"In quantum matter, electrons shed their particle-like character and exhibit strange collective behavior," says condensed matter physicist Arun Paramekanti, a professor in the U of T's Department of Physics in the Faculty of Arts & Science. "These materials are known as non-Fermi liquids, in which the simple rules break down."
+
+Now, three researchers from the university's Department of Physics and Centre for Quantum Information & Quantum Control (CQIQC) have developed a theoretical model describing the interactions between subatomic particles in non-Fermi liquids. The framework expands on existing models and will help researchers understand the behavior of these " strange metals ."
+
+Their research was published in the journal Proceedings of the National Academy of Sciences (PNAS). The lead author is physics Ph. D. student Andrew Hardy, with co-authors Paramekanti and post-doctoral researcher Arijit Haldar.
+
+"We know that the flow of a complex fluid like blood through arteries is much harder to understand than water through pipes," says Paramekanti. "Similarly, the flow of electrons in non-Fermi liquids is much harder to study than that in simple metals."
+
+Hardy adds, "What we've done is construct a model, a tool, to study non-Fermi liquid behavior. And specifically, to deal with what happens when there is symmetry breaking, when there is a phase transition into a new type of system."
+
+"Symmetry breaking" is the term used to describe a fundamental process found in all of nature. Symmetry breaks when a system—whether a droplet of water or the entire universe—loses its symmetry and homogeneity and becomes more complex.
+
+Researchers develop new insight into the enigmatic realm of 'strange metals', Researchers develop new insight into the enigmatic realm of 'strange metals',  Chris Sasaki, University of Toronto, Phys.org

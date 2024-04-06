@@ -1,0 +1,5 @@
+Hello! My name is Yueyang Zhao. I am from Shanghai, China. Currently, I am a graduate student in the EAE program at the University of Utah. I am now working on a student project called Echo of the Last Light alongside some incredible developers from my cohort.
+
+My first stylized game project is called The Great Gnome Hat Off!, which is an alt-control party game with a top-down camera angle. It was a lot of fun working on that project but I kept thinking of creating a more immersive 3D game environment with a stylized art style where players can walk around and explore freely. So I started learning Unreal Engine after that project and I think the new Unreal Engine 5 really gave me the opportunity to make this come true.
+
+I started my project House in the Forest in November 2022 as the final of my school class Game Art III by Jeremy Hodges. I learned a lot about the principles of lighting for games during the class. Jeremy also helped me solve technical issues and gave me a lot of valuable feedback when I was working on this project.

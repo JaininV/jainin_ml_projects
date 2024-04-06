@@ -1,0 +1,19 @@
+In this special guest feature, CTO of AI startup, OctoML, Jared Roesch, believes the result of the commoditization of models is that it will fuel AI-Native experiences that transform how we interact with technology at every level. Jared completed his PhD at the University of Washington as part of the PLSE and SAMPL groups. A computer scientist at heart, he loves taking insights from the research community and applying them to build intelligent, performant, and powerful systems. Jared’s background includes experience in web development, JIT compilers, software engineering, computer architecture, functional programming, compilers, verification, databases, systems, and machine learning.
+
+AI is still in its infancy. So far, the hype of AI far outpaces reality in terms of business impact. Case in point: AWS entered the market in 2006, and it’s still very much in the process of transforming the way we build and work in the cloud.
+
+But we are about to enter the next growth phase of AI/ML as new models enter the mainstream. The first generation of AI startups was heavily invested in  research and development of new, innovative models that could be offered as consumable “building block” APIs. Many companies were founded on the premise that offering these differentiated models via API (a la Twilio and Stripe in traditional SaaS) would make them the next big winners in the market.
+
+Unfortunately they are wrong.
+
+Companies that will dominate the ecosystem of intelligent applications are not the ones who are building models-as-a-service, but the ones who can adapt existing models for creative new applications. Whether transforming unintelligent applications into intelligent ones—or building brand new AI-Native experiences.
+
+Why is this happening? Fundamentally models are becoming commodities. And I am referring to the textbook definition of a commodity: “an economic good, usually a resource, that has full or substantial fungibility: that is, the market treats instances of the good as equivalent or nearly so with no regard to who  produced them.”
+
+The Future: AI Native is The Next Frontier
+
+The result of the commoditization of models is that it will fuel AI-Native experiences that transform how we interact with technology at every level. The ecosystem of tools and infrastructure  AI-Native solutions and tools to serve these companies will be the winners.
+
+We’re already seeing this trend beginning today. Just this week the release of ChatGPT has awakened the world to the power of ML models. In the same period, generative AI app Lensa quietly leaped to the top App Store chart with 22 million users.
+
+Sign up for the free insideBIGDATA newsletter.

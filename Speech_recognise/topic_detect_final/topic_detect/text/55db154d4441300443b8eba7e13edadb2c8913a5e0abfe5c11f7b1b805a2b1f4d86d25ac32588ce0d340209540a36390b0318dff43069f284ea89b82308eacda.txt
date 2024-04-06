@@ -1,0 +1,27 @@
+Coinbase, one of the leading crypto exchanges, has secured a significant victory in the aftermath of an insider trading scandal. The company has been awarded $470,000 in restitution by the court, marking a decisive step towards accountability in the crypto industry.
+
+The case, which unfolded over several months, involved a former Coinbase employee who was accused of using insider information to engage in illegal trading activities
+
+Nikhil Wahi, a 27-year-old crypto trader whose brother worked for Coinbase, has agreed to pay the publicly traded crypto exchange $469,525.50 for his participation in an insider trading scheme.
+
+Prosecutors alleged that Ishan, due to his position at Coinbase, knew when the exchange would list new cryptocurrencies and informed his brother Nikhil and their associate Sameer Ramani prior to the asset listings being made public.
+
+According to a New York District Court filing signed on April 6 and made public on April 10, Nikhil Wahi will be required to begin paying restitution while serving a prison sentence in what is believed to be the first insider trading case involving crypto.
+
+The amount must be paid in full within 20 years of Nikhil’s release from prison and represents the amount Coinbase spent on legal services associated with the Department of Justice investigation.
+
+Nikhil pleaded guilty in September 2022 to initiating trades based on confidential information obtained from his brother, and he is currently serving a 10-month sentence for wire fraud conspiracy after being sentenced on January 10.
+
+During proceedings in Manhattan federal court, the judge in charge of the ruling, Loretta Preska, referred to Coinbase as a “victim” of Wahi’s offenses. According to prosecutors, the prices of the listed cryptocurrencies generally increased after their listing, resulting in a profit of $892,500 for Nikhil. Nikhil was required to forfeit these funds to the United States government as part of his sentence.
+
+Nikhil’s restitution payment is the latest development in the aftermath of an insider-trading scheme that could have far-reaching consequences for the entire industry. It is also the first time that inside traders who exploited crypto markets have been successfully prosecuted, according to the Justice Department.
+
+In addition, the Securities and Exchange Commission has sued Nikhil, his brother, Ishan, and Sameer Ramani, another alleged member of the scheme, in a separate civil case for violating the antifraud provisions of the securities laws.
+
+According to the Justice Department’s initial indictment, from approximately June 2021 to April 2022, Ishan, the Coinbase manager, conspired with Nikhil and Ramani—neither of whom were Coinbase employees—to buy up crypto tokens before they were listed on the exchange.
+
+In February, Ishan independently reached a plea agreement with the Department of Justice. He is scheduled to be sentenced on May 10. As of the DOJ’s most recent report, Ramani is still at large. Coinbase, a defendant in the criminal cases, has unexpectedly defended the Wahis and Ramani.
+
+In an amicus brief filed on March 13, Coinbase condemned the conduct of the defendants but supported a motion to dismiss the case, arguing that the SEC lacked the authority to sue because the tokens in question failed the Howey test, a U. S. legal doctrine that determines whether an asset is a security.
+
+The age-old debate over whether cryptocurrencies are securities has potentially existential implications for U. S.-based crypto firms, who would face increased regulatory scrutiny and a slew of potential fines if the SEC’s argument prevails.

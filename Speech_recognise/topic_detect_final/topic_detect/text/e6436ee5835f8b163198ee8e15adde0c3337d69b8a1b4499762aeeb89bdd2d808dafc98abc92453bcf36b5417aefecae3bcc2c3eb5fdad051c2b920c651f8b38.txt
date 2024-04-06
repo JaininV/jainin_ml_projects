@@ -1,0 +1,7 @@
+You can check this by logging in to the backup portal and navigating to the Configuration > Support Information tab.
+
+This article has two download links:
+
+* Patch — Use this if you are running at least Veeam Service Provider Console 7 GA (build 7.0.0.0.12777). After updating, the build number will be 7.0.0.13157.
+
+* ISO — Use this for new deployments or if you upgrading from Veeam Service Provider Console 6.0.x.

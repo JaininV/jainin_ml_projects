@@ -1,0 +1,25 @@
+Are you tired of being bombarded with notifications from your mobile device? Setting notifications can be annoying and distracting, but it doesn't have to be. With a few simple steps, you can customize your notifications so they're only seen when you want them to be.
+
+The first step is to open your phone's Settings app. From there, tap the Notifications tab. Here, you can turn the Notification dot on the app icon or off. This will allow you to easily see when an app has a notification waiting for you without having to open the app itself.
+
+If you want more control over what Apps send notifications, go to Settings > Notifications > Siri Suggestions and turn off any Apps that are sending too many notifications. You can also view the number of unread notifications by tapping Count or view the notifications grouped into stacks by tapping Stack. To view the notifications in a list, tap List.
+
+You can also customize the types of notifications each app sends by tapping on an individual app and then tapping Categories. This will let you enable or disable individual categories of notifications for that particular app.
+
+By following these steps, you should now have more control over which apps send which types of notifications!
+
+To get rid of notifications on the iPhone Settings app, go to Settings > Notifications. Here you will see a list of all the apps that can send you notifications. To turn off notifications for a particular app, simply tap on it and switch off the toggle for Allow Notifications. You can also customize the type of notifications you receive from each app by tapping on ‘Options' and then select your preferred alert style, sound, badge app icon, and more.
+
+To turn on notifications for settings on your iPhone, go to Settings > Notifications. Select an app from the list and then choose the alert style you would like to use. You can choose to receive notifications immediately or in a scheduled notification summary. If you want to receive notifications, make sure that Allow Notifications is turned on. Then select when you would like to receive them, if applicable. That's it! Now you'll be able to stay updated with all your app notifications.
+
+To turn off automated notifications on your iPhone, go to the Settings app and select Notifications. Find the app for which you want to turn off automated notifications, then tap it. Select None as the Alert Type and turn off Allow Notifications. This will ensure that you no longer receive automated notifications from this app.
+
+To get rid of annoying app notifications, start by going to your device's Settings. Under the ‘Site Settings' section, select ‘Notifications'. Here you will see a list of all apps currently enabled to send notifications. Select the app whose notifications you want to disable and toggle the switch at the top of the page to turn off notifications. If you want to be even more selective with what types of notifications you receive from an app, you can tap on the app in question and make changes from there. You can customize whether or not a particular app sends you push notifications, lock screen alerts, banner messages, and more. Finally, don't forget to hit ‘Save' after making any changes so that they take effect.
+
+There are a few possible reasons why you may be receiving unwanted notifications on your phone. First, some apps may be configured to send notifications by default. If you don't need the app anymore or want to reduce the number of notifications, you can adjust the settings in the app to turn off or reduce them.
+
+Second, some malicious apps can send unwanted notifications as well. It's important to stay up-to-date with the latest Security updates for your phone and only download apps from trustworthy sources.
+
+Finally, if you've recently installed an app, it may take a few days for it to stop sending notifications automatically – so give it some time before making any changes.
+
+In conclusion, setting notifications on your phone is a great way to stay organized and up-to-date with the latest notifications from apps. It allows you to customize which apps are allowed to send notifications, as well as what type of notifications you receive. You can also edit or delete existing notification categories for further control. Setting notifications is fast and easy, and it can be a great tool for staying organized and informed.

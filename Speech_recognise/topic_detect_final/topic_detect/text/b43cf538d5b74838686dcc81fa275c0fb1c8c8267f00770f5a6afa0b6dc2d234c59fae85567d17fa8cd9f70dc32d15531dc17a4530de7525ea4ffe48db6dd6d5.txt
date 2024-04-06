@@ -1,0 +1,33 @@
+We are excited to announce the launch of our new Notebook feature, which allows you to perform complex analytics, machine learning and data exploration tasks with ease and flexibility.
+
+Notebooks are interactive web-based tools that allow users to create and share documents containing live code, visualizations and narrative text. They have become increasingly popular in the data science community as they provide an efficient way to explore, analyze and visualize data, making it easier to communicate insights and results.
+
+SingleStore's Notebook feature is based on the popular Jupyter Notebook, which is widely used in data science and machine learning communities. The SingleStore Notebook extends the capabilities of Jupyter Notebook to enable data professionals to easily work with SingleStore's distributed SQL database while providing great extensibility in language and data sources.
+
+The new SingleStore Notebook feature offers several key capabilities that make it a powerful tool for data exploration and analysis:
+
+Native SingleStore SQL Support. The SingleStore Notebook allows users to query SingleStore's distributed SQL database directly from within the notebook interface — without having to define any connection string, enabling a faster and more efficient way to do data exploration and analysis. Overall, it’s more secure and simpler.
+
+For example, in a regular notebook, you would have to use the following code:
+
+UserName='admin'Password='MyPassword'DatabaseName='MyDatabase'URL='svc-11138a4....singlestore.com:3306'db_connection_str ="mysql+pymysql://"+UserName+":"+Password+"@"+URL+"/"+DatabaseNamedb_connection = create_engine(db_connection_str)
+
+In SingleStoreDB, you only need to select a default database and the following:
+
+db_connection = create_engine(connection_url)
+
+SQL/Python Interoperability. Using SQL and Python interoperability is important so that you can query a database, using the output in a Python data frame and vice versa.
+
+When you query a SingleStoreDB, you can use the following in a cell:
+
+%%sql result1 <
+
+And use result1 output in a Pandas dataframe:
+
+df = pd.DataFrame(result1)
+
+Collaborative Workflows. Users can save and share Notebooks with other team members, allowing for collaborative data analysis and exploration. You can save your Notebook in your personal folder, or share it with other members in your organization.
+
+Interactive Data Visualization: The Notebook feature includes support for popular data visualization libraries, like Matplotlib and Plotly, enabling users to create interactive charts and graphs directly within the notebook.
+
+For more details on how to use Notebooks, check our documentation page. You can create your notebook from our portal experience with two entry points as highlighted in the following image:

@@ -1,0 +1,11 @@
+Rockwell Automation, with New Sky Energy and Moore Control Systems, is enabling a more sustainable approach to hydrogen sulfide (HS) control for the biogas industry.
+
+A significant environmental challenge for many companies is how to manage organic waste. New Sky Energy, based in Boulder, Colorado, develops innovative chemical solutions that help agricultural and industrial companies treat gas emissions, recover valuable chemicals-and convert raw biogas into renewable energy streams.
+
+New Sky Energy is supporting the renewable natural gas energy sector with a cost-effective, sustainable system for removing HS from biogas streams. A year after developing and successfully piloting the SulfurSolve process - a transformational HS capture system - New Sky Energy reached out to a boutique engineering, procurement, and construction company Moore Control Systems to transition the system to commercial scale.
+
+Moore Control Systems relied on a Rockwell Automation control platform featuring Allen‑Bradley CompactLogix controllers, PowerFlex AC drives and a FactoryTalk View HMI to create a highly efficient system that captures and removes more than 99.9 percent of inlet gas HS and reduces chemical purchasing and waste disposal costs for HS control projects by up to 9 percent%.
+
+Learn more about how Rockwell, New Sky Energy, and Moore Control Systems are enabling a more sustainable approach to HS control for the biogas industry.
+
+Divergent industries share a costly environmental challenge-managing significant volumes of organic waste. Rockwell Automation offerings are enabling a more sustainable approach that converts raw biogas into renewable energy streams for a cleaner planet.

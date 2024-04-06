@@ -1,0 +1,89 @@
+Should you have more than one team using the same Kubernetes cluster?
+
+Can you run untrusted workloads safely from untrusted users?
+
+This article will explore the challenges of running a cluster with multiple tenants.
+
+Multi-tenancy can be divided into:
+
+Soft multi-tenancy for when you trust your tenants — like when you share a cluster with teams from the same company. Hard multi-tenancy for when you don’t trust tenants.
+
+You can also have a mix!
+
+The basic building block to share a cluster between tenants is the namespace.
+
+Namespaces group resources logically — they don’t offer any security mechanisms nor guarantee that all resources are deployed in the same node.
+
+Pods in a namespace can still talk to all other pods in the cluster, make requests to the API, and use as many resources as they want.
+
+Out of the box, any user can access any namespace.
+
+How should you stop that?
+
+With RBAC, you can limit what users and apps can do with and within a namespace.
+
+A common operation is to grant permissions to limited users.
+
+With Quotas and LimitRanges, you can limit the resources deployed in the namespace and the memory, CPU, etc., that can be utilized.
+
+This is an excellent idea if you want to limit what a tenant can do with their namespace.
+
+By default, all pods can talk to any pod in Kubernetes.
+
+This is not great for multi-tenancy, but you can correct this with NetworkPolicies.
+
+Network policies are similar to firewall rules that let you segregate outbound and inbound traffic.
+
+Great, is the namespace secure now?
+
+While RBAC, NetworkPolicies, Quotas, etc., give you the basic building blocks for multi-tenancy is not enough.
+
+A good example is the Ingress controller, which is usually deployed once per cluster.
+
+If you submit an Ingress manifest with the same path, the last overwrites the definition and only one works.
+
+It’s a better idea to deploy a controller per namespace.
+
+What if one of the tenants abuses the DNS?
+
+The rest of the cluster will suffer too.
+
+You could limit requests with an extra plugin https://github.com/coredns/policy.
+
+The same challenge applies to the Kubernetes API server.
+
+Kubernetes isn’t aware of the tenant, and if the API receives too many requests, it will throttle them for everyone.
+
+I don’t know if there’s a workaround for this!
+
+Assuming you manage to sort out shared resources, there’s also the challenge with the kubelet and workloads.
+
+As Philippe Bogaerts explains in this article, a tenant could take over nodes in the cluster just (ab)using liveness probes.
+
+The fix is not trivial.
+
+You could have a linter as part of your CI/CD process or use admission controllers to verify that resources submitted to the cluster are safe.
+
+Here is a library or rules for the Open Policy Agent.
+
+You also have containers that offer a weaker isolation mechanism than virtual machines.
+
+Lewis Denham-Parry shows how to escape from a container in this video.
+
+How can you fix this?
+
+You could use a container sandbox like gVisor, light virtual machines as containers (Kata containers, firecracker + containerd) or full virtual machines (virtlet as a CRI).
+
+Hopefully, you’ve realized the complexity of the subject and how it’s hard to provide rigid boundaries to separate networks, workloads, and controllers in Kubernetes.
+
+That’s why providing hard multi-tenancy in Kubernetes is not recommended.
+
+If you need hard multi-tenancy, the advice is to use multiple clusters or a Cluster-as-a-Service tool instead.
+
+If you can tolerate the weaker multi-tenancy model in exchange for simplicity and convenience, you can roll out your RBAC, Quotas, etc. rules.
+
+But there are a few tools that abstract those problems from you:
+
+And finally, if you’ve enjoyed this thread, you might also like:
+
+* The Kubernetes workshops that we run at Learnk8s https://learnk8s.io/training

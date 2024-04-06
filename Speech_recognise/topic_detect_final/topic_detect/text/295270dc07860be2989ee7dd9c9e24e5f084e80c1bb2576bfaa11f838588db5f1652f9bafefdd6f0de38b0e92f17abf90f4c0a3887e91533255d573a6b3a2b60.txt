@@ -1,0 +1,21 @@
+Recently, one of our customers had a support question that we thought would be worth sharing with you.
+
+Are you familiar with our “Mark File Private” feature? It’s a useful option available with a subscription plan that can help you restrict the views of any documents you upload in LiveBinders.
+
+For those of you who are new to LiveBinders, LiveBinders offers a web application that lets you create digital binders.  Digital binders are a way to organize and display online content in a Web browser, where each URL is represented by tabs similar to what you would see in a 3-ring binder.  When we refer to ‘files’, we refer to desktop documents that are uploaded into a digital binder.  Our digital binders can have certain access restrictions assigned to them like  “private” and “public” but so can the files that are uploaded into the binders.
+
+The support question we had was from a customer who was viewing her colleague’s LiveBinder, but was not able to see some of the content. In some tabs, the document would display, but in other tabs she saw a message shown below indicating that the file was private.
+
+When you upload a document to LiveBinders, we assign it it’s own unique URL.  Before you upload it, though, you have the option to click on the “Mark File Private” option.  When selected, it will add a “private” tag to the URL in our system. The file’s URL will then have restrictions that prevent it from being viewed outside of the private binder it is added to. In other words,  “private” files are only viewable in “private” binders.
+
+So what happened? When our customer was viewing her colleagues binder, the binder was mistakenly set to “public” so any files that were marked as “private” did not display in the binder. Once her colleague made the binder private again, she was able to see all the documents in the binder, including those that were marked as  “private.”
+
+The general rule to remember is that if you mark a file as “private” you only have 1 option for making it visible to your audience, and that is to make sure the binder is set to “private” as well.
+
+So why would you want to mark a document as “private”?
+
+It’s useful if you want to prevent anyone to view a document outside of the binder you are sharing it with.  A person could copy the file’s link and paste it in an email, social media post or website page where it could then be viewed by an unwanted audience. The “private” tag keeps your uploaded content restricted to displaying only in the private binders that it was add to. Although every LiveBinder is automatically set to “private,”  if a user mistakenly changes a binder to “public,” the “private” files stay protected.
+
+If you want to learn more about this feature, feel free to contact us using our Contact Form and mention “Learn more about private files.”
+
+We hope this information is helpful to you!

@@ -1,0 +1,15 @@
+Many thanks to Dave (KN4OK) who shares the following mini POTA field report:
+
+On April 8th, 2023, on our way to the Overseas trail near the 7 mile bridge, is a great place to activate with a picnic table and shade on the water.
+
+I was smart enough to mention to the wife that we were going to activate a park and she was carrying my Elecraft KX2.  Of course, in my hand was the antenna, the MFJ-1889T, and counterpoise wires that I borrowed from my WRC antenna.
+
+After a mile hike on the trail, we stopped at the picnic table and I set the station up on 17 meters CW.  The SWR was pretty good and I made 9 contacts with no problem.  I then switched the radio and antenna to 20 meters and obtained a better SWR.
+
+One thing that I noticed: extending the counter poise wire (33ft) all the way out for both bands helped a great deal.  The jumper holes on the antenna were also changeable and helped as well.  MFJ has a nice manual for band setups, but be sure to adjust for best SWR.  Very easy to do and works great.
+
+The 20 meter band was also a big success and I was very pleased with the performance of the MFJ 1899T antenna.  Thanks for all the previous discussion of the similar antennas that inspired me to take out my antenna.
+
+The end result was 19 contacts, all CW in about 45 minutes on a beautiful day!
+
+Thanks to all my chasers and QRP rocks!

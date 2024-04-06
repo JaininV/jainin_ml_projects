@@ -1,0 +1,93 @@
+Cybersecurity is fast becoming a top priority for organizations across the globe. More and more enterprises are thinking of cybersecurity as something that needs to be weaved into the fabric of the projects and applications as well as usual operations, something that needs to be an integral part of the process as it takes place, and not something that should be added as an afterthought or because of a failed ‘quality check’.
+
+But are organizations doing it the right way? Are the cybersecurity strategy and measures employed by an organization in line with the business goals of the organization? Is it essential that these two align or can they function independently of each other?
+
+According to Kaspersky, cybersecurity is the practice of defending computers, servers, mobile devices, electronic systems, networks, and data from malicious attacks. Cybersecurity is also sometimes called information technology or electronic information security. It could include many different contexts like network security, application security, information security, operational security, disaster recovery & business continuity, etc.
+
+Cisco goes on to simplify the concept of cybersecurity for everyone. It defines cybersecurity as the practice of protecting systems, networks, and programs from digital attacks.
+
+A new report by the renowned cybersecurity firm WithSecure indicates, “Most companies are investing in security solutions that are tactical and reactive, but they are not in line with the organization’s strategic aims.”
+
+This sheds some interesting insights and some words of caution for enterprises everywhere, especially about their approach to cybersecurity.
+
+This report is based on a survey of more than 400 global cybersecurity and IT decision-makers conducted by Forrester Consulting. The report has discovered that most organizations are reactive in their approach toward defending themselves against cyber threats. The report also finds that most organizations surveyed have a piecemeal approach to cybersecurity investments.
+
+What happens when this is the approach organizations take to something as significant and as high-stake as cybersecurity?
+
+When this happens, the security goals become detached from the organization’s business goals. Furthermore, when this happens, organizations end up investing in defenses against threats that likely are not even relevant to the business. This is just as risky as not making enough to no investments in cybersecurity at all.
+
+This brings us to a very important conversation and decision that organizations need to make.
+
+“Outcome-based security supports business goals rather than merely reacting to perceived vulnerabilities”, according to Forrester. Taking the outcome-based security approach helps business leaders simplify cybersecurity for everyone in the organization. It helps the organization cultivate the specific capabilities which would measurably deliver their desired outcomes. This works out better for everyone when compared to the results one would get using the traditional threat, activity-based, or ROI-based approaches to cybersecurity.
+
+The WithSecure Report elaborates that taking a holistic approach to cybersecurity would focus on achieving outcomes that would be associated with risk management, customer experience, resilience, and visibility of the threats that surface & risks. The outcomes that the organization targets would also be a factor of the skills, resources, responsiveness, and agility.
+
+Figure: Business outcomes desired by organizations for their cybersecurity efforts
+
+The outcome-based approach to cybersecurity plays a critical role in helping an organization align its cybersecurity outcomes with its business goals. It also contributes immensely to decluttering and eliminating redundancies of cybersecurity solutions and tactics.
+
+Outcome-based approach to cybersecurity is touted to be the best possible way for effective decision-making around what needs to be secure and how to achieve that. Buying and implementing new tools is often just a quick fix or a shortcut which may or may not always yield the desired or the most effective outcomes when it comes to cybersecurity. This becomes especially difficult if the organization is dealing with a sizeable chunk of legacy systems.
+
+This is where the Forrester & WithSecure report gets more interesting.
+
+The survey respondents for the report have indicated that about 83% of them are interested in, planning to adopt, or expanding their adoption of outcome-based security solutions & services. However, at the same time, about 60% of the respondents have opined that they feel their organizations are more reactive than proactive when it comes to their approach to cybersecurity. They share that their organizations address individual security issues as and when they rise, rather than working to prevent their occurrence altogether. That’s like sticking a band-aid on an injury, rather than ensuring the accident/injury does not happen at all.
+
+Here are some more interesting insights from the same WithSecure Security Outcomes Report:
+
+Only 20% of the respondents felt that their organization’s cybersecurity priorities and business outcomes are completely aligned with each other.
+
+75% of the survey respondents say cyber-risk management is drawing greater attention.
+
+60% of the firms surveyed have shown a willingness to spend a minimum of 6% of their operating profits to achieve the benefits of an outcome-based approach to cybersecurity.
+
+50% of the firms surveyed have been struggling to measure the value and returns being derived from the cybersecurity measures the organizations have taken and invested in so far. They are also facing many challenges in articulating the contribution of cybersecurity to the organization’s business outcomes.
+
+One certain thing is that cybersecurity budgets are increasing every year. The market for cybersecurity SaaS is getting highly cluttered, being peppered with good and bad products, making it challenging for decision-makers to judge and decide which one would work best for them.
+
+In such times, focusing a bit on the challenges being faced by the organizations in nailing their approach to cybersecurity and then working towards addressing them.
+
+Look at these insights from the WithSecure Report:
+
+44% of the respondents want to reduce the risk
+
+40% of the respondents want security to help improve the customer experience
+
+34% of the respondents want security to support the business in growing its revenue
+
+33% of the respondents want their business to have increased operational resilience
+
+32% of the respondents want their security initiatives to improve governance & compliance
+
+37% of the respondents face challenges in measuring the value of their cybersecurity initiatives
+
+36% of the respondents face challenges in capturing data that is meaningful and consistent
+
+28% of the respondents have been stuck in trying to overcome the inherent cybersecurity paradox – the greater the investment in effective cybersecurity measures, the lesser the opportunities to demonstrate the value of the measures invested in
+
+42% of the respondents have opined to have a limited and insufficient understanding of the current and the target-state maturity in reference to which the value of the cybersecurity measures should be evaluated
+
+Overall, the report tells us that most organizations and decision-makers need to re-evaluate their approach to cybersecurity and take a deeper look at the investments they are making in this direction.
+
+One important way to be more in sync with the overall organization strategy would be to have a CISSP-certified professional on board, who would have the right expertise and greater insight into information security and how to achieve the desired outcomes for the organization.
+
+The CISSP is an important cybersecurity certification. Once you have employees with the CISSP certification, they will demonstrate their skills to benefit your business with –
+
+* Full understanding of how to secure or protect confidential business data from hackers.
+
+* Skills to analyze risks and be aware of the common hacker strategies that can affect your business. They can determine the weak point of the organizations and work on them.
+
+* Aptitude in improving not only the customer but also employee privacy ensures all the information stays with the business.
+
+Get (ISC)2 CISSP Training & Certification and increase your business visibility as well as credibility in the cybersecurity market. Cognixia is the world’s leading digital talent transformation company that offers a wide range of courses, including CISSP training online with a comprehensive CISSP study guide.
+
+Here’s what you will cover in this course –
+
+* Learn and apply the concepts of security & risk management
+
+* Gain an understanding of security engineering to protect information by exploring and examining security models and frameworks
+
+* Examination and security network architecture and its components
+
+* Learn how to identify & control access to protect assets
+
+* Learn how to secure the software development cycle

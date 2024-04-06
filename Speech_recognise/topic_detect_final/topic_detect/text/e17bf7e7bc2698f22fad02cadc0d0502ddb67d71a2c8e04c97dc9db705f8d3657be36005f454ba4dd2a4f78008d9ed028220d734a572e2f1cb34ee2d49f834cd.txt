@@ -1,0 +1,43 @@
+New AI-powered Oracle Fusion Cloud HCM solution supports learning, skills development, and career mobility with personalized learning and career growth guidance
+
+and ,  /PRNewswire/ -- Oracle CloudWorld Tour – To help HR leaders better support employee development, potential, and agility, Oracle today announced updates to Oracle ME, the employee experience platform within Oracle Fusion Cloud Human Capital Management (HCM). The latest updates include Oracle Grow, a new AI-powered solution that connects learning, skills growth, and career mobility in one personalized experience to deliver self-directed learning, visibility into career growth opportunities, and skills development aligned with business goals.
+
+Many organizations are struggling to understand the skills of their workforce, predict what is needed for future success, and close skills gaps. Employees are also struggling to adapt to changing business needs, often lacking transparency into what growth opportunities exist and not knowing which resources are best suited for their career path.
+
+"Every organization is currently being challenged to achieve more with less and to do that successfully, they need to increase productivity and retain their best talent," said Chris Leone, executive vice president, applications development, Oracle Cloud HCM. "A critical part of that equation is professional growth, but with the unprecedented pace of change around skills and business needs, this has become one of the most difficult areas for HR teams to support. To help our customers address this challenge and guide their workforce to achieve their fullest potential, we are introducing Oracle Grow. Oracle Grow is designed to enhance the employee experience and improve performance by engaging with individuals to discover new growth opportunities and empowering managers to align upskilling and reskilling with business priorities."
+
+Oracle Grow gives employees a clear vision of the skills they need to advance in their current role, highlights potential opportunities from acquiring new skills, and uncovers possible career paths. The new AI-powered solution delivers personalized insights and intelligent guidance across all interactions from Oracle Learning, Oracle Dynamic Skills, and Oracle Talent Management in one interface. New capabilities available in Oracle Grow include:
+
+* Unified Growth Experience: Delivers the most relevant insights and AI-driven development opportunities that workers need to adapt to changes in their role, discover new growth options, and achieve their career aspirations. By unifying people data from across Oracle Cloud HCM, Oracle Grow provides personalized guidance on the next steps employees should take based on their responsibilities, career interests, desired skills, individual learning styles, and changes in the business.
+
+* Career Paths: Empowers workers to discover different career opportunities in the organization and provides step-by-step guidance and development plans tailored to each individual based on their Oracle Cloud HCM profile. With skills identification, tailored development journeys, and learning resources, Career Paths helps employees uncover and better prepare their qualifications for future roles.
+
+* Personalized Development Playlists: Helps workers curate their own development journey that is tailored to their goals and aspirations. The development playlists in Oracle Journeys enable employees to create unique goal-based content that provides guidance on finding coaches, classes, gigs, internal and external development resources, and more.
+
+* Enhanced Team Skills Center: Enables leaders and managers to monitor skills needs and gaps across their teams and organization, assign specific skills needed to achieve business objectives, and automatically add them to every employee's Oracle Grow experience.
+
+* Personalized Development Preferences: Gives workers the power to decide how and what skills they want to develop by catering to different learning styles and preferences. With Oracle Grow, employees can better determine which skills to acquire, learning topics to follow, careers of interest to pursue, and more. Changes to personal preferences are automatically reflected within their Oracle Grow experience and continuously updated as individual growth continues.
+
+Natively built for the cloud, Oracle Cloud HCM is a complete solution connecting every human resource process from hire to retire. By connecting all employee data on a single platform, HR teams have access to a single source of truth to help inform their people strategy. Built-in AI acts as an advisor to help analyze workforce data and surface recommendations to help HR teams improve business operations.
+
+"Some of the biggest challenges that exist in the market today are around having the right employees, keeping them engaged, and giving them tools they need to grow and succeed," said Quincy Valencia, VP and Research Director – HCM Technology, Ventana Research. "Solutions like Oracle Grow that deliver on this in a truly personal way will be key to sustainable internal talent development. Not only can it help employees succeed on an individual level, but it can also give businesses the skills and adaptability to succeed in a time where the only constant is change."
+
+"Our employees want to grow their careers. And they want tools and job recommendations that are applicable to their specified roles," said Kim Kohlman, VP of HCM Operations, Hearst. "The consolidated view that Oracle Grow provides with details on recommended learnings, developmental journeys, and recommended gigs allows our employees to broaden their network and achieve the experience they need to successfully grow their careers."
+
+"Oracle Grow gives us the opportunity for people to truly self-manage their careers in a way that makes sense," said Andrew Dennan, Head of HR Services, Synlait Milk, LTD. "The self-service capabilities for employees and visibility for managers that Oracle Grow provides is something we have needed for years."
+
+To learn more about Oracle Grow, please visit: https://www.oracle.com/human-capital-management/employee-experience/oracle-me/grow/
+
+To learn more about Oracle ME, please visit: https://www.oracle.com/human-capital-management/employee-experience/oracle-me/
+
+About Oracle
+
+Oracle offers integrated suites of applications plus secure, autonomous infrastructure in the Oracle Cloud. For more information about Oracle (NYSE: ORCL), please visit us at www.oracle.com.
+
+About Oracle CloudWorld Tour
+
+Oracle CloudWorld Tour is Oracle's global celebration of customers and partners. Join us to discover the insights you need to tackle your biggest business challenges, build your skills, knowledge, and connections, and learn more about our cloud infrastructure, database, and applications from the people that build and use them. For registration, live keynotes, session details, news and more visit oracle.com/cloudworld-tour or oracle.com/news.
+
+Trademarks
+
+Oracle, Java, MySQL and NetSuite are registered trademarks of Oracle Corporation. NetSuite was the first cloud company--ushering in the new era of cloud computing.

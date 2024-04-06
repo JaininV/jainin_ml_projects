@@ -1,0 +1,31 @@
+This article has been reviewed according to Science X's                                                      editorial process
+
+and policies.                                                     Editors have highlighted                                                     the following attributes while ensuring the content's credibility:
+
+This article has been reviewed according to Science X's                                                      editorial process
+
+and policies.                                                     Editors have highlighted                                                     the following attributes while ensuring the content's credibility:
+
+University of Virginia School of Medicine researchers have identified a gene that plays a crucial role in determining the risk for heart attacks, deadly aneurysms, coronary artery disease and other dangerous vascular conditions.
+
+The discovery advances the understanding of the underlying causes of a wide range of serious health conditions, including atherosclerosis—or hardening of the arteries—and moves us closer to new treatments and preventive measures that could help people live longer, healthier lives.
+
+"By studying a key regulator present in the vessel wall of the heart, we uncover a collection of molecular interactions that may explain why certain individuals are at greater risk for developing common vascular diseases," said principal investigator Clint L. Miller of UVA's Center for Public Health Genomics and departments of Biochemistry and Molecular Genetics and Public Health Sciences. "We hope this knowledge will provide opportunities to treat the disease before it leads to life-threatening clinical events."
+
+Lifestyle choices such as smoking, sedentary behavior and a diet heavy in red meat play major roles in the development of vascular diseases such as coronary artery disease, a leading cause of death worldwide. But the genetic material inherited by offspring from parents also shapes risk. Understanding precisely how has been a major challenge for scientists.
+
+This is because the subtle changes that take place in the blood vessels over time are extremely complex. In coronary artery disease, for example, scientists have determined that genes that affect disease risk can be found at more than 300 locations on chromosomes. That's a vast area for scientists to explore.
+
+The new discovery from Miller and his collaborators identifies a gene that directs an entire network of genes and processes. In that sense, the gene, FHL5, is like a general deploying troops on the battlefield. That makes it an extremely attractive molecule for scientists seeking to unravel the targetable pathways for new treatments or prognostic tools.
+
+To understand how the FHL5 encoded protein functions, Miller and his team evaluated its effect on smooth muscle cells, the cells that form the structure of the arteries. They found that when FHL5 was too active, the cells began to calcify—to accumulate too much calcium. This is a key step in atherosclerosis, the buildup of harmful plaque in the arteries that can lead to heart attacks, strokes and other serious health problems. Further, the excess gene activity contributed to other critical cellular activities related to vascular disease.
+
+But FHL5's role doesn't stop there. Instead, the researchers report in a new paper published in Circulation Research, it has a far-reaching effect on other genes and cellular processes that shape the "remodeling" that occurs in our arteries over time. "By mapping the downstream effectors of vascular remodeling, we hope to shed light on preventative mechanisms," Miller said. "Unbiased genetic studies led us to this specific cofactor. However, studying its regulatory network could explain its link to several vascular diseases."
+
+The identification of this key regulator gives scientists important new insights into the genetic factors that contribute to vascular diseases—and provides an attractive and influential target as they develop new treatments and work to prevent the harmful changes that cause those diseases.
+
+"We hope this work serves as template for future studies to investigate the functional consequences of perturbing key regulators in the vessel wall," Miller said. "Translating this knowledge to the clinic will require ongoing interdisciplinary collaborations, and we look forward to ultimately seeing the impact of these genetic studies."
+
+More information:
+
+Doris Wong et al, FHL5 Controls Vascular Disease–Associated Gene Programs in Smooth Muscle Cells, Circulation Research (2023).  DOI: 10.1161/CIRCRESAHA.122.321692

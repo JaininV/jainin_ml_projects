@@ -1,0 +1,63 @@
+Private information on one in five New Zealanders is now in the hands of cyber criminals who stole it from lender Latitude Financial.
+
+That made the theft the largest privacy failure in New Zealand history, the Office of the Privacy Commissioner has confirmed.
+
+“We are still at the point of preliminary enquiries with Latitude Financial given the unfolding nature of this cyber-attack which has led to the New Zealand’s biggest recorded data breach in terms of the number of individuals affected,” a  spokesperson said.
+
+“Currently, Latitude Financial estimates that 13% of the 7.9 million customers whose accounts were compromised by the attack are New Zealanders,” she said.
+
+READ MORE:
+
+* Latitude refuses to pay hackers' ransom demand
+
+* Protecting yourself from identity thieves after Latitude's mega data hack
+
+* Newsable: 'Degree of inevitability' around large data hacks, says cybersecurity expert
+
+“That equates to about 20% of the NZ population. This means that everyone is likely to know someone impacted by this breach,” she said.
+
+The proportion of adults who have had their data compromised in the Latitude breach is even higher, as there are nearly 1 million New Zealanders aged 15 or under who could not have ever been Latitude customers.
+
+Latitude lends under Gem by Latitude brand in New Zealand, but also made personal loans to Kiwibank customers.
+
+The incident also includes passports, the number of which is still unknown.
+
+It appears many people who have had personal information, including driver’s licence numbers, stolen from Latitude may not yet have been told.
+
+In its latest update to the Australian sharemarket, Latitude said only that it was in the “process” of contacting people whose data it had failed to keep secure.
+
+It said it would respond to all customer enquiries as a priority.
+
+While Latitude was under a legal obligation to notify the Privacy Commission about the privacy breach within 72 hours, that time limit did not include Latitude telling affected customers.
+
+“We encourage agencies to respond quickly and with the welfare of their customers, staff and the agency’s own wellbeing in mind,” the spokesperson said.
+
+“That includes balancing the risks of notifying customers alongside that of sharing knowledge of the breach widely. With that in mind, we expect agencies to reach out to customers as promptly and as safely as possible.”
+
+There are questions emerging about why Latitude, which claimed to only have 2.8m active customers, was holding onto so much data about so many former customers.
+
+But the Office of the Privacy Commissioner was not ready to make a statement on what its inquiries have so far revealed.
+
+“We are in regular contact with Latitude Financial and the Australian regulators. We are not currently able to talk about the preliminary enquires we are undertaking, but when we can make a statement, we will,” the spokesperson said.
+
+She said the office was also not ready to speak publicly about what it knew about how Latitude’s cyber defences were breached.
+
+Kiwibank customers are among those whose data has been compromised by the mega privacy breach at lender Latitude.
+
+Latitude said it had received a ransom demand for the return on the stolen data, but said it would not pay.
+
+The Privacy Commissioner spokesperson said it supported that decision.
+
+“Even if companies do pay a ransom there is absolutely no guarantee that the information won’t be shared online or sold on,” she said.
+
+The onus of preventing current and former Latitude customers from falling prey to crooks who had their data fell on the customers themselves.
+
+“Regarding advice about what people can do, we recommend they keep a close eye out for any suspicious activity on their accounts and any platforms they use,” the spokesperson said.
+
+“People should work with their banks and telco providers and consider checking their credit record,” she said.
+
+Investors in Latitude do not appear to be panicked by the company’s failure to keep its customers’ data secure.
+
+On the last trading day before Latitude told the ASX market it had suffered the huge cyber breach, its shares were trading at A$1.21 (NZ$1.30). On Wednesday, the shares were trading at A$1.26.
+
+In its latest statement to investors, Latitude said it had insurance policies to cover cyber risk.

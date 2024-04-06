@@ -1,0 +1,37 @@
+Talkdesk’s intelligent, cloud-based contact center capabilities plus Windstream Enterprise’s managed services give enterprises all the tools to deliver a superior, seamless customer experience
+
+LITTLE ROCK, Ark.–(BUSINESS WIRE)–Windstream Enterprise, a leading IT managed network and communications provider, today announced the addition of a new Contact Center as a Service (CCaaS) solution powered by Talkdesk®, Inc., a global cloud contact center leader for customer-obsessed companies, to its Contact Center Solution (CCS) portfolio.
+
+The new partner solution, Windstream Enterprise CCaaS powered by Talkdesk, supplies enterprises with a comprehensive set of intelligent, AI-powered contact center capabilities to consistently deliver scalable and secure multichannel customer experiences while also improving agent productivity. The next-generation CCaaS solution unites proprietary artificial intelligence (AI), natural language processing and machine learning technologies from Talkdesk with Windstream Enterprise’s managed services, where enterprises can view, analyze and manage every aspect of the customer journey from a single, user-friendly portal.
+
+The result is a highly productive and intelligent contact center that:
+
+Offers customers the rich, seamless interactions they expect from an enterprise, with self-service capabilities and nuanced, highly personalized support.
+
+Empowers customer support teams and agents with the tools and in-the-moment visibility they need to provide customers with frictionless, meaningful and memorable interactions.
+
+Gives enterprises the means to overcome some of today’s most formidable business challenges, including agent turnover, agent training, mounting agent workload and the complexities of managing multiple support channels (voice, chat, email, social media, SMS, video and web interactions).
+
+“With Windstream Enterprise CCaaS powered by Talkdesk, enterprises gain a managed CCaaS solution that turns the customer experience into a true competitive advantage, helping agents to counter the high customer abandonment rates, lost sales and customer churn that often result from a reliance on aging legacy contact center systems,” said Austin Herrington, vice president, product management, Windstream Enterprise.
+
+Specifically, Windstream Enterprise CCaaS powered by Talkdesk delivers an intuitive contact center workspace that integrates all channels, so agents can quickly get up to speed and capture an entire customer journey. AI-powered tools, including Virtual Agent and Agent Assist, reduce the burden on agents for mundane but time-consuming tasks, freeing them to tackle more complex interactions that require higher-touch human interactions. Management tools like Interaction Analytics, CX Sensors and QM Assist—also powered by AI and machine learning—allow contact center managers to glean insights such as agent performance, trends in customer queries and overall contact center quality.
+
+Furthermore, the CCaaS solution provides seamless integration with over 70 industry-leading applications including CRMs, ticketing platforms, and other ancillary CCaaS tools allowing businesses to easily tailor their solution to their specific healthcare, retail, manufacturing, financial services, SLED or other industry needs.
+
+“Talkdesk’s customizable, intuitive CX Cloud™ solution provides customers a simplified way to manage their entire contact center environment, from the initial connection to the final customer survey,” said Art Nichols, chief technology officer, Windstream Enterprise. “Our clients will receive an advanced CCaaS foundation provided by industry leader Talkdesk, while gaining the additional value of Windstream Enterprise’s cloud-based connectivity, unified communications and network security and compliance solutions that fold into a fully integrated managed service. Customers can depend on our dedicated team of technology experts with more than 20 years of contact center expertise.”
+
+“By partnering with Windstream Enterprise to combine Talkdesk enterprise-grade CCaaS with Windstream Enterprise’s deep industry expertise and completely integrated managed services, more clients will be able to modernize their contact center and deliver personalized and productive customer experiences,” said Chad Haydar, global vice president of channels and alliances at Talkdesk. “Together with Windstream Enterprise, we will empower our customers’ contact center environments to be more valuable, profitable business assets through intelligent technology that drives better digital experiences and internal efficiencies.”
+
+According to the 2023 Gartner®Critical Capabilities for Contact Center as a Service report, CCaaS is now the preferred option for contact center investment, as organizations swap the burden of platform management for cloud-enabled customer experience transformation. More businesses are investing in CCaaS solutions to bolster the quality of their customer interactions, transform their support capabilities with cloud-based tools and reduce the burden of platform management. By replacing legacy call center technology with CCaaS, enterprises can consolidate discrete contact center infrastructure with a single provider, scale more quickly and differentiate their support experience with integrated, customized applications.
+
+Windstream Enterprise CCaaS powered by Talkdesk is part of a robust portfolio of contact center solutions from Windstream. That portfolio also includes OfficeSuite UC® Contact Center, a tightly integrated UC and CC solution allowing customers to contact businesses through voice, SMS, and webchat.
+
+To learn more about Windstream Enterprise’s CCaaS solutions, please visit windstreamenterprise.com
+
+Blood, S., Rathnayake, P., Kraus, D; and Sheth, P. (2023, February 15). Gartner. Critical Capabilities for Contact Center as a Service.
+
+GARTNER is a registered trademark and service mark of Gartner, Inc. and/or its affiliates in the U. S. and internationally and is used herein with permission. All rights reserved.
+
+Gartner does not endorse any vendor, product or service depicted in its research publications and does not advise technology users to select only those vendors with the highest ratings or other designation. Gartner research publications consist of the opinions of Gartner’s Research & Advisory organization and should not be construed as statements of fact. Gartner disclaims all warranties, expressed or implied, with respect to this research, including any warranties of merchantability or fitness for a particular purpose.
+
+Windstream Holdings is a privately held communications and software company. Windstream offers managed communications services, including SD-WAN and UCaaS, and high-capacity bandwidth and transport services to businesses across the U. S. The company also provides premium broadband, entertainment and security services through an enhanced fiber network to consumers and small and midsize businesses primarily in rural areas in 18 states. Additional information is available at windstream.com or windstreamenterprise.com. Follow us on Twitter at @Windstream.

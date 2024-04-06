@@ -1,0 +1,21 @@
+LONDON – An innovative digital intelligence solution from London software company Zamna is being piloted by Mexico´s largest airline Volaris, was announced. The partnership will focus on improving efficiency during airport check in for international flights at Mexico City International Airport, reducing time in queues. Zamna’s digital intelligence verifies data, invisibly behind the scenes, for passengers before they arrive at the airport. This enables Volaris to instantly confirm that the identity and travel documents provided by each passenger are compliant with the multitude of travel regulations. This new solution demonstrates Volaris’ commitment to innovation and its passengers’ needs.
+
+Eliminating the need for Volaris to excessively verify passengers travel documentation when they arrive at the airport, the carrier aims to drastically speed-up pre-flight check-in processes, promoting a more seamless experience for guests at what is Latin America’s busiest airport by passenger traffic.
+
+Serving 71 airports across Mexico, United States, Central America, Colombia and Peru, the pilot will initially cover two city-pairs; the first route between Mexico City and Los Angeles Airport (LAX), and the second, more complex route, between Guadalajara and Los Angeles Airport (LAX), involving stricter travel requirements.
+
+Rodrigo Tame, Zamna’s LATAM Representative, explains further: “Without Zamna’s solution in place, Volaris staff are required to process and check travel documents – every single time a passenger flies. This process is not only costly, time-consuming and labour-intensive, but has a significant impact on the passenger. Zamna’s technology removes this process from the airport. Using invisible digital intelligence, passenger documentation is verified and checked against a dynamic, live regulatory checklist according to travel destination. This solution can ensure that travellers on selected Volaris flights are instantly pre-cleared to fly at the point of check-in – way in advance of their arrival at the airport.
+
+“As the first airline in the Latin American region to integrate Zamna’s digital intelligence technology, I am thrilled to see strong leadership in Volaris take an innovative approach to improving passenger experience, while simultaneously impacting the airline’s operating costs. It’s great to see the carrier pioneer innovation in the Latin American region when it comes to digital identity in travel.”
+
+Carlos Alberto Gonzalez, IT Director at Volaris, adds: “We are particularly keen to reduce check-in time as much as possible through technology and innovation.
+
+“What’s more, as an ultra-low-cost airline, we must ensure that everything we do is mission critical. Our goal in partnering with Zamna, is to not only improve the experience for the passenger, but to see benefits on the operation cost side as well. Each time somebody checks in digitally, it will reduce the labour and associated costs previously needed on the check-in desk.”
+
+Because Zamna securely connects all valuable data to the passenger’s passport inside its digital intelligence network, the next time the passenger travels, they only need to verify that the customer has their travel documents with them.
+
+“The fact that Zamna only needs to verify a passenger once is an especially exciting capability that we expect to be of particular benefit to our frequent flyers,” Gonzalez adds.
+
+As an ULCC (Ultra-Low-Cost Carrier), the Volaris team expertly invests in increasing their customer satisfaction, while reducing their cost base. Currently, established tools for regulatory compliance, such as Timatic, suggest passengers that may be of concern to the airline – and thereafter, the airline applies the effort and cost needed to resolve these in the airport. In advance of the passenger arriving at the airport, Zamna gets them ready to fly by both digitising and resolving all passport verifications and other regulatory compliance checks.
+
+Leveraging the more than 60 million passport verifications already completed in partnership with other global leading airlines, Zamna’s technology works invisibly in the background to prove that a passenger’s passport and other travel document data is verified and compliant with regulatory requirements for their destination.

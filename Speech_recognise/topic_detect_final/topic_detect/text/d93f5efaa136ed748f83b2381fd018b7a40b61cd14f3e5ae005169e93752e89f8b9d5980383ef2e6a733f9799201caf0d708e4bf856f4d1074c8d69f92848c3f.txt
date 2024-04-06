@@ -1,0 +1,13 @@
+Jag shared an investigation into a scam which he, together with his colleague, dubbed “Crypto Rom” — where victims are exploited in their search or romance and their interest in the booming cryptocurrency trading economy.
+
+A “ShaZuPan” 杀猪盘 tactic — “pig butchering” (literally translated from Chinese as fattening up the pig before slaughter), victims are groomed for months through relationships built on-line before being lured into parting with their funds.
+
+While in some ways similar to traditional romance scams, the threat actor demonstrated extra level of sophistication through carefully crafted websites and mobile phone apps that mimic those of legitimate crypto currency trading firms.
+
+Behind the seemingly genuine looking apps/websites, threat actors operate a simple process of taking in the funds and sending fake displays of “account balance”.
+
+Jag shared how threat actors skirt around the checks and controls that Google Play /Apple app store built, to safeguard users from malicious apps.
+
+Victims who were tricked into transferring funds into the fake trading apps /websites were further led along in “recovery” scams — where threat actors, for a certain fee, promised to help “get the money back”.
+
+Some had lost as much as USD 1 million. Aside from exercising caution when forming relationships on-line, Jag advised users to also carefully scrutinize the links/ app/websites before transacting on these sites.

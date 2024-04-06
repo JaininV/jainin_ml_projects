@@ -1,0 +1,13 @@
+Keysight Technologies is expanding its Novus portfolio with the Novus mini, a network test platform in a compact form factor that addresses the needs of network engineers as they deploy automotive and industrial internet of things (IoT) devices.
+
+As enterprises transition to Industry 4.0 business models to take advantage of digitalisation, their reliance on connected IoT devices becomes more important to business operations. Industries such as automotive and manufacturing can improve safety and efficiency by connecting IoT machines and sensors to business systems. However, system failures and downtime caused by connectivity and network issues can result in high-risk, life-threatening situations. To mitigate any potential problems, network engineers must fully test the connectivity and performance of network components and IoT devices before deploying them.
+
+Keysight’s Novus mini addresses this need by giving network engineers a compact, quiet, and affordable platform to test the performance and conformance of their industrial networks. The Novus mini supports testing based on time-sensitive networking (TSN) standards, which is a critical safety component in IoT applications such as the advanced driver assistance systems (ADAS) used in autonomous vehicles.
+
+The Novus mini provides network testing value – a combined solution offering both traffic generation and protocol testing in a single platform. It is compact, quiet and affordable. It claims to feature the smallest footprint in the industry, outstanding cost per port, and ultra-quiet, fanless operation. It validates layers 2-3 by covering full performance and conformance testing.
+
+The Novus mini tests critical timing standards for industrial IoT and supports full timing testing and automated time TSN for 802.1AS 2011/2020, 802.1Qbv, 802.1CB and 802.1Qci.
+
+Ram Periakaruppan, vice-president and general manager, Network Test & Security Solutions, Keysight, said that the Novus mini provides real-world validation and automated conformance testing for leading edge technologies.
+
+As a member of the Avnu Alliance community, Keysight is working with other market leaders to advance Industry 4.0 by crafting essential standards for the next generation of IoT.

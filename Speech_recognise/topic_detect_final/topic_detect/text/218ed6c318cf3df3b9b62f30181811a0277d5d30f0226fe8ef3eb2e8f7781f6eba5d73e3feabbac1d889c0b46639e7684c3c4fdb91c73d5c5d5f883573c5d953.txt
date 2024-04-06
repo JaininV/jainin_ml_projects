@@ -1,0 +1,95 @@
+What is Meant by “A Culture of Safety” in Healthcare? How Does an Organization Create That?
+
+What is Meant by “A Culture of Safety” in Healthcare? How Does an Organization Create That?
+
+I stumbled across this article the other day, on the important issue of medication errors:
+
+“Preventing medication errors is an essential component of caring for patients and must be a core mission of every pharmacy. For medication error prevention efforts to be effective, they must be a priority.”
+
+It begs the question of why safety and error preventing would NOT be a priority.
+
+The article promotes several practical ideas, but leads with this as the first of many goals for “a multidisciplinary medication safety team:
+
+“Promote a culture of safety to reduce harm from medication errors.”
+
+OK, but what does that mean? What's a “culture of safety?” How does one “promote” that? Do executives think they can delegate this important responsibility to a team?
+
+Are these just empty words, a “culture of safety?”
+
+According to the AHRQ (Agency for Healthcare Research and Quality, part of the US Federal Government):
+
+“Patient safety culture is the extent to which an organization's culture supports and promotes patient safety.”
+
+That is the most circular of circular reasoning.
+
+“It refers to the values, beliefs, and norms that are shared by healthcare practitioners and other staff throughout the organization that influence their actions and behaviors.”
+
+How do we know if the values, beliefs, and norms are appropriate and helpful?
+
+“Patient safety culture can be measured by determining the values, beliefs, norms, and behaviors related to patient safety that are rewarded, supported, expected, and accepted in an organization.”
+
+I guess that means surveys. But how can we really gauge of “behaviors related to patient safety” are rewarded instead of being punished?
+
+As I write about in my upcoming book The Mistakes That Make Us, leaders are responsible for creating conditions where it's safe to speak up about risks, point out mistakes, or suggest ways to make things safer by improving processes and systems.
+
+In the context of psychological safety, leaders must reward “vulnerable acts” (such as admitting a mistake) instead of punishing them. See Tim Clark's great materials about psychological safety for more information — and other info on this page I created.
+
+We cannot have a culture of patient safety without having a culture of psychological safety.
+
+The AHRQ page doesn't use the phrase “psychological safety,” but points to elements of it, including (with my thoughts in brackets):
+
+* Organizational Learning–Continuous Improvement [is the focus on learning and improving instead of punishment?]
+
+A “patient safety culture” does drive better outcomes, per the AHRQ:
+
+“Research has shown that significant relationships exist between SOPS patient safety culture scores and important healthcare delivery measures and outcomes.”
+
+What does the Institute for Healthcare Improvement say?
+
+“In a culture of safety, people are not merely encouraged to work toward change; they take action when it is needed.”
+
+But how can people take action without psychological safety? Leaders can't just encourage this… again, they must model and reward vulnerable acts, such as speaking up about risks or proposing improvements to test out in Plan-Do-Study-Adjust cycles (without the fear of being punishing for “failing” in their attempts to improve.
+
+The IHI also touches on psychological safety without using that phrase, saying in part:
+
+“… an organization can improve upon safety only when leaders are visibly committed to change and when they enable staff to openly share safety information. When an organization does not have such a culture, staff members are often unwilling to report adverse events and unsafe conditions because they fear reprisal or believe reporting won't result in any change. “
+
+This IHI worksheet does mention psychological safety in very direct ways:
+
+“A culture of safety is an atmosphere of mutual trust in which all staff members can talk freely about safety problems and how to solve them, without fear of blame or punishment…” and this includes:
+
+* “Psychological safety. People know their concerns will be received openly and treated with respect.
+
+Active leadership. Leaders actively create an environment where all staff are comfortable expressing their concerns.
+
+Fairness. People know they will not be punished or blamed for system-based errors.
+
+Transparency. Patient safety problems aren't swept under the rug. Team members have a high degree of confidence that the organization will learn from problems and use them to improve the system.”
+
+I swapped the order of the 3rd and 4th bullet points. The first three points address the need to reduce fear in the workplace. The last point addresses the need to reduce the feeling of futility (is it even worth speaking up if things don't improve??). See more from Ethan Burris on the need to reduce fear and futility.
+
+“In psychologically safe environments, people believe that if they make a mistake others will not penalize or think less of them for it. They also believe that others will not resent or penalize them for asking for help, information, or feedback.”
+
+“An organization whose leaders embrace a safety culture makes safety its number one priority. Leaders demonstrate their commitment by supporting the organization to learn about errors and near misses, investigate errors to understand their causes, develop strategies to prevent error recurrence, and share the lessons learned with staff so they recognize the value of reporting their concerns.”
+
+Again, it starts with leaders. Not just their commitment, but their behaviors — including the steps listed above. Notice it doesn't recommend punishing mistakes.
+
+Recommendations include things related to psychological safety, again, without that phrase being used. A curious omission?
+
+* “Create an environment in which people can speak up about errors without fear of punishment; use the information to identify the system flaws that contribute to mistakes.
+
+* Apply a fair and consistent approach to evaluate the actions of staff involved in patient safety incidents.
+
+* Support event reporting of near misses, unsafe conditions, and adverse events.
+
+They're also referring to a “Just Culture” along with psychological safety.
+
+Yesterday marked the third anniversary of the passing of a great leader, Paul O'Neill. I heard him ask questions like, “How would we know if an organization had a safety culture?” He'd want to answer that question with data. Is the organization driving down measurable injury rates the way Alcoa did under O'Neill's leadership as CEO? Note that the improvement continued after he left — that's a sign that the culture was solid.
+
+You can read more about what O'Neill did as a leader to build a culture of safety — and how he influenced leaders in healthcare — in these two free eBooks from Value Capture:
+
+This is also available as a Kindle book or Paperback through Amazon.
+
+What do you think? Please scroll down (or click) to post a comment. Or please share the post with your thoughts on LinkedIn.
+
+Don't want to miss a post or podcast? Subscribe to get notified about posts via email daily or weekly.

@@ -1,0 +1,11 @@
+(Reuters) -French cloud services provider OVHcloud on Wednesday trimmed its forecast for full-year revenue growth, citing the macroeconomic context and delays in certain projects.
+
+The company now sees organic revenue growth between 13% and 14% in 2023, against a previous outlook of expected growth in the range of 14% and 16%.
+
+The company said in a statement that the forecast "includes... recent developments in demand which in the short term reflect a delay in certain migration projects to the cloud or the extension of existing infrastructures,".
+
+Societe Generale analyst Derric Marcon in a Monday call with Reuters pointed to an interview earlier this month where Amazon's CEO suggested a continued slowdown in AWS, the firm's cloud services arm.
+
+"Inevitably, investors...will wonder if a challenger or niche Player like OVH can continue to grow as much as they said in a context where others say it's slowing down," Marcon had said.
+
+OVHcloud posted half-year sales of 439 million euros ($481.41 million), broadly in line with the 437.3 million expected on average in a company-provided poll.

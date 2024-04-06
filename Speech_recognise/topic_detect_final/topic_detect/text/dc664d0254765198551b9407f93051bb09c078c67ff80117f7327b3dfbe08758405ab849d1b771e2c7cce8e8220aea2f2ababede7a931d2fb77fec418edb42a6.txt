@@ -1,0 +1,7 @@
+TUESDAY, April 18, 2023 -- The use of a digital health application with patient-reported outcomes is associated with an increase in disease control rate for adults with rheumatoid arthritis (RA), according to a study published online April 14 in JAMA Network Open.
+
+Chun Li, M. D., from the Peking University People’s Hospital in Beijing, and colleagues assessed whether patient-reported outcomes using digital health applications could result in disease control for patients with RA. The analysis included 2,197 adult patients with RA who were randomly assigned to a smart system of disease management (SSDM) group or a conventional care control group.
+
+The researchers found that at month 6, the rate of patients with a disease activity score in 28 joints using the C-reactive protein (DAS28-CRP) of ≤3.2 was 71.0 percent in the SSDM group versus 64.5 percent in the control group (difference between groups, 6.6 percent; 95 percent confidence interval, 2.7 to 10.4 percent; P = 0.001). The rate of patients with a DAS28-CRP of ≤3.2 at month 12 in the control group increased to a level (77.7 percent) that was similar to that of the SSDM group (78.2 percent; difference between groups, −0.2 percent; 95 percent confidence interval, −3.9 to 3.4 percent; P = 0.90).
+
+"This study provides modest clinical value that application-based patient-reported outcomes and intervention could be an effective way to treat patients with RA and may provide evidence for diseases with complex treatment targets," the authors write.

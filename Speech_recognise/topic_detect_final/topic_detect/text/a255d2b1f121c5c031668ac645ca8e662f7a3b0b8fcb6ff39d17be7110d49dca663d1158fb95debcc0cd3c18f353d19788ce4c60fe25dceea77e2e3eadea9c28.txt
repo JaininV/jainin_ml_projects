@@ -1,0 +1,17 @@
+Software architects, developers, and companies wanting to stay up to date on the latest developments in microservices are invited to attend the Mastering Microservices 2023 all-day online conference on May 23. Participants who book in advance will be eligible for the early bird discount of €199, which is valid up to and including April 25, 2023.
+
+What You Need to Know About Microservices
+
+Although microservices have been around for some time, they have only recently become an integral part of the world of application development. While they can make software more modular, faster, and more easily adaptable, their use has its pitfalls. The online conference, which is taking place for the third time, aims to provide constructive solutions to these issues.
+
+What to Expect from the Conference
+
+The Mastering Microservices conference will feature seven lectures from renowned experts in the field, who will provide insights into the latest developments in microservices. The lectures will be broadcast via live stream, allowing participants to listen from their own desks. Participants will also have the option to ask questions via chat during the presentations and can connect with speakers in breakout sessions after the presentation.
+
+The conference will cover various topics related to microservices, including cutting microservices with event storming, extracting micro-frontends from a monolithic frontend application, and working microservices out of the monolith with domain storytelling. Other topics include architecture evaluations for microservices applications, shared data in distributed architectures, and asynchronous patterns for modern software architecture design.
+
+The conference will feature expert speakers who are well-known for their contributions to the field. Speakers include Arne Limburg, Eberhard Wolff, Billy Lando, Henning Schwentner, Stefan Zörner, Lars Röwekamp, and Susanne Braun. All of these speakers are published authors or have delivered lectures at numerous conferences on the topic of microservices.
+
+The Mastering Microservices conference is an event intended for professionals who work with microservices in their daily work and want to stay up to date on the latest developments. Attendees will come away with valuable insights into how to solve technical problems and where the microservices architecture journey is heading.
+
+More information about the conference, including pricing, accommodations and enrolment details, is available on the conference website. The last two editions of the conference had more than 200 and 300 participants respectively, making it an excellent networking opportunity. Don’t miss out on your chance to attend the Mastering Microservices 2023 conference and stay ahead of the curve in the world of software architecture.

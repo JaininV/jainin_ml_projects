@@ -1,0 +1,19 @@
+Mostly law professors | Sometimes contrarian | Often libertarian | Always independent
+
+An interesting item from Judge Theodore Chuang's opinion in Doe v. Dewees (D. M.D. 2020), which I just came across:
+
+Plaintiff Jane Doe, a Maryland resident, has filed a civil rights action against various Maryland state and local government actors in connection with her arrest and detention on June 27, 2015 by Deputy Sheriffs of the Carroll County, Maryland Sheriff's Office after a traffic stop during which she refused to give them her name….
+
+Defendants argue that Doe's claims should be dismissed because she has not demonstrated that she is the real party in interest to this action as required by Federal Rule of Civil Procedure 17, where she has failed to confirm her true identity by providing any government-issued identification or proof of a legal name change, or to satisfy the test outlined in James v. Jacobsen (4th Cir. 1993), for proceeding in a case pseudonymously. Fed. R. Civ. P. 17(a)(1) ("An action must be prosecuted in the name of the real party in interest.").
+
+Where Doe argues that "Jane Doe" is not a pseudonym but instead is the name she uses in everyday life, Defendants' arguments that Doe may not use a pseudonym are not relevant. Although Doe has not shown that Jane Doe was her name at birth or that she legally changed her name to Jane Doe, "Maryland recognizes common law name changes," and "[n]either the statutory or common law method is … the exclusive manner in which a name may be changed." "[A]bsent a statute to the contrary," there is a common law right of any person "to adopt any name by which [a person] may become known, and by which [that person] may transact business and execute contracts and sue or be sued." "[T]his [is] without regard to [one's] true name." Such adoption and use of another name has been approved where it is "consistent" and "nonfraudulent." …
+
+Here, Doe alleges in the Amended Complaint that "Jane Doe" is in fact her name, and she reiterates in her Opposition that it is not a pseudonym. Doe previously submitted affidavits from other individuals attesting that Doe actually went by the name "Jane Doe" prior to the events in question. At this early stage of the litigation, the record before the Court does not allow for a finding that Doe's use of the name "Jane Doe" is not consistent or for fraudulent purposes. Accordingly, the Court will deny the Motion as to this argument. However, in discovery, Defendants may engage in factual development on the issue of Doe's legal name and identity, and Doe will be expected to demonstrate that the use of her preferred name, "Jane Doe," has been consistent and not for fraudulent purposes or a reason contrary to Maryland common law….
+
+Just to be clear, this isn't a general way for people to sue pseudonymously without getting leave of court (leave that will often be denied, see The Law of Pseudonymous Litigation); Jane Doe's theory would work only to the extent that she can show consistent use of the name in ordinary life, and not just for the purposes of a lawsuit. And if one's goal is to avoid Google searches quickly finding one's past cases and writings (the way they do for an uncommon name such as Eugene Volokh, for instance), using the name Jane Smith is likely to be at least as effective, and less likely than Jane Doe to raise eyebrows.
+
+To get the Volokh Conspiracy Daily e-mail, please sign up here.
+
+Feds See the Document Leak as an Opportunity for Surveillance and Control
+
+No Degree? That's No Problem for These Government Jobs

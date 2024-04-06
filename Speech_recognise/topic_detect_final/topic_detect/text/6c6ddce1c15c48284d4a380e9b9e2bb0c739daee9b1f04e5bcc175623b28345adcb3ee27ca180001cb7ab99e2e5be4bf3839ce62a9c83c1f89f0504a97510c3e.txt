@@ -1,0 +1,31 @@
+VITROS Immunodiagnostic Products Anti-SARSCoV- 2 Total N Antibody
+
+Calibrators programmed onto the Assay Data Disks (ADD) Data Release Versions (DRV):
+
+DRVs 6213 through 6218 supporting VITROS Calibrators.
+
+Product Code: 6199976
+
+Incorrect Number of Calibrator Levels (2) Set for the VITROS Immunodiagnostics Products Anti-SARS-CoV-2 Total N Antibody Calibrators in Assay Data Disks (ADD),
+
+resulting in delayed patients results
+
+Ortho Clinical Diagnostics issued  Important Product Correction Notification letter on 3/9/23. Letter states reason for recall, health risk and action to take:
+
+To calibrate all lots currently within expiring date of Anti-SARS-CoV-2 Total N, load ADD 6219 or higher on your VITROS System.
+
+" Complete the enclosed Confirmation of Receipt form no later than March 17, 2023.
+
+" Please forward this notification and ADD if the affected product was distributed outside of your facility.
+
+" If your laboratory has experienced the issue with this product and you have not already done so, please report the occurrence to your local Ortho Care" Technical Solutions Center.
+
+If you have further questions, please contact Ortho Care Technical Solutions Center at 1-800-421-3311.
+
+US Nationwide distribution in the states of AL, AZ, CA,  GA, NY.
+
+1 A record in this database is created when a firm initiates a correction or removal action.  The record is updated if the FDA identifies a violation and classifies the action as a recall, and it is updated for a final time when the recall is terminated.  Learn more about medical device recalls.
+
+2 Per FDA policy, recall cause determinations are subject to modification up to the point of termination of the recall.
+
+3 The manufacturer has initiated the recall and not all products have been corrected or removed.  This record will be updated as the status changes.

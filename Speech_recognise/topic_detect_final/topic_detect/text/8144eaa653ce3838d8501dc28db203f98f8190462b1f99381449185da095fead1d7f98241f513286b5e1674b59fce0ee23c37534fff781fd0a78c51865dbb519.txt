@@ -1,0 +1,35 @@
+,  /PRNewswire/ -- The role of packaging has evolved over time, from simply protecting and identifying the product to driving sales via enticing graphics. Smart packaging is the latest iteration, utilizing technology including sensors, indicators, and wireless communication to enhance user engagement, product quality, and supply chain efficiency. IDTechEx forecast that establishing business models that utilize these technologies to unlock increasing amounts of value for brands and consumers will grow the smart packaging market to US$2.6 billion in 2033. This figure just covers the electronics hardware - the smart packaging market value will be much higher if infrastructure, software, and services are included.
+
+"Smart Packaging 2023-2033" is a new report from IDTechEx, which provides market research and intelligence on many emerging technologies. The report provides an in-depth technology and market evaluation of this emerging industry, drawing on over 20 interviews with industry players, including fast-moving consumer goods (FMCG) players. It discusses in detail the needs of end users, evaluates multiple applications, assesses the underlying technologies such as NFC/RFID and printed/flexible sensors, and presents many case studies of smart packaging deployments.
+
+The smart packaging market has several prominent drivers. Continuous growth in e-commerce over the last two decades is raising the demand for general packaging and changing the priorities of packaging design. That includes more emphasis on sustainability and delivery optimization and less focus on designs that attract traditional shoppers at retail stores. Stores too are increasingly serving fulfillment center functions, and the need for streamlined inventory management is driving the adoption of item-level smart labeling.
+
+The COVID-19 pandemic has further accelerated the adoption of wireless ID, including the use of QR codes for track and trace schemes and NFC for wireless payment. Consumers' adoption of these technologies has triggered many brand owners to investigate smart packaging use cases.  The result has been a significant drive towards the connected experience, with brands interacting with consumers on landing sites accessed by QR codes and NFC.
+
+Smart packaging can also assist in facilitating healthcare delivery for an aging population. In case studies discussed in the IDTechEx report, smart packaging can be used to monitor medicine intake compliance in medical trials and, ultimately, by many patients requiring regular medication. This is achieved by using smart blister packaging that can wirelessly communicate a patient's medicine adherence to the doctor or even provide timely reminders to their smartphone.
+
+Smart packing comprises a wide range of current and emerging technologies, often with very different purposes. These include:
+
+* RFID for wireless item identification (usually invisible to the consumer), as well as other identification technologies, including QR codes and capacitive ink approaches.
+
+* Electronic Articles Surveillance (EAS) for anti-theft (usually invisible to the consumer)
+
+* Interactive smart packaging, including light-up, and measuring (such as smart blister packs)
+
+* Chemical indicators: temperature, frozen chemical visual indicators, and active packaging for produce and pharmaceutical monitoring.
+
+The "Smart Packaging 2023-2033" report from IDTechEx covers the full picture and opportunities - in addition to the challenges of smart and intelligent packaging.  Drawing on 24 company profiles, IDTechEx provides technology insights and independent analysis into the players in smart packaging. The potential for smart packaging to capture great value is discussed, including interviews with FMCG players, and applications are evaluated using 15 case studies within the report. IDTechEx quantifies the opportunities of smart packaging technologies across 7 forecasts.
+
+To find out more about this IDTechEx report, including downloadable sample pages, please visit www. IDTechEx.com/smart.
+
+Dr Matthew Dyson, Principal Technology Analyst and author of this article, will be presenting a free-to-attend webinar on Wednesday 17 May 2023 - Smart Packaging: Emerging Drivers and Technologies.
+
+This webinar will discuss the following topics:
+
+* Case studies showing the deployment and adoption of different types of smart packaging, such as electronic blister packs for pharmaceuticals
+
+* A roadmap for the adoption of different smart packaging technologies, and assessment of technology gaps and other adoption barriers
+
+To find out more and register your place on one of our three sessions, please click here. If you are unable to attend the date, please do register anyway to receive the links to the on-demand recording and slides as soon as they are available.
+
+IDTechEx guides your strategic business decisions through its Research, Subscription and Consultancy products, helping you profit from emerging technologies. For more information, contact [email protected] or visit www. IDTechEx.com.

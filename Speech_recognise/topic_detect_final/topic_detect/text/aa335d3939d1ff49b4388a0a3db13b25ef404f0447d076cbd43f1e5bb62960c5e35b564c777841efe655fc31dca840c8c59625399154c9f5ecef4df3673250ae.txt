@@ -1,0 +1,25 @@
+Skience, a leading financial services solution and consulting provider, announced the rollout of its Wealth Management Cloud Technology Blueprint (“Blueprint”), formalizing its strategic planning framework for digital transformations. This methodology, available as part of Skience’s award-winning Consulting Services offering, can be employed as a stand-alone process or incorporated as part of a larger implementation project. It is designed to help wealth management firms clearly articulate and unify their optimal data, integration, business process automation, and advisor and investor user experience strategy.
+
+AiThority Interview Insights: AiThority Interview with at Brian Sathianathan, Co-Founder and CTO at Iterate.ai
+
+“The workshops and discovery phase are particularly vital as it allows us to pinpoint potential impediments to user experience—internal and external—and make thoughtful recommendations that are appropriate to the firm’s needs.”
+
+For many wealth management firms seeking to elevate the client experience and introduce internal efficiencies, digital transformation has emerged as a strategic priority. However, the absence of a cohesive strategy may result in siloed data, employee pushback, and disconnected systems—ultimately hampering transformation efforts.
+
+Skience’s Blueprint process seeks to support wealth management leaders as they plan for, implement, manage and communicate change, thus increasing the likelihood it will be successful. It involves three critical steps:
+
+* Discover: The Skience team engages in meaningful dialogue and workshops with a broad cross-section of internal stakeholders to identify organizational goals and pain points. At this stage, Skience begins to identify opportunities to reduce or eliminate inefficiencies in the wealth management firm’s current data strategy, technology infrastructure, and workflows. During the Discover phase Skience partners with the client to define user stories, which are the building blocks of an Agile digital transformation.
+
+* Design: Drawing from deep experience within the Salesforce ecosystem and formidable wealth management industry expertise, Skience helps each firm design a future state where data, systems, workflows, and user experience are transformed. As part of this phase, Skience defines the future state process, along with the technology components needed to make that future a reality. Once all the necessary data has been migrated, analytics such as robotic process automation (RPA) and artificial intelligence (AI) can be considered alongside other transformative technologies that may help to futureproof the firm.
+
+* Define: Skience’s experts provide a roadmap that serves as the foundation for the wealth management firm’s future evolution. This detailed plan outlines the resources, schedule, budget, and approach required to get started. During this phase, Skience create a “Sprint Plan,” which defines and prioritizes user stories into sprints for Agile implementation.
+
+Read More about AiThority Interview: AiThority Interview with Thomas Kriebernegg, Managing Director & Co-Founder at App Radar
+
+“Successful transformations tend to hinge on buy-in at all levels of a wealth management organization,” said Sanjeev Kumar, Chief Executive Officer at Skience. “We’ve designed Blueprint to manage for this, collaborating closely with a wide array of internal stakeholders throughout the entire process. This can help lay the groundwork for a shift in mindset and pave the way for a smooth transition.”
+
+“The Blueprint framework allows us to get to the heart of an organization’s needs, moving quickly to define the optimal strategy,” added Greg Starr, Executive Vice President of Salesforce Services at Skience. “The workshops and discovery phase are particularly vital as it allows us to pinpoint potential impediments to user experience—internal and external—and make thoughtful recommendations that are appropriate to the firm’s needs.”
+
+Skience has deep expertise in customized, integrated Salesforce platform technology solutions for the wealth management industry. Blueprint represents the first step in a proven transformation process that takes a project logically from assessment and planning to configuration, testing, training, and adoption.
+
+[To share your insights with us, please write to sghosh@martechseries.com]

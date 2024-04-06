@@ -1,0 +1,43 @@
+In a recent study published in the Nutrients Journal, researchers modeled the effects of removing a meat/poultry serving in healthy dietary patterns (HDPs).
+
+Study: Nutritional Effects of Removing a Serving of Meat or Poultry from Healthy Dietary Patterns—A Dietary Modeling Study. Image Credit: TatjanaBaibakova/Shutterstock.com
+
+MyPlate and the Dietary Guidelines for Americans (DGA) recommend lean meat and poultry consumption for a healthy diet. Meat is rich in protein, zinc, vitamins, and iron.
+
+Meat consumption has been criticized from health, environmental, and ethical perspectives. Red/processed meat has been linked to chronic diseases, but minimally-processed meat/poultry is not associated with the risk of chronic diseases or mortality.
+
+The United States Department of Agriculture (USDA) developed and released healthy food patterns for the 2015-20 DGA and updated them as HDPs in the 2020-25 DGA.
+
+The three HDPs are US-style (USP), Mediterranean-style (MSP), and vegetarian (VDP) dietary patterns. DGA 2020-25 also suggests that HDPs are associated with beneficial outcomes for mortality, obesity, cardiovascular disease, bone health, and some cancers.
+
+Nonetheless, some scientific groups and policymakers push for limiting animal-sourced foods in the diet.
+
+In the present study, researchers modeled the potential effects of removing a meat/poultry serving on the nutrient profiles of HDPs. Four different minimally/further processed meat and minimally/further processed poultry composites were developed.
+
+Minimally processed meat or poultry included uncooked products without significant compositional changes or added ingredients.
+
+Further processed meat or poultry includes products that undergo a transformation beyond minimal processing and contain approved ingredients. The meat composite used by the USDA in HDPs was an additional meat option, and its nutrient profile was accessed from the Food Pattern Modeling Report.
+
+Nutrient profiles for representative meat/poultry foods and ground beef were accessed from the Food and Nutrient Database for Dietary Studies and the Food Data Central, respectively. The nutrient profiles for poultry and meat composites were estimated.
+
+The baseline nutritional profiles of MSP and USP for 2,000 calories were fetched from the Food Pattern Modeling Report.
+
+Further, dietary modeling was performed by removing nutrients of an 85 g or 3 oz serving of meat/poultry composite from the USP and MSP. Additional modeling was performed where nutrients and calories were increased to match baseline calories, thereby providing isocaloric removal of servings.
+
+Removing an 85 g serving of USDA meat composite from the USP reduced protein by 23%, iron and copper by 11%; vitamin B and cholesterol by 28%; sodium by 18%, selenium, and niacin by 21%; choline by 22%; zinc by 27%; phosphorous by 12%; thiamin by 10% and vitamin Bby 15%. The iron, thiamin, copper, phosphorous, or vitamin B6 reduction in the isocaloric scenario was < 10%.
+
+Results were identical when an 85 g USDA meat composite was removed from the MSP, except thiamin reduction was always < 10%.
+
+Removing an 85 g serving of minimally processed meat from the USP and MSP decreased iron, thiamin, saturated fat, and riboflavin by 11%; protein by 27%; zinc and niacin by 30%; selenium by 29%; vitamin B by 25%; choline, and vitamin B by 21%; sodium by 22% and cholesterol by 32%.
+
+Reductions for phosphorous, iron, thiamin, riboflavin, saturated fat, and potassium were < 10% in the isocaloric approach.
+
+Removing minimally processed poultry serving of 85 g from the USP and MSP decreased phosphorous by 12%; vitamin B by 32%; protein by 27%; niacin by 37% and cholesterol by 38%. The decrease in phosphorous was < 10% in the isocaloric estimation.
+
+Removing further processed meat from the USP and MSP caused reductions in indicated nutrients from 11% to 38%. Likewise, decreases in nutrients ranging between 10% and 28% were observed when an 85 g further processed poultry serving was removed from the USP and MSP.
+
+Notably, in the isocaloric scenario, with the removal of further processed poultry, vitamins A and C in USP and MSP increased by over 10%.
+
+The findings showed that removing a meat/poultry serving of 85g from USP and MSP reduced macro- and micronutrients by more than 10% from the baseline.
+
+Interestingly, the reductions were consistent for many nutrients and even when adjusted for calories associated with removing meat/poultry servings.

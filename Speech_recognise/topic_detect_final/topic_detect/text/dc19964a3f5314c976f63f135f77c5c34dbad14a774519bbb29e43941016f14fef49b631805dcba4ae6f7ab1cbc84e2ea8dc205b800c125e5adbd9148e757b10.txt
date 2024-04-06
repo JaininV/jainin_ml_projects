@@ -1,0 +1,23 @@
+Google has been testing digital ad solutions without third-party cookies and the results seem to be promising.
+
+“In the first quarter of 2023, Google’s ads platforms conducted an experiment to understand how our interest-based audience (IBA) solutions perform when they rely on a combination of privacy-preserving signals,” explained Dan Taylor, the company’s vice president of global ads.
+
+“These signals included contextual information, the Topics API from the Privacy Sandbox and first-party identifiers such as Publisher Provided IDs. Our research did not compare the performance of third-party cookies to the Topics API alone, but rather a broader suite of signals available in a privacy-first world.”
+
+Using interest-based audience solutions that cover affinity, in-market, custom audiences and demographic segments on Google’s display network, in combination with privacy-preserving signals, Google found that return on investment decreased, though not as much as ad cost, and that click-through rates remained high.
+
+Specifically, Google Display Ads advertiser spending on IBA decreased by between two and seven per cent compared to third-party cookie results. The conversion per dollar amount, as a proxy for return on investment, decreased by between one and three per cent.
+
+Click-through rates, meanwhile, remained “within 90 per cent of the status quo.” Google said it also saw similar performance on Display & Video 360 ads.
+
+Taylor added that while the experiment suggested that AI-powered optimisation can improve campaign performance, campaigns using optimised targeting or Maximise conversions bid strategies were less impacted by the removal of third-party cookies. This indicated that machine learning could play a significant role in driving results.
+
+However, the results “should not be considered as an unequivocal indicator of Google’s IBA performance after the third-party cookie deprecation.”
+
+Despite that, Taylor saw fit to throw some scorn on rival technologies being touted as alternatives to third-party cookies.
+
+“Some are turning to blocking personalized advertising outright — which can lead to more intrusive forms of tracking such as fingerprinting — while others are building alternative identifiers to track people across the web and apps,” he said.
+
+“We believe that neither of these are good outcomes for user privacy and that ad tech platforms can set a new standard for privacy, meet consumers’ expectations, and give businesses the tools they need to grow through the power of innovation.”
+
+Google also said that it will continue to iterate and run more rounds of testing ahead of the death knell on third-party cookies finally tolls.

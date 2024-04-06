@@ -1,0 +1,105 @@
+This is a guest blog written by Yoshio Nakamura at NTT East. The content and opinions in this post are those of the third-party author and AWS is not responsible for the content or accuracy of this post.
+
+NTT East primarily provides internet connection services and mobile communication services as a regional communication service provider in Japan, but we also focus on digital transformation (DX) through various cloud services. As one of the services to improve communication, we are utilizing Amazon Chime SDK.
+
+Today, I would like to introduce a part of the challenge using Amazon Chime SDK within our company.
+
+In my team, we have developed and operating a “Remote Assist Tool” that connects consumers with communication problems and the contact center using Amazon Chime SDK Meetings to support consumers in real-time with video and audio. Previously, the contact center mainly solved problems by talking over the phone, but by using video to communicate, we can quickly resolve issues that cannot be conveyed through language alone, leading to an improvement in customer satisfaction.
+
+For development, we chose a service based on WebRTC to prioritize real-time performance. Among several services, we selected Amazon Chime SDK due to the following considerations:
+
+* Amazon Chime SDK’s pay-as-you-go model matched the usage rate of the service by agents, rather than a licensing system
+
+* Capability to customize the SDK to fit for secure locations like a contact center
+
+The Remote Assist Tool is a serverless web application based on React. The basic parts of the UI use the Amazon Chime SDK React Component Library, enabling even a small team to achieve rich UI and simple business logic.
+
+Contact center agents log in with Amazon Cognito and send consumers a guest access URL with Amazon SNS. Consumers join the video meeting from the URL and send real-time video to the meeting.
+
+Even though video transmission is simple, we used the real-time platform’s data messages feature to improve the quality of communication.
+
+The data messages feature is based on WebRTC used in Amazon Chime SDK Meeting, and uses WebSocket prepared for video connections as data communication. It can deliver up to 2KB of character strings to all meeting attendees, including oneself, and retains them on the server for up to 5 minutes. The messages are deleted once the meeting ends.
+
+The remote assistance tool uses data messages to add markers to real-time images and make it easy for the other person to understand the problem areas in the video.
+
+Based on the coordinate type, the tool converts marker coordinates, the ID of the video image that the marker was drawn on, and the drawing status to a JSON string. The ID of the video image is necessary to reproduce the marker on the correct video image, as there is a possibility of up to 25 video images being displayed. Various status information can be obtained for the video sender.
+
+type Coodinate = {
+
+x: number;
+
+y: number;
+
+tileId: number;
+
+isDrawing: boolean;
+
+Finally, this data wrapped with sender information and topic information is reflected to all attendees.
+
+Unfortunately, if the hand holding the camera moves, the marker will point to a completely different location. Therefore, there was a request to mark a snapshot of the video and send it to the other party. Uploading images is prohibited due to the risk of containing personal information.
+
+Snapshots and markings of the video are done in JavaScript. The created still image is Base64 encoded and converted to a string. The maximum size of each data message is 2KB. The stringified still image is compressed in JPG format to a small size of 2KB or less, divided into multiple data messages, and sent.
+
+JavaScript
+
+const chunkList: string[] = base64captureData.match(new
+
+RegExp(`.{1,1536}`, "g"));
+
+chunkList.forEach((chunk) => {
+
+const message = {
+
+chunkStatus: chunkStatus,  // 'start' | 'body' | 'end'
+
+base64ImageChunk: chunk,
+
+// send data message
+
+The recipient of the data message receives a series of data messages, puts them together in the order they were sent, restores the image data, and reflects it on the canvas tag.
+
+The remote assistance tool is based on one-way video communication from the user to the agent in contact center. We packaged it with additional Amazon Chime SDK Messaging to enable two-way group meetings.
+
+This application places emphasis on internal business communication. Previously, workers who performed tasks such as repairing telephone line utility poles or communication equipment received instructions via telephone from senior technicians. However, by supporting workers with video and audio from the internal team, the efficiency of the work can be improved.
+
+As a requirement, it was necessary to exchange text, URLs, camera images, etc., and to save them as chat history. To meet this requirement, Amazon Chime SDK Messaging was utilized. Amazon Chime SDK Messaging has a full range of features for chatting using a real-time infrastructure.
+
+In addition, a feature has been added that allows users to react with emojis. This was created using CONTROL_MESSAGE, which can share data at a low cost of 30 bytes, and is integrated with DynamoDB.
+
+You can launch video meetings within the chat channels and have group conversations.
+
+Amazon Chime SDK Messaging can be used excellently as a chat function, but it can also be considered as a service that allows segmented WebSockets to be scaled as desired and data to be delivered in real-time at a low cost. It seems that there are many possible ways to use it. We are also considering new ways to use it.
+
+One thing to keep in mind about Amazon Chime SDK is that it has a different service position than Amazon Chime application.
+
+While Amazon Chime is well known for its group video conferencing tool aspect, the latter provides a “real-time communication infrastructure” that allows for easy use of services that aggregate WebRTC and WebSocket. Video calls and chats are just one example and can be greatly utilized, but focusing solely on these may narrow the scope of the service and miss out on valuable opportunities. With Amazon Chime SDK, developers can create services with free ideas.
+
+As an experimental attempt, research is being conducted on the Amazon Chime SDK Meetings C++ client library, which was announced in August 2022.
+
+WebRTC technology is also used for network cameras, which send surveillance camera images to remote devices via the internet. Additionally, by receiving control commands from remote devices with predetermined processing, the camera direction can be changed or zoomed in.
+
+Similarly, using the C++ client library, an attempt was made to receive commands from a remote device via the internet and perform operations.
+
+Unmanned aerial vehicles (UAVs), such as drones, often have a companion computer with AI capabilities attached to the main body, which is connected via wires and helps with autonomous control and external communication. In the case of DeepRacer, I implemented the same by installing a Raspberry Pi on the car.
+
+While DeepRacer provides an automatic driving mechanism through machine learning, in this test, the camera and inference components were removed and replaced with the Raspberry Pi. The Raspberry Pi has a camera, and it sends video to the control device (PC) via Chime SDK. DeepRacer is controllable via an API, so the control device sends data messages, which are received by the Raspberry Pi and used to make API requests to control DeepRacer.
+
+You can pilot the DeepRacer from the control device. To control multiple DeepRacers simultaneously or individually, the data message includes destination information. Since the data message is sent to all participants, including yourself, if the destination information (AttendeeID) included in the received data message is the same as your own AttendeeID, the process is executed, otherwise it is discarded.
+
+This configuration allows for control of up to 249 DeepRacers simultaneously or individually, as well as receiving up to 25 simultaneous video feeds, using a single control device on the Quo platform. When using the replica meeting feature, the maximum number of DeepRacers that can be controlled simultaneously increases to 9999.
+
+I confirmed this functionality using two DeepRacers that I have on hand. The control device was created using the React Component Library and sends operation commands to the DeepRacers via data messages from the browser. When there is a green frame, it indicates individual vehicle commands, and when there is no frame, it indicates commands for all vehicles.
+
+You can see here that the vehicles move according to the commands and real-time video is being received.
+
+Using a similar mechanism, the information for each vehicle is collected and aggregated on the control device. When the control device sends a status collection command via a data message, each Raspberry Pi of the vehicles receives the command and obtains the battery information of the DeepRacer via REST, and sends a data message along with the status return command.
+
+As a precaution, only the data messages assigned to oneself should be processed. Each vehicle only processes the status collection command, and the control device only processes the status return command returned from the vehicle.
+
+By processing only the necessary data messages according to the role, the vehicle information can be aggregated on the control device.
+
+I have introduced several projects using Amazon Chime SDK. Amazon Chime SDK has an excellent real-time communication infrastructure, and various feature extensions have been made, including integration with telephone carriers and AI functions, not just video calling and chatting as introduced on this post.
+
+Let’s challenge ourselves to develop new services by utilizing this communication infrastructure!
+
+Thank you for reading.

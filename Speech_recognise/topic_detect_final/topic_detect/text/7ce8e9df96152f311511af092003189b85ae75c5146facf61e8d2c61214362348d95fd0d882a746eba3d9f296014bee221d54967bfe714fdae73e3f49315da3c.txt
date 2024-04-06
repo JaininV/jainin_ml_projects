@@ -1,0 +1,25 @@
+On Friday, April 14, Google and Microsoft released patches for their Chrome and Edge browsers to address a zero-day vulnerability that has been actively exploited in the wild. Brave also updated its browser on Saturday, April 15.
+
+Google says that it “is aware that an exploit for CVE-2023-2033 exists in the wild.” This means that patches need to be installed urgently. This particular vulnerability exists in Chromium’s V8 engine.
+
+Chrome, Edge, and Brave are all based on the Chromium open-source Web browser project. Other Chromium-based browsers may need updates as well.
+
+Opera, another well-known Chromium-based browser, had not yet released a security update as of the time this article was published. The vulnerability presumably impacts Opera as well, so an update may be forthcoming.
+
+Mac users can update their browsers by clicking on the application menu (e.g. “Chrome” or “Microsoft Edge,” next to the Apple logo menu), and then clicking the first item in that menu (e.g. “About Google Chrome” or “About Microsoft Edge”). The browser will check for updates, and if an update is available, it will prompt you to restart the app to complete the update.
+
+When an Opera update for macOS is released, the process to update it will be the same.
+
+Windows users can update their browsers by following the steps provided by each browser maker: Chrome, Edge, and Brave.
+
+Android users should check the Google Play Store app to receive the latest versions of browsers and other apps.
+
+Note that iPhone and iPad versions of these browsers can be updated via the App Store (here’s how to manually check for and install updates). However, mobile browsers on iOS and iPadOS use Safari’s WebKit engine, rather than Chromium’s Blink and V8 engines. Therefore, this particular vulnerability does not affect the iOS or iPadOS versions of any Web browsers.
+
+Each week on the Intego Mac Podcast, Intego’s Mac security experts discuss the latest Apple news, including security and privacy stories, and offer practical advice on getting the most out of your Apple devices. Be sure to follow the podcast to make sure you don’t miss any episodes.
+
+You can also subscribe to our e-mail newsletter and keep an eye here on The Mac Security Blog for the latest Apple security and privacy news. And don’t forget to follow Intego on your favorite social media channels:
+
+(@theJoshMeister), Intego's Chief Security Analyst, is a renowned security researcher, writer, and public speaker. Josh has a master's degree in IT concentrating in Internet Security and has taken doctorate-level coursework in Information Security. Apple has publicly acknowledged Josh for discovering an Apple ID authentication vulnerability. Josh has conducted cybersecurity research for more than 20 years, which has often been featured by major news outlets worldwide. Look for more of Josh's articles at security.thejoshmeister.com and follow him on Twitter.
+
+View all posts by Joshua Long →

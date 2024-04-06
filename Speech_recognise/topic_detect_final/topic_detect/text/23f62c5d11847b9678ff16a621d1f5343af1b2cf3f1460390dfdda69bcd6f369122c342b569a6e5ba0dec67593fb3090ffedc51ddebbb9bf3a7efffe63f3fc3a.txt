@@ -1,0 +1,15 @@
+ProShip, Inc., a well-trusted leader in automated multi-carrier shipping software solutions, is excited to announce the official release of their new Parcel Config App to existing and prospective customers. As the needs of ProShip customers evolve and progress, ProShip is committed to offering tools and solutions that can scale with them and help them become more self-sufficient in managing the complexities of parcel and LTL shipping. The Parcel Config App is an add-on to the ProShip shipping solution that allows customers to remotely configure and maintain their ProShip server from a simple, browser-based app without the help of IT resources.
+
+The Parcel Config App is comprised of a user-friendly interface that allows for the completion of tasks that were once only possible on a remote desktop session. Operations and logistics teams can easily manage the configuration internally, without using valuable IT hours or transportation budget.
+
+Read More: Weave Named A Leader In Five Different Categories In G2’S 2023 Spring Report
+
+Within the Parcel Config App, customers can gain access to a long list of maintenance tasks including but not limited to:
+
+* Setting up, configuring and altering new or existing shipping locations, such as stores and warehouses
+
+* Changing rate shop groups in real-time by adding and removing carrier services
+
+“ProShip is thrilled to introduce this customer-centric parcel configuration tool as a complement to our best-in-class shipping platform. The Parcel Config App is part of ProShip’s larger strategy to enable customers to securely self-serve where appropriate,” says Justin Cramer, Co-Founder at ProShip. “Adding this app to ProShip’s already robust multi-carrier shipping software will lead to more flexibility, additional efficiencies and quicker reaction times for our customers, allowing them to gain an extra advantage on shippers not using a ProShip solution.”
+
+The addition of the Parcel Config App is a direct result of customer feedback, and we plan to continue focusing our efforts on building secure tools to accentuate our core competencies to keep ProShip multi-carrier shipping software the top parcel shipping solution on the market for enterprise shippers.

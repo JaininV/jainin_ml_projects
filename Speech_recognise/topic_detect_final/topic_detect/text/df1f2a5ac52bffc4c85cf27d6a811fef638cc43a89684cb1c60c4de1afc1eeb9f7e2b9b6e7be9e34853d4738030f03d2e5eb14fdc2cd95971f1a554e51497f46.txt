@@ -1,0 +1,141 @@
+We care about your data, and we'd like to use cookies to give you a smooth browsing experience. Please agree and read more about our privacy policy. She Tracks the DNA of Elusive Species That Hide in Harsh PlacesShe Tracks the DNA of Elusive Species That Hide in Harsh PlacesOn Mount Everest and in the Peruvian Andes, Tracie Seimon uses DNA to study how species and ecosystems respond to climate change, pathogens and other influences.The molecular biologist Tracie Seimon, a joint research fellow of the Wildlife Conservation Society and Columbia University, heads up the Molecular Diagnostics Laboratory based at the Bronx Zoo. She uses DNA to detect and monitor species living in wild environments.
+
+Tracie Seimon discovered her passion for the natural world early. As a child growing up in Colorado, she enjoyed “harvesting insects” from her family backyard and keeping a hobby ant farm. When she saw trees being cut down on television, she would get distraught. She and her father used to study the night sky through a telescope until her curiosity prompted her to disassemble the telescope to figure out how it worked. She never could get it back together. When her parents later gave her the gift of a microscope, she was instructed to leave it intact.
+
+“I looked at everything under it,” she said.
+
+In 2007, when Seimon was junior faculty at Columbia University and choosing a career path, she felt herself pulled in two opposing directions. She could have accepted an offer for a tenure-track faculty position to continue her medical research on cardiovascular disease. But instead she took a part-time job to help develop a molecular laboratory for the Wildlife Conservation Society (WCS). That eventually morphed into a unique offer to help launch a new lab at the Bronx Zoo as a joint research fellow for the WCS and Columbia University’s Center for Infection and Immunity. “I was training in pathogen discovery” while also “slowly trying to build up” the new laboratory, she said.
+
+Today, Seimon is the director of the WCS’s Molecular Diagnostics Laboratory based at the Bronx Zoo. She has pioneered the use of DNA-based technologies for detecting and monitoring species in the wild, particularly in challenging environments. Her biodiversity research has taken her to Peru, Myanmar, Vietnam, Cambodia, Russia, Uganda and Rwanda.
+
+Seimon has even scaled Mount Everest, leading the team that did the first comprehensive environmental DNA (eDNA) biodiversity survey there. That research was part of the 2019 National Geographic and Rolex Perpetual Planet Everest Expedition, the most comprehensive scientific expedition ever conducted on that mountain.
+
+Before Seimon’s fieldwork took her to Mount Everest, she journeyed many times to the Peruvian Andes. Her focus is the Sibinacocha watershed of the Cordillera Vilcanota glacierized mountain range. For nearly 20 years, she has led an initiative probing the effects of climate change and the chytrid fungus (Batrachochytrium dendrobatidis or Bd) on the amphibians living in that habitat.
+
+Quanta spoke with Seimon over videoconference about her global research treks. The interview has been condensed and edited for clarity.
+
+Tell me about your laboratory at the Bronx Zoo.
+
+Our lab is small. Most of the day-to-day diagnostics we run are tests for pathogens on the animals in our collection at WCS’s four zoos and the New York Aquarium. We also have research projects where we’re helping to develop molecular tools for conservation, the type of tools for studying DNA that you can literally throw in a backpack and take into the field. For example, we’ve developed portable canine distemper virus testing and eDNA testing for endangered species. And we train field researchers in many of the countries where we work on how to do this portable DNA testing.
+
+How did you get involved with eDNA research?
+
+Back in 2015, our colleagues asked if we could apply the technology to testing for a rare, threatened species: the Yangtze giant softshell turtle (Rafetus swinhoei). We spent a lot of time going to our Bronx Zoo ponds, collecting water, testing to see what species were in there, and seeing if we could do eDNA testing at all.
+
+When I first started, it almost seemed like science fiction. “Really? We can detect this many species just from water?”
+
+How did you get involved with studying eDNA on Mount Everest for the Perpetual Planet expedition?
+
+Paul Mayewski, a highly regarded climate researcher and glaciologist at the University of Maine, was putting together a science expedition to Mount Everest, and he invited me. He asked me, “Why don’t you put together some ideas of what you’d like to do there?” My thought was, “If we want to figure out what the life at the highest altitude is, can we use eDNA to assess the biodiversity of Mount Everest?”
+
+No one knew much about the biodiversity at that point because it’s very difficult to work at those high elevations. The air is thin. You get tired very quickly. When storms blow in, sometimes you have to GPS your way back to the tent because of the full whiteout conditions.
+
+I was interested to see if eDNA could be a much easier way. We could collect water samples, filter them on-site, bring those filters with the captured DNA back to the lab, and then just use DNA to assess what’s there.
+
+So you went to Everest and collected samples that way. Later, how did you analyze those DNA samples?
+
+We broke down the data using two different techniques, whole-genome shotgun sequencing and metabarcoding. Then we used four different bioinformatics pipelines to analyze the data and determine which organisms we had detected.
+
+Now that we’ve done it at Everest, I would love to go back and do it in Peru.
+
+What were your key takeaways concerning the eDNA you collected on Mount Everest?
+
+There’s an incredible amount of biodiversity up there. We were able to find 187 taxonomic orders from across the tree of life: viruses, bacteria, fungi, plants and animals. Almost one-sixth of all the known taxonomic orders could be found on this one mountain above 4,500 meters. Terrain at that altitude and above makes up only 3% of the global landmass.
+
+Hopefully, as more people collect DNA data, we’ll be able to reanalyze the sequences and get the identifications down more to the level of genus and species. Some of the data we were able to do that with already, which was great. For example, from DNA in samples of scat, we found the first evidence that Pallas’ cat (Otocolobus manul), a rare species of wild feline, lives in eastern Nepal. That was exciting. But currently, there are just very few reference sequences from Everest to compare data to, and that’s what you need to ID something.
+
+“The thing with eDNA is that although it can be incredibly informative about a lot of what’s in an environment, you can’t rule out what’s not in your data,” Seimon said.
+
+Were there other limitations to the study?
+
+Sure. Our study is just one snapshot of the diversity during several weeks in April and May 2019. We were limited to that window because the expedition of which we were a part included projects that were tied to the climbing season and when the Sherpas could put up the ropes for getting people up and back safely.
+
+Our sampling was also limited because the spring thaw came very late that year. From satellite imagery in previous years, we were expecting that the lakes on Mount Everest would be fully thawed when we got there, but several of them were still frozen. We had to hack into the ice to sample the water from beneath it.
+
+If we had shifted the collection by a couple months, could we have collected even more DNA, and would the biodiversity be even higher? Perhaps, but we didn’t have the luxury to wait. Still, the amount of data we pulled out of there in that time is astounding.
+
+It would be amazing to look at how the environment changes seasonally throughout a year, and then to go back every five years to see how that changes over time. Some of the organisms we identified serve as indicator species for climate change and other environmental stresses.
+
+Why is it important to do bioassays in places like the Himalayas? These extreme environments are a relatively small part of the world. Why isn’t it enough to just collect eDNA from more accessible places?
+
+We had two goals in mind going up there. First, we wanted to answer questions like: What is the highest-altitude life? What species live up there? What organisms can tolerate what we call extreme environments?
+
+That’s important to know just from a biological perspective. For example, some of the organisms we found up there are tardigrades and rotifers. Those organisms can live pretty much anywhere, including very harsh and extreme environments. Tardigrades can even survive the vacuum of space.
+
+Second, high-mountain environments are places where you can look for changes happening at much more rapid rates than occurs lower down. Typically, small perturbations of the extreme environments up there can force big changes in the ranges or territories that these organisms can occupy. We wanted to understand the consequences of those changes.
+
+A great example is what we’ve learned in the mountains of the Cordillera Vilcanota in southern Peru near Lake Sibinacocha. Through studies over a couple of decades, we found that amphibians have been expanding their range upward into terrain that’s recently been deglaciated. New ponds have formed behind the receding glaciers. That’s opened up new habitats that the species can migrate upward to and occupy.
+
+But it’s not just the amphibians. We’re seeing insects, plants and other organisms move into those pond areas too. In mountainous areas, the whole biosphere is rising in response to climate change, as we have documented in the Peruvian Andes.
+
+The question also becomes: Can we measure how fast these rich rates of change are occurring? We’re finding that amphibians move around a lot based on habitat availability. When a pond forms, they’ll move into it, but eventually it’s no longer fed by the glacier. As it dries up, the amphibians move to the next pond. It’s a very dynamic, rapidly changing environment.
+
+The Everest study is a great way to establish baseline data for documenting these changes. Because the species up there live in harsh environments, they’re more prone to altering their behavior.
+
+For almost 20 years, Seimon’s passion for her work has brought her repeatedly to the glacierized Cordillera Vilcanota mountain range in the Peruvian Andes (top and bottom left). As a hobby, she chases storms with her husband, a tornado researcher.
+
+Is eDNA as useful a tool in less extreme environments?
+
+I never think of eDNA as the primary tool. eDNA should be used in combination with other ways of biodiversity monitoring. Then we can look at the eDNA data more holistically and in context.
+
+For example, I collected scat samples, and we did visual encounter surveys while we were on Mount Everest. We found snow leopard tracks in freshly fallen snow up there, but we didn’t get snow leopard in our eDNA sample. That was something we missed.
+
+The thing with eDNA is that although it can be incredibly informative about a lot of what’s in an environment, you can’t rule out what’s not in your data. Because you’re always limited by the sensitivity of your detection.
+
+Let’s say we take 20 water samples from a lake, and only one sample comes up positive for turtle. If we had taken only 10 samples, we might have missed the turtles in there. So with eDNA, your interpretations of the data always have to be based on the sampling strategy. When you’re applying eDNA to something like biomonitoring for changes over time, it’s good to know the ecology of your system first and then to keep in mind all the caveats.
+
+What are some of those caveats?
+
+Just because you detect DNA does not necessarily mean you’re collecting it from a live organism. It could be from a dead organism shedding eDNA. If you stir up the bottom of a body of water, maybe you’re stirring up ancient DNA. You really have to think about the questions you want to answer and whether eDNA is going to answer those.
+
+You also have to remember how rapidly eDNA degrades, depending on the temperature or ultraviolet light conditions. So many things can decrease the half-life of your eDNA, and you have to consider all of them when you’re designing a study. It can be pretty complicated.
+
+In addition to your biodiversity studies, you’re also using eDNA to identify species in the wildlife trade.
+
+Yes. One of our projects was to develop a DNA test that could identify all the big cat species trafficked in the illegal bone trade. All parts of the tiger are utilized in the wildlife trade. We wanted to develop a test that would allow for better pre-screening at points of confiscation or points of entry to countries. A tool that would be very easy to use, so that you could set up a portable lab and screen for bones that might be coming in through people’s luggage or packages. Something that could quickly see if a sample is from a big cat species, and therefore might be regulated, so that it could then be sent for confirmatory forensic testing.
+
+A pilot version is being tried out in China and here in the U.S. The idea is to use it as a screening tool that can help law enforcement crack down on the illegal trade.
+
+“There’s an incredible amount of biodiversity up there” on Mount Everest, Seimon said. Her team found that almost one-sixth of all the known taxonomic orders could be found above 4,500 meters.
+
+You led a long-term monitoring initiative in Peru that’s focused on the amphibian chytrid fungus, which is seen as destroying many amphibian populations around the world. How does that fungus affect amphibians?
+
+The fungus attacks the skin of vulnerable species. An infected frog then develops hyperkeratosis, a thickening of the keratin layer of the skin that inhibits water and oxygen from being absorbed. So its electrolytes get dangerously imbalanced and it’s sloughing off skin. The frogs eventually go into cardiac arrest.
+
+It can be devastating for certain species, but others appear to be much more resilient to it. There are a lot of complex questions about the pathogenicity of different fungal strains. It’s a big field.
+
+We have been studying which frogs are getting infected by chytrid fungus and then, while they’re dealing with it, how they’re also adapting to the effects of the warming climate.
+
+What have you found?
+
+We have been able to show that as the frogs advance upward and expand their range, they’re bringing the fungus with them. Some of the frogs that we found near the top of the pass, at 5,300-meter elevation, have been chytrid-positive. When we researchers go into the field, we take a lot of precautions to spray our boots with alcohol so that we don’t spread the fungus around.
+
+In the Andes, we saw the disappearance of a species, the marbled water frog, Telmatobius marmoratus. After 2005, the population crashed. We couldn’t find them in any of the sites that we sampled for years. But by 2013, they appeared to be coming back. They’re becoming more resistant to the fungus. There’s hope that they’ll do pretty well as they continue adapting to the rapidly changing environment up there.
+
+Do you have a favorite spot for doing fieldwork?
+
+My favorite is always going to be Lake Sibinacocha in Peru. You have flamingos flying over glaciers and Andean hummingbirds fluttering around you. Frogs and vicuña. It’s just amazingly beautiful, and incredibly biodiverse for such a high-mountain environment.
+
+How did you discover two new tarantula species?
+
+It’s surprising, I know, because I’m an arachnophobe!
+
+While we were flipping over rocks in Peru looking for frogs, I spotted a little fuzzy bum sticking out of a hole. I looked at Bronwen Konecky, a then-student and collaborator I was working with, and said, “Can you catch that?” She did.
+
+We took a lot of photos and showed them to an expert tarantula taxonomist who said, “Looks like you may have a new species. Any way you can collect some males and females?”
+
+I had to go back. That time, it was just me with a long pair of tongs, reaching into the holes. I would try to fish out the tarantulas very carefully and almost pass out from adrenalin overload.
+
+The bigger specimens, our horse team helped collect. We deposited the new specimens in Lima and requested that they be sent out for taxonomic evaluation. About 10 years later, they were finally analyzed and results published. Sometimes it takes a long time, but the science does come out.
+
+Where do you hope to conduct research next? Any dream locations?
+
+I would love to do more work in the Himalayas. I just love high-mountain environments. Put me in one and I’m happy. I love to jump from rock to rock, flipping things over, looking for critters. My favorite thing to do is flip rocks and see what’s under them.
+
+In your spare time, you’ve photographed and studied severe storms. Tell us about that.
+
+That’s my hobby. My husband, Anton Seimon, is the scientific lead of a tornado research team. He’s been involved in tornado research for three decades, and I’ve been storm chasing with him since we met, so for 20 years.
+
+Every year between May and June, we pack our van and our hound dog Chase, and we go out on the Great Plains to follow severe storms. We generally target storms in areas where there’s likely going to be very little destruction, where we can get uninterrupted views of these storms. But even if we don’t see storms, I’m perfectly happy to photograph wildlife and wildflowers. Immersing myself in nature, like when I go out in the field, is my favorite thing to do.
+
+Get highlights of the most important news delivered to your email inbox

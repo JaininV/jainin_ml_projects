@@ -1,0 +1,69 @@
+In any programming language, loosely coupled code is vital in writing quality code. We generally use dependency injection for loosely Coupled code.
+
+In this article, we will understand the dependency injection life cycle, which helps us write dependency injection effectively per project needs.
+
+We are going to cover the below topics in this article.
+
+Where should we use AddSingleton
+
+Where should we use AddScoped
+
+Where Should we use AddTransient
+
+We assume that you have a good understanding of dependency injection. If you don't have then, I request you to read the article on dependency injection first and then come back.
+
+In the dependency injection, the DI container decides whether to create a new object or return an existing one for each request. DI will decide based on the dependency injection life cycle configured in the startup class.
+
+Three types of dependency injection life cycles are available in the .Net core.
+
+Let's see the below diagram to understand AddSinglton,
+
+Suppose that the User sent a request -> WebApplication -> DI Engine. DI Engine will create and send objects based on the dependency injection life cycle.
+
+As per the above diagram, the User sends three requests to WebApplication -> DI Engine, and DI Engine always responds to the same object.
+
+Based on the above diagram, we can conclude that "AddSingleton will return the object created in the first request, and then the same object will return to all the subsequence requests".
+
+In short, "Single object throughout the life cycle" in the AddSingleton.
+
+Suppose we have a requirement to share the same instance throughout the application. In that case, we should use AddSingleton. E.g. Logging, caching, etc
+
+We should not apply AddSingleton to an object which has sensitive data.
+
+Let's move to the next dependency lifecycle, "AddScoped"
+
+In the above diagram,
+
+There are two users. "User1" and "User2".
+
+User 1 has sent a request 2 times. "Request1 "and "Request 2".
+
+The DI engine sent the same object, User 1, for both requests.
+
+User 2 has sent a request to DI. "Request 3".
+
+User 2 has got different object.
+
+Based on the above diagram, we can conclude that,
+
+AddScoped- object has been created once in a scope.
+
+Assume that, in a single HTTP Request, if we have multiple calls of the service, then the same service instance will be provided."
+
+Now see the diagram again, User1 has sent two requests, "Request1" and "Request 2", in the same HTTP request (for the same scope), and the DI engine has returned the same instance.
+
+User 2 sent a new request 3, and the DI engine sent a new object.
+
+If we want to share the same object throughout the same HTTP Request, we should use AddScoped.
+
+In the above diagram,
+
+The user sent three requests. "Request1"," Request2", and "Request3".
+
+Each time DI sent a new object in the response.
+
+We conclude that AddTransient will create a new object every time. I mean, It will create a new object per request.
+
+It is more suitable for lightweight or stateless services.
+
+That's all for this article. In this article, we have learned about the Dependency Injection lifecycle. I will create a .Net application in the next article to explain the same concept.

@@ -1,0 +1,11 @@
+Google's artificial intelligence (AI) has apparently learned a language on its own without any training, according to Google tech executive James Manyika. Speaking with CBS' 60 Minutes, Manyika confirmed that the company's AI, with very little prompting in Bangla, can now translate all of Bangla. The development has left many experts at Google baffled and perplexed as it appears that the AI has learned something that it was not programmed to know.
+
+CEO Sundar Pichai also acknowledged during the interview that there is a "black box" aspect to AI that even experts can't explain. "You don't fully understand. And you can't quite tell why it said this," he said.
+
+The emergence of these mysterious "emergent properties" in AI is a growing trend that continues to puzzle developers, Pichai said. Scott Pelley, the CBS interviewer, also questioned Pichai about the safety of allowing Google's AI to operate in society if the company's developers don't fully comprehend how it works.
+
+The segment showcased Bard's ability to learn Bengali after being prompted with a single sentence in English, implying that the program could teach itself foreign languages. However, experts on Twitter quickly pointed out that this was not true, and that Bard had already been trained on Bengali with millions of tokens.
+
+The apparent misleading claims about Bard's capabilities highlight a larger issue of digital literacy and the need for people to understand the limitations of AI. AI experts warn that people should not rely on generative AI programs like Bard to make decisions that require human-level comprehension of language and context. In fact, a recent study showed that human responses to moral questions can be easily swayed by arguments made by chatbots like ChatGPT and Bard.
+
+Experts have criticized the 60 Minutes segment for manipulating the reality of what generative AI can actually do, and for giving these programs a level of authority that they do not deserve.

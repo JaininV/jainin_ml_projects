@@ -1,0 +1,121 @@
+“It’s not easy being green!” And yet, in today’s climate, we have an ethical responsibility to run an environmentally-friendly, sustainable MSP (managed service provider) business, as best we can.
+
+However, beware of greenwashing. This is the practice of making unsubstantiated claims that your business is environmentally-friendly, when in fact, it’s not.
+
+In this article, we take a look at ways you can make your business greener: explaining the benefits of doing so, and what to avoid.
+
+As we all know, wanting to be more sustainable MSP and putting sustainability plans into practice are two very different things.
+
+Small and medium-sized enterprises (SMEs) need to understand that being sustainable is for everyone, not just the big multi-nationals.
+
+According to a report by the IBM Institute for Business Value, 86% of the companies they surveyed who put sustainability as one of their top 3 priorities had a sustainability strategy. But of those, only 35% had put that strategy into practice.
+
+Making any type of change to your business often requires some investment to implement. When changing suppliers, systems and even stationery, there is some form of capital cost to your business.
+
+There’s also a risk from market forces, as well as other factors. Do you really want to be spending more when there’s a looming recession, an impending banking crisis and the threat of cyberattacks on the increase?
+
+It’s so easy to say, “We’ll put our green strategy into practice when the economy stabilises…”
+
+This ‘fear of the financial unknown’ is why some companies are still waiting to make the transition.
+
+Being an MSP business owner keeps you busy enough as it is. You focus your time on delivering quality services for your customers, marketing for new business and making sure you’re compliant for tax and insurance. And ensure that your accounting and payroll are all up to date!
+
+As an MSP business owner, you’ve probably got a long list of things to do. And so it’s understandable if developing a more sustainable MSP is probably quite low on that list.
+
+Implementing new initiatives, even if they’re with the best of intentions, can seem like ‘extra work’ for your employees.
+
+It’s not just about making those sustainable changes to your business, but in proving that you are sustainable through metrics and compliance reports. They way to pitch this to your staff is to see these changes as an opportunity to raise a positive culture together.
+
+Believing that customers or staff will think you’re greenwashing is cited as a reason why some small businesses won’t focus on sustainable practices in their business. Even though it’s the businesses that are lying about, or embellishing their sustainability to their audiences, that are guilty of greenwashing.
+
+Alongside these separate challenges, there also seems to be a lack of cohesion in delivery too.
+
+Despite the challenges, there are some helpful resources out there to make transitioning to a more environmentally-friendly business much easier.
+
+* There is help for small businesses that are looking to become sustainable. Quite a few banks in the UK offer ‘green loans’ for businesses. In addition, many local authorities may offer grants to undertake sustainability transformation projects
+
+* Download a sustainability checklist for your business. A good one can be found at smallbusiness.co.uk
+
+* Ask your vendor partners to provide a sustainability report for you. If you can prove you’re using partners who are committed to a cleaner/greener future, this will help you achieve your sustainability goals
+
+* Ask your peers at peer group meetings what they are doing to ensure sustainability. You’re likely not the only one at the meeting committing to a more sustainable business, and others may be able to guide you on your next steps
+
+* Set up a report to help you track your goals for achieving a greener business
+
+This is not an exhaustive list, but just a few ideas to get you started!
+
+To be carbon neutral means to offset the same amount of CO2 that a business generating, by removing it elsewhere.
+
+While net zero means to remove an equal amount of all greenhouse gasses (GHGs) (which includes carbon dioxide) to what your organisation produces.
+
+The aggregated pollutant emissions figure that an organisation and its supply chain produces is known as its carbon footprint.
+
+SMEs can find out what their carbon footprint is by entering their emissions data into an online calculator. The Carbon Trust have a calculator that works it out from your company’s yearly fuel, energy and greenhouse gas top-ups.
+
+There are many buzzwords that you hear when talking about businesses that have ‘gone green’.
+
+There are two fundamental ways in which any business can become greener.
+
+* By reducing the energy they use (or by offsetting carbon or greenhouse gasses elsewhere)
+
+You can buy carbon offsets if you find reducing waste and energy too difficult. If you go down this route, make sure to check the projects that your donation is being invested in and that they have a legitimate third-party certification.
+
+Additionally, there are other business practices that can make the difference when deciding to become more environmentally-friendly.
+
+* Encouraging car-pooling or allowing more staff to work from home, saving on commuter CO2
+
+* Going paperless, and using refillable water bottles
+
+Greenbiz has a great article highlighting 11 ways for small businesses to become more ecofriendly.
+
+For IT businesses, one of the biggest energy consumers are local servers that store networks and data. Cloud computing solutions are generally seen as greener because they have lower emissions and power consumption overall. They require fewer engineers to manage, and are more efficient storage solutions too.
+
+And don’t forget that there is an opportunity as a managed service provider to provide carbon-accounting-as-a-service to your clients. Scandinavian firm Normative.io is one such platform that provides this.
+
+Though sustainability for its own sake is a worthy pursuit in itself, there are other reasons you might want to consider a more environmentally friendly approach to running your MSP.
+
+Waste is bad for the environment for two reasons. Waste pollutes if it goes to landfill, and it has a carbon cost when it is processed.
+
+Crucially to you, as a business owner, you’ll save on your bottom line if you’re more cautious about how much you order in – think about packaging stationery and other items come in.
+
+According to  business media brand Fast Company, nearly 40% of millennials have taken a job because of company sustainability.
+
+With the struggles that are happening around recruiting talent at the moment, being competitive and sustainable might be just what’s needed to give your company the edge.
+
+It demonstrates just how much younger generations care about the future of the environment. And therefore, it’s reflected in the choices they make.
+
+The way we perceive sustainability has become very important for consumers and partners in recent years.
+
+“66% of consumers would spend more on a product if it came from a sustainable brand”. This is according to a study carried out by Nielsen IQ Partner Network.
+
+There is a greater respect for companies and individuals who can show real sustainability in their operations. Therefore, it’s a big draw for your target audience if you’re able to demonstrate your green credentials.
+
+The positive engagement you get when focusing your digital marketing strategies on sustainability creates social proof for your audiences.
+
+Likewise, a sustainability transformation story is a great draw for local press. It’s just the sort of publicity that can raise your profile to greater heights, hopefully leading to more sales opportunities.
+
+Sustainability benefits to businesses were highlighted in a keynote given by Dan Scott of ConnectWise at the CompTIA Community event in Manchester in April 2022. He said, “By going carbon free, net zero or paperless, you’re saying to your potential partners that you care about sustainability.”
+
+If you make false claims on sustainability in your business, you are, in fact, greenwashing.
+
+It might not always be immediately apparent that you’re doing it. After all, and with the best of intentions, you might not fully realise that you’re claiming to be a sustainable company when you’re not.
+
+* Make sure your messages are not misleading
+
+* Have data to back up your claims
+
+* Don’t exaggerate your plans to become more sustainable
+
+* Make your claims easy to understand and not open to interpretation
+
+If you’re found to be greenwashing, the bad PR can have a massively negative impact on your business.
+
+Always ensure your reporting tools are providing accurate data, and that you meet any and all compliance regulations before stating your facts.
+
+Sustainability is achievable if you’re willing to invest the time and effort. It can even save you money if done right, and attract more business and better talent.
+
+Make sure you’re not cutting any corners before marketing yourself as a sustainable MSP business, though. The reputational damage if you’re found to be greenwashing could be devastating.
+
+Before you start your sustainability journey, take a look at the resources available to you. Get buy-in from your employees and stakeholders. Ask your peers for guidance and see what financial assistance may be available to you.
+
+Are you looking to steer your business into become more sustainable? Or have you found some great resources that you think might help others on their path to sustainability? Please let us know in the comments.

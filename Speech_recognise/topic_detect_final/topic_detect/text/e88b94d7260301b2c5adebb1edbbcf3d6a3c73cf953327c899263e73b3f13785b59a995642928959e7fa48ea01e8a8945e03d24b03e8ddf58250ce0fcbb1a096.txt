@@ -1,0 +1,49 @@
+Solar cell manufacturing and recycling should be easier with a surprising new discovery by Macquarie University scientists – that uses a commercial microwave.
+
+While they’re being made, the silicon in solar panels goes through a process called “annealing”, which involves heating the materials to temperatures well above 500°C.
+
+Annealing is usually done with ovens. But a study published in Applied Physics Letters shows that microwaves are not only faster and more energy efficient for the job, but make the panels much easier to disassemble, and thus recycle, at the end of life.
+
+This is because microwave radiation heats individual substances – like the water in food, or silicon.
+
+“It just heats the very thin layer of silicon rather than heating the bulk of the materials around, and it’s really fast,” says lead author Dr Binesh Puthen Veettil, a researcher at Macquarie University’s School of Engineering.
+
+This also makes the process easier, because the microwave doesn’t have to be as carefully cleaned.
+
+“In most of the high temperature processes, lots of contaminants come out of the walls of the oven. But in this case, the heat is flowing from the silicon outwards, while everything else is at room temperature, it’s kind of a pseudo room temperature process where the contaminants don’t get diffused from outside,” says Veettil.
+
+“But the thing we are most excited about is the benefit to recycling.”
+
+Currently, solar cell recycling is a very energy intense process which involves crushing up the panels and heating them to temperatures of at least 1000°C, so that all of the expensive elements can be extracted.
+
+This method destroys some of the reusable solar cell components: particularly, the toughened glass on the top of the panel.
+
+“This glass contains most of the weight of the solar panel,” explains Veettil.
+
+That glass is stuck to a layer of plastic, usually ethylene vinyl acetate, which keeps the silicon plate underneath dry. This plastic is too hard to remove, so the whole thing is smashed up, with the glass sold as scrap.
+
+But microwaving the silicon specifically softens the plastic, making it easy to peel.
+
+“You can just peel off the silicon cell, without destroying the glass, and you can reuse that expensive glass,” says Veettil.
+
+“If you can reuse the glass, the recycling will pay for itself.”
+
+Plus, it doesn’t need the same high temperatures, or extra chemicals needed to wash and dissolve the plastic.
+
+For now, the process is lab-based – and only for solar panels that fit in a commercial microwave.
+
+“Initially, when we started the research, we used a laboratory microwave that we purchased from a US company,” says Veettil.
+
+“And we after that, we purchased some kitchen microwaves locally, and modified it to suit our purposes.”
+
+This modification involved heat-proofing the microwave so that it could handle the annealing temperatures.
+
+“It goes from room temperature to 500° Celsius in just two seconds,” says Veettil. (Depending on the size of the sample: bigger things take longer.)
+
+But the researchers have a patent pending for the recycling process, and are now investigating how to improve and commercialise it.
+
+“We are hoping that with some industry collaboration and funding, we can scale it up,” says Veettil.
+
+“Recycling needs to be meet two conditions: it should be environmentally friendly, and second, it should pay for itself.
+
+“I’m pretty sure, with the numbers I have in mind, it will it will be profitable and then the market will take care of itself and it organically grow recycling centres. That’s my hope.”

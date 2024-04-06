@@ -1,0 +1,11 @@
+he General Public License, also known as the GPL, is a widely-used free software license that grants users the freedom to use, modify, and distribute software. Launched in 1989, the GPL has been adopted by countless open-source projects, including the Linux operating system, Apache web server, and the WordPress blogging platform.
+
+The GPL is a copyleft license, which means that any software derived from the original work must also be released under the GPL license. The copyleft aspect of the GPL guarantees that the software’s source code remains open and available for all to use, modify, and distribute. This openness is the backbone of the free software movement, which values transparency, innovation, and community collaboration.
+
+In addition to mandating that any derived works be released under the GPL, the license also includes provisions that require any modifications or enhancements to the original software to be made freely available. This mandate ensures that users can benefit from any improvements made to the software, even if they are not part of the original development team.
+
+The GPL is often compared to other free software licenses, such as the MIT License and the Apache License. These licenses, while still open-source, do not include the same copyleft provisions that the GPL includes. Instead, they tend to focus on allowing the user to use, modify, and distribute the software without many restrictions.
+
+When considering adopting the GPL for a software project, it’s important to note that there are several different versions of the license available. The current version of the GPL is version 3, which was released in 2007. Previous versions of the license, including GPL version 2 and GPL version 1, still see widespread use among the open-source community.
+
+In conclusion, the General Public License is an important license for any software project that values openness and community collaboration. It guarantees that any derived works will also be open and available for all to use and modify, and it promotes transparency in the software development process. Its copyleft provisions make it a unique free software license and have ensured its continued success for over three decades.

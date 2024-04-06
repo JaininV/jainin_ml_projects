@@ -1,0 +1,15 @@
+The Poudre School District, in Colorado, will be piloting a controversial biometrics program to make the distribution of free lunches more “efficient.”
+
+The pilot program will launch by May 25, 2023 in elementary, middle, and high schools, if it doesn’t go contested.
+
+According to the school district, the biometric scans would take around two seconds. The program will use identiMetrics scanners, which will replace the current system where students have to enter their ID number on a keyboard to access their free school meal.
+
+The fingerprints will be stored locally by the school district.
+
+Participation in the pilot program will be optional. However, if the pilot is successful, the system will be launched across all schools in the district in the 2023-2024 school year.
+
+“The data collected will be maintained locally by PSD and NONE of the information is sent out externally/to the internet,” the school district says.
+
+However, the announcement came shortly after the Denver Public Schools said they suffered a data breach between December 13 and January 13.
+
+The attacker stole employee fingerprint biometrics and other personal information like social security numbers and student IDs.

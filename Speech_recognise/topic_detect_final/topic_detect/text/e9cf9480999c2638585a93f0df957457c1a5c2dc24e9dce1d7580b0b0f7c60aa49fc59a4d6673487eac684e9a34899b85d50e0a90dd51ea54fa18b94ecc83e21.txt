@@ -1,0 +1,15 @@
+The importance of reading should not be overlooked
+
+How many of you read at least one interesting article/blog every day??? I go to Hacker News frequently and read something. The comment section is great sometimes, even if they are most of the time contrary to what the article is about.
+
+But on a few days, I forget to open Hacker News or Reddit. So that's where I had an idea. I wondered What if I just see a list of articles on my browser homepage?
+
+So that is what I did. I knew a bit about how to create Chrome extensions from previous experience where I had to sum up all story points shown in a JQL(Jira Query language). After some googling, I understood how to override a new tab in Chrome. Then I wrote a simple JS scraping script that extracted all 30 articles from the Hacker News front page.
+
+First, I hosted it on Fly.io and it was okay but I shifted it back to my own hosted VM as I didn't want to get a message from Fly.io that the app is shut down for some reason.
+
+After some HTML/CSS/JS sessions, I implemented a simple article list, theme switcher and a simple loader after the user clicks on any link. This is a small video that shows what the chrome extension looks like.
+
+After hacking for 2 days, I am really happy with how it turned out to be. And the main goal of reading more articles daily was definitely achieved by this extension. If you wanna install it, go to Chrome Extension Link
+
+If you have feedback or just want to talk, Do contact me. I will be happy to have a chat. Ciao!!!

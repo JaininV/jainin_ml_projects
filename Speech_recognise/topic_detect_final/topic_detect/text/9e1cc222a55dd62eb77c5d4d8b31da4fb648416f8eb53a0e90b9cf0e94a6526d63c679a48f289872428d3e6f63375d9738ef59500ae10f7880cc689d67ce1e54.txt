@@ -1,0 +1,39 @@
+Two police forces have been reprimanded by Britain’s data watchdog after officers unlawfully recorded more than 200,000 phone conversations using an app originally intended for hostage negotiators.
+
+The automatic recordings, made over several years, included “highly sensitive” conversations with victims, witnesses and perpetrators of suspected crimes, according to the Information Commissioner’s Office (ICO).
+
+The app, called Another Call Recorder (ACR), recorded all incoming and outgoing calls and was originally intended for use by a small number of officers at Surrey and Sussex forces. However, it was downloaded on to the work phones ofmore than 1,000 staff members.
+
+It has now been withdrawn from use and the recordings, other than those considered to be evidential material, have been destroyed, according to the ICO.
+
+The watchdog said it considered issuing a £1m fine to both forces but opted for the reprimand to reduce the impact on public services.
+
+Police officers that downloaded the app were unaware all calls would be recorded, the watchdog said, and people were not informed their conversations were being taped.
+
+The forces said in a joint statement the app was made available for use in 2017 by a small number of specialist hostage negotiators for the purpose of supporting kidnap and crisis negotiations and maximising public safety.
+
+“There was no means at that time of restricting use of the app and, unintentionally, it was enabled for all staff to download without appropriate guidance in place. When enabled, the app records and stores all phone calls made in the mobile device,” they said.
+
+An internal audit was carried out to establish the number of officers and staff who downloaded the app, the extent to which they used it and the quantity and nature of any material which may have been recorded, the forces said.
+
+It was established that the app was used on 432 phones and that those phones held audio files. They said the audit also established that 1,024 officers and staff had downloaded the app. Three users had recordings that related to criminal cases, but it was concluded that only one could have had a potential impact if the case progressed to trial.
+
+Fiona Macpherson, the temporary assistant chief constable at Sussex police, described the case as “regrettable”.
+
+“As soon as the error was reported, we took urgent action to ensure that this did not happen again. We initiated a review of all applications available on the corporate Google Play Store to ensure that there are no other applications that may have had similar functionality. A robust process is now in place to ensure any new requests for mobile apps are subject to appropriate due diligence and scrutiny,” she said.
+
+Stephen Bonner, the ICO deputy commissioner, said: “People have the right to expect that when they speak to a police officer, the information they disclose is handled responsibly.
+
+“We can only estimate the huge amount of personal data collected during these conversations, including highly sensitive information relating to suspected crimes.”
+
+He added that the reprimand reflected the use of the ICO’s wider powers towards the public sector, as large fines could lead to reduced budgets for the provision of vital services.
+
+“This case highlights why the ICO is pursuing a different approach, as fining Surrey police and Sussex police risks affecting the victims of crime in the area once again,” he said.
+
+“This case should be a lesson learned to any organisation planning to introduce an app, product or service that uses people’s personal data.
+
+“Organisations must consider people’s data protection rights and implement data protection principles from the very start.”
+
+The ICO recommended both forces take action to ensure they complied with data protection law, including considering data protection at the start of any deployment of new apps and issuing data protection guidance to staff.
+
+The forces have been told to report back to the ICO within three months to explain how they have addressed its concerns and recommendations.

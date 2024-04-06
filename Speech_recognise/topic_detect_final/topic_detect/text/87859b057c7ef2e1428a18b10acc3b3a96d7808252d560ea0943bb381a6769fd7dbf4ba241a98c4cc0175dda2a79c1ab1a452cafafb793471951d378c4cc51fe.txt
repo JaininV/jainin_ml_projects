@@ -1,0 +1,25 @@
+National Company Law Appellate Tribunal (NCLAT) will, on Monday, begin the final hearing in the much talked about Google Play Store policy case that saw the CCI impose a ₹936 crore penalty on the tech giant besides issuing non-monetary directions for Google’s anti-competitive conduct.
+
+In a separate proceeding, the Supreme Court will, on Monday, take up Google’s application for withdrawal of its appeal against the NCLAT decision of January this year denying interim relief to the big tech in the form of a stay on the ₹936 crore penalty imposed by the CCI in its October 25 ruling in the Google Play Store policy case.
+
+The Play store policies case is the second case, the first being the Android matter, which saw the competition watchdog imposing monetary penalty besides issuing non-monetary directions on tech giant for its anti-competitor conduct.
+
+Following the CCI ruling of October 25 last year in the Google play store policy case, the tech giant now proposes to, from April 26 this year, introduce a user choice billing (UCB) policy that would allow app developers to use a third-party billing system. However, domestic start-ups are still opposed to this as Google would, even after UCB, continue to charge hefty commission/service fees —15-26 per cent —on app developers when a third-party billing system is used, making it unviable for several developers to distribute their apps through Play Store.
+
+Domestic digital start-ups have recently moved Delhi High Court seeking direction to CCI to invoke doctrine of necessity to proceed against Google on the complaint filed by the Alliance of Digital India Foundation (ADIF), a policy think tank of digital Startups.
+
+Also read: Google Play Store case: Single Judge in Delhi HC recuses from hearing ADIF petition in Google matter
+
+The case pertains to Google’s Play Store policies that require app developers to exclusively and mandatorily use Google Play’s Billing System (GPBS) not only for receiving payments for apps (and other digital products like audio, video, and games) distributed/sold through the Google Play Store, but also for certain in-app purchases like purchases made by users of Apps after they have downloaded/ purchased the App from the Play Store.
+
+Further, app developers cannot, within an app, provide users with a direct link to a webpage containing an alternative payment method or use language that encourages a user to purchase the digital item outside of the app (anti-steering provisions).
+
+In its ruling, CCI found Google to be in violation of competition law as mandatory usage of GPBS for paid apps and in-app purchases constitutes an imposition of unfair condition on app developers.
+
+CCI directed Google to allow, and not restrict app developers from using any third-party billing/ payment processing services, either for in-app purchases or for purchasing apps.
+
+Also read: Digital Competition Law: Centre likely to extend Panel tenure by two months
+
+Google has been further directed not to discriminate or otherwise take any adverse measures against such apps using third-party billing/ payment processing services, in any manner.
+
+CCI also found anti-steering provisions of Google’s policy to be anticompetitive. Google had also been directed not to restrict app developers from communicating with their users to promote their apps and offerings, in any manner.

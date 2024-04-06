@@ -1,0 +1,69 @@
+Nothing is more frustrating than a buffering show at the pinnacle of its season finale.
+
+But experts claim this can be fixed in just a few simple ways, as millions of us are putting our WiFi routers in the wrong places.
+
+Moving your router away from electronic devices, microwaves and even Bluetooth equipment are among the numerous tricks put forward by broadband provider Zen Internet.
+
+The internet provider said: 'Let's be clear about this; you're not going to be able to put your router wherever you want. It still needs a direct connection to your master socket (or ONT in the case of full fibre), so you might struggle to find its absolute ideal location.
+
+'But there are some things you can do to help the WiFi signal from your router more easily do its thing.'
+
+While it may not match your home decor, the company recommends putting your router in an open space, allowing the signal to travel freely.
+
+Hiding it in a drawer or cupboard is likely to stifle the connection in addition to any electronic devices nearby.
+
+On top of Bluetooth equipment and microwaves, this can include some baby monitors, wireless speakers, microphones, cordless phones and even cameras.
+
+'Dealing with this interference can be as simple as – where possible – keeping your router out of the way of these other types of device,' Zen Internet added.
+
+Devices that do not generally move around, such as desktop PCs, TVs and game consoles, can also be wired up to provide optimum internet signal.
+
+While this defeats the point of wireless internet, the best internet connection still arises from a wired link.
+
+This can be set up by directly linking each device to the router using an Ethernet cable.
+
+'You'll be guaranteed the best connection on your network and, crucially, you'll be freeing up the wireless airwaves so there's less competition for your wirelessly-connecting devices,' the broadband provider continued.
+
+Powerline adapters and WiFi extenders are among the other tools that can boost internet signal too.
+
+Adapters use the electric wiring in a home to carry broadband signal to different rooms.
+
+These devices can be plugged into a pair of power sockets, the experts explain, extending wired connectivity in any room that is desired.
+
+On the flip side, WiFi extenders can help bolster the internet in areas of the home that are significantly further away from the main router.
+
+Zen Internet said: 'If you set up one of these devices sufficiently far from your router (but still within good signal range), it'll repeat the signal enabling you to get good connectivity further away.
+
+'But there is a downside to WiFi extenders in that they'll set up a new wireless network rather than just extending the range of your existing one.'
+
+As a result, devices will switch between multiple networks as a person moves in and out of range.
+
+To combat this, the company suggests investing in their own mesh network EveryRoom, allowing the extender to merge better with the main router.
+
+Ensuring that a router allows for 'band steering' is another way to tackle any issues of poor internet.
+
+The company explains that most modern routers are 'dual band' which means they they will connect using either a 2.4GHz frequency range or in the higher 5GHz frequency range.
+
+Although this may sound complicated, routers can work out which connection frequency is best for them using a process called 'band steering'.
+
+But it's important to check this automatic switching process is enabled on router rather than switched off.
+
+'In rare circumstances, you might decide that you'd prefer to control the process manually, and it's possible to set up two separate networks (one at 2.4GHz, the other at 5GHz),' Zen Internet said.
+
+Although a 5GHz connection is often faster than 2.4GHz, it may not be as effective at a greater distance from the router.
+
+They added: 'Remember that if you do decide to do this you'll then need to manually control which network your devices automatically connect to. That means no automatic switching to the 'best' frequency for a given location in the home or office.'
+
+Despite these solutions, many issues actually boil down to the available bandwidth of a router in addition to unused devices on a network.
+
+Data-hungry activities like downloading high-quality movies and shows, will likely take up a big chunk of your connection if its only running at 100 megabits per second (Mps).
+
+As a consequence, this would make it difficult to run any other internet-using program or software at the same time.
+
+However, a 900Mbps connection would solve this problem entirely, allowing internet users to carry out numerous tasks with ease.
+
+Kicking unused devices off the internet can also boost bandwidth, with a list of connected items visible on the router's control panel.
+
+Zen Internet added: 'And while we're on the subject of unwanted WiFi use, if you really want to stay in control, you might consider disabling automatic updates on your devices.
+
+'From your phone to your PC, those automatic update downloads might be using a big chunk of your WiFi, often without you even knowing. So why not take control of the process and manually download updates when it's convenient for you?'

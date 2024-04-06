@@ -1,0 +1,27 @@
+This article has been reviewed according to Science X's                                                      editorial process
+
+and policies.                                                     Editors have highlighted                                                     the following attributes while ensuring the content's credibility:
+
+This article has been reviewed according to Science X's                                                      editorial process
+
+and policies.                                                     Editors have highlighted                                                     the following attributes while ensuring the content's credibility:
+
+A team has revealed the key mechanism of the loss of membrane protrusions on intratumoral natural killer (NK) cells, which impairs their ability to recognize and kill tumor cells, providing a new strategy for NK cell-based immunotherapy. This work was published in Nature Immunology.
+
+The research was led by Prof. Wei Haiming, Prof. Zheng Xiaohu and Prof. Tian Zhigang from the University of Science and Technology (USTC) of the Chinese Academy of Sciences, collaborating with Prof. Huang Guangming's team from USTC and Director Ye Ben's team from the First Affiliated Hospital of Anhui Medical University.
+
+NK cells play a crucial role in immunotherapy. However, NK cells' ability to kill tumor cells is severely compromised in the tumor microenvironment and most advanced-stage tumors can evade the immune attack of NK cells. In order to restore the function of the intratumoral NK cells, it is important to understand the mechanism of their impairments.
+
+In this study, the researchers used both transmission electron microscopy (TEM) and scanning electron microscopy (SEM) to clearly observe the distinct difference in surface topology of NK cells' membranes in normal and tumor microenvironment. The membrane surfaces of normal NK cells have abundant protrusions, while the membrane surfaces of intratumoral NK cells are abnormally smooth, displaying very few protrusions.
+
+Further research revealed that normal NK cells use membrane protrusions to recognize and form immunological synapses with tumor cells, through which the NK cells release granzyme to lyse tumor cells. With the loss of membrane protrusions, intratumoral NK cells from patients with advanced-stage cancer are unable to recognize and form contact with tumor cells, thereby lose the ability to kill tumor cells.
+
+The researchers developed a single-immunocyte mass spectrometry (MS) technology, which can detect the changes in the chemical components of intratumoral NK cell membranes, mainly the decrease in sphingomyelin (SM), confirming that the dysregulated serine metabolism in tumors is the main cause of the decrease in SM.
+
+Sphingomyelinase inhibitor can significantly increase the SM in intratumoral NK cell membranes, which can restore protrusion formation and improve NK cells' ability to recognize and kill tumor cells. Targeting sphingomyelinase demonstrates powerful synergistic antitumor efficacy when combined with immune checkpoint-targeted therapy.
+
+This study revealed the key mechanism of NK cells dysfunction and immune evasion from the perspective of membrane topology, providing a new strategy for NK cell-based tumor immunotherapy.
+
+More information:
+
+Xiaohu Zheng et al, Tumors evade immune cytotoxicity by altering the surface topology of NK cells, Nature Immunology (2023).  DOI: 10.1038/s41590-023-01462-9

@@ -1,0 +1,7 @@
+Sennheiser has announced an update of its Wireless Systems Manager software for Windows and macOS platforms, which will be available immediately after NAB. Providing efficient frequency management, monitoring and control for large Sennheiser wireless set-ups, version 4.6.0 will support the EW-DX EM2 two-channel receiver, the latest member in Sennheiser’s digital line-up.
+
+“The Wireless Systems Manager has been an essential software tool for frequency managers and audio engineers for some time. Version 4.6.0. now extends its efficient workflows to include EW-DX,” comments Thomas Doerbaum, WSM product manager. “We already outfitted the first productions and shows that use EW-DX with a beta version of the software, and are excited to announce the official update for all EW-DX users to streamline their workflows.”
+
+Features supported include automatic device discovery in the network, remote configuration of device setting and channel properties, monitoring, and provision of firmware updates for EW-DX devices. EW-DX EM 2 has been integrated into the “Professional Setup” function as well as the Spectrum Analyzer and the RF Level Recorder features. Not yet included are Easy Setup and Channel Sorting. “These will follow in the upcoming releases,” says Doerbaum.
+
+The software can be downloaded for free from April 20 at www.sennheiser.com/wsm.

@@ -1,0 +1,17 @@
+-- Assessing lung cancer sufferers' body composition with CT imaging can help clinicians determine whether patients have developed cancer-associated cachexia (CAC), and thus assess prognosis, according to a study published on 12 April in Nature Medicine.
+
+Cancer-associated cachexia -- a condition that manifests as a loss of body weight, specifically of skeletal muscle and adipose tissue -- is a significant contributor to morbidity and mortality in patients with non-small cell lung cancer, wrote a team led by Dr. Othman Al-Sawaf of University College London Cancer Institute in the U. K.
+
+"Retrospective analyses have linked body composition to outcomes across multiple solid tumor types, including breast, prostate and colorectal cancers," the team wrote. "In non-small cell lung cancer ... skeletal muscle wasting has been shown to be associated with cancer treatment toxicity and reduced overall survival."
+
+Al-Sawaf's group conducted a study to explore whether there are any connections between the body composition and weight of patients with lung cancer and survival. The research included 651 patients with early-stage non-small cell lung cancer who had been treated with surgery and systemic therapy, and it was part of the TRACERx Consortium (TRAcking non-small cell lung Cancer Evolution through therapy Rx) study. Of the total patient cohort, 291 had confirmed lung cancer relapse.
+
+The team found that patients with 20% or more loss of skeletal muscle or adipose tissue at the time they were diagnosed had lower lung-cancer specific and overall survival rates. The investigators also reported that those patients who developed cancer-associated cachexia at relapse of lung cancer and showed loss of fatty or muscle tissue or body-mass weight loss had particular tumor genomic and transcriptomic profiles compared with people who didn't develop these features -- specifically "inflammatory signaling" and "epithelial-mesenchymal transitional pathways," the team wrote. As well, patients who developed cancer-associated cachexia showed expression of genes like the melanoma-associated antigen 6 MAGEA6 and matrix metalloproteinases, such as ADAMTS3.
+
+But one of the study's most important findings was that there is an association between circulating GDF15 (a gene that regulates inflammatory pathways, angiogenesis, cell repair and cell growth) and loss of body weight, skeletal muscle, and adipose tissue, which the investigators noted supports "the potential therapeutic relevance of targeting GDF15 in the management of CAC."
+
+The results underscore CT's role in assessing patients with recurrent lung cancer, according to the investigators.
+
+"[Our study highlights CT's potential] to identify individuals at risk of developing CAC," they concluded.
+
+Copyright © 2023 AuntMinnieEurope.com

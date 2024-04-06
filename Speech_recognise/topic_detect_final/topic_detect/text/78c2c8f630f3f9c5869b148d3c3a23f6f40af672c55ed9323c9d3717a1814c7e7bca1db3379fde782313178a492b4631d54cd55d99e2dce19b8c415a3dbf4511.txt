@@ -1,0 +1,49 @@
+Forums
+
+More
+
+In a recent post on standing rigging a comment came up that there may be some underlying mast compression issues. It made me think about my own boat and something I’ve been putting off dealing with, so I thought I’d see if anyone here might be able to point me in the right direction of a long term proper fix, if it’s needed.
+
+I’m away from my boat for a while so unable to take pictures or measurements, but have included pics off the net to illustrate what my boat looks like. I’m thinking I’d like to have this all researched, thought out, and planned for when I am finally able to dig in to the project, possibly this fall.
+
+My Grampian 30 mast is deck stepped and since I’ve owned it the compression post has always wiggled easily when the mast is not stepped. I’ve never tried wiggling it with the mast up and the rigging not tensioned, so can’t speak to that, but can say it’s rock solid when the rig is tuned and loose when mast is down.
+
+The header inside the cabin, below the mast, has spider cracking radiating out from the compression point. The mast step above deck perhaps does appear to be slightly depressed, but not so that it jumps at you as clearly deformed, just slightly if you look very closely.
+
+The bilge has a series of stringers laid between each side of the hull and they simply support the floor, except for the one directly under the compression post which I think also bears a lot of the compression load. The stringers do not reach to the bottom of the bilge, they are cut to match the curve of the hull so the load is distributed there and not directly down onto the keel step. The stringers have all been replaced at some point, and a very poor job was done. The ends are badly cut, often resting on the hull in only a couple of places, with the majority of the radius not touching. They are glassed in with tabs, also not well done. The one below the compression post is particularly bad, the tabs show signs of flexing and I don’t think they are providing much support.
+
+As a temporary support I put a jack post of sorts under the stringer directly below the compression post, but this means force applied directly down onto the keel step.
+
+So my general questions:
+
+- In other’s experience, is it normal for a compression post to be slightly loose with the mast not stepped? Should I even be concerned about this? The spider cracking in the header makes me think some amount of deflection is happening, however the bulkhead is carrying some of the load so it hasn’t worried me greatly so far.
+
+- I presume the compression load from the mast really should not be directly down onto the keel step, a la my temporary support solution, but directed to the side via the stringer. Is my jack post a majorly bad idea? If no then can I perhaps jack up the stringer to remove the slop in the post when the rig is not tensioned, or is this just a bandaid?
+
+- I suspect the best answer is to redo the stringer, and I’m prepared to do that, but unlike the others it is not easily accessible as it is trapped under the floor and bulkhead so it will mean some awkward fiddly work. Such is boat life.
+
+- How about the header that distributes the load across the bulkhead. I’m assuming it’s wood encapsulated in fibreglass. I’m not sure if it has balsa core over the top or not. I can drill to find out. My worry is that the bolts holding the mast step down have allowed water to seep in and rot that inner wooden header so that there’s really just the fibreglass for support and strength at this point. Comments/suggestions as to what to look for, diagnosing, fixing if needed? I’m thinking a full on removal and replacement is probably the way to go.
+
+- If I’m going to that extent then I’m thinking I should just remove the step foot altogether (an aluminum U-channel about 6” wide and 24” long, held down by large bolts, 6 I think), cut away the fibreglass top, and re-core at the same time as I do the header. Just get it all done at once.
+
+- Anyone been through this and have thoughts or wisdom to impart for doing it well, making it easy, things to watch for?
+
+Thanks in advance.
+
+You may not post new threads
+
+You may not post replies
+
+You may not post attachments
+
+You may not edit your posts
+
+Step one buy boat...step two??? Step three sailing
+
+Advertise Here
+
+All times are GMT -7. The time now is .
+
+Privacy Guaranteed - your email is never shared with anyone, opt out any time.
+
+ShowCase vBulletin Plugins by Drive Thru Online, Inc.

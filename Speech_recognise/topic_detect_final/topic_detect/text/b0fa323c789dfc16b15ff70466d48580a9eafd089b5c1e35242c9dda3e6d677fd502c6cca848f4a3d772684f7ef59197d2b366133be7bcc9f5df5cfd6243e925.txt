@@ -1,0 +1,19 @@
+Lately there has been a lot of talk about peer-to-peer markets in both the Lightning and Nostr ecosystems. There are at least a handful of projects that have launched or are working towards a launch, including:
+
+As well as a few Bitcoin-specific marketplaces:
+
+Since it's the weekend and there isn't much "news" to discuss, we thought it would be fun to have a roundtable discussion about the state of these peer-to-peer markets, and the things that need to be built to help them achieve their visions.
+
+First, if we're missing any marketplace projects please post them in the comments.
+
+Below is a list of thought-starter questions to get the ball rolling, but feel free to jump in with any questions or ideas you have:
+
+* Which marketplaces appear to be the most robust/resilient to censorship?
+
+* Which markets would you like to see these marketplaces serve first?
+
+* What products or services should not be traded in a peer-to-peer market?
+
+* Will marketplaces without topic-based or geographical limits be more difficult to scale up?
+
+* Are there any technical or design choices that marketplaces are making which concern you?

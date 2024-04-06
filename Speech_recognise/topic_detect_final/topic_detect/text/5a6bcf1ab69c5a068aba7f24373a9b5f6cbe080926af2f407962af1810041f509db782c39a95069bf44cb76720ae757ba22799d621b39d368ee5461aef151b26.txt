@@ -1,0 +1,21 @@
+Arrow button disappears on RadDropDownList and RadSpinEditor inside TableLayoutPanel when minimizing and restoring to normal state.
+
+The property builder of the designer will not open in OpenEdge environment.
+
+No images are shown when opening a file on computer with processor with more than 10 logical processors. Encrypted Hex strings in Bookmark titles are not decrypted on import.
+
+Encrypted Hex strings in Bookmark titles are not decrypted on import. Setting a filter on a mask results in an invalid file when exporting. Wrongly parsed document content when the indirect object contains more spaces between object number and generation number. Spaces are displayed as rectangles for some TrueType fonts.
+
+Repeating header rows are not imported correctly in some files.
+
+NullReferenceException when importing a watermark with no opacity.
+
+Post your feedback via the WinForms UserVoice portal or the Public forumsWhat's new across all Telerik products?
+
+Compare pricing
+
+Check out the offers. Purchase an individual suite or treat yourself to one of our bundles.
+
+Download 30-day free trial
+
+Try UI for WinForms with dedicated technical support.

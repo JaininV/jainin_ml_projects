@@ -1,0 +1,45 @@
+Aurora (Nasdaq: AUR) is delivering the benefits of self-driving technology safely, quickly, and broadly to make transportation safer, increasingly accessible, and more reliable and efficient than ever before. The Aurora Driver is a self-driving system designed to operate multiple vehicle types, from freight-hauling semi-trucks to ride-hailing passenger vehicles, and underpins Aurora Horizon and Aurora Connect, its driver-as-a-service products for trucking and ride-hailing. Aurora is working with industry leaders across the transportation ecosystem, including Toyota, FedEx, Volvo Trucks, PACCAR, Uber, Uber Freight, U. S. Xpress, Werner, Covenant, Schneider, and Ryder. For Aurora’s latest news, visit aurora.tech and @aurora_inno on Twitter.
+
+Aurora hires talented people with diverse backgrounds who are ready to help build a transportation ecosystem that will make our roads safer, get crucial goods where they need to go, and make mobility more efficient and accessible for all. We’re searching for a Senior Enterprise Linux Client Platform Engineer.
+
+Aurora’s Enterprise Client Platform Engineering team is responsible for managing Aurora's physical and virtual endpoints (Linux, Mac, Windows) at scale to ensure Aurorans have productive, secure, and reliable endpoints.
+
+In this role, you will
+
+* Plan, design, and implement scalable solutions to manage Aurora's physical and virtual endpoints (Linux, Mac, Windows)
+
+* Partner with IT Support, InfoSec, and Developer Experience on strategy and implementation of endpoint management solutions
+
+* Ensure endpoints have appropriate security patches, configuration, and software packages through base image creation, provisioning scripts, and ongoing device management
+
+* Research, implement, test, and rollout required configuration and software changes to endpoints
+
+* 5+ years of experience managing an enterprise-scale fleet of Debian-based Linux endpoints
+
+* Strong experience with programming and automation via Bash/shell scripting and Golang/Perl/Python programming
+
+* Experience with configuration management tools such as Puppet, Ansible, or Chef
+
+* Knowledge of security best practices and system hardening, especially those related to client management
+
+The base salary range for this position is $189,000-$302,000 per year.  Aurora’s pay ranges are determined by role, level, and location. Within the range, the successful candidate’s starting base pay will be determined based on factors including job-related skills, experience, qualifications, relevant education or training, and market conditions. These ranges may be modified in the future. The successful candidate will also be eligible for an annual bonus, equity compensation, and benefits.
+
+At Aurora, we bring together extraordinarily talented and experienced people united by the strength of our values. We operate with integrity, set outrageous goals, and build a culture where we win together — all without any jerks.
+
+We have offices in several locations across the United States, where we encourage team and cross-functional collaboration. Aurora offers competitive medical, dental, and vision benefits, and additional healthcare support including medical transportation reimbursement, fertility, adoption, and surrogacy benefits. We empower our employees and their families with options to further their unique physical, mental, and financial wellbeing.
+
+Our Learning and Development offerings include Aurora Academy, where our people learn, develop, and practice the essential skills that drive Aurora’s mission, continually up-leveling our team along the way. Our Careers page provides insight into career opportunities at Aurora, and you can find all the latest news on our Blog.
+
+Safety is central to everything we do. Every employee at Aurora has a role in contributing to safety, every step of the way. We seek candidates who take active responsibility, can contribute to building an atmosphere of trust, and invest in the organization's long-term success by working safely — no matter what.
+
+We believe that self-driving technology has broad benefits – including increased access to transportation. To realize those benefits, we need a workforce with diverse experiences, insights, and perspectives — a workforce that reflects the communities our technology will serve.
+
+Aurora is committed to providing access to anyone who seeks information from our website. We invite anyone using assistive technologies, such as a screen reader or Braille reader, to email us at careersiteaccommodations@aurora.tech. if they experience difficulty using our website. Please describe the accessibility problem and include a URL (if available).
+
+Aurora considers candidates without regard to their race, color, religion, national origin, age, sex, gender, gender identity, gender expression, sexual orientation, marital status, pregnancy status, parent or caregiver status, ancestry, political affiliation, veteran and/or military status, physical or mental disability, or any other status protected by federal or state law. Aurora considers qualified applicants with criminal histories, consistent with applicable federal, state and local law. We are also committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, you may contact us at careersiteaccommodations@aurora.tech.
+
+For California applicants, information collected and processed as part of your application and any job applications you choose to submit is subject to Aurora’s California Employment Privacy Policy.
+
+At Aurora, every employee is empowered to take an active role in building an inclusive, collaborative, and unified culture that leverages our diverse strengths, perspectives, and backgrounds.
+
+Transforming how the world moves people and goods involves seeking to understand backgrounds, insights, and lived experiences that differ from our own. One way we accomplish that is with our 15 employee-led Aurora Unified Groups, which support diverse voices and drive inclusive collaboration. We believe that teamwork, belonging, and trust motivate and support our employees to do their best work. As our team grows, we strive to attract and retain exceptional talent that adds new perspectives and experiences and continues to drive innovation. Learn more on our Culture Page.

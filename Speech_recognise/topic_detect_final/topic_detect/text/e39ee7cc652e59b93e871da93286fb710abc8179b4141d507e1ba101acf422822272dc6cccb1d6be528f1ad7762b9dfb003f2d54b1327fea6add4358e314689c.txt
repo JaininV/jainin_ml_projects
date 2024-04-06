@@ -1,0 +1,83 @@
+Nowadays, more and more people are starting to learn Golang from other languages. In this article, I will share my experience of learning Golang.
+
+Click to become a medium member and read unlimited stories!
+
+I have almost 15 years of programming experience, I was a PHP full-stack developer till 2018. PHP is the backend language, and ReactJS is my frontend language. I also know NodeJS and Python, sometimes I used them to create small personal projects. From the end of 2018, I knew Golang and began using it to create small personal projects. After that, I worked as a Gopher. Till 2023, I have almost 4 years of Golang experience. Currently, I work at a business as a senior Golang developer. I like Golang so much, I am happy to share how I learnt Golang with everyone who wants to use it.
+
+If you’re coming from another programming language like Java, PHP, Python, or Node, you already have a good foundation in programming concepts. This can make it easier for you to learn Golang. Here are some tips to help you transition from your language to Golang.
+
+I wrote articles about Golang history and why it is faster, if you are interested in it, please click the following:
+
+Faster, Go! The Historical Factors Go Concurrency Design Outperform Other Languages
+
+Faster, Go! The Technical Factors Go Design Outperform Other Languages
+
+The first thing you should know before becoming a gopher
+
+The article I wrote before Apps Engineers Must Brew Install in a fresh MacBook Pro M2 In 2023 includes how to install Golang on your Mac from scratch.
+
+* Understand the Go workspace, packages, and modules
+
+* Get familiar with basic Go tools, such as ‘go build’, ‘go run’, and ‘go fmt’
+
+After you have learnt the basics of Golang, now you are perhaps curious about what’s different about Golang from your master language. Maybe you have compared Golang’s syntax, data types, and control structures with those of your current language several times. I think the article below will possibly help you.
+
+Go Faster? Compare with Other Languages
+
+You can also look for tutorials, blog posts, or books specifically catering to developers transitioning from your current language to Golang. These resources can help you bridge the gap more effectively.
+
+* Get familiar with Go syntax and basic data types (integers, floats, strings, etc.)
+
+* Understand control structures (if, for, switch, etc.)
+
+* Learn to use functions and methods
+
+* Grasp error handling and the use of “panic” and “recover”
+
+* Become proficient with packages and imports
+
+* Get comfortable with standard library packages (e.g., net/http, io, encoding/json, etc.)
+
+For this part, I didn’t write any articles about the above exact steps, but when you start to learn Golang, you should know the sizes of different types, and the best scenarios to use which types, and so on. I hope the articles below these will help you. A series of articles below have not been finished yet, I will update the above after I add the new one.
+
+A Beginner’s Guide: new() and make() differences with unit tests in Golang
+
+Struct better order is the easiest way! Improving Golang Performance(2)
+
+There are some unique features in Golang, such as its concurrency model, memory management, and error handling. The following articles are useful for this stage.
+
+What’s the thread safety in Golang? Five thread-safe ways.
+
+Key Points for Channels, Goroutines and Threads, Why Golang is Faster!
+
+Difference between concurrency and parallelism with Golang code examples
+
+Master Garbage Collectors in Golang, Based on Queue, Stack and Heap
+
+How To Do Hot Reload and Graceful Shutdown in Golang
+
+* Go has a powerful standard library that includes packages for file I/O, networking, regular expressions, and more. Study these packages and learn how they differ from equivalent libraries in your current language.
+
+* Research popular third-party libraries and frameworks that are commonly used in the Go community.
+
+* Learn about the Go toolchain and how it compares to your current language’s tools.
+
+* Develop small to medium-sized projects to practice your skills
+
+* Contribute to open-source projects written in Go
+
+* Collaborate with other developers and learn from code reviews
+
+During this stage, I am sure the below articles will be helpful.
+
+Golang Deployment Automation using GitHub to the AWS S3
+
+* Join online forums, mailing lists, and social media platforms where experienced Go developers can answer your questions and provide guidance.
+
+* Attend local meetups or conferences to network with other Go developers and learn from their experiences.
+
+* The more you practice writing Go code, the more comfortable you will become with the language. Work on small projects, contribute to open-source projects or collaborate with other developers to hone your skills.
+
+Hope all these above will help you to enjoy your Golang trip. Please remember to Practice! Practice! Practice! It is the most essential thing during your learning because it allows you to develop a deeper understanding of the language’s concepts, syntax, and features.
+
+Please stop saving stories to your list if you have enough time. Read the story, and try to write/copy codes to your IDE. After that, please try to run it and check whether it works or not. I have found lots of articles that copy the code or the content, but the code cannot be executed. I promise all codes in my article you can run them, don’t have any issues.

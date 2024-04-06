@@ -1,0 +1,69 @@
+This is a testing note of running Diffusers with the latest PyTorch 2.0⁴. The purpose is to test out if all those optimization methods work or not if they work, how much performance improved.
+
+* Python: 3.10.6 (You know what this version means if you are using SD WebUI)
+
+import torch import diffusersprint(torch.__version__)print(diffusers.__version__)# Result:# Torch: 2.0.0+cu117# diffusers: 0.15.0
+
+I use half-precision weights: torch_dtype=torch.float16 as the baseline. The last line code image will display the result if you are using Jupyter Notebook.
+
+import torchfrom diffusers import StableDiffusionPipelinepipe = StableDiffusionPipeline.from_pretrained(    "runwayml/stable-diffusion-v1-5",    torch_dtype=torch.float16,)pipe.to("cuda")prompt = "a photo of an astronaut riding a horse on mars"image = pipe(prompt).images[0]image
+
+Without enabling xformers and any other optimization recipes, simply using half-precision, Torch 2.0 can boost the performance to an amazing 12.56it/s.
+
+According to the diffusers document¹, using a sliced version of attention performs the computation in steps instead of all at once. Enable users to use Stable Diffusion in as little as 3.2 GB of VRAM with about 10% performance penalty.
+
+Use one line code to enable it:
+
+pipe.enable_attention_slicing()
+
+Enabling this will lower the iteration from 12it/s to around 10it/s. No help for high-resolution image generation, saved some memory usage, but not much. Enable it only if you are using a 4GB VRAM GPU.
+
+Tiled VAE decoders split the image into overlapping tiles, and blend the outputs to make the final images. which means saving VRAM to generate high-resolution images, for example, 1920x1080. which will only lead to an Out-of-Memory error if not enabled it.
+
+One line code to enable it
+
+pipe.enable_vae_tiling()
+
+No performance penalty. Can generate 1080p image with 1.32it/s. But the image result seems out of control. High likely the image is a combination of different tiles together.
+
+Considering the generation result, I would rather prefer to generate an 800x600 image and then upscale to 1080p using upscaling technicals.
+
+In PyTorch 1.x, xformers is a must for Diffusers, or it is just too slow for generating an image, now that PyTorch implemented similar solutions³ to boost the performance, what if I also enable xformers with PyTorch 2.0?
+
+import torchfrom diffusers import StableDiffusionPipelinepipe = StableDiffusionPipeline.from_pretrained(    "runwayml/stable-diffusion-v1-5",    torch_dtype=torch.float16,)pipe.to("cuda")prompt = "a photo of an astronaut riding a horse on mars"generator = torch.Generator("cuda").manual_seed(1234)image = pipe(prompt, generator=generator).images[0]image
+
+Test conclusion:
+
+There is almost no difference after enabling xformers, I provided a fixed generator with the same seed. No image difference, a minor performance difference, from 12.5it/s to 12.26it/s. With PyTorch 2.0, I would save this line of code.
+
+Offload the weights to the CPU and only load them to GPU when needed. This method should save a lot of VRAM, enable it with one line code, and remove pipe.to(‘cuda’),
+
+import torchfrom diffusers import StableDiffusionPipelinepipe = StableDiffusionPipeline.from_pretrained(    "runwayml/stable-diffusion-v1-5",    torch_dtype=torch.float16,)#pipe.to("cuda")prompt = "a photo of an astronaut riding a horse on mars"generator = torch.Generator("cuda").manual_seed(1234)pipe.enable_sequential_cpu_offload()image = pipe(prompt, generator=generator).images[0]image
+
+Test conclusion:
+
+While this method can dramatically lower the usage of VRAM (5.8G to 2.4G), the performance drop from 12it/s to 1.64it/s. So, only use it if you are using a 4GB GPU. The communication delay between CPU RAM and GPU could be the bottleneck.
+
+Full model offloading moves the whole model data to and off GPU instead of moving weights only. If not enabled, model data will stay in GPU before and after forward inference, clear CUDA cache won’t free up VRAM either. This could raise an “Out of memory” error if you are loading up other models, say, an upscale model to further process the image. The model-to-CPU offload method can solve the problem.
+
+Based on the idea behind this method, additional time will be spent on moving the model between CPU RAM and GPU VRAM. remove the pipe.to(‘cuda’) and add pipe.enable_model_cpu_offload() to enable it.
+
+import torchfrom diffusers import StableDiffusionPipelinepipe = StableDiffusionPipeline.from_pretrained(    "runwayml/stable-diffusion-v1-5",    torch_dtype=torch.float16,)#pipe.to("cuda")prompt = "a photo of an astronaut riding a horse on mars"generator = torch.Generator("cuda").manual_seed(1234)pipe.enable_model_cpu_offload()image = pipe(prompt, generator=generator).images[0]image
+
+As my assumption, performance is a bit slower at the beginning of image generation, around 6it/s. and speed up to 12it/s in the later stage. However, VRAM usage doesn’t go down after work. Hmm, will manually clear empty cache works? So I append another line in the end:
+
+torch.cuda.empty_cache()
+
+My suggestion is always to enable Model CPU offload unless you have tons of free VRAM like RTX GPU with 24G+ VRAM.
+
+Testing several methods to boost Diffusers performance and VRAM usage, here conclude the result:
+
+* Enable pipe.enable_attention_slicing() only if you are using 4GB GPU
+
+* It seems not very useful to use pipe.enable_vae_tiling()
+
+* Enable pipe.enable_sequential_cpu_offload() will greatly decrease the performance. Enable it only when really short of VRAM
+
+* It is recommended to enable pipe.enable_model_cpu_offload() and manually free up VRAM using torch.cuda.empty_cache(). a little bit performance penalty but the benefit is great.
+
+(8k, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), ultra-detailedprofessional lighting,a photo of an astronaut hold down his body, riding a horse on the street of cyberpunk city, glide through tall gling golden buildings,blazing fast,wind and sand moving back,star warships fleet flying above in the middle of a fierce battlebadhandsv5-neg,easynegative,two heads

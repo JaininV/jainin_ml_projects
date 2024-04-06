@@ -1,0 +1,25 @@
+ROME (AFP): The head of Italy’s privacy watchdog was hopeful Tuesday that OpenAI would adjust its AI chatbot so it could be back online in the country at the end of April.
+
+Italy’s watchdog temporarily blocked ChatGPT at the end of March over data privacy concerns, becoming the first Western country to take action against the popular artificial intelligence (AI) chatbot.
+
+“We are ready to reopen ChatGPT on April 30, if there is a willingness on the part of OpenAI to take useful steps,” Data Protection Authority chief Pasquale Stanzione told the Corriere della Sera daily.
+
+“It seems that on the company’s side there is, we’ll see,” he said.
+
+ChatGPT caused a global sensation when it was released last year for generating essays, songs, exams and even news articles from brief prompts.
+
+But critics have long fretted it was unclear where ChatGPT and its competitors got their data or how they processed it.
+
+Italy’s data protection watchdog had said that US firm OpenAI, which makes ChatGPT, had no legal basis to justify the mass collection and storage of personal data for training the algorithms underlying the operation of the platform.
+
+The authority also highlighted a lack of clarity over whose data was being collected.
+
+It said wrong answers given by the chatbot were not being handled properly and accused the firm of exposing children to “absolutely unsuitable answers”.
+
+On Tuesday, Stanzione insisted users’ ages must be verified and OpenAI must “indicate a method to reduce the risk of wrong answers”.
+
+Users should be “clearly informed that their data is being used for a specific purpose, the training of the algorithm”, he added.
+
+The runaway success of ChatGPT garnered OpenAI a multibillion-dollar deal with Microsoft, which uses the technology in its Bing search engine and other programmes.
+
+It also sparked a gold rush among other tech firms and venture capitalists, with Google hurrying out its own chatbot and investors pouring cash into all manner of AI projects.

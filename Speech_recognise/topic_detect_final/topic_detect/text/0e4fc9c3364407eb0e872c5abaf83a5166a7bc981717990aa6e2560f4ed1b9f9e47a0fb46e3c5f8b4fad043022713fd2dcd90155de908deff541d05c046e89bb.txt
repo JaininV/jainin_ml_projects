@@ -1,0 +1,39 @@
+Jitterbit, a global leader for empowering transformation through automation, today announced strong year-over-year momentum, growth across the globe, expanded partnerships and high customer-retention rates.
+
+During the fiscal year, Jitterbit grew ARR significantly across all regions, adding hundreds of new client logos to its roster, including Johnsonville, Ethan Allen, Care.com and Virgin Australia. The company achieved record highs in its global e-commerce integration, growing e-commerce-related deal flow and ARR by over 100% globally.
+
+Customer retention also reached an all-time high, demonstrating the company’s track record of enabling customer success and delivering first-rate client service.
+
+Jitterbit’s growth reflects strong demand for its comprehensive automation solutions as leaders across industries look to accelerate time to value by speeding up app development and automating business-critical workflows. Faced with increasing challenges, companies today are finding every possible opportunity to increase efficiency, productivity and profit. That means deploying better system integrations to automate as many business processes as possible, from Commerce to Customer Service to Employee Management, and more. Jitterbit brings together the power of integration, API management, EDI and no-code app development, enabling companies to achieve their digital transformation and hyperautomation goals, faster.
+
+“Jitterbit’s hyperautomation vision is resonating strongly across the global marketplace as demand for effective, unified integration and automation solutions continues to grow. Today’s forward-looking companies know success lies in streamlining operations to maximize revenue growth, and we are proud to help our customers achieve these goals,” said George Gallegos, CEO of Jitterbit. “We believe hyperautomation is the future and Jitterbit is uniquely positioned to lead that charge forward, accelerating not only our own growth but that of our customers and partners as well.”
+
+Following Jitterbit’s acquisitions of eBridge Connections in Canada, Wevo in Brazil, PrimeApps in Turkey, and more recently, Zudy, Jitterbit successfully integrated those businesses into the fold, making it seamless for enterprises to automate their business workflows anywhere around the world.
+
+Jitterbit launched and strengthened partnerships globally with major players including AWS, BigCommerce, BMC, Samsung, ShipStation, Shopify, and THG Ingenuity.
+
+Jitterbit has seen tremendous growth in LATAM, scaling the region through new client and channel partnerships, and expanding the ecosystem by adding more than 20 resell and referral partners in its first year in the region, while consistently increasing ARR throughout the year.
+
+Jitterbit grew its EMEA business with record customer net retention and customer expansion business, plus significant growth through its partner network, including upping its reach with partner BMC.
+
+In APAC, Jitterbit continues to grow, welcoming dozens of new logos and expansions across the customer base.
+
+North American customer growth was equally as strong. Jitterbit closed several six-figure deals, and grew its North American customer base with hundreds of new logos, and an equivalent amount of customer expansions, a testament to Jitterbit’s culture of exceptional customer service and support.
+
+To drive partner growth across the globe, Jitterbit launched its new Powered by Jitterbit Partner Portal, offering a one-stop-shop for existing partners to connect, build revenue, develop marketing initiatives and educate their teams.
+
+Read More: SalesTechStar Interview with Niels Fogt, Director of Automation Solutions at Tray.io
+
+Jitterbit grew its number of native connectors, including new Salesforce and HTTPv2 connectors, by more than 2.5x during fiscal year 2023, an overall new single-year high, and enhanced the quality of many existing connectors. Significant performance enhancements were also made to Cloud Studio, which consequently saw a steady increase in users, doubling that of the prior year.
+
+The company also invested in a number of other new product innovations, including a new Message Queue (MQ) Service, its cloud-based, multi-tenant message queuing service fully integrated into the Harmony Platform. Currently in beta, a number of major customers in the EMEA region have purchased the new service.
+
+In 2022, Jitterbit also bolstered the Harmony platform with App Builder, a no-code application development tool to quickly build, deploy and maintain web and mobile-based apps. Suited for both developers and non-developers, the tool has been enhanced with richer UI capabilities and a new interface that allows easier access to data without compromising security. It enables IT and business teams to build business applications without custom coding, ultimately making app development up to 10x faster.
+
+In addition, Jitterbit grew its library of technical documentation and enhanced its online learning program, Jitterbit University, with a record-number of learners engaging with its educational courses and certification program. It features both hands-on and lecture-based training for new and advanced users, IT operations teams and developers.
+
+Read More: Give Shoppers What They Want: How Live Shopping Bridges the Gap Between Social Commerce and Customer Care
+
+To support its continued growth, Jitterbit significantly expanded its headcount in 2022. The company welcomed 155 new employees across 14 countries and enhanced its customer satisfaction ratings.
+
+Consistent, positive customer feedback on Jitterbit’s products and consultative, people-focused services model has earned the company year-after-year recognition by third-party sites including G2, where Jitterbit scored 4.6 out of 5 thanks to high customer ratings.

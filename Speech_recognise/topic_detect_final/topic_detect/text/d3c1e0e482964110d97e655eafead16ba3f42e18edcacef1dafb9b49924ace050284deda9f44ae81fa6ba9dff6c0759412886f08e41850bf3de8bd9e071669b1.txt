@@ -1,0 +1,79 @@
+With the introduction of the Block Editor and Site Editor, WordPress design has become increasingly simplified. However, there are still some special circumstances that may require you to know how to upload an HTML file to WordPress.
+
+For example, you might need to transfer custom designs to your site. The good news is that this is pretty straightforward. In fact, there are multiple ways you can do it.
+
+WordPress is highly accessible and user-friendly. As the content management system (CMS) evolves, developers are constantly looking for ways to honor their mission to democratize publishing.
+
+In fact, the WordPress community has been moving away from complex coding solutions toward more intuitive systems like page builders. It’s clear that drag-and-drop editing and block-based design principles are here to stay.
+
+So, you might be wondering – why would you want to upload an HTML file to WordPress?
+
+The truth is, in most cases, this probably isn’t the best idea. It may be easier to redo whatever element or content is in that HTML file, using the WordPress Block Editor or a page builder like Elementor.
+
+Still, there are some circumstances in which you might need to know how to upload an HTML file in WordPress. Here are a few of them:
+
+* Importing preexisting designs. 📥 On occasion, it might be easier to import a preexisting design using an HTML file. This is especially true if you are transferring your website from a different CMS or website builder.
+
+* Creating custom layouts outside your theme. 🎨 All WordPress themes are highly customizable. They usually give you the flexibility you need to create custom layouts that are unique to your brand and vision. Still, you might need to create some designs outside your theme’s framework, and then import them to your site.
+
+* Verifying your website with Google Search Console. 🔎 If you want to set up your website with Google Search Console, you’ll need to verify that you’re its owner. One way you can do this is by uploading an HTML file to your site.
+
+To sum it up, uploading HTML files isn’t something that you’ll need to do frequently in WordPress. However, it’s good that you learn how to do it, just in case you find yourself in any of the above scenarios.
+
+Now that you know why you may want to upload an HTML file to WordPress, we’re going to show you two ways you can do this:
+
+The first way you can upload an HTML file to WordPress is by using the Block Editor. This method can be particularly useful if you want to import a specific design element or custom layout.
+
+There are two ways that you can upload an HTML file to the Block Editor:
+
+You can upload the actual file itself. This would let other users download the HTML file.
+
+You can add the HTML from the file to the editor to show that design. This is helpful if you want to display the actual HTML design on the page, rather than just a link to the file.
+
+To begin, navigate to your WordPress dashboard and open the page or post where you’d like to add the file:
+
+Click on the plus symbol (+) in the upper left-hand corner of your screen to open your blocks menu:
+
+Next, type “file” into the search field to find the File block and click on it to insert it in your page or post:
+
+Then, upload your HTML file to the block. After that, you can make any additional modifications to your page or post and hit Publish to make these changes live.
+
+Alternatively, you can use the Custom HTML block.
+
+Return to your blocks menu and type in “html” in the search field to look for this element:
+
+If you choose this option, you’ll need to copy the HTML directly from your file, then paste it into the box that says Write HTML.
+
+However, you may run into some issues when using this approach. Therefore, we’re going to show you another method for how to upload an HTML file to WordPress.
+
+Using the Block Editor is the easiest way to upload an HTML file to WordPress. However, in case this method isn’t working for you, you can also upload the file manually. That said, this method is likely only useful if you want to add an entire page to your website.
+
+You’ll need to use a file manager like cPanel or a File Transfer Protocol (FTP) client. In this walkthrough, we’ll be using the latter.
+
+If you’re not familiar with the process, accessing and modifying your site files can be a little tricky, and a small mistake could damage your site. Therefore, before you get started, you’ll want to back up your site.
+
+If you want more detailed instructions, we also have a full guide on using FTP to connect to WordPress.
+
+To start, 🏁 you’ll need to download an FTP client such as FileZilla.
+
+Once the download is complete, you can open the program and connect to your website:
+
+This will require some basic information, including your server and user details. You’ll need to fill in fields for Host, Username, Password, and Port. Then, click on Quickconnect.
+
+We also recommend that you change the protocol from FTP to SFTP before proceeding. To do this, click on the Site Manager icon in the far left corner of the horizontal menu:
+
+This will open the General settings where you can make this modification:
+
+Using the SFTP option will make the process more secure.
+
+Now, you should be able to see two panels on the screen: the left one contains the files and folders on your local device and the right one contains your site’s files.
+
+In the right-hand panel, you’ll need to find your root directory, which is typically a folder labeled public:
+
+Now, locate the HTML file that you want to upload in your left-hand panel (i.e., your computer). Then, add the file to your site’s root folder and you’re done!
+
+Even if you’re a novice in web design, you can easily replicate custom layouts with the Block Editor or the page builder of your choice. Still, there are a few circumstances in which you may need to know how to upload an HTML file to WordPress.
+
+👉 To recap, here’s how to upload an HTML file to WordPress:
+
+Do you have any questions about how to upload an HTML file to WordPress? Let us know in the comments section below!

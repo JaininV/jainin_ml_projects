@@ -1,0 +1,37 @@
+This article has been reviewed according to Science X's                                                      editorial process
+
+and policies.                                                     Editors have highlighted                                                     the following attributes while ensuring the content's credibility:
+
+This article has been reviewed according to Science X's                                                      editorial process
+
+and policies.                                                     Editors have highlighted                                                     the following attributes while ensuring the content's credibility:
+
+A National Institutes of Health (NIH) clinical trial was stopped early because a daily statin medication was found to reduce the increased risk of cardiovascular disease among people living with HIV in the first large-scale clinical study to test a primary cardiovascular prevention strategy in this population.
+
+A planned interim analysis of data from the Randomized Trial to Prevent Vascular Events in HIV (REPRIEVE) study found that participants who took pitavastatin calcium, a daily statin, lowered their risk of major adverse cardiovascular events by 35% compared with those receiving a placebo. Adverse drug events observed in the study were like those in the general population taking statin therapy. The interim analysis was sufficiently compelling that the study's independent Data Safety and Monitoring Board (DSMB) recommended it be stopped early given adequate evidence of efficacy. The NIH accepted the DSMB recommendations.
+
+REPRIEVE began in 2015 and enrolled 7,769 volunteers who were 40 to 75 years of age, of whom more than 30% were women. REPRIEVE volunteers were all taking antiretroviral therapy, with CD4+ cell counts greater than 100 cells/mm3 of blood at enrollment, and had low-to-moderate traditional cardiovascular disease risk that would not typically be considered for statin treatment. The trial was conducted in 12 countries in Asia, Europe, North America, South America and Africa.
+
+The REPRIEVE study is primarily supported by the National Institute of Allergy and Infectious Diseases (NIAID) and the National Heart, Lung and Blood Institute (NHLBI) with additional funding from the NIH Office of AIDS Research. The study was conducted by the AIDS Clinical Trials Group (ACTG).
+
+Decades of research and advances in HIV treatment have drastically reduced AIDS-related complications and deaths. As people with HIV live longer, premature heart disease and other chronic conditions have emerged as leading causes of morbidity and mortality, contributing to persistent gaps in lifespan between people with HIV and the broader population.
+
+"The REPRIEVE study reflects the evolution of HIV science, and progress from focusing mostly on approaches to treat and control the virus to finding ways to improve the overall health of people living with HIV," said acting NIAID Director Hugh Auchincloss, M. D. "These new data suggest that a common cholesterol-lowering medicine could substantially improve cardiovascular outcomes in people with HIV."
+
+Statins are a class of medicines routinely prescribed to lower cholesterol and are known to prevent cardiovascular disease in those at risk in the general population. It was not clear if statins would have the same effect in people living with HIV and who have premature cardiovascular disease despite having low-to-moderate traditional risk. In the REPRIEVE trial, participants were randomly assigned to receive a daily dose of 4 mg of pitavastatin or placebo. They were monitored for major adverse cardiovascular events and adverse reactions to pitavastatin, which is considered safe for use with all prescribed antiretroviral therapy regimens.
+
+The study's DSMB met at planned intervals throughout the study to review safety and efficacy data. In its most recent meeting, the DSMB determined that the benefits of daily pitavastatin use outweighed any risks and recommended that the study terminate early, and that a full data collection be conducted across sites for final analysis. Study participants are being notified of the findings and will continue to be monitored for several months. Study results from the DSMB review are expected to be published in the coming weeks.
+
+"These latest findings represent the culmination of an unprecedented eight-year effort to generate evidence that can help clinicians better support the unique cardiovascular health needs of people living with HIV," said NHLBI Director Gary H. Gibbons, M. D. "REPRIEVE is important because there are limited existing interventions to help prevent adverse cardiovascular outcomes in this population."
+
+Citation:
+
+Daily statin reduces the risk of cardiovascular disease in people living with HIV, study finds (2023, April 11)
+
+retrieved 19 April 2023
+
+from https://medicalxpress.com/news/2023-04-daily-statin-cardiovascular-disease-people.html
+
+This document is subject to copyright. Apart from any fair dealing for the purpose of private study or research, no
+
+part may be reproduced without the written permission. The content is provided for information purposes only.

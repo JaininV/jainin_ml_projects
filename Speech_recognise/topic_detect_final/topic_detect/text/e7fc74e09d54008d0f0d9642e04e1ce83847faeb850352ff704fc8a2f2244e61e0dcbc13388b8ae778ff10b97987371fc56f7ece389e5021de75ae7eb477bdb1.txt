@@ -1,0 +1,23 @@
+Because they are lightweight, have high energy density and are rechargeable, the batteries power many products, from laptops and cell phones to electric cars and toothbrushes.
+
+However, current lithium-ion batteries have reached the limit of how much energy they can store. That has researchers looking for more powerful and cheaper alternatives.
+
+Sulfur is inexpensive, plentiful and, theoretically, has a lot more energy density than conventional lithium ion cell materials, said Clemson University researcher Ramakrishna Podila, an associate professor in the Department of Physics and Astronomy.
+
+Today's electric vehicles can drive about 300 miles per charge. Lithium-sulfur batteries have the potential for a driving range of more than 400 miles with practical capacities of up to 500 watt-hours per kilogram at the pack level, twice that of lithium-ion batteries.
+
+That has made it a prime target for researchers.
+
+But there are challenges, the most significant being that elemental sulfur's octagonal form undergoes a series of structural and morphological changes during the battery's charge-discharge cycle, making it unstable and leading to fast cell failure. On the other hand, sulfurized polymer cathodes are stable at low sulfur content because they have shorter sulfur chains.
+
+"The total energy you get depends not just on the total charge but also on the spatial and temporal distribution of the charges. The more localized they are, the less energy you get. We showed that the total energy can be increased when certain quantum restrictions on the shape of charge distribution are lifted," Podila said.
+
+The researchers found that adding nitrogen to the sulfurous polymer spreads the charges out and increases the quantum capacitance.
+
+"We've shown that you have a high capacity with elemental sulfur, but you cannot make a good, practical battery. You don't have as much sulfur in a sulfurized polymer, but it works so well by distributing charge better in the presence of nitrogen," Podila said. "So, practically speaking, we can make cells using sulfurized polymer with high quantum capacitance that match practical performance metrics of elemental sulfur battery that are limited by polysulfides."
+
+Podila continued, "This research provides new insight into the actual quantum nature of how batteries or capacitors work. We often describe current flow in batteries and capacitors by treating electrons as rigid balls. In reality, electrons behave very differently at a microscopic level requiring special statistical treatment to describe their distribution in a crystal. Our experiments revealed some interesting quantum effects that manifest in the presence of nitrogen atoms. Beyond applications in li-ion batteries, our work on quantum capacitance is going to hopefully help people develop better batteries in the future by putting first things first rather than following an Edisonian approach."
+
+The findings were published in the journal Advanced Science. The article is titled "Insights into the Pseudocapacitive Behavior of Sulfurized Polymer Electrodes for Li-S Batteries." In addition to Podila, the authors are current or former Clemson graduate students Nawraj Sapkota, Shailendra Chiluwal, Prakash Parajuli and Alan Rowland.
+
+This work was financially supported by the NASA Established Program to Stimulate Competitive Research (EPSCoR) Award No. NNH17ZHA002C, South Carolina Stimulus Research Program (SRP) Award No. 18-SR03, South Carolina (SC) EPSCoR Made in SC Gear program (19-GE-01) and funding through the Clemson Department of Physics and Astronomy.

@@ -1,0 +1,43 @@
+Your direct line to Veeam R&D. Not a support forum!
+
+v12 SSBP (Veeam Plug-in for VCD), Performing a vApp Restore to a new location fails
+
+v12 SSBP (Veeam Plug-in for VCD), Performing a vApp Restore to a new location fails
+
+In v12 SSBP (Veeam Plug-in for VCD), Performing a vApp Restore to a new location fails with the below error message.
+
+"VApp cannot be restored to the original location, because it is no longer available."
+
+Steps:
+
+① Click [Restore vApp] in SSBP (v12)
+
+② Restore Mode, select "Restore to a new location, or with different settings"
+
+③ Destination, select any OVDC and enter a name different from the original vApp name for Restored vApp name: (e.g. add "_restored" etc.)
+
+※ If you click "Next" here, the "Datastore" tab displayed on the left disappear.
+
+④ Network, select any network
+
+⑤ Summary,  click "Finish"
+
+error message:
+
+VApp cannot be restored to the original location, because it is no longer available.
+
+Is this a bug?
+
+Case #05989049
+
+Re: v12 SSBP (Veeam Plug-in for VCD), Performing a vApp Restore to a new location fails
+
+Hello,
+
+As far as I see, support cannot reproduce the behavior you see. So it looks like a bug, yes. The easiest way is to ask support "is this a bug or a feature. if it's a bug, can I please get the bug number"? That ensures it gets tracked properly.
+
+Just to be sure: did you already upgrade to the latest update from last week?
+
+Best regards,
+
+Hannes

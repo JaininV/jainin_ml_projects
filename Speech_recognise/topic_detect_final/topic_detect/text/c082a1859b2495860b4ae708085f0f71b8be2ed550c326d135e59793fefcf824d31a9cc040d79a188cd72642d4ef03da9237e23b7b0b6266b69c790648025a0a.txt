@@ -1,0 +1,23 @@
+In FY 2022-23, I sold a flat and invested a taxable portion after indexation in bonds of Rural Electrification Corporation Ltd (REC) for a period of five years. How do I show this bond investment in my income tax return (ITR)?
+
+In FY 2022-23, I sold a flat and invested a taxable portion after indexation in bonds of Rural Electrification Corporation Ltd (REC) for a period of five years. How do I show this bond investment in my income tax return (ITR)?
+
+It is assumed that you have sold a flat which was held for a period exceeding 24 months and hence the gains from the same would qualify as long-term capital gains (LTCG). Further, it is assumed that you have already invested such LTCG in REC bonds, as specified by Section 54EC of the Income-tax Act, 1961 and all the other prescribed conditions (to avail the benefit of exemption) have been fulfilled.
+
+An individual taxpayer having income under the capital gains and not having income under the head ‘Profits or Gains from Business or Profession’ (PGBP), is required to file tax return in Form 2.
+
+For the purpose of your query, it is assumed that you do not have any income under PGBP.
+
+The Income-tax Department has already notified Form ITR 2 for the fiscal year 2023 (i.e., assessment year 2023-24). In the said form, LTCG would be required to be reported under relevant schedules as below:
+
+Part-B, serial no. 1: This part covers reporting of LTCG from sale of land and / or building. Details about the date of sale and purchase, sale consideration, stamp value, actual and indexed cost of acquisition, cost of improvement, transfer expenses, exemption claimed under section 54/54B/54EC/54F/54GB of the Act, etc. are required to be reported under respective fields.
+
+Part-D, serial no. 1: This part covers reporting of any deduction claimed under section 54/54B/54EC/54F/54GB of the Act. Details of exemption claimed under section 54EC is required to be reported under item number ‘c’, which includes reporting of date of transfer, date of investments in bonds and amount of investment, etc.
+
+Part F: In case after claiming eligible exemptions, if there is any taxable amount of LTCG, the information about accrual/receipt of such capital gain would be required to be reported under Part F, serial no. 6.
+
+In case tax has been deducted at source from the sale consideration by the buyer of the property, then appropriate reporting of such TDS would be required to be done in serial no. C1 of the tax payment schedule. Details of such amount shall be available in Form 26AS / Form 16B, as issued by the buyer.
+
+In addition to the above, the investment in bonds is also required to be reported under Schedule AL - Assets and Liabilities, if applicable.
+
+Parizad Sirwalla is partner and head, global mobility services, tax, KPMG in India.

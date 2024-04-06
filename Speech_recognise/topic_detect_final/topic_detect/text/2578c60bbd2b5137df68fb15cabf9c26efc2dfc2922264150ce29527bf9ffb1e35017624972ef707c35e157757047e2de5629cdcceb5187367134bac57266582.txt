@@ -1,0 +1,27 @@
+Google is planning to fuse its search engine with AI features in what’s been labeled as “Project Magi”. The company is also planning to launch a brand new AI-based search engine altogether. There’s a lot to discuss here, so let’s get right to it.
+
+It’s no secret that Google is falling behind the competition in the world of generative AI in the public eye. After all, Microsoft and Open AI beat them to the punch by releasing ChatGPT last November which exploded in popularity very quickly. Google fell behind again when Microsoft’s Bing Chat proved to be superior to Google’s late offering: Bard. No matter how powerful models they have been cooking in their labs at DeepMind, Google has been unable to launch AI products that beat the competition.
+
+But that might change very soon.
+
+Google has essentially been enjoying a monopoly in the search business for more than 25 years now. But AI-supercharged Bing, ChatGPT is starting to change things around. More and more people are switching over to an AI-enriched search experience. And it’s not just regular folks, even big corporations have been steadily looking past Google’s solutions it seems.
+
+According to a recent report from New York Times, South Korean tech giant Samsung is considering switching over to Bing as the default search engine in all its smartphones after the company’s contract with Google ends later this year. The news reportedly surprised Google employees and set everyone in panic mode.
+
+On the off chance that Samsung eventually makes the switch, it will be a massive hit to Google in terms of revenue as it earns more than USD 3 billion dollars annually from the said contract. But Google has decided to fight back by powering its search engine with AI through Project Magi.
+
+Google has implemented a two-stage plan to maintain its dominance in the market, with 160+ designers, engineers, and executives working on this project. The first is supercharging Google Search with AI features through Magi. But the second stage is even more exciting. For this, Google is planning to launch a brand-new AI-powered search engine from the ground up. But the development timelines and release dates for this have not been decided yet.
+
+As expected, Google Search will become much more personalized with Magi. It will be able to offer varied perspectives and suggest an answer even for complex questions. Search will also be able to anticipate the user’s needs and show results accordingly. But taking a look at Google’s other AI projects, we can guess what the other new features may be.
+
+* First is “GIFI”, an AI art generator. This might mix in AI-generated art in your search results. It’ll make it easier for the user to find matching images.
+
+* Then there is “Searchalong”, an AI-powered chatbot that makes Search more conversational and follow-up searches reliable. It’s similar to Bing Chat.
+
+* “Tivoli Tutor” can help users learn a new language. It’ll work through open-ended natural text conversations.
+
+Though none of these AI features have been confirmed to be integrated into Google Search with Project Magi, these are the likely ones.
+
+Google Search is still the dominant player in the game by far, but the company needs to seriously step up its game if it wishes to maintain the status quo. Bing’s AI chatbot sure is impressive but Google also has a lot more powerful models in its arsenal. And the company might just knock it out of the park with the next Search update fusing Google’s unrivaled search algorithms with AI.
+
+Project Magi is a step in the right direction and it might just cement Google’s position in the generative AI space once and for all. As for the billions of search users this will impact sooner or later, we might be in for a fun ride. The New York Time report suggests Google is expected to launch the new Search tools to the public next month. Possibly at the I/O 2023 event which is rumored to kick off on May 10.

@@ -1,0 +1,81 @@
+You can refer — https://docs.aws.amazon.com/step-functions/latest/dg/concepts-amazon-states-language.html for more information.
+
+You can define a State Machine, which is a collection of states, using the Amazon States Language, a structured, JSON-based language used to specify various state types such as Task states for performing work, Choice states for determining state transitions, and Fail states for stopping an execution with an error.
+
+Workflows can run concurrently in parallel or be designed to wait for the completion of other workflows.
+
+In AWS Step Functions, a task represents a state(each step) in a workflow(state machine) that corresponds to a unit of work performed by another AWS service.
+
+AWS Step Function is a serverless orchestration service that allows you to integrate with various services like AWS Lambda functions to build event-driven workflows using state machines and tasks.
+
+You can refer — https://docs.aws.amazon.com/step-functions/latest/dg/concepts-amazon-states-language.html for more information.
+
+You can define a State Machine, which is a collection of states, using the Amazon States Language, a structured, JSON-based language used to specify various state types such as Task states for performing work, Choice states for determining state transitions, and Fail states for stopping an execution with an error.
+
+Workflows can run concurrently in parallel or be designed to wait for the completion of other workflows.
+
+In AWS Step Functions, a task represents a state(each step) in a workflow(state machine) that corresponds to a unit of work performed by another AWS service.
+
+AWS Step Function is a serverless orchestration service that allows you to integrate with various services like AWS Lambda functions to build event-driven workflows using state machines and tasks.
+
+Securing a Step Function can be divided into the following categories:
+
+As a good first practice, we must always follow the principle of least privilege. Granting more permissions than necessary can increase the risk of unauthorised access, accidental data leaks, or malicious activities.
+
+* While creating an AWS Step function, though you haven’t enabled the X-ray tracing, its respective policy gets added by default. Remove that if it’s not used for Standard and Express Workflows.
+
+Be sure to remove this policy if you don’t plan to use X-ray tracing feature.
+
+* Additionally, for the Express Workflows, as the Cloud-watch logging is enabled by default, an over-permissive IAM policy, as mentioned in AWS Docs with the “Resource” verb as “*”, is attached to the step-functions IAM Role. It is recommended to restrict the Cloud-watch logging permissions to just the log group by replacing the “*” with the ARN of the log group as
+
+arn:aws:logs:
+
+* Verify that the IAM role attached to the step function is scoped down to the AWS resources(usually Lambda, SNS, SQS) required during the step function execution. Usually, developers assign an overly-permissive role with the “Resource” verb in the policy as “*.”
+
+* While creating a Step Function using the ‘Design your workflow visually’ option, and adding actions such as AWS Glue StartJob, AWS SNS Publish, and AWS Lambda invoke (not an exhaustive list), if you choose the option to pass the Resource name at runtime from state input, AWS will by default create a policy with the “Resource” verb set to ‘*’.
+
+Note: In the above policy for Lambda ARN, you can use a qualified or an unqualified ARN in all relevant API operations. However, you can’t use an unqualified ARN to create an alias.
+
+Further, you can read about different IAM level controls you can put on a user for accessing Step-Functions over here — https://docs.aws.amazon.com/step-functions/latest/dg/auth-and-access-control-sfn.html
+
+* Never store sensitive information or secrets like Name, Email, App-tokens etc., either in the code or directly access between steps and retrieve it during their execution or keep the data in the input and output.
+
+* Sensitive Data/Secrets in code are not recommended, as they can be accessed by anyone who has permission to access the Step Functions service. Further, Sensitive Data/Secrets in unencrypted data between each state transitions or in the state is not considered a good security practice. You can refer to the following blog for more details.
+
+Accessing SSM parameters or Secrets in Step functions using aws-sdk:
+
+* If you intend to work with AWS resources using Step Functions, you can utilise the aws-sdk.
+
+* When you interact with AWS resources like Lambda or ECS via Step-Functions, provide access to secrets to the respective AWS resources rather than passing them via Step Functions to follow the principle of least privilege.
+
+Let’s take a sample Step Function which retrieves a secret from the SSM parameter store:
+
+{  "Comment": "A Hello World example",  "StartAt": "Hello",  "States": {    "Hello": {      "Type": "Pass",      "Result": "Hello",      "Next": "World"    },    "World": {      "Type": "Pass",      "Result": "World",      "Next": "GetParameter"    },    "GetParameter": {      "Type": "Task",      "End": true,      "Parameters": {        "Name": "/conf/abc/key",        "WithDecryption": "true"      },      "Resource": "arn:aws:states:::aws-sdk:ssm:getParameter",      "OutputPath": "$.Parameter.Value"    }  }}
+
+IAM Policy to be added to the Step Function to fetch the parameter “/conf/abc/key”
+
+{    "Version": "2012-10-17",    "Statement": [        {            "Sid": "VisualEditor0",            "Effect": "Allow",            "Action": "ssm:GetParameter",            "Resource": "arn:aws:ssm:ap-south-1:111111111:parameter/conf/abc/key"        }    ]}
+
+As demonstrated above, SSM Parameters can store secrets like API keys etc. Further, aws-sdk in State Functions supports other services like KMS, App Runner etc. More over here.
+
+Logging and monitoring can provide insights into the system’s performance, help identify bottlenecks, identify state transition errors and improve the efficiency of the workflows.
+
+* Standard Workflow — By default, all executions are recorded in the Execution History of Standard Step Functions, and logging to CloudWatch is disabled. However, CloudWatch logging can be enabled if required.
+
+* Express Workflow —There is no provision for Execution History, and all the logs are automatically logged to CloudWatch, which is enabled by default.
+
+Further, you can enable X-ray tracing for much deeper visibility on performance bottlenecks and troubleshoot requests that resulted in an error.
+
+* Execution History — Once an execution is closed, its execution history can be accessed or viewed for 90 days. After that, the history becomes unavailable. Additionally, the default entry limit is 25,000, which cannot be exceeded due to a hard quota. Despite this, available workarounds can be found on the AWS Blog.
+
+* X-Ray Tracing Logs — You can add data to a trace for a maximum of seven days, while you can access and query trace data for up to thirty days.
+
+When deploying Step Functions in production, it’s essential to consider the existing account-level and per-step-function level quotas.
+
+* Maximum Number of Registered State functions — 10,000 can be updated to 25,000
+
+* Maximum open executions per account —The maximum number of open executions per AWS account in an AWS region is 1,000,000. If you need to increase this limit, request a support ticket from AWS.
+
+To avoid infinite runs, it’s important to keep in mind that State Machine has the potential to run indefinitely, with a maximum execution time of one year. Additionally, the “Continue as new Execution” feature can create the possibility of unintentionally running the state machine infinitely by starting a new execution before the current one terminates. It’s crucial to monitor execution metrics and identify any mistakes to prevent this.
+
+These limits must be carefully monitored on production as an erroneous configuration or compromise of a step function can deplete these quotas, leading to a cascading effect on other step functions and causing them to throttle.

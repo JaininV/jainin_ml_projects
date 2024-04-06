@@ -1,0 +1,103 @@
+Welcome to EURACTIV’s Green Brief, our weekly selection of energy and environment news from across Europe. To subscribe, follow this link. You can also subscribe to our daily newsletter here and to our comprehensive weekly update here.
+
+Since March last year, there has been a renewed lobbying frenzy around F-gases. But what are they and why does this matter for the climate?
+
+A history of F-gases should start in 1987. Then, mankind banded together to tackle a very immediate threat: the rapidly depleting ozone layer, partially caused by chlorofluorocarbons (CFCs) and hydrochlorofluorocarbons (HCFCs) that were widely used in refrigeration. A sweeping treaty, the Montreal Protocol, banned them.
+
+They were to be replaced by hydrofluorocarbons (HFCs), better known as F-gases. Fridge producers and air conditioner makers could breathe a sigh of relief, they had a new material lined up, and the ozone layer was thus saved.
+
+Yet, while F-gases did not deplete the ozone layer, they did contribute strongly to the next-biggest challenge, the climate crisis. Their contribution to global warming is up to 24,000 times larger than CO2 molecules.
+
+So, the EU began passing laws to phase them out in the 2000s. The rules were again revamped in 2014. In 2016, the aforementioned Montreal Protocol was amended. Named after the Rwandan capital Kigali, the change to the treaty would see a clamp down on F-gases quickly.
+
+By this stage, F-gases were responsible for about 2.5% of the EU’s total CO2-equivalent emissions. A change to the EU rulebook was needed, and bureaucrats in Brussels began pondering how best to revamp the F-gas clampdown law.
+
+These deliberations have continued up to March 2022, when lobbyists from industries using F-gases began ringing the alarm. “The proposal to come will be too harsh,” they said.
+
+Compounding the debates further, a new F-gas-dependent technology had emerged, beyond fridges: the humble heat pump.
+
+Heat pumps are an incredible technology. For every unit of energy, the pumps generate at least three units of heat by concentrating ambient heat energy – using primarily F-gases.
+
+Crucial to green heating, heat pumps help to reduce the EU’s dependence on Russian gas imports and achieve its climate targets. As such, they were thrust into the heart of the tussle, rapidly becoming the face of wider industry efforts to stymie stricter regulation.
+
+And yet, their lobbying didn’t pay off. In 2022, the European Commission proposed a harsh phase-down trajectory for F-gases: in 2024-2026, the amount of F-gases on the EU market should be 23.5% of their 2015 volume, before sharply dropping to 10% for the 2027-2029 period, according to the proposal.
+
+While legislators argue that climate-friendly alternatives exist, industry lobby groups counter that the EU “risks undermining its own climate and energy security goals” by endangering the rollout of heat pumps.
+
+Heat pump makers have become pretty adept at producing models running on F-gases, which are also easier to install. Asian manufacturers, especially, have accumulated expertise in producing F-gas models cheaply.
+
+This has prompted wider industry lobby bodies to champion their interests, too, with EPEE, the “voice” of the refrigeration, air conditioning and heat pump industry in Europe, leading the charge. EPEE represents most of the heat pump industry, including South Korean giant Samsung, Japanese multinational Daikin, and the Chinese giant Gree among others. Keep in mind that the battle for market share in Europe is in full swing.
+
+Industry bodies make the case that the climate impact of F-gases is negligible in the face of the stark reduction in emissions offered by the green heating technology. That is a valid argument. International Energy Agency (IEA) analysis indeed shows that the difference in CO2 savings between fossil-based heating and heat pumps is striking, even when the latter run on F-gases.
+
+But F-gases don’t stop at refrigeration or heating; they are pervasive and also play a role in electrical equipment. Few manufacturers can produce switchgear, a sweeping term for equipment regulating power systems, without F-gases. Their competitors have thus lobbied similarly strongly.
+
+Medical companies have joined the choir too, as F-gases play a key role in anaesthetics.
+
+It should come as no surprise, then, that both the European Parliament and the EU’s 27 member state want to alter the short-term trajectory proposed by Brussels, which many see as too ambitious.
+
+Lawmakers in the Parliament’s environment committee want to reduce the volume of F-gases to 12% of their 2015 levels in the 2027-2027 period – an increase of one-fifth compared to the European Commission’s original proposal. The full hemicycle must formally adopt this position, still.
+
+EU countries, who adopted their position at ambassador level in early April, want 24.2% from 2024-2026, a minor departure. From 2027 to 2029, they want to reach 12.2% – mainly aligning with Parliament.
+
+Is this it, then? Will the Commission’s ambition to crack down on F-gases this strongly falter? Yes and no. For one, the positions adopted by the co-legislators continue to leave heat pump lobbyists pretty unhappy.
+
+But the tide of EU industrial policy – the push to bolster domestic industry – may become an unexpected boon to proponents of a faster crackdown on F-gases. Many F-gas products come from China, with Chinese heat pump exports spiking in the past five years.
+
+“Many European companies are already at the forefront of this development [away from F-gases] and will benefit from it,” said Dutch green lawmaker Bas Eickhout. The Dutchman is the hemicycle’s chief negotiator on the F-gas regulation for the second time running and is perhaps the safest pair of hands in the bloc.
+
+On this, the centre-right EPP – the largest and oldest political group in Parliament – is expected to support Eickhout.
+
+“German companies like Viessmann or Siemens Energy already offer F-gas-free alternatives for heat pumps and electric switchgear,” said German lawmaker Peter Liese, who speaks for the EPP in the Parliament’s environment committee.
+
+How this will play out remains to be seen. But there is reason to believe that as the EU struggles to come to terms with its own approach to industrial policy, the F-gas regulation will a role to play.
+
+The key question now for Europe is whether it wants to close its door to heat pump imports running on F-gases or not. Along the way, this will partly decide the pace of the energy transition and the switch from fossil fuels to electric heating.
+
+STOCKHOLM. Swedish climate minister dismisses far-right’s biofuel threats. Climate and Environment Minister Romina Pourmokhtari dismissed threats of political crisis from the far-right Sweden Democrats, who want the currently undecided government to reduce the number of biofuels that must be blended into petrol and diesel from the current 30% mandate to virtually zero. Read more.
+
+LONDON. UK partners with South Korea on renewables, energy independence. The UK and South Korea will work towards a cleaner, more energy-secure future by focusing on renewable energy sources and energy independence, particularly from Russia, the governments announced in a joint statement on Monday. Read more.
+
+PARIS. Macron visits Netherlands to push for massive EU investment plan. French President Emmanuel Macron is set to travel to the Netherlands on Tuesday to push for a massive EU investment plan in line with the Commission’s Net-Zero Industry Act alongside political and economic stakeholders. Read more.
+
+BERLIN. Eat less meat, we need space for biofuels, German producer says. In an ongoing dispute over biofuels made from crops such as rapeseed and wheat, Germany’s biggest biofuel producer argues that reducing meat consumption would be a much better way to free up agricultural space for food production, rather than phasing out crop-based biofuels. Read more.
+
+PARIS. French water contains traces of pesticide, study warns. Residues of a fungicide banned in France in 2020 are omnipresent in drinking water, a report by the French National Health Security Agency published on Thursday reads. Read more.
+
+SOFIA. Lukoil Group in Bulgaria fined €100 million for abusing dominant position. The Lukhoil Group in Bulgaria must pay €100 million for abusing its dominant position by limiting access to tax warehouses and transport infrastructure, which can reduce the import of fuels into the country, according to the Commission on Protection of Competition (CPC). Read more.
+
+BRATISLAVA. Slovakia’s decision to build first LNG terminal in Bratislava port faces criticism. The €40 million project to build an LNG terminal in the port of Bratislava to refuel cargo ships while reducing greenhouse emissions and pollutants for river transport has been approved by the Environment Ministry, but activists have vowed to appeal and stop the project. Read more.
+
+PRAGUE. Czech coal mining regions want to be ‘hydrogen valleys’. Three coal mining regions in the Czech Republic want to become Central European leaders in hydrogen technologies, the joint memorandum signed by the three regions’ governors in Prague on Tuesday reads. Read more.
+
+Coal power capacity declines worldwide in 2022, China bucks the trend: report. The number of operating and planned coal power plants decreased in developed and developing countries – excluding China – in 2022, with existing plants retired and planned ones cancelled, according to the new Global Energy Monitor’s annual survey.
+
+The study, published on 6 April, finds that coal power capacity retirements reached 26 gigawatts (GW) in 2022, and another 25 GW received an announced close-by date of 2030. The amount of planned coal-fired capacity in developing countries fell by 23 GW, excluding China’s planned capacity which increased by 126 GW.
+
+In the European Union, after a record high of 14.6 GW of coal capacity in 2021 was retired, the energy crisis and the war in Ukraine caused a slowdown in coal retirements, with only 2.2 GW retired in 2022.
+
+In order to meet the goals of the Paris agreement, all existing coal plants must be retired by 2030 in the world’s wealthiest countries, and by 2040 everywhere. However, to achieve this,  the pace of retirements needs to move four and half times faster and new coal plants must stop being built, according to the report.
+
+“The pressing need to stop building coal power stations has never been clearer than it is now. Most of the world’s countries understand this and have stopped planning new coal projects, and for the first time ever North America and the EU have no coal power plans still on the table,” said Oyku Senlen, senior researcher at E3G.
+
+“China’s renewed coal boom is sending it down a different path, putting its own economy and the world’s climate at risk, but fortunately, it’s not too late for China to correct course and follow the global trend away from new coal power,” she added. Read the full report here. (Valentina Romano | EURACTIV.com)
+
+$1 trillion needed by 2030 to protect biodiversity. The Global Biodiversity Framework, agreed last December at COP15, could make a meaningful contribution to halting and reversing biodiversity loss, but significant funding will be needed to achieve the targets, according to a new study by BloombergNEF.
+
+Financing dedicated to protecting and restoring the planet’s natural resources currently amounts to $166 billion per year, but will need to jump to almost $1 trillion by 2030 “to sustainably manage biodiversity and maintain the integrity of ecosystems,” according to the research.
+
+To achieve this, governments, companies and financial institutions need to integrate biodiversity into their risk assessments and planning processes, the report says. While this could be an opportunity for the private sector to take the lead, regulation may be required as well.
+
+While safeguarding the Earth’s biodiversity requires scaling up financial efforts, it will still be cheaper than the “cost of inaction”: the deterioration of natural processes like wild pollination and resources like marine fisheries could see global GDP come in $2.7 trillion a year lower than projected levels by 2030, BloombergNEF found.
+
+“The 2022 biodiversity deal won’t be worth the paper it’s written on unless governments, financial institutions and companies ramp up financing and integrate nature into their plans and policies,” stated Victoria Cuming, head of global policy at BloombergNEF and lead author of the report. Read the full Biodiversity Finance Factbook here. (Valentina Romano | EURACTIV.com)
+
+EU launches public consultation for new ‘green taxonomy’ criteria. The European Commission has launched a four-week consultation period – open until 3 May – on a new set of EU Taxonomy criteria for economic activities making a substantial contribution to the following environmental objectives: sustainable use and protection of water and marine resources, transition to a circular economy, pollution prevention and control and protection and restoration of biodiversity and ecosystems.
+
+The Commission is also consulting on proposed amendments to the Taxonomy Climate Delegated Act, covering the environmental objectives of climate change mitigation and adaptation, and on the Taxonomy Disclosures Delegated Act.
+
+Additionally, in order to help users better understand the EU Taxonomy, the Commission has updated its EU Taxonomy Navigator, which provides a series of online tools to support companies in their reporting obligations. (Valentina Romano | EURACTIV.com)
+
+* 17 MAY. Measures to reduce the release of microplastics in the environment.
+
+* 30 JUNE. Deadline for European Member States to update their revised National Energy and Climate Plans (NECPs).

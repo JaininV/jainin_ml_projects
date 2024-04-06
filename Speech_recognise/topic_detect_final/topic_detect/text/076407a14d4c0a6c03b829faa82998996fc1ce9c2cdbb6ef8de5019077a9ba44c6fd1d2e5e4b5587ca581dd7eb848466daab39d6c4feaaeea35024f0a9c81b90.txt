@@ -1,0 +1,11 @@
+The Global CTX Mosaic of Mars, developed at the California Institute of Technology (Caltech) using 110,000 images from NASA's Mars Reconnaissance Orbiter (MRO), is the highest-resolution global image of Mars ever created at 5.7 trillion pixels (5.7 terapixels).
+
+CTX, one of three cameras on the MRO, offers an expansive view of terrain around the planet's surface features to show how they are related.
+
+Caltech's Jay Dickson developed an algorithm to match images based on the features displayed and manually connected the 13,000 images that were unmatched, with the gaps representing areas that have not been captured by CTX or are obscured by clouds or dust.
+
+The mosaic allows users to view different locations on Mars; it also highlights impact craters across the planet.
+
+From NASA
+
+View Full Article

@@ -1,0 +1,25 @@
+You can now listen to Insurance Journal articles!
+
+America’s cybersecurity watchdog has no confidence that the cellular network used by American first responders and the military is secure against digital intrusions, U. S. Senator Ron Wyden said in a letter released Wednesday.
+
+The letter from the Oregon Democrat, a member of the intelligence committee, was addressed to the National Security Agency (NSA) and the Cybersecurity and Infrastructure Security Agency (CISA). It concerns FirstNet, a dedicated mobile network for public safety officials such as emergency workers, firefighters and law enforcement.
+
+Wyden’s staff was told by an unidentified CISA expert last year that “they had no confidence in the security of FirstNet, in large part because they have not seen the results of any cybersecurity audits conducted against this government-only network,” the letter said.
+
+It argued that it was time for the authority to share its internal audits with CISA, NSA and Congress.
+
+FirstNet said in a statement that it “prioritized cybersecurity in the planning for the public safety broadband network, and it continues to be a top priority for us today.”
+
+The organization, which was built by AT&T Inc, went on to say that its defense strategy “goes well beyond standard commercial network security measures.”
+
+CISA declined to comment, saying it would respond to Wyden directly. NSA did not return messages seeking comment.
+
+Wyden’s letter made reference to Signaling System No. 7 (SS7), a decades-old protocol that allows international cellular networks to exchange information – for example when cell phone users are roaming. The protocol can easily be abused, security experts say, allowing spies or hackers to intercept text messages or pinpoint users’ real time locations.
+
+Wyden said the lack of clarity around the safety measures at FirstNet – which was set up in the wake of the Sept. 11, 2001 attacks to provide a robust line of communication for first responders – was particularly worrying.
+
+“These security flaws are also a national security issue, particularly if foreign governments can exploit these flaws to target U. S. government personnel,” Wyden said.
+
+Gary Miller, an expert on mobile network security with the University of Toronto-based Citizen Lab, said the concerns were well founded, adding that he too was worried by the “very troubling” opacity around audits.
+
+The Federal Communications Commission, the White House, and the Office of Management and Budget – all of whom were copied on the letter – did not immediately respond to requests for comment.

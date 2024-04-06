@@ -1,0 +1,43 @@
+Lenstube is a social platform for video sharing that combines the best of traditional video-sharing platforms and with an open social protocol and decentralized video infrastructure. Whether you’re a professional creator or an amateur, Lenstube gives you the ability to upload and monetize your video content with ease. Currently, Lenstube offers video on demand for both long-form videos and short-form videos.
+
+Lenstube sets itself apart from traditional video-sharing platforms by incorporating crypto-native features such as connecting to a crypto wallet, enabling creators to receive tips in MATIC coins, collecting videos as NFTs, and charging membership fees for subscribers. These features are made possible through Lenstube’s implementation of various decentralized infrastructure protocols, including Livepeer, Arweave, IPFS, and Lens. By utilizing decentralized technologies, Lenstube is revolutionizing the way creators can share and monetize their content and provides a new and exciting way to engage with their audience.
+
+Sasi founded Lenstube with the goal of creating a decentralized video-sharing platform for content creators. The idea for Lenstube came about after Sasi saw some of his favorite creators, who were creating and teaching web3, being unjustly removed from traditional web2 platforms. This led Sasi to understand the importance of web3 for content creators, and the significance of permanent data storage and content ownership. With this in mind, Sasi set out to create his own web3 video-sharing platform. The first step in this process was to find a video-on-demand service that transcodes and serves video from Arweave.
+
+“I knew that creating a video delivery infrastructure and transcoding videos would be a significant challenge, and I definitely didn’t want to spend all my time and resources on these technicalities, especially in the early stages of development. Luckily, I discovered Livepeer on the sponsor list of one of the EthGlobal hackathons. Livepeer provided exactly what I needed to move Lenstube forward, and integrating it into my platform was one the first, and easiest, decisions I made.”
+
+Lenstube’s partnership with Livepeer has been a vital component of the platform’s success. Currently, all videos on Lenstube, whether they are long or short form, are powered by Livepeer. This means that Livepeer handles all the technical aspects of video delivery, such as ingesting, processing, and transcoding. This has afforded Sasi and the Lenstube team the freedom to focus on other important growth areas, like attracting new creators to the platform and improving user experience.
+
+“Working with Livepeer has definitely been a great experience, and we receive tons of support from the team. Recently, Livepeer launched a feature that displays view counts beneath the video player. We were able to implement this feature pretty quickly, and the team was available to answer any questions we had. Although, most of the time we don’t really need the support, as the guides and docs for the Livepeer SDK and API are awesome.”
+
+Today, Lenstube is thriving and making significant strides in its development. The platform has reached notable milestones, such as surpassing 10,000 video uploads in December 2022, averaging more than 1,000 daily sessions, and reaching more than 50,000 average monthly users in January 2023. These milestones demonstrate the effectiveness of the Lenstube team’s efforts and the growing appeal of the platform among content creators and viewers alike.
+
+Lenstube boasts a user-friendly interface that includes all of the features commonly found on traditional web2 video sharing platforms. The front page prominently showcases the most recent and popular short-form (Bytes) and long-form videos hosted on the platform, which can be filtered by video category for easy browsing. Users can log in with their Lens handle on the top right corner of the page. Additionally, various exploration tools can be found on the left-hand menu bar for easy access.
+
+Bytes are short-form, vertical videos that are similar to TikToks and YouTube Shorts. Users can scroll through a feed, like and dislike videos, subscribe to channels, and share Bytes via URL or embed videos directly on websites. Additionally, Bytes can be easily shared on Lenster, Twitter, Reddit, and LinkedIn.
+
+Sasi and the Lenstube team have recently made a concerted effort to develop the Bytes feature. This effort was motivated by the increasing popularity of short-form videos on traditional video-sharing platforms. Not only do short videos have high user retention rates, but they also provide creators with an effective way to capture an audience and lead them to content on other platforms.
+
+“In my opinion, short-form videos are one of the most effective ways to share content with a wide audience, and they offer creators greater opportunities for engagement. We predict that the use of short-form videos as NFTs will become a popular trend.”
+
+Do you want to build your own web3 short-form video app? Disrupt TikTok with this guide walking through the key components of building a social app with quick, bite-sized video.
+
+Lenstube also enables creators to upload long-form, horizontal videos that are similar to standard YouTube videos. In addition to features found on Bytes, these long-form videos also include view counts, video descriptions, and a comment section.
+
+Every video hosted on Lenstube is equipped with a variety of web3 features. These features not only enable content creators to earn revenue from their videos but also provide fans with a way to support their favorite creators. This is what sets Lenstube apart from traditional web2 video sharing platforms. Some of the web3 features that Lenstube offers include:
+
+* Default sharing of all Lenstube videos across Lens ecosystem apps
+
+Lenstube’s frontend was built using Next. Js, an open-source React framework for web applications. Lenstube uses Apollo Client to manage local and remote data, and to fetch data and do mutations through the Lens Protocol’s GraphQL backend.
+
+Middleware is like a “software glue” that acts as a bridge between different technologies, tools, and databases so they can be integrated into a single system. Lenstube uses Lens Protocol’s indexer for its middleware, and this indexer streamlines data between Lens contracts and viewers. The Lens indexer is a GraphQL server that listens to events from Lens contracts and stores the data into a database. This indexer enables viewers to quickly and efficiently access video data, which leads to a better user experience.
+
+Lenstube’s backend consists of four main components: Livepeer, Arweave, IPFS, and Lens
+
+Lenstube uses Livepeer to process and playback video. Livepeer is a protocol built on Ethereum that distributes video transcoding work throughout its decentralized network. The protocol provides cost-efficient, secure, and reliable infrastructure. Livepeer’s mainnet launch took place in 2018 and the network now processes millions of minutes of video each week.
+
+Lenstube stores its video files on Arweave and IPFS, web3 protocols that offer data storage on decentralized networks. Arweave and IPFS offer permanent and immutable data storage, and anyone can store data in the networks or offer storage space, without there being a centralized point of failure.
+
+Lenstube uses Lens for its social graph. The Lens social graph is fully composable, open source, and decentralized. This helps transfer full rights and complete ownership of content into the hands of creators.
+
+Sasi intends to improve the Lenstube platform by adding new features, with the primary objective of providing an exceptional user experience and boosting user engagement on the platform. Furthermore, Sasi is currently building a mobile application that specifically caters to short-form videos, which will be released soon. This further solidifies his belief that short-form videos represent a rapidly expanding area in the video industry and is positioning Lenstube to capitalize on this growth potential.

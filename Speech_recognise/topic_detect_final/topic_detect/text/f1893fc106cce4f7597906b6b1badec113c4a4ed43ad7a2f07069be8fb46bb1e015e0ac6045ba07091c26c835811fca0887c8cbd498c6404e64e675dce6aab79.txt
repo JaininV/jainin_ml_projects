@@ -1,0 +1,9 @@
+Rheinmetall Air Defence’s Oerlikon Millenium Gun is a close-in weapon system that uses Advanced Hit Efficiency and Destruction ammunition.
+
+This programmable ammunition uses magnetic coil induction to program each round with a time to fly based on the muzzle velocity, and the target’s calculated future distance.
+
+A small charge then ejects 152 small tungsten sub-projectiles, which populate the area around the point of impact, creating a deadly cloud. Though it only weighs 3.3 grams each, the accumulation of these projectiles can effectively damage control surfaces, causing the target to crash.
+
+Moreover, the gun has an effective firing range of up to 5,500 yards and a maximum rate of fire of 1,000 rpm thanks to its efficient linkless feed system.
+
+It is also controlled by radar or electro-optical trackers and can engage anything between anti-ship missiles, drones, and surface vessels.

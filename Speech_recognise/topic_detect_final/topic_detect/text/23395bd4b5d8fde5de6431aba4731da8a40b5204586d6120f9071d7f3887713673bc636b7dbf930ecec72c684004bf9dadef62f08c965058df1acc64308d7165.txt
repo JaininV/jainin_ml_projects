@@ -1,0 +1,13 @@
+Windows Server 2019 Thread, April 2023 Cumulative Update - Network failures in Technical; Hello all
+
+Having now patched two 3-node Server 2019 based Failover Clusters with the April 2023 cumulative update, I'm seeing ...
+
+Hello all
+
+Having now patched two 3-node Server 2019 based Failover Clusters with the April 2023 cumulative update, I'm seeing the same random behaviour on all nodes in both clusters.    Periodically nodes lose all network connectivity and then restart.  Removing the update (KB5025229) restores stability and appears to fix the issue.
+
+Anyone else seeing the same behaviour?  I'm not seeing much negative feedback about KB5025229 online but perhaps it's early days.....
+
+Cheers
+
+Help! Our PDC cannot see our domain, complete network failure.

@@ -1,0 +1,51 @@
+The post-COVID-19 era has brought the issue of inflation to the forefront, leading to increasing interest within the Web3 space for creating flatcoins, a close “cousin” of stablecoins designed to mitigate inflation risk.
+
+Many existing flatcoins, like Terra’s TerraUSD (UST) stablecoin, are algorithmically backed and therefore serve as a stark reminder of the risks associated with algorithmic backing, as demonstrated by the collapse of LUNA and UST. So, while the idea behind flatcoins may seem appealing, they raise significant reservations conceptually and in terms of design. Ultimately, the success of flatcoins will depend on whether developers can deliver on their promise.
+
+To date, flatcoin white papers — including the one offered by Coinbase — do not appear to deliver on their envisioned promise, at least in their current state. In particular, the token economics designs of some projects are likely to pose an even higher risk than contemporary stablecoin designs.
+
+Examining the potential use cases of flatcoins is indeed crucial. While often presented as an asset that can help users preserve their purchasing power amid inflation and economic uncertainty, this idea could be misleading.
+
+Stablecoins are digitized versions of fiat currencies, and their value as a medium of exchange and unit of account is the same as that of fiat currencies. In contrast, flatcoins are indexes of the buying power of a fiat currency obtained through oracles that collect data on economic indicators such as the Consumer Price Index (CPI).
+
+As a result, the unit value of flatcoins will diverge from the fiat currency they track over time as long as inflation is not zero. Therefore, the existence of flatcoins depends on the assumption that fiat currencies or their digitized forms are the mediums of exchange and units of account.
+
+In other words, there will not be a situation where flatcoins are better than stablecoins or fiat currencies as mediums of exchange and units of account because the existence of flatcoins hinges on the superiority of fiat currencies and stablecoins at these roles.
+
+Flatcoins are financial instruments that expose investors to inflation rates, making them a derivative of inflation. Asset classes that expose investors to inflation risk have been around for a long time.
+
+For instance, Treasury Inflation-Protected Securities (TIPS) have been used since 1997 to manage inflation risks tied to fixed-rate bonds. Retail investors can easily access TIPS and gain exposure to inflation through exchange-traded funds (ETFs) in their brokerage accounts.
+
+The availability of these established inflation-linked asset classes through ETFs means that institutional and retail investors can easily manage their exposure to inflation. The potential value proposition of flatcoins as an investment vehicle for inflation hedging may be limited.
+
+Despite some criticisms of flatcoins, they do have the potential to bring value to the economy. The true innovation of flatcoins lies in their integration of traditional financial instruments onto the blockchain. Flatcoins are a digitalization of an existing asset class, similar to how stablecoins digitize fiat currencies. This innovation may allow for more efficient financial transactions and creates competition with traditional financial intermediaries such as TIPS ETFs, potentially leading to greater efficiency and lower costs in financial markets. However, it is essential to recognize that the existence of flatcoins is not the salvation of the macroeconomic challenges we face today.
+
+Previous discussions revolved around the potential uses and innovations of flatcoins. However, it is essential to note that the current development of an inflation-pegged stablecoin is still in its infancy and faces significant challenges.
+
+A few projects are currently in progress that are developing CPI-indexed flatcoins, but these projects rely on mechanisms similar to stablecoins. Some existing flatcoin designs, such as Frax Price Index Share (FPIS) and Reflexer’s Rai Reflex Index (RAI), algorithmically adjust the supply of the flatcoin to maintain the peg to a specific purchasing-power-related index, similar to how algorithmic stablecoins keep their pegs to fiat currencies.
+
+However, algorithmic stablecoins have proven to be a risky design class, as extreme market conditions can cause a downward spiral similar to a bank run, as seen in the case of Terra’s collapse.
+
+For example, Frax Finance’s white paper on the pegging mechanism of its Frax Price Index (FPI) states:
+
+To simplify, it states that the protocol will sell index tokens for Frax Finance’s stablecoin if the CPI index’s return falls below its actual value. However, this design poses a vulnerability common in algorithmic stablecoins. If the protocol runs out of reserve Frax Price Index Share (FPIS) tokens, a run similar to Terra’s will likely happen.
+
+Additionally, as inflation rarely goes negative, constant sales of FPIS tokens will be necessary to maintain the 100% collateral ratio, making this design even more susceptible to runs than other algorithmic stablecoin designs.
+
+The tradeoff of relying on something other than algorithmic adjustment is the reliance on centralized authorities. Stablecoin projects that use fiat money as collateral rely on trust in the project to maintain U. S. dollar escrow. In contrast, those depending on overcollateralized crypto assets are subject to market risks. Unfortunately, flatcoin projects still need to provide a solution to this problem.
+
+Another critical barrier to developing an effective purchasing power index with flatcoins lies in the accuracy of the data provided by oracle protocols. Relying on publicly available CPI data published by the Bureau of Labor Statistics alone would limit the true potential of flatcoins. Projects such as Chainlink and (my own) IoTeX’s W3bstream have the potential to provide real-time data that could make accurate and timely CPI data possible.
+
+Related: The world could be facing a dark future thanks to CBDCs
+
+The success of flatcoins will depend on the continued innovation of oracle teams. A decentralized flatcoin index could significantly improve existing investment instruments for hedging inflation risk if creators can achieve real-time CPI data.
+
+The widespread adoption of flatcoins and similar cryptocurrencies depends on their ability to overcome the inherent challenges and risks of stablecoin designs.
+
+As flatcoins and other inflation-indexed cryptocurrencies emerge, evaluating their impact on the broader financial ecosystem is crucial. Do they provide a more stable and decentralized alternative to traditional currencies, or are they just another investment vehicle?
+
+Investors, users and regulators must carefully examine new developments in the digital asset space. Understanding these cryptocurrencies’ true nature and potential is vital to determining whether they will become dominant in the financial landscape or remain an intriguing but niche investment option.
+
+Flatcoins’ emergence highlights the ongoing pursuit of stability and decentralization in the digital asset arena. Although this new financial instrument introduces an innovative approach, it carries additional risks and uncertainties. Investors, users and regulators can better navigate the future of inflation-indexed cryptocurrencies by maintaining a critical eye on these developments.
+
+This article is for general information purposes and is not intended to be and should not be taken as legal or investment advice. The views, thoughts and opinions expressed here are the author’s alone and do not necessarily reflect or represent the views and opinions of Cointelegraph.

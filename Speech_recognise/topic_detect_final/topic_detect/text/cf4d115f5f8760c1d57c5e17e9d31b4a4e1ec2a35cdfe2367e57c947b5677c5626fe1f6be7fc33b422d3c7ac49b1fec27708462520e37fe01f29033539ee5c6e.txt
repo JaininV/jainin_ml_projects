@@ -1,0 +1,25 @@
+A team of UCF College of Medicine researchers has created a digital topographical map of the cardiac sympathetic neural network, the region that controls the body's heart rate and its "fight-or-flight" response. They hope this map will eventually serve as a guide to treat cardiovascular conditions using bioelectronic devices.
+
+A team of UCF College of Medicine researchers has created a digital topographical map of the cardiac sympathetic neural network, the region that controls the body's heart rate and its "fight-or-flight" response. They hope this map will eventually serve as a guide to treat cardiovascular conditions using bioelectronic devices.
+
+The study, led by Dr. Zixi Jack Cheng, a neuro-cardiovascular scientist, was published in the Scientific Reports journal and was the project of an interdisciplinary team of researchers from UCF along with several other institutions as well as industry partners MBF Bioscience and SPARC Data and Resource Center. The project has been supported by the NIH Common Fund's Stimulating Peripheral Activity to Relieve Conditions (SPARC) program, and funding from National Institute on Neural Disorders and Stroke and National Heart, Lung and Blood Institute.
+
+"This mapping goes beyond what you can find in a textbook," Dr. Cheng said. "This is a digitized brain-heart atlas that will be interactive. We hope it will serve as a guide not only for scientists and physicians, but also for students as they learn the neuroanatomy of the heart."
+
+The map may serve as a guide for treatments such as neuromodulation therapy -- electronically stimulating nerves to treat cardiovascular conditions.
+
+Dr. Cheng's team and his SPARC collaborators previously created a comprehensive 3D map of a rodent heart's intrinsic nervous system. The system, known as the "little heart brain," contains thousands of neurons around the heart that regulate heartbeat and blood circulation. Their latest project extended that study and mapped topographical network of the nerves in the sympathetic nervous system and its connection to the heart. The team hopes the advanced blueprint will help scientists and physicians to study the brain-heart connection and navigate more precise control of different heart regions including those that control the heartbeat.
+
+The sympathetic nervous system plays a pivotal role in regulating cardiac functions through an intricate network of nerves. It can help the body respond to dangerous or stressful situations, by speeding up the body's heart rate to deliver more blood to areas that need more oxygen. The system also controls the heart rate, blood pressure, digestion and other vital functions.
+
+To create the map, the team used a combination of state-of-the-art techniques to image, trace, digitize and quantitatively map the distribution of the sympathetic nervous system including the heart's whole atria and ventricles.
+
+"The groundbreaking part of this project is the precision at which the mapping is completed at the microscopic level which allows us to see the single cells and single nerve axons," said Dr. Cheng. This is the first time that scientists will see the whole organ at such an intricate level."
+
+Dr. Yuanyuan Zhang, the postdoctoral fellow in Dr. Cheng's lab, explained that this map will help researchers further test the functional role of a specific of nerve by activating or deactivating it and observing its impact on the body. He said the mapping can also serve as a guide for treatments such as neuromodulation therapy -- electronically stimulating nerves to treat cardiovascular conditions such as hypertension, sleep apnea and heart failure.
+
+"Utilizing our map as a sympathetic-cardiac atlas opens the door for innovative therapies for several cardiovascular diseases, nerve-related disorders and avoids side effects associated with many pharmaceuticals," added Ariege Bizanti, a Ph. D. candidate in Dr. Cheng's lab.
+
+Heart disease is the leading cause of death for men and women in the United States, accounting for 697,000 deaths in 2020 according to statistics from the Centers for Disease Control. One person dies every 34 seconds in the United States from cardiovascular disease.
+
+"The cardiac-sympathetic nerve system is very complex and remains poorly understood," said Dr. Jin Chen, another UCF collaborator on the project. "So having this detailed mapping in the heart could give us important insights into the architecture of cardiac-sympathetic nerve and provide the foundation for future functional and molecular studies of sympathetic control of the heart."

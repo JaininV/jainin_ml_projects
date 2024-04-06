@@ -1,0 +1,23 @@
+The concept behind microcredentials is nothing new. For decades, vocational schools have offered what could now be called microcredentials in areas such as electrical, plumbing and auto repair. It was also more than 10 years ago that the Mozilla Foundation and the MacArthur Foundation led the charge to create the world’s first digital badges to attest to people’s skills and achievements.
+
+In higher education, microcredentials first took off at institutions targeting adult learners. One of the main selling points is that they can be earned in less time than a two- or four-year degree. Microcredentials became a natural fit for nontraditional students with little time to devote to education; many of them already work full time or have families to care for, and they need to quickly turn their learnings into earnings.
+
+Places like Southern New Hampshire University, one of the nation’s largest online undergraduate universities, leaned heavily into microcredentials and stackable credentials even before the COVID-19 pandemic. SNHU’s stackable credential program gives students what Chief Product Officer Travis Willard compares to a “pause button” on their education. They can earn microcredentials, enter the workforce, then come back to earn more microcredentials and work their way up to a degree.
+
+Of course, the pandemic led more institutions to embrace the idea. Meanwhile, the pressure of the enrollment decline is causing colleges and universities to reassess the value of their product. All of that, combined with the overwhelming adoption of online learning, is pushing even traditional four-year colleges to explore microcredentialing.
+
+DIVE DEEPER: How to ensure professional development in higher ed is regularly revised.
+
+Not all four-year institutions waited until the pandemic to join the microcredential trend.
+
+The University of Wisconsin-Milwaukee launched its noncredit-bearing, IT-focused microcredential program in 2019. TechEd Frontiers was born, in part, to fill employer demand in the large tech sector that surrounds the urban Milwaukee campus, says Phyllis King, associate vice chancellor at UWM.
+
+“We’re always looking at what are the latest jobs, can we predict the future, and how can we help employers?” King says. “When we first started in 2019, we were really looking at upskilling and reskilling resources, not only for students but for employers.”
+
+Workforce development is attractive to employers in a number of fields but maybe nowhere more so than in IT, and cybersecurity specifically. The nature of working in IT means that employees need to keep up with the latest trends and tools, and workforce development programs allow employers to give their employees opportunities to continue their education throughout their careers.
+
+In cybersecurity, a massive employee shortfall has resulted in more than 750,000 open cybersecurity jobs nationwide. Employers are desperate to bring on people with any level of training, which frequently includes those without a college degree. Instead, those employees often have an array of microcredentials or certificates on their resumes, proving their competency and putting them in position to earn a job more quickly than in other fields.
+
+“It seems like there’s a lot of interest from students in microcredentials that really do help them stand out in the workforce,” King says. “It signals to employers that they have certain skills or competencies and gives employers a little more confidence in hiring.”
+
+UWM’s TechEd Frontiers offers noncredit microcredentials in cybersecurity, data analytics and blockchain technology, with courses in C# programming coming soon.

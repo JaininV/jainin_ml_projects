@@ -1,0 +1,27 @@
+Imagine receiving a call, email or SMS from the authorities urgently requesting payment. The details of the request are clear, professional and include personal information unique to you, so there is no reason to doubt it. This scam is fairly common and the majority of consumers are on the lookout for it.
+
+Now imagine receiving a call from a loved one and hearing their unmistakable voice on the other end of the line saying that they need money or your account information right away.
+
+This may sound like a fraud lifted straight out of science fiction, but – with the exponential development of AI tools – it is a growing reality.
+
+Impersonation attacks are on the rise
+
+According to the Southern African Fraud Prevention Service (SAFPS), impersonation attacks increased by 264% for the first five months of the year compared to 2021. Just last week, South Africans heard of Dr Mmereka Patience Martha Ntshani seeking legal counsel over potential identity theft by Dr Nandipha Magudumana in the notorious Facebook rapist allegations.
+
+Gur Geva, founder and CEO of iiDENTIFii (www.iiDENTIFii.com), says, “The technology required to impersonate an individual has become cheaper, easier to use and more accessible. This means that it is simpler than ever before for a criminal to assume one aspect of a person’s identity.”
+
+Last week in the United States, the Federal Trade Commission issued an alert urging consumers to be vigilant for calls in which scammers sound exactly like their loved ones. All a criminal needs is a short audio clip of a family member’s voice – often scraped from social media – and a voice cloning program to stage an attack.
+
+The potential of this technology is vast. Microsoft, for example, has recently piloted an AI tool that, with a short sample of a person’s voice, can generate audio in a wide range of different languages. While this has not been released for public use, it does illustrate how voice can be manipulated as a medium.
+
+“Historically voice has been seen as an intimate and infallible part of a person’s identity. For that reason, many businesses and financial institutions used it as a part of their identity verification toolbox,” says Geva.
+
+Audio recognition technology has been an attractive security solution for financial services companies across the globe, with voice-based accounting enabling customers to deliver account instructions via voice command. Voice biometrics offers real-time authentication, which replaces the need for security questions or even PINs. Barclays, for example, integrated Siri to facilitate mobile banking payments without the need to open or log into the banking app. Visa partnered with Abu Dhabi Islamic Bank to introduce a biometric voice and voice-based authentication platform for e-commerce which uses biometric sensors built into a standard smartphone.
+
+“As voice-cloning becomes a viable threat, financial institutions need to be aware of the possibility of widespread fraud in voice-based interfaces. For example, a scammer could clone a consumer’s voice and transact on their behalf,” says Geva.
+
+The rise of voice-cloning illustrates the importance of sophisticated and multi-layered biometric authentication processes. Geva adds, “Our experience, research and global insight at iiDENTIFii has led us to create a remote biometric digital verification technology that can authenticate a person in under 30 seconds, but more importantly it triangulates the person’s identity, with their verified documentation and their liveness.”
+
+iiDENTIFii uses biometrics with liveness detection, protecting against impersonation anddeep fake attacks. “Even voice recognition with motion requirements are no longer enough to ensure that you are dealing with a real person. Without high security liveness detection, synthetic fraudsters can use voice cloning, along with photos or videos to spoof the authentication process.”
+
+Geva concludes, “While identity theft is growing in scale and sophistication, the tools we have at our disposal to prevent fraud are intelligent, scalable and up to the challenge.”

@@ -1,0 +1,35 @@
+A team of researchers at Nagoya University in Japan has made a significant breakthrough in the development of environmentally friendly polymer electrolyte fuel cells.
+
+In a project supported by the New Energy and Industrial Technology Development Organization (NEDO), the researchers have successfully created a new ultra-high-density sulfonic acid polymer electrolyte membrane (PEM) based on poly(styrenesulfonic acid).
+
+This PEM is a critical component in the generation of electrical energy through the reaction of hydrogen and oxygen gases in fuel cells.
+
+These practical fuel cells are used in various applications, such as fuel cell vehicles (FCVs) and fuel cell combined heat and power (CHP) systems.
+
+DuPont’s Nafion, a perfluorosulfonic acid polymer-based membrane, is widely considered as the most popular Polymer Electrolyte Membrane (PEM) used in fuel cells. It was first developed in the 1960s and has a strong proton conductivity of 0.1 S/cm under humidified conditions at temperatures ranging from 70-90°C.
+
+This conductivity is attributed to the release of protons from sulfonic acid groups present in the membrane. The conduction of protons is typically facilitated by the transport mechanism between protons, sulfonic acid groups, and water molecules.
+
+The density of the sulfonic acid groups in the membrane plays a crucial role in proton conductivity.
+
+A higher density of sulfonic acid groups in the membrane generally leads to a higher number of protons released and subsequently results in higher proton conductivities.
+
+Synthesizing PEMs with a high density of sulfonic acid groups using conventional methods is challenging. The sulfonation reaction, which is used to increase the density of sulfonic acid groups in a poly(styrenesulfonic acid)-based PEM, requires prolonged reaction times or harsh conditions with highly oxidizing substances such as fuming sulfuric acid and chlorosulfonic acid.
+
+Unfortunately, this often results in unwanted side reactions, including the cleavage of the polymer backbone chains. As a result, commercially available PEMs are usually synthesized with a low density of sulfonic acid groups to avoid these unwanted side reactions.
+
+For example, Nafion and Selemion by AGC, which are poly(styrenesulfonic acid)-based PEMs, typically have an ion exchange capacity (IEC), an indicator of the density of acid groups, of less than 1.0 meq./g.
+
+Atsushi Noro and his team of colleagues from the Graduate School of Engineering and Institutes of Innovation for Future Society at Nagoya University have successfully developed a poly(styrenesulfonic acid)-based PEM with an incredibly high density of sulfonic acid groups, as published in their recent research paper.
+
+The IEC of this PEM was measured to be 5.0 mequiv./g, which is five times higher than that of the commercially available PEMs such as Nafion or Selemion. Furthermore, the PEM demonstrated exceptional proton conductivity at 80°C under 90%RH, a common operating condition for polymer electrolyte fuel cells, measuring at 0.93 S/cm.
+
+This was an outstanding six times higher than the conductivity measured for Nafion (0.15 S/cm) or Selemion (0.091 S/cm) under the same conditions.
+
+As the demand for cleaner and more efficient energy sources grows, future fuel cells must operate under more challenging conditions such as higher temperatures and lower humidity levels.
+
+The development of ultra-high-density sulfonic acid polymer electrolyte membranes by Nagoya University researchers offers a promising solution.
+
+This breakthrough could pave the way for the next generation of fuel cells, which can exhibit superior performance and conductivity of 0.1 S/cm or higher even under these severe conditions.
+
+The study’s findings could significantly contribute to achieving the goal of a net-zero carbon society, promoting sustainable energy practices for a better future.

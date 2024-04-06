@@ -1,0 +1,15 @@
+Small figurines are seen in front of displayed Microsoft logo in this illustration taken February 11, 2022. PHOTO: REUTERS
+
+Microsoft Corp is developing its own artificial intelligence chip code-named "Athena" that will power the technology behind AI chatbots like ChatGPT, the Information reported on Tuesday, citing two people familiar with the matter.
+
+The company, which was an early backer of ChatGPT-owner OpenAI, has been working on the chip since 2019 and it is being tested by a small group of Microsoft and OpenAI employees, the report said.
+
+According to the report, the chips will be used for training large-language models and supporting inference - both needed by generative AI like the one used in ChatGPT to process massive amounts of data, recognize patterns and create new outputs to mimic human conversation.
+
+Microsoft is hoping the chip will perform better than what it currently buys from other vendors, saving it time and money on its costly AI efforts, the report said. Other big tech companies including Amazon and Google also make their own in-house chips for AI.
+
+So far, chip designer Nvidia dominates the market for such chips.
+
+Microsoft and Nvidia did not immediately respond to a request for comment.
+
+The rollout is being accelerated by Microsoft following the success of ChatGPT, the report said. The Windows maker earlier this year launched its own AI-powered search engine, Bing AI, capitalizing on its partnership with OpenAI and trying to grab market share from Google.

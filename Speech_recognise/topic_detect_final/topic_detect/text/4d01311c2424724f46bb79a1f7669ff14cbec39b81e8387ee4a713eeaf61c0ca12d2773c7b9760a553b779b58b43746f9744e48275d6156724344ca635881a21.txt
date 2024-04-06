@@ -1,0 +1,71 @@
+Stability.ai recently released the highly anticipated Stable Diffusion XL Engine. In a recent blog the company announced:
+
+“We are excited to announce the latest iteration in our Stable Diffusion series of image solutions. SDXL brings a richness to image generation that is transformative across several industries, including graphic design and architecture, with results taking place in front of our eyes.” — Tom Mason, Stability AI Chief Technology Officer
+
+In this tutorial, I will show you how to use the API directly from python to generate high quality images. You can use the code shown here to integrate in to existing applications for AI image generation.
+
+I have made this functionality available in our WhatsApp AI application called MobileGPT here: https://mobile-gpt.io — So you can test this out for free on mobile as well.
+
+There is a full YouTube tutorial covering the steps in this tutorial here:
+
+DALLE-2 is the OpenAI alternative that also has the capability to produce AI generated images from a text prompt, amongs other things. In addition the APIs can: edit existing images to produce variations, remove unwanted objects from images and perform other actions to existing images.
+
+In this tutorial we will only focus on the text-to-image feature.
+
+To asnwer the question, I will give the same prompt to DALLE-2, older stable diffusion model and the new XL model. This should be sufficient to show you the significant improvements in the development.
+
+This is the promt that I will use:
+
+Create a high resolution picture image of a luxury car in a studio setting, showcasing its sleek lines and high-end features. Perfect lighting with highlights.
+
+I think the images speak for themselves, the level of improvement even between their last v2.1–768 and XL is just incredible.
+
+In addition one major evident improvement is how the car is not in the middle of the image, even for a square image — this was always a problem with older engines and DALLE-2.
+
+Also the attention to detail has improved signifincantly, even for human features and faces. Check out this African Wonder Woman, created from Stable Diffusion XL.
+
+You can already use Stable Diffusion XL on their online studio — DreamStudio. You will need to register an account, you get some free credits and then you use them up, you will be able to purchase more credits.
+
+You will also get an API key generated here: https://beta.dreamstudio.ai/account
+
+Copy the API key, you will need it for the rest of the code. We will write code for:
+
+* Querying the available models, so you can pick the correct one for your API calls
+
+* Sending a request to generate an image from text
+
+We will be using python and the requests module for our code.
+
+You need to do this first, so you know which model to use in later steps. It is also a good idea to make this call regularly so you know when there is a new release or updated model.
+
+The documentation to list available engines can be found here: https://platform.stability.ai/rest-api#tag/v1engines/operation/listEngines
+
+From this documentation, I have modified the code to print out the available engines like so:
+
+import osimport requestsimport configapi_host = 'https://api.stability.ai'api_key = 'enter-your-api-key-here'def getModelList():    url = f"{api_host}/v1/engines/list"    response = requests.get(url, headers={"Authorization": f"Bearer {api_key}"})    if response.status_code == 200:        payload = response.json()        print(payload)getModelList()
+
+If you run the function: getModelList() — it will print out for you the available stable diffusion engines.
+
+Your output should look like this:
+
+[  {   "description":"Stability-AI Stable Diffusion 768 v2.0",   "id":"stable-diffusion-768-v2-0",   "name":"Stable Diffusion v2.0-768",   "type":"PICTURE"},{   "description":"Stability-AI Stable Diffusion v2.1",   "id":"stable-diffusion-512-v2-1",   "name":"Stable Diffusion v2.1",   "type":"PICTURE"},{   "description":"Stability-AI Stable Diffusion 768 v2.1",   "id":"stable-diffusion-768-v2-1",   "name":"Stable Diffusion v2.1-768",   "type":"PICTURE"},{   "description":"Stability-AI Stable Diffusion XL Beta v2.2.2",   "id":"stable-diffusion-xl-beta-v2-2-2",   "name":"Stable Diffusion v2.2.2-XL Beta",   "type":"PICTURE"},{   "description":"Stability-AI Stable Inpainting v1.0",   "id":"stable-inpainting-v1-0",   "name":"Stable Inpainting v1.0",   "type":"PICTURE"},{   "description":"Stability-AI Stable Inpainting v2.0",   "id":"stable-inpainting-512-v2-0",   "name":"Stable Inpainting v2.0",   "type":"PICTURE"}]
+
+What you need is the ID of the engine, for the XL engine, the id is: stable-diffusion-xl-beta-v2–2–2
+
+We can now update our code to this:
+
+import osimport requestsimport configimport base64api_host = 'https://api.stability.ai'api_key = 'enter-your-api-key-here'engine_id = 'stable-diffusion-xl-beta-v2-2-2'def getModelList():    url = f"{api_host}/v1/engines/list"    response = requests.get(url, headers={"Authorization": f"Bearer {api_key}"})    if response.status_code == 200:        payload = response.json()        print(payload)prompt = 'Create a high resolution picture image of a luxury car in a studio setting, showcasing its sleek lines and high-end features. Perfect lighting with highlights.'height = 512width = 512steps = 50def generateStableDiffusionImage(prompt, height, width, steps):    url = f"{api_host}/v1/generation/{engine_id}/text-to-image"    headers = {    "Content-Type": "application/json",    "Accept": "application/json",    "Authorization": f"Bearer {api_key}"    }    payload = {}    payload['text_prompts'] = [{"text": f"{prompt}"}]    payload['cfg_scale'] = 7    payload['clip_guidance_preset'] = 'FAST_BLUE'    payload['height'] = height    payload['width'] = width    payload['samples'] = 1    payload['steps'] = steps    response = requests.post(url,headers=headers,json=payload)    #Processing the response    if response.status_code == 200:        data = response.json()        for i, image in enumerate(data["artifacts"]):            with open(f"v1_txt2img_{i}.png", "wb") as f:                f.write(base64.b64decode(image["base64"]))generateStableDiffusionImage(prompt, height, width, steps)
+
+This is the code that runs to create the image: generateStableDiffusionImage(prompt, height, width, steps)
+
+There are certain inputs required:
+
+The Prompt — What image do you want to generate. Read more on promt engineering here: https://beta.dreamstudio.ai/prompt-guide
+
+The image dimensions (width and height). We selected a square image: 512X512, but there are multiple options available, see image below:
+
+Note: The pricing actually depends on the engine as well. I have been using the XL engine and I get charged way more than what is indicated here on this table, so test out the pricing based on the engine you are using.
+
+The number of diffusion steps — the default is 50, but adjust as required. For more complex prompts and landscape images, I find you might need more than 50 steps. You will need to trial and experiment with the settings, based on the dimensions and use case to get the right steps.
+
+This is the image we produced in our tutorial with the following prompt: Create a high resolution picture image of a luxury car in a studio setting, showcasing its sleek lines and high-end features. Perfect lighting with highlights.

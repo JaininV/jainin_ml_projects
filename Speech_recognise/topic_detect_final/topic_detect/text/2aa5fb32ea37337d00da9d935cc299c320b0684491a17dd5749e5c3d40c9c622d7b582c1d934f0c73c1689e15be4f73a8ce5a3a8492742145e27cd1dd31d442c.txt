@@ -1,0 +1,23 @@
+Cigent® Technology, Inc., the leader in embedded cybersecurity in storage devices, today unveiled the Cigent Secure SSD+™, the world’s first Solid State Drive that comes with built-in ransomware prevention capabilities.  Cigent Secure SSD+ incorporates a dedicated AI microprocessor with machine learning that constantly monitors disk activity with advanced algorithms to prevent ransomware. The solution has automated safeguards that stops ransomware attacks and protects the data on the drive from being stolen or encryped by malware.
+
+“Ransomware, extortion, and data theft continue to be successfully executed by cyber criminals. Endpoint Detection and Response (EDR) products rely on ‘detecting and responding’ after an attack has already occurred,” said Tom Ricoy, CRO at Cigent.  “To finally put an end to ransomware and data theft, Cigent has put automated attack prevention as close to the data as possible – in the storage itself – where it can consistently prevent attackers from ransoming files, even if EDR has been circumvented.”
+
+The Secure SSD+ is a truly innovative approach enabling organizations to deploy a prevention-first solution that can stop ransomware from encrypting their data. When paired with Cigent’s Data Defense™ software, the solution has leading-edge methods to automatically protect data from ransomware, including:
+
+Cigent Data Defense software responds to attacks with a “Shields Up” status that automatically initiates MFA to access all protected ﬁles
+
+*  Cigent Data Defense Secure Vault automatically locks down data from within the storage device itself, preventing any unauthorized access, such as malware or even trusted Windows processes (e.g., RDP or PowerShell)
+
+*  The drive can optionally be put into read-only mode to protect data from being modified, wiped, or encrypted by ransomware
+
+The Cigent software also notiﬁes the Cigent Data Defense console when a ransomware attack is initiated, triggering the console to alert security personnel, SIEMs, and SOARs to engage “Shields Up” on the rest of the Cigent protected PCs in the organization, even if they don’t have a Secure SSD+.
+
+“The embedded anti-ransomware preventions in the Cigent Secure SSD+ couldn’t come at a better time” said William Downer, Vice President, National Programs at Seagate Government Solutions. “Federal, state, and local agencies alike are daily being ransomed without the full measures to effectively stop attackers. Storage devices that automatically prevent ransomware attacks are exactly what government organizations need to finally put an end to being held hostage by ransomware cyber-criminals.”
+
+The Cigent Secure SSD+ also includes complete erasure verification and the ability to capture detailed data access logs in the drive itself, making it nearly impossible for insiders or bad actors to cover their tracks when stealing data. The drive has safeguards to prevent disabling security controls, including an embedded storage firmware heartbeat that detects if the Cigent software is disabled. If it is disabled, the Cigent Secure SSD+ drive responds by hiding the protected data, making it instantly inaccessible to attacks. Future updates will include the ability to prevent the drive from being cloned, wiped, or accessed if the system is booted from an alternate OS.
+
+Cigent Secure SSD+ will be available for purchase starting in May 2023. The first release supports Microsoft Windows with Linux support coming soon afterwards. Get notified when the Cigent Secure SSD+ is available.
+
+About Cigent
+
+Cigent offers a new approach to data security for organizations of all sizes to stop ransomware and data theft, as well as achieve compliance. Cigent protects your most valuable asset - your data - against the most sophisticated adversaries. We protect data throughout its lifecycle via prevention-based defenses embedded into storage and individual files. From decades of data recovery, cybersecurity, and device sanitization experience, the experts at Cigent have developed prevention methods beyond anything that exists today.  Cigent.com

@@ -1,0 +1,43 @@
+Angular 16 has been in development for some time now. In fact, I wrote about all the features we can expect a couple of weeks ago.
+
+We now have a V1 Release Candidate (RC) for Angular 16. So today, I wanted to run through one of the updates in Angular 16: Signals. If you were looking at some other interesting features, don’t worry! I’ll definitely continue to write about these features in more detail.
+
+If you’re wondering how you can start taking a look at Angular 16 features, you can install it pretty easily. Make sure your CLI is up to date and start a new Angular project. Then once your Angular project has been created, you can run ng update @angular/core@next , and that will install the latest release candidate in your project. At the time of writing, I should note that the latest RC for Angular is 16.0.0-rc.1.
+
+This has always been one of my favorite features of Angular. Any other JS library or framework would make you go and install all of these things manually and give you no warning about how it would affect your larger project (*cough* React *cough*). We get two warnings here; the first is about guards. Basically, router guards are now functional, and we no longer use the classes the warning looked at. The second says that moduleId no longer has any effect. Likely this isn’t something you’ve typically used because it’s not been necessary for a while; this release finally removes it.
+
+Signals is a feature that I have seen myself increasingly excited for. Now I actually get to give it a go! We’re going to make a count using signals and then display the count. Before we get into signals, why don’t we look at two other ways to accomplish the same thing?
+
+The first way is pretty obvious, we can just use Angular’s data binding.
+
+import { Component } from '@angular/core';@Component({  selector: 'app-root',  // templateUrl: './app.component.html',  styleUrls: ['./app.component.scss'],  template: `              `,})export class AppComponent {  basicCount = 0;  addToBasic() {    this.basicCount += 1;  }  subtractFromBasic() {    this.basicCount -= 1;  }}
+
+This is the most simplistic way of displaying some dynamic value.
+
+The second way we can look at this is by using Observables. We can make a new BehaviorSubject and update it using the next function.
+
+import { Component } from '@angular/core';import { BehaviorSubject } from 'rxjs';@Component({  selector: 'app-root',  styleUrls: ['./app.component.scss'],  template: `              `,})export class AppComponent {  countBehavior = new BehaviorSubject
+
+Then we can subscribe to the BehaviorSubject in the template using the asObservable method and async pipe.
+
+Now that we know how it could be done before Angular 16, let’s look at the signals implementation.
+
+import { Component, signal } from '@angular/core';@Component({  selector: 'app-root',  // templateUrl: './app.component.html',  styleUrls: ['./app.component.scss'],  template: `              `,})export class AppComponent {  count = signal
+
+And there we have it. We can instantiate a new signal and then update it dynamically using the signal update method.
+
+Before signals, we have 2 perfectly workable solutions for the exact same thing, so what’s the deal? Well, if we read the Angular release documentation for version 16 Zone.js is being phased out and replaced with signals. The reason for this update is that signals can detect changes much more efficiently. What do I mean by that? If there are a bunch of components in your Angular application Zone.js has to go from the root component all the way to your target component to detect the change.
+
+Zone.js has to check all the components in between the root and the change. This is one of the reasons that Zone.js can slow down your application. If you have a small app, then the effect is probably negligible, but as your app scales, this can become a problem. Signals solves that issue because it can update the DOM immediately and it doesn’t have to traverse the whole DOM tree up to the changed component to do so.
+
+One of the other reason signals is nice is that it can run side effects pretty easily. What do I mean? Well, let’s say we have a second value that is dependent on the first value. We want the dependent value always to be one ahead of the original value. Let’s see an example of this with RxJS.
+
+import { Component } from '@angular/core';import { BehaviorSubject, map } from 'rxjs';@Component({  selector: 'app-root',  // templateUrl: './app.component.html',  styleUrls: ['./app.component.scss'],  template: `                  `,})export class AppComponent {  countBehavior = new BehaviorSubject
+
+This will keep the dependent count one ahead of the countBehavior. This is accomplished by piping the original count and reacting to changes with the original count. Let’s see what happens with signals.
+
+import { Component, signal, computed } from '@angular/core';@Component({  selector: 'app-root',  // templateUrl: './app.component.html',  styleUrls: ['./app.component.scss'],  template: `                  `,})export class AppComponent {  count = signal
+
+These two examples look really similar, but the magic is under the hood. With RxJS you have to run all the pipes before you can get the value. However, with computed from Signals you only have to run the function when something changed, otherwise, the value is memorized. It’s a small change, but it can have a big impact on larger applications.
+
+That’s it for today. I think Angular is only going to get better with these performance updates and I’m excited to get more into the new Angular 16! Leave me a comment about your experience with Angular 16.

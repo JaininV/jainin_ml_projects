@@ -1,0 +1,27 @@
+,  /PRNewswire/ -- Darwinium, with global offices in London and Sydney, today announced its expansion into the U. S. market, with a bolstered U.S.-based leadership team and the relocation of its corporate headquarters to San Francisco.
+
+Simultaneously, Darwinium launched its Continuous Customer Protection platform, the future of security and fraud prevention for all digital businesses concerned about customer experience. An evolutionary next step, the company's disruptive approach delivers fraud prevention at the edge, giving full visibility across customer journeys.
+
+As part of this expansion to advance its long-term strategic growth plans, Darwinium has appointed:
+
+*  and  to strategic U.S. sales leadership positions. Sytsma has an award-winning track record of closing multi-million-dollar enterprise opportunities and building hyper-growth sales organizations at ThreatMetrix, (acquired by LexisNexis Risk Solutions), BioCatch and Callsign. Forss joins him from tenures at ThreatMetrix and Callsign, where he built and led enterprise sales teams for fraud prevention and PayPal, following the successful exit of his previous startup.
+
+* , Advisory board member. She is currently chief marketing officer at Caf, an innovative ID tech company. Pandey is a fraud expert with previous experience as CMO at Arkose Labs and as a marketing executive at ThreatMetrix and Simility, (acquired by PayPal) where she established the strategic vision and market positioning. She also worked at leading financial institutions like Standard Chartered Bank, ABN AMRO Bank, Capital One and Visa.
+
+* , Advisory board member. She is a board director, advisor and prior Fortune 100 senior executive with thirty years of experience at companies including Wells Fargo, PayPal, AMD and PwC delivering technology strategy to payments, fintech, retail banks and technology industries in the U.S. and emerging markets.
+
+The new team members join Alisdair Faulkner, founder and CEO of Darwinium and former co-founder and chief product officer of ThreatMetrix, which was acquired for $817 million in 2018, and Silicon Valley-based Reed Taussig, board chairman who previously served as chairman and CEO at ThreatMetrix.
+
+"We are building a transformative company and bringing together a strong team of people with deep experience in digital fraud prevention and a track record of making things happen," said Faulkner. "The United States is home to many of the world's largest online businesses, but the current market remains highly vulnerable. Existing siloed solutions have not stopped the explosive growth of fraud, nor managed to track with evolving customer behavior. These conditions make this an attractive time to enter in force with our innovative new technology that delivers digital fraud protection at the edge and gives full visibility across customer journeys."
+
+Darwinium has been recognized as a Representative Vendor in the 2022 Gartner® Market Guide for Online Fraud  as well as a Representative Provider in the 2022 Gartner Innovation Insight: Journey Time Orchestration Mitigates Fraud Risk and Delivers Better UX report.**
+
+"Customer expectations are driven by best-in-class mobile interactions, often with non-banking providers," said Gencer. "Financial services companies no longer have the luxury to choose between speed and security. They must safeguard their customers while enabling frictionless interactions along the customer journey. Darwinium has architected a new path forward for better fraud detection in near real-time that performs dramatically better, faster and takes minutes to deploy."
+
+Darwinium is currently working with payment service providers, fintechs, gaming companies and online marketplaces. Appropriate use cases for its platform include account security, scam detection, account takeover, fraudulent new accounts/synthetic identities and bot intelligence.
+
+More information about Darwinium and its Continuous Customer Protection platform is available online.
+
+GARTNER is a registered trademark and service mark of Gartner, Inc. and/or its affiliates in the U. S. and internationally and is used herein with permission. All rights reserved. Gartner does not endorse any vendor, product or service depicted in its research publications, and does not advise technology users to select only those vendors with the highest ratings or other designation. Gartner research publications consist of the opinions of Gartner's research organization and should not be construed as statements of fact. Gartner disclaims all warranties, expressed or implied, with respect to this research, including any warranties of merchantability or fitness for a particular purpose.
+
+Darwinium's pioneering customer protection platform takes security and fraud prevention to the edge, removing the operational burden of implementing and maintaining API-based solutions. Darwinium provides complete visibility and control of every digital interaction - across web, apps and APIs - to identify bad behavior, in real time. Businesses can make more accurate, real-time decisions, and take dynamic, tailored remediation that favors the customer and not the fraudster. Enjoy dramatically reduced latency, improved agility and absolute privacy of user data.

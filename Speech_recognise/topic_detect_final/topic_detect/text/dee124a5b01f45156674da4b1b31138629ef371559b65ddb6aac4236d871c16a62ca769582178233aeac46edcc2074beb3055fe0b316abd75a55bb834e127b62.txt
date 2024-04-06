@@ -1,0 +1,21 @@
+The safety analysis was published in Ophthalmology Science.1
+
+“We are encouraged by the outcomes of this safety analysis of our first in-human study and pleased to have the data made publicly available to the ophthalmic community,” said Dr Richard Lewis, ViaLase’s Chief Medical Officer.
+
+“This initial pilot study, along with our currently enrolling multi-centre prospective randomised trial, are both important components of our efforts to evaluate the safety and efficacy of the ViaLase technology performing the first and only FLigHT treatment and understand its potential as a novel, non-invasive treatment for glaucoma patients.”
+
+In a news release, the company said its FLigHT treatment leverages the precision and accuracy of both a femtosecond laser and advanced imaging technology in a non-invasive procedure.
+
+FLigHT treatment leverages the precision and accuracy of both a femtosecond laser and advanced imaging technology in a non-invasive procedure
+
+As reported in the published paper, investigators in this prospective, non-randomised, single centre, interventional, single arm trial evaluated 11 patients (17 eyes) with open angle glaucoma following FLigHT treatment, which consisted of the creation of a single channel through the trabecular meshwork and into Schlemm’s canal.
+
+At 24 months post-treatment, the authors reported no device-related serious adverse events and observed well-defined channels with no evidence of closure, indicating medium-term durability.
+
+“Unlike surgical procedures that require opening the eye, FLigHT is non-incisional and leverages the proven track record of the safety and precision of femtosecond laser technology, which are no doubt factors that contributed to these favourable safety results,” said lead author, Professor Zoltan Nagy of Semmelweis University in Budapest.
+
+“Another potentially contributing factor is the lack of collateral damage to surrounding tissue seen in previous femtosecond laser studies, which may help explain the absence of channel closure observed in this study, as well.”
+
+Secondary outcomes included observing intraocular pressure (IOP) at each study timepoint. The data demonstrated a mean IOP reduction of 34.6% from baseline of 22.3 ± 5.5 to 14.5 ± 2.6 mmHg at 24 months. The authors said the IOP reductions observed in this study were encouraging and would be further evaluated as part of the multicentre clinical trial currently underway.
+
+Nagy, Z., Kranitz, K., Ahmed, I. I.K., et al. First-in-human safety study of femtosecond laser image guided trabeculotomy for glaucoma treatment: 24-month outcomes, Ophthalmology Science, Published: 17 April 2023: doi.org/10.1016/j.xops.2023.100313.

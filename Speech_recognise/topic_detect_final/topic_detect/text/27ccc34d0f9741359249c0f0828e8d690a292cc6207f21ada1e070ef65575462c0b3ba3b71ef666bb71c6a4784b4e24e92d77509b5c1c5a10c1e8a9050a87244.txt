@@ -1,0 +1,17 @@
+Tetrate today unfurled a technical preview of a curated instance of the Istio service mesh designed to be simpler to deploy on the Amazon Elastic Kubernetes Service (EKS) cloud platform.
+
+David Wang, head of product at Tetrate, says Tetrate Service Express (TSE) automates both the deployment of Istio and the underlying Envoy proxy software upon which the service mesh depends. It also automates zero-trust principles enforcement using the MTLS protocol, failovers across clusters and regions and service discovery.
+
+The goal is to eliminate the need to create custom configuration code to deploy Istio by making available a pre-integrated instance for a Kubernetes environment that is managed by Amazon Web Services (AWS), notes Wang.
+
+That approach also serves to make it simpler for IT teams to experiment with Istio as they begin to deploy multiple Kubernetes clusters in the cloud, he added. IT teams can then migrate to the full-featured edition of Istio that Tetrate provides to support both microservices-based applications and legacy monolithic applications running on virtual machines.
+
+Most organizations initially adopt a service mesh to manage application programming interfaces (APIs) that integrate microservices running across multiple Kubernetes clusters. Most organizations, however, also have legacy monolithic applications that will not be replaced any time soon. That need to manage services across multiple classes of applications creates a need to extend Istio to, for example, consistently enforce security policies.
+
+It’s still early days as far as adoption of service mesh platforms in production environments is concerned, but the way networking and security services are managed is on the cusp of major change. Instead of waiting for networking and security operations teams to provision services, each development team will be able to self-service their own requirements within a set of guidelines defined by a central IT organization or dedicated platform engineering team. That approach also promises to make it much simpler to integrate the provisioning of networking and cybersecurity services within DevOps workflows.
+
+There is, of course, no shortage of options when it comes to service mesh platforms, and it will undoubtedly take time for the culture within IT organizations to evolve to the point where the provisioning of networking and cybersecurity services is integrated into those workflows.
+
+In the meantime, Tetrate is moving to make it easier to begin that process using a curated instance of Istio that otherwise is just as challenging to deploy and manage as the Kubernetes cluster it runs on. It’s that complexity that tends to hinder adoption of Istio among IT organizations that don’t have a large, centralized team for managing IT services. TSE should make it simpler, for example, for an individual business unit with limited IT resources to deploy an instance of Istio, notes Wang.
+
+Most organizations that deploy cloud-native applications at any scale will, at some point, need a service mesh. The only issue left to be determined is how that service mesh will be deployed and managed in an era where cloud-native expertise is still often hard to find and retain.

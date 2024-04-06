@@ -1,0 +1,11 @@
+Jest is a popular JavaScript testing framework used for testing JavaScript code. Jest provides a number of features that make it a powerful testing tool, including:
+
+Coverage reporting to measure how much of your code is covered by tests
+
+To test if a function is called based on a condition in Jest, you can use Jest’s built-in mock functions and assertions.
+
+Here is an example:
+
+In this example, we create a mock function using Jest’s jest.fn() method. This replaces the original function with a mock version that we can use to check if it was called.
+
+We then call the myFunc() function with the desired condition, and finally use the expect() method to check if the mock function was called with the correct arguments using the toHaveBeenCalledWith() method.

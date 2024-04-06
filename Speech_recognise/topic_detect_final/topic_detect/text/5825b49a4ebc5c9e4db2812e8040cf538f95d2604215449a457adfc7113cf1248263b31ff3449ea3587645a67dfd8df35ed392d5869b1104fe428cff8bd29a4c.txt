@@ -1,0 +1,35 @@
+Deliver Your News to the World
+
+Quantum computers will need to be interconnected for maximum performance, and will make current encryption technology vulnerable. But what exactly is quantum communication, and how is it useful? Here is a quick guide to demystify the quantum world.�
+
+Sensitive information is now frequently encrypted and delivered via the internet, through fibre-optic cables, telecommunication satellites and other channels along with the digital �crypto keys� required to cypher and decypher the data. Both the data and the keys are transmitted as traditional bits and that level of encryption leaves the data open to attack for experienced hackers.
+
+How can we build a safer network?�
+
+To compensate for this vulnerability of data sharing, quantum physics is applied to quantum communication to safeguard data. Qubits (quantum bits), are the particles used for data transmission. Some companies are using this technology to build secured networks to send extremely sensitive data using a method known as quantum key distribution.�
+
+Why do we need quantum-based technologies?
+
+In several sectors like encryption, data security or for specific industries such as military, healthcare, governmental or financial, quantum-based technology will be necessary to take over traditional solutions to make them more secure. Airbus is exploring a number of other quantum technologies other than quantum communication that can be applied to aerospace challenges.�
+
+Quantum Key Distribution is a way to distribute cryptographic keys that is highly secure and impregnable. QKD means sending information using quantum bits that only the sender and receiver can read. Any confidential data that will be encrypted using this totally secret key will have an unprecedented level of protection, even against future quantum computer attacks.
+
+Contrary to current computers interconnected by the internet with classical bits, quantum computers are working on qubits. They need a quantum internet to communicate by exchanging these qubits.�
+
+What is the current status of quantum communication?
+
+For Europe�s businesses, educational institutions, and governments to function normally every day as well as to share information and respond rapidly to emergencies, they need high-performance and secure communications networks. A secure quantum communication infrastructure is being developed by the European Commission to provide dependable and secure connectivity services across the entire EU.�
+
+How is Airbus contributing to quantum communication?
+
+By coordinating and leading preliminary investigations for the European Commission and ESA, Airbus is part of the future of quantum communications with projects like Qosac, Oqtavo, QuTrip or the latest one TeQuantS, created to develop quantum Space-to-Earth communications technologies for cybersecurity and quantum internet applications. But Airbus also prepares the ground for the future of quantum communications with optical communication by launching Teleo, a space to Earth communication link demonstrator with a high robustness against jamming and leading the way towards what would be the future highly performant, reliable and secure network of tomorrow.
+
+Quantum communication can be the solution to future data security challenges, as well as developing a hacker-proof network, useful in many fields. At Airbus, we aim to be an early adopter of these quantum technologies to help solve the most complex aerospace challenges of tomorrow.
+
+This news content was configured by WebWire editorial staff. Linking is permitted.
+
+Please type in this box the code you see above:
+
+Every day, hundreds of individuals and companies choose WebWire to distribute their news.
+
+WebWire places your news within numerous highly trafficked news search engines generating leads and publicity.

@@ -1,0 +1,15 @@
+The EverLoNG project is about to achieve an important milestone: the prototype ship-based carbon capture (SBCC) equipment, being built in the Netherlands by Carbotreat, is almost ready and will be installed in July on an LNG-powered LNG carrier arranged by our partner TotalEnergies. It will then operate for three to five months on board.
+
+“This will be the first testing campaign for the carbon capture equipment,” said Marco Linders of TNO, EverLoNG project coordinator. “It will run for 2,500 to 3,000 hours. The unit is able to treat 100-150 Nm3/h of exhaust gas, implying it can capture up to 250 kg of CO2 per day.”
+
+The captured CO2 will be stored onboard as a liquid in a pressurised vessel. Ideally this CO2 will be off-loaded and transported to an industrial site where it is used, for example, to produce synthetic fuels or in greenhouses to boost the growth of crops. Alternatively, the CO2 will be stored permanently in the subsurface.
+
+“Later in the project the SBCC equipment will be removed from this ship and installed on a second vessel – the Sleipnir, an LNG-powered crane vessel owned by our partner Heerema Marine Contractors,” said Dr Linders. “Installation of the equipment will be accompanied by training for the crew.”
+
+These demonstration campaigns will contribute to the objective of the EverLoNG project: acceleration of the implementation of SBCC technology. Our demonstration of SBCC technology aims to bring SBCC from Technology Readiness Level 4 (TRL4) to TRL7.
+
+The aim is to reduce CO2 emissions of ships by at least 70%, taking the same ship running on LNG but not equipped with SBCC as the reference case. We are also working on the cost effectiveness of SBCC, aiming to achieve CO2 capture and on-board storage costs below 100 €/ton (1st of a kind, to be achieved by 2025) and 50 €/ton (nth of a kind). We are also evaluating the costs of off-loading, transport and storage (or utilisation) of CO2 in several CCUS chains. In parallel, we are evaluating the impact of SBCC on the ships’ infrastructure, stability and safety, to guarantee the technical feasibility of the proposed technology.
+
+Finally, we are developing off-loading strategies that clarify the post-treatment required on-board, as well as the infrastructure necessary on the port side. To this end, we have established a CO2 Shipping Interoperability Industry Group (CSIIG) and are proposing a Roadmap towards a European off-loading network.
+
+Source: EverLoNG Project, University of Edinburgh

@@ -1,0 +1,67 @@
+Skip to main content
+
+Creating an all-flash data center - the final nail in the coffin for legacy hard disk
+
+Has the death knell sounded for the legacy data center? Patrick Smith of Pure Storage makes the case for flash and why it will wipe out disk for good.
+
+Simplicity and innovation are the foundations on which John ‘Coz’ Colgrove started Pure Storage in 2009. He wanted to keep these principles while achieving a vision to take flash storage mainstream and create an all-flash data center.
+
+Today there are well known advantages of flash over legacy disk-based storage. However back then, the main barriers to implementing were the purchase cost, the cost of operating it, and working out how to integrate it into the data lifecycle.
+
+Fast-forward a few years and flash has become the obvious choice for any performance- or latency-sensitive workload. Since flash memory was introduced to enterprise storage, it’s been taking on and replacing hard disk tiers one by one. The market conditions mean that the move to an all-flash data center has now changed from vision to reality.
+
+There are many reasons why the time for all-flash is today, from dealing with data growth, the cross over between the cost of flash and disk as well as the clear sustainability savings to be made. These are some reasons why flash will wipe out disk for good:
+
+Running out of capacity or having no additional resources is a nightmare for every IT manager. Getting value and insight from every bit of their data – now that’s nirvana. Unstructured data is expected to grow by 10x before 2030, continuing its existing exponential growth. Organizations are going to have to consider how they make use of it all and flash changes the dynamic for big data analytics, data lakes, content repositories, and even backup and recovery.
+
+The price-per-bit for NAND flash is declining at a rate much faster than nearline hard drives. While today the cost-per-bit of a hard drive is still lower than the densest flash, there are several key trends to pay attention to in 2023. First, all the major tier one flash manufacturers are demonstrating significant density increases this year, over 200 layers of stacked 3D NAND in some cases. This increase in density will translate into better cost efficiency, as well as further improvements in data center power and space savings. Second, if analyst predictions hold, NAND prices overall are expected to decline through most of 2023, continuing a trend that began in late 2022.
+
+Data center infrastructure represents over one percent of global energy consumption, and this share is growing. Organizations are examining their carbon emissions much more closely and many need to look at ways to reduce their carbon footprint. Flash has a vital contribution to this reduction in energy use.
+
+Unstructured data is complex and power-hungry, and disk is inefficient and space-hungry. Put them together and you have mounting issues for data centers, bottom lines, and the environment.
+
+Power utilization may not have been a key driver behind moving data sets before, but with rising unpredictability of energy availability, plus an increased focus in reducing emissions, this becomes an investment in the future we can’t afford not to make.
+
+As a result of rising energy costs, energy consumption by information technology has become not just a concern from an environmental standpoint but now also a significant economic one.
+
+Energy efficiency has become a leading factor in enabling flash technology to achieve a lower TCO than disk in the future.
+
+For some organizations, cost will trump performance in decision making criteria. In these key ways, the performance advantage of flash over disk can translate into cost benefits.
+
+First, because disk performance is low, even in workloads with modest performance requirements, organizations often end up with stranded capacity. While spinning drives may hold 20TB, if the performance of the system taps out at 16TB, they will not derive as effective a cost-per-bit. Flash doesn’t have this issue because performance stays predictable even as utilization increases, unlike hard drives.
+
+Second, any storage environment needs to deliver on resiliency and will have a redundancy strategy to ensure that data loss is not a risk. With flash devices, faster rebuild times mean less bits need to be dedicated to resiliency structures, which equates to better effective cost efficiency.
+
+Third, for backup and then recovery following a ransomware incident, disk can take an inordinate amount of time to restore data. With flash-based systems, faster restore performance means getting your business back online sooner than with legacy disk-based architectures.
+
+Fourth, going hand in hand with better resiliency is better reliability. Compared to mechanical disk drives flash is simply more reliable; devices fail less often leading to fewer replacements and therefore lower costs, less time replacing failed components, lower risk and no skyrocketing maintenance costs at years four, five, and beyond.
+
+Many organizations are already well on the journey to all-flash; they have deployed flash based storage platforms for their performance sensitive workloads where speed delivers business value, these use cases include databases, private cloud deployments and, increasingly, modern analytics environments.  Those organizations that have deployed modern all-flash platforms are reaping the benefits of performance, server efficiency, massively simplified operations and also energy efficiency and associated greenhouse gas reductions.
+
+For organizations who want to start a migration to an all-flash data center - here are some key considerations. There needs to be a robust strategy which supports business goals and will determine elements including:
+
+Analysis of the business needs and how all-flash will support these.
+
+Consideration of total cost of ownership and expected return on investment.
+
+Consideration of the wider business landscape including regulations, data protection and location.
+
+Time needed for data migration including consideration of the end of life for existing legacy equipment.
+
+Additionally, the ability to consume all-flash for petabyte scale unstructured workloads through a subscription model allows users to grow as business needs demand. A flexible cloud-like Storage-as-a-Service (STaaS) model should include stringent Service Level Agreements on everything from administrative support, day-to-day management and energy consumption. This brings even more operational efficiency – further widening the gap to legacy platforms. Migrations can be complex but with the right vendor and partner supporting, they can be painless. A proof of concept will allow organizations to see the tech in action, validate the benefits and determine the right solution.
+
+A vision realised – flash is the choice for environmental, workload and cost reasons
+
+The simple truth is that no one today continues to buy spinning drives because they’re better, but only because they’re cheaper. In almost every way, flash memory is superior to spinning magnetic rust, and while flash is already better, those advantages are increasing. Flash has become a viable option for everyday workloads, offering enterprises a better way to manage data growth efficiently, reliably and sustainably.
+
+Where flash was lagging behind disk was in terms of cost, but now the road to the disk/flash crossover point is upon us. This, combined with the power, space, and cooling savings, higher performance, and better reliability of flash will soon result in hard drives becoming the less cost-effective option. The dream of an all-flash data center is now a reality for forward looking modern organizations.
+
+Pure Storage uncomplicates data storage and provides true storage as-a-service. Delivering a cloud experience that empowers organizations to get the most from data, Pure reduces the complexity and expense of managing infrastructure while meeting sustainability goals.
+
+Content in this Partner Zone area has been provided by Pure Storage. diginomica provides editorial assistance in helping partners shape their content where that assistance is required to meet the interests and expectations of our readers. We do not author on partners' behalf.
+
+How to Use the Oracle WITH Statement
+
+Pure to Peer: Building an In-house IT Professional Certification Program
+
+What is a Resiliency Architecture and How Do You Build One?

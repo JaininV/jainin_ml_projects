@@ -1,0 +1,3 @@
+Almost one week after Ethereum's Shapella upgrade went live — effectively allowing for the withdrawal of staked ether for the first time — deposits have begun to outpace withdrawals and the rate at which ether is burned has increased substantially.
+
+Yesterday, approximately 91,500 ETH was deposited and 64,830 ETH was withdrawn, creating a positive net staking balance of…

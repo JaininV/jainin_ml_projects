@@ -1,0 +1,77 @@
+Change is everywhere and change is non-stop. For organizations, change is rarely easy. One path forward could be the Kotter 8 Step Process.
+
+The Kotter 8 step process, also known as the Kotter change model, is a framework for managing and implementing organizational change. Developed by John Kotter, the model consists of eight distinct steps that organizations can follow to successfully navigate major changes.
+
+I’ll start right up front with the eight steps, but stick around to learn how this was developed, its success (or not) and other well-known approaches to organizational change management.
+
+Here are the eight steps of the Kotter 8 step process, along with a simple explanation of each:
+
+Before any change can take place, it's important to create a sense of urgency around the need for change. This might involve highlighting the risks and challenges that the organization is facing, and explaining why change is necessary to address those issues.
+
+Once the need for change has been established, it's important to bring together a group of influential people who can help to drive the change forward. This coalition should include people from a range of different departments and levels within the organization.
+
+With the coalition in place, the next step is to create a clear and compelling vision for what the organization will look like after the change has been implemented. This vision should be inspiring and should help to motivate people to get behind the change effort.
+
+Once the vision has been developed, it's important to communicate it widely and frequently throughout the organization. This will help to build support for the change effort and ensure that everyone is on the same page.
+
+In order for the change to be successful, everyone within the organization needs to be empowered to act on the vision. This might involve providing training and resources, as well as removing any obstacles or barriers that might be preventing people from taking action.
+
+To build momentum and keep people motivated, create short-term wins that demonstrate the value of the change effort. These wins can help to:
+
+* Create a sense of momentum that can carry the change effort forward.
+
+Once some initial wins have been achieved, it's important to consolidate those gains and build on them. This might involve:
+
+* Expanding the change effort to other parts of the organization.
+
+* Taking on new initiatives that build on the success of the initial change effort.
+
+Finally, it's important to anchor the new approaches and behaviors that have been developed as part of the change effort in the organization's culture. This will help to ensure that the changes are sustained over the long term and become part of the way the organization operates daily.
+
+Consider revisiting certain steps if something feels like it isn’t quite sticking.
+
+By following these eight steps, organizations can effectively manage and implement major changes, like:
+
+While each step is important, it's important to note that the process is iterative, and organizations may need to revisit certain steps multiple times in order to achieve success. Additionally, it's important to involve employees at all levels of the organization in the change effort, as their support and buy-in will be critical to its success.
+
+A professor at Harvard Business School, John Kotter developed the 8 step process in response to his observation that many organizational change efforts failed to achieve their intended outcomes. He believed that traditional approaches to change management were insufficient. In fact, he saw that a more structured and systematic approach was needed.
+
+Kotter published on these ideas in Leading Change (1996) and The Heart of Change (2002), among subsequent books. To develop the 8 step process, Kotter incorporated several channels:
+
+* He drew upon his own research and experience
+
+* He took in insights from other change experts.
+
+* He conducted extensive case studies of successful change efforts to refine and validate the model.
+
+Widely adopted by organizations around the world, the Kotter process has been successful in achieving significant organizational change in many cases. In fact, Kotter has reported that more than 70% of major change efforts using the model have been successful.
+
+While there is no guarantee that the Kotter 8 step process will work in every situation, it is widely regarded as one of the most effective and comprehensive change management frameworks available. Its success is likely due to its emphasis on…
+
+* Anchoring the new approaches and behaviors in the organization's culture.
+
+Organizational change can be achieved without following the Kotter 8 step process. There are many other change management frameworks and approaches that organizations can use to guide their change efforts. For example:
+
+* Lewin's change management model focuses on three stages of change: unfreezing, changing, and refreezing.
+
+* Prosci's ADKAR model emphasizes the importance of addressing individual change management needs.
+
+No matter the change management model or approach used, there are some key principles and best practices that organizations should follow to increase their chances of success. These include:
+
+* Clearly defining the need for change and the desired outcomes.
+
+* Building a coalition of influential change agents to lead the effort.
+
+* Communicating the vision for change widely and frequently.
+
+* Empowering employees to act on the vision and providing them with the necessary resources and support.
+
+* Measuring and monitoring progress towards the desired outcomes.
+
+* Adjusting the change effort as needed based on feedback and results.
+
+Ultimately, the key to successful organizational change is a combination of a clear vision, effective leadership, and active engagement of employees and stakeholders.
+
+While the Kotter 8 step process is a widely recognized and effective framework for achieving change, organizations can still achieve success by following other change management models or by adopting their own custom approach, as long as they adhere to these fundamental principles.
+
+This posting does not necessarily represent Splunk's position, strategies or opinion.

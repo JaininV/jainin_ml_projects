@@ -1,0 +1,7 @@
+The Veeam Backup for Red Hat Virtualization 3a Plug-In may be used as part of a new deployment or to upgrade an existing Veeam Backup for Red Hat Virtualization Plug-In running versions 2.x - 3.x.
+
+After installing the Veeam Backup for Red Hat Virtualization 3a Plug-In, the deployed/upgraded RHV Backup Proxy appliance's build number will be 3.0.1.855.
+
+* DNS resolution of Veeam Backup & Replication server, Veeam Backup for Red Hat Virtualization server, Red Hat Virtualization manager (oVirt), and all RHEV hosts.
+
+For a complete list of system requirements and known issues, review the Release Notes.

@@ -1,0 +1,61 @@
+BEIJING,  April 18, 2023  /PRNewswire/ -- Baijiayun Group Ltd ("Baijiayun" or the "Company") (Nasdaq: RTC), a video-centric technology solution provider with core expertise in SaaS/PaaS solutions, today announced the unaudited financial results for the six months ended December 31, 2022 ("1HFY23").
+
+Financial Highlights for the First Half of Fiscal Year 2023
+
+* Gross margin was 17.7% for 1HFY23, compared to 30.7% for the prior year period
+
+* General and administrative expenses, as a percentage of total revenues, decreased to 2.9% for 1HFY23, compared to 15.1% for the prior year period
+
+* Net income was $4.8 million for 1HFY23, compared to a net loss of $8.3 million for the prior year period
+
+* Non-GAAP net income[1] was $2.9 million for 1HFY23, compared to non-GAAP net income of $0.4 million for the prior year period
+
+* Non-GAAP adjusted EBITDA[1] was $1.6 million for 1HFY23, compared to non-GAAP adjusted EBITDA loss of $0.6 million for the prior year period
+
+"We delivered solid revenue growth during the first half of fiscal year 2023 and returned to profitability, benefiting from our differentiated value proposition as a one-stop video technology solutions provider in China," commented Mr. Gangjiang Li, chairman and CEO of the Company.
+
+"In recent months, we have successfully completed our transition into a pure-play real-time communications (RTC) solutions provider by divesting the assets associated with Fuwei Films. In addition, we have recently consummated the acquisition of Beijing Hydrogen Data Information Technology Co., Ltd ("Beijing Hydrogen"). This acquisition significantly expands Baijiayun's current product offerings to enterprise clients and strengthens our abilities to create AI-generated content (AIGC) to enhance our video/audio solutions. Beijing Hydrogen has an impressive roster of enterprise clients, including Ctrip.com Group Ltd, China's largest online travel agency, and Bank of Communications, the fifth-largest bank in China by total assets. By leveraging Beijing Hydrogen's existing client base, we are confident that this acquisition will drive growth and enable us to expand our market reach."
+
+"The entire management team of Baijiayun is focused on executing our strategic growth plan of seizing greater market share in the fast-growing video cloud market and enriching our offerings and solutions sets with AI-generated content and video.   Real-time video represents the future of scalable communications across a wide range of application scenarios, including education, sales, leadership and training, healthcare, customer services, and R&D and technology collaboration," Mr. Li continued.
+
+Total revenues were $40.9 million in 1HFY23, representing an increase of 32.2% from $30.9 million in the six months ended December 31, 2022 ("1HFY22"), primarily due to acquisition of new customers and expansion of solutions and services offerings.
+
+The increase in total revenues was due to 1) a 26% increase in the revenues contributed by SaaS/PaaS solutions from $15.2 million in 1HFY22 to $19.2 million in 1HFY23, as a result of an increase in the number of customers and our entry into new vertical markets, and 2) a surge in customized platform development services from $2.2 million in 1HFY22 to $11.1 million in 1HFY23.
+
+Cost of revenues was $33.7 million in 1HFY23, a significant increase compared to $21.4 million in 1HFY22, primarily due to a significant increase in software development and customization costs associated with the growth of private cloud-related services, along with the increase in SMS cost.
+
+Gross profit declined from $9.5 million in 1HFY22 to $7.2 million in 1HFY23.  Gross profit margin decreased from 30.7% in 1HFY22 to 17.7% in 1HFY23, primarily due to 1) the introduction of customized platform development services, which had a relatively lower profit margin, 2) the decrease in gross profit margin of AI solution services as hardware products were purchased and integrated into AI and system solutions projects, and 3) an increase in the percentage of revenues contributed by SMS solutions, which has a relatively low gross profit margin.
+
+Selling and marketing ("S&M") expenses were $2.8 million in 1HFY23, representing a significant decrease of 33.3% from $4.2 million in 1HFY22. As a percentage of total revenues, S&M expenses decreased from 13.7% in 1HFY22 to 6.9% in 1HFY23.  The decrease was mainly due to a decrease in share-based compensation expense for sales and marketing team from $0.8 million in 1HFY22 to $0.1 million in 1HF23. In addition, Baijiayun had a reduction in payroll expense related to sales and marketing team in 1HFY23 compared with 1HFY22.
+
+General and administrative ("G&A") expenses decreased significantly from $4.7 million in 1HFY22 to $1.2 million in 1HFY23, mainly because Baijiayun recorded a reduction in expense in relation to the reversal of bad debt expense of approximately $3.3 million in 1HFY2023, compared to a bad debt expense of $0.4 million in 1HFY22. In addition, Baijiayun recorded share-based compensation expense for G&A team of $0.1 million in 1HFY23, compared to $1.7 million in 1HFY22.
+
+Research and development (R&D) expenses decreased significantly from $10.1 million in 1HFY22 to $2.8 million in 1HFY23.  The decrease was mainly due to a decrease in share-based compensation expense for R&D team from $5.9 million in 1HF22 to $0.3 million in 1HFY23. In addition, Baijiayun incurred less payroll expense for R&D in 1HFY23 than in 1HFY22.
+
+Operating income was $3.2 million in 1HFY23, compared to an operating loss of $9.5 million in 1HFY22. The operating margin increased from (30.8%) in 1HFY22 to 7.9% in 1HFY23.
+
+Net income was $4.8 million in 1HFY23, compared to a net loss of $8.3 million in 1HFY22.
+
+Non-GAAP net income was $2.9 million in 1HFY23, compared to non-GAAP net income of $0.4 million in 1HFY22.
+
+Financial Outlook for the Fiscal Year 2023 of Baijiayun Group Ltd
+
+Based on currently available information, Baijiayun now expects total revenues for the fiscal year ending June 30, 2023, to be between $80 million and $95 million and maintains its expectation of non-GAAP net income of between $5 and $7 million . The lowered revenue outlook primarily results from the market and operational challenges faced by all Chinese businesses due to the Chinese government's abrupt reversal of the "Zero Covid" policy in early 2023.  This updated outlook is subject to various changes and uncertainties, including but not limited to the continuous impact of the COVID-19 pandemic.
+
+Baijiayun has provided in this press release financial information that has not been prepared in accordance with generally accepted accounting principles in the United States ("GAAP"), including non-GAAP net income/(loss) and non-GAAP adjusted EBITDA. Baijiayun uses these non-GAAP financial measures internally in analyzing its financial results and for financial and operational decision-making purposes. Baijiayun believes that such non-GAAP financial measures provide useful information to investors and others about its operating results, enhance the overall understanding of its past performance and future prospects, and allow for greater visibility with respect to key metrics used by its management in its financial and operational decision-making.
+
+Non-GAAP financial measures are not meant to be considered in isolation or as a substitute for comparable GAAP financial measures and should be read only in conjunction with the consolidated financial statements of Baijiayun prepared in accordance with GAAP. Non-GAAP financial measures presented here may not be comparable to similarly titled measures presented by other companies. Other companies may calculate similarly titled measures differently, limiting their usefulness as comparative measures to the data of Baijiayun. A reconciliation of the historical non-GAAP financial measures to the most directly comparable GAAP measures has been provided in the table captioned "Reconciliation of GAAP to Non-GAAP Measures" included at the end of this press release, and investors are encouraged to review the reconciliation.
+
+Definitions of the non-GAAP financial measures of Baijiayun included in this press release are presented below.
+
+Baijiayun defines non-GAAP adjusted EBITDA as net income/(loss) before interest income, income tax benefits/(expenses), depreciation and amortization expenses, exchange gain/(loss), investment income/(loss), gain/(loss) from equity method investments, other income, net and amortization of internally developed software, and adjusted to exclude the effects of share-based compensation expenses and reverse acquisition-related expenses.
+
+This press release contains certain "forward-looking statements." These statements are made under the "safe harbor" provisions of the U. S. Private Securities Litigation Reform Act of 1995. Statements that are not historical facts, including statements about the parties' perspectives and expectations, are forward-looking statements. The words "will, " "expect, " "believe, " "estimate, " "intend, " "plan" and similar expressions indicate forward-looking statements.
+
+Such forward-looking statements are inherently uncertain, and shareholders and other potential investors must recognize that actual results may differ materially from the expectations as a result of a variety of factors. Such forward-looking statements are based upon management's current expectations and include known and unknown risks, uncertainties, and other factors, many of which are hard to predict or control, that may cause the actual results, performance, or plans to differ materially from any future results, performance or plans expressed or implied by such forward-looking statements. The forward-looking information provided herein represents the Company's estimates as of the date of this press release, and subsequent events and developments may cause the Company's estimates to change.
+
+The Company specifically disclaims any obligation to update the forward-looking information in the future. Therefore, this forward-looking information should not be relied upon as representing the Company's estimates of its future financial performance as of any date subsequent to the date of this press release.
+
+A further list and description of risks and uncertainties can be found in the documents that the Company has filed or furnished or may file or furnish with the U. S. Securities and Exchange Commission, which you are encouraged to read. Should one or more of these risks or uncertainties materialize, or should underlying assumptions prove incorrect, actual results may vary materially from those indicated or anticipated by such forward-looking statements. Accordingly, you are cautioned not to place undue reliance on these forward-looking statements. Forward-looking statements relate only to the date they were made, and the Company undertakes no obligation to update forward-looking statements to reflect events or circumstances after the date they were made except as required by law or applicable regulation.
+
+Baijiayun is a video-centric technology solution provider with core expertise in SaaS/PaaS solutions. Baijiayun is committed to delivering reliable, high-quality video experiences across devices and localities and has grown rapidly since the inception in 2017. Premised on its industry-leading video-centric technologies, Baijiayun offers a wealth of video-centric technology solutions including Video SaaS/PaaS, Video Cloud and Software, and Video AI and System Solutions. Baijiayun is catered to the evolving communications and collaboration needs of enterprises of all sizes and industries, which makes Baijiayun a one-stop video-centric technology solution provider. For more information, please visit www.ir.baijiayun.com

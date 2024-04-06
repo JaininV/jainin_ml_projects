@@ -1,0 +1,37 @@
+Brief Notes on Computer Word and Byte Sizes (7 March 2023
+
+Where Did "Data Shadow" Come From? (26 June 2021
+
+Hot Take on the Twitter Hack (15 July 2020
+
+Back when the world and I were young and I took my first international trip, I was told that I needed to obtain and carry an
+
+International
+
+Certificate of Vaccination (ICV).
+
+They’re not used much these days, except for travel to yellow fever areas, but they’re
+
+still around.
+
+With a bit of luck, we’ll have a vaccine soon for Covid-19. It strikes me as quite likely that soon after general availability, many countries will require proof of vaccination before you can enter, a requirement that might especially apply to Americans, given the disease rates here. But there’s a problem: how will border guards know if the certificate is genuine?
+
+This is a very odd time in the U. S. Far too many people think that the disease is a hoax, and
+
+resist
+
+requirements to wear masks. More seriously, there are fraudulent "Freedom
+
+to Breathe Agency" cards that purport to exempt the bearer from mask-wearing requirements. It does not take any particular stretch of the imagination to suspect that we’ll see an outbreak of fake ICVs.
+
+The obvious answer is some sort of unforgeable digital credential. Should this be a separate government-run database? More precisely, there would be many of them, run by governments around the world. Should
+
+WHO run it? How do these databases get populated? Are they linked to folks’ electronic health records? Employers and schools are likely to want similar verification—but how much of a person’s medical records should they have access to? (My university is going to
+
+require
+
+flu shots
+
+for all students.)
+
+There are a lot of ways to get this wrong, including not doing anything to ensure that such certificates are genuine. But there are also risks if it’s done incorrectly. Are people working on this issue?

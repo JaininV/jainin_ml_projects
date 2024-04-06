@@ -1,0 +1,23 @@
+Enhancements will augment human customer success productivity with the efficiency of generative AI
+
+Founder/Board Member of the Responsible AI Institute Manoj Saxena and Jasper VP of CS Zach Anderson to speak at Totango’s “Next Gen CS” event
+
+Totango, Inc., the industry’s only Composable Customer Success platform that helps companies deliver immediate value, today announces its inaugural efforts in a comprehensive approach to applying generative AI to customer success. These first steps include both the delivery of new capabilities and a partnership with leading generative AI platform Jasper, which will further boost customers’ productivity.
+
+“Totango’s approach to AI is based on the goal of increasing the impact and productivity of customer success teams and accelerating scaled CS initiatives,” said Alistair Rennie, CEO of Totango. “We are focused on enabling responsible development and adoption of AI to enhance the value of CS while protecting brand and enterprise data. Our partnership with Jasper enables a powerful boost in content creation consistent with the brand voice of each customer.”
+
+Totango’s debut generative AI enhancements include plain language-to-code generation for integrations and systems connectors and the ability to create customer segments with a simple text query, with more yet to come. The new features integrate data via automated workflows and decrease the time it takes to create new content and programs, making the Composable Customer Success platform even easier to use.
+
+* Automated integrations: Connect Totango with other systems of record, like Salesforce CRM, by using a simple text query that will result in code snippets to facilitate integrations without the need for an engineer or technical resource.
+
+* AI assistant: Quickly find and surface the information you need in Totango segments, within customer accounts, or across your entire customer portfolio by using natural language queries. For example, users can ask Totango in plain language chat to surface a group of customer profiles who share common characteristics such as low health scores, decreased product utilization, or increased support tickets.
+
+These product features will be rolled out, in beta, in Q2.
+
+Totango’s new partnership with Jasper, the #1 AI platform for creators and marketing teams, supports the incorporation of AI into CS. With Jasper integrated directly in the Totango platform, CS professionals can create personalized content 10X faster and train AI to customize content based on company information, style guide, and brand voice, all while keeping data secure in an enterprise-safe environment.
+
+“Generative AI will be a critical tool for productivity in many businesses,” says Dave Rogenmoser, CEO and co-founder of Jasper. “Through our Technology Partnership Program, Totango is able to integrate the power of Jasper directly into customer success workflows to enable high quality content creation, protect brand voice of Totango customers, and free up CS teams to spend more time on strategic engagements.”
+
+Read More: Staying Ahead of the Fall: How Sales Teams Can Be Proactive When the Economy Tightens
+
+With a commitment to developing with AI responsibly and ethically, Totango will also host “Next gen CS: Safely navigating AI and the opportunities for customer success,” a live conversation about the impact and importance of this emerging technology. Manoj Saxena, Executive Chairman of Trustwise and Founder/Board Member of the Responsible AI Institute, and Zach Anderson, VP of Customer Success at Jasper are set to join Totango CEO Alistair Rennie for a discussion that aims to drive understanding, as well as the safe and successful adoption of AI in the customer success market.

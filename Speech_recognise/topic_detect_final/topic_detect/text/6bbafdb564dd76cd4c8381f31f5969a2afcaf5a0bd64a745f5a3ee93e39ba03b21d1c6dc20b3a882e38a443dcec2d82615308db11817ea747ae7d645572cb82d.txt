@@ -1,0 +1,7 @@
+The company says that the "all-in-one sensor platform" is tailored for autonomous unmanned surface vehicle (USV) systems.
+
+"With its compact, streamlined design and precise 3D control, ViperFish can safely survey narrow, hard-to-reach areas , with stable sensors close to the seabed for optimal data collection," Eiva says.
+
+"ViperFish uses the same electronics and flight control as the industry-leading UXO survey sensor platform, ScanFish. This means that many of ViperFish’s components are proven with thousands of hours documented in the field.
+
+In addition, the 3D towed platform is integrated with several high-quality sensor options: Wavefront Solstice MAS, EdgeTech 2205 SSS, R2Sonic MBES, OFG Hypermags Sonardyne SPRINT-Nav Mini and more," EIVA says.

@@ -1,0 +1,57 @@
+Recently, while reading some articles about React, I realized how distant the ideas behind the types used can be. Often, this is ignored because the code is working. But why are there so many different types if they all work? I decided to do some research to clear my doubts and find some solutions to the common problems I encounter in my daily work. Unfortunately, there is very little material on the subject, so I decided to share some patterns that I found, mostly based on the Typescript documentation and discussions within Github.
+
+One of these problems is when we use an HTML element as a basis for creating a component in React, either to add new functionality or style to avoid code duplication.
+
+Definitely not React. HTMLProps or React.HTMLAttributes
+
+That was the message I found right away in the TypeScript documentation. Which surprised me because they were the most commonly used types I found in articles and videos on the internet. But why not use them?
+
+// DON'T USEinterface ButtonProps extends React.HTMLProps
+
+This is an example from the TypeScript documentation itself. However, when we use React. HTMLProps as an interface, it uses AllHTMLAttributes under the hood, which defines all HTML properties and is used for HTML elements where you don’t have a specific tag.
+
+Instead, I recommend using one of the three recommended types:
+
+In the first case, we have a button that may or may not have a reference; in the second, a button with a reference; and in the third case, a button without a reference. For this, React’s ComponentProps uses the type JSX. IntrinsicElements, which returns only the properties of the specified element.
+
+This solves several problems I encountered, such as codes that needed to define properties that are already part of the original element.
+
+Another common problem is when a component has either one or the other property, but never both. Instead of using two optional properties or even properties that receive a whole object to define something, we can define two types:
+
+type ButtonProps1 = {  foo: string}type ButtonProps2 = {  bar: string}function Button(props: ButtonProps1 | ButtonProps2) {  if("foo" in props){    return
+
+And now we share the common attributes between the two types:
+
+interface ButtonProps extends React.ComponentProps
+
+For this case, we can use a Utility Type called Record. Its structure is Record, where Keys are the keys used and Type is the type used in these keys:
+
+type Nothing = Record
+
+We use the type never to indicate that we don’t accept any value. This is different from void, and you can find some material to better detail this. Now see what happens when we use the component:
+
+const Page = () => (  <>
+
+However, this solution may not be the best for everyone, since nothing prevents an interface from receiving {} and not having any attributes. But I personally prefer to have a more verbose code than a beautiful one in several moments. However, we have this alternative:
+
+interface ButtonProps extends React.ComponentProps
+
+Another solution is to make both properties optional and validate if all of them are being passed, but depending on the component size I think this can become a problem.
+
+Using an example from the documentation itself, imagine that you need to create a text component where if the expanded property is passed, you also need the truncate property. The expected result is as follows:
+
+const MyTextComp = () => (  <>    {/* Utilização correta */}                {/* TS error: Property 'truncate' is missing in type '{ children: string; expanded: true; }' but required in type '{ truncate: true; expanded?: boolean | undefined; }'. */}      </>);
+
+We can implement it as follows:
+
+import { ReactNode } from "react";interface CommonProps {  // ...}type NoTruncateProps = CommonProps & { truncate?: false };type TruncateProps = CommonProps & { truncate: true; expanded?: boolean };
+
+We created two interfaces, one for the case where truncate is false and another for the case where truncate is true. Then, we use the Typescript feature called Function Overloads, which is basically defining different signatures for the same function:
+
+// Function overloads to accept both prop types NoTruncateProps & TruncatePropsfunction Text(props: NoTruncateProps): JSX.Element;function Text(props: TruncateProps): JSX.Element;function Text(props: CommonProps & { truncate?: boolean; expanded?: boolean }) {  const { children, truncate, expanded, ...otherProps } = props;  const classNames = truncate ? ".truncate" : "";  return (      );}
+
+Done. Now your component will only accept the expanded property if the truncate property is provided.
+
+By using techniques like these, it is possible to make the code more readable and easy to maintain, as well as save time and avoid common mistakes. It is important to remember that the goal of Typescript is to serve as a tool to help organize the project and not as another problem to deal with. Try these techniques in your own projects and comment on the problems you face with Typescript in React.
+
+Useful Patterns by Use Case

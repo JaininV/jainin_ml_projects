@@ -1,0 +1,53 @@
+I did a lot of things, but when I look back, there was one event that made me think, “This was the highlight of this year,” so I’ll write it down quickly.
+
+I did a lot of things, but when I look back, there was one event that made me think, “This was the highlight of this year,” so I’ll write it down quickly.
+
+I became a leader who accepted inexperienced engineers. (Ah, I was an inexperienced engineer ten years ago.) For some reason, I was the leader for “only one week”, but it was too rich, and I did various things at a level that I thought I could shoot a documentary, and it was a memorable week.
+
+Even considering the short working hours and leave, this is my first experience as a leader after ten years as an engineer. There was a time when I was often assigned to be the leader of a medium-sized development project from last year. Still, my subordinates, or rather, the same team members, were people of the same generation as me or even higher skill level, so somehow, I didn’t have to “take care” per se.
+
+Until now, I had the opportunity to be a “senior” (not a boss) who would take care of my juniors, but honestly, I was running away from having subordinates who needed to be trained as “bosses” and “leaders.” Because I didn’t have confidence in my skill level (simple), I thought it would be better to train under other seniors than me because I could learn more.
+
+However, the two “inexperienced engineers” assigned at this time did not choose their superiors or their assigned team, but they happened to be on my team. I thought, “I can’t do it, I can’t do it, I don’t want to do it, I want to run away.” “But for these two, ‘I’ will be ‘the first boss’ in the career of ‘engineer’ that I have bravely stepped forward.”
+
+After realizing this, I just had to make up my mind. I was afraid of what people would think of me, but more than that, I had a vague sense of mission that said, “I don’t want the engineering world to be disappointed, and I shouldn’t pick the buds of the future.” won.
+
+In this way, our team consisted of 4 people: myself (leader), my junior (experienced engineer), and two inexperienced engineers. One release within a week! We have implemented the following with the goal of
+
+* One-on-one on the first day (hearing the current state of mind)
+
+* Explanation of the development flow (generally, this is the development flow)
+
+* Rough lecture on how to enter test data, an overview of the application in charge, etc.
+
+* How to branch, how to create PR, how to review (especially about our team’s unique circumstances)
+
+By the way, the two of them can do things that ordinary school graduates can do without problems, such as “making mini-apps with Rails and using GitHub normally.” Still, they don’t have any practical experience (that’s what they said from the beginning).
+
+On the other hand, I have average technical skills, have never studied management physically, and the last leader was the university’s tea ceremony club director. So, I think we were in a situation where we both asked, “How far can we ask?”
+
+However, fortunately, the application I was in charge of had a relationship with the customer department for more than half a year. I was able to select issues and coordinate the release with a certain degree of ownership, and as a result, “Both of them were able to release one within a week and get positive customer feedback.”
+
+* Since the two of them came at the same time, they asked each other questions about minor errors and bugs and then came to listen.
+
+* Everyone in the customer department expressed joy on the Slack channel after realizing that two inexperienced people had implemented it.
+
+I was also helped a lot by the excellence and concern around me.
+
+After a week passed, our team was temporarily disbanded, and we decided to work in different places. I’m in the company, but the team meetings are separate, so I saw them once every few months and was like, “How are you?”
+
+I was newly appointed as the team leader of the information system, and I tackled various things confidently. The range of things I could do has expanded dramatically. It’s been a ride!
+
+For a while, I realized that I was working on about seven projects in parallel, including my work and private life, but it was fun, and I was wonderful with it, and I was surprised at how much my capacity had expanded.
+
+This has probably been the broadest and deep relationship with the most people in the history of my career. Looking back, I felt that the trigger was what happened this time.
+
+On my last day at work, I talked to the three members of the team at the time and thought again that my Junior to take over my team at the time, and he was much more than I was at the time.
+
+They have become outstanding leaders who bring together many members, and the two of them, inexperienced engineers, can now produce excellent results independently. And each of them was working lively.
+
+For the time being, I was relieved that I had avoided the route of “I quit being an engineer because my first boss was hard,” but at the same time, I realized. Thanks to the two of them surviving this year as engineers, I wonder if I could say that I was able to unlock the achievement of “the first boss of an inexperienced engineer”.
+
+Sign up for our free weekly newsletter. Follow us on Twitter, LinkedIn, YouTube, and Discord.
+
+Interested in scaling your software startup? Check out Circuit.

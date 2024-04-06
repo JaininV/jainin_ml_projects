@@ -1,0 +1,47 @@
+Before I jump into the assignment and my process, I would like to thank my mentors:Piotr Tomaszewski for the initial support on the application process. Willian Magalhães for guiding me on the home assignment and making sure I nailed it.Your support was very helpful and aside from learning a lot along the way, it also boosted my confidence in this whole job application endeavour.
+
+As part of my application process with a health tech company, I was asked to do a home assignment consisting of 3 parts: 2/3 UX design and 1/3 UX writing. I will be focusing only on the UX writing part in this post and will leave the rest for another post. The software is a tool for medical workers to manage the patients’ and staff information.I was provided access to the software playground environment and could try out the different functions on my own. I also used it to take screenshots for my delivery presentation.Users of the software product can create or delete “resources” (aka patients or doctors’ info) in the database. When a user wants to delete a resource, the following dialogue appears:The original copy of this message was translated from German. The original UI was replicated by me.Are you sure you would like to delete selected resource? THIS ACTION CANNOT BE REVERSEDYes, this is almost an identical translation of the original German copy. Yes, this is also an almost identical replication of the software’s UI.Create a new wording for the “Attention, danger!” dialog and describe how you proceed from a user research point of view.
+
+Thanks to my mentor Willian, I applied an approach from the Good Strategy Bad Strategy book by Richard Rumelt. Basically, it’s like the design process sifted down to the very basics:Suggest first steps — how might the execution look like based on steps 1 & 2?My step by step approach for this (and any) assignmentThis approach ensured that I understood the problem space first, showcased my ideation process and how it led me to a solution suggestion. Note that the last step is merely a suggestion — hinting on a potential direction the solution could go to. That way I am demonstrating that there is no solution set in stone.
+
+To kick things off, I had to understand the problem space first. Honorable mention to my former design manager Constantin who always told me:And while the assignment stated to create a new wording for the message, I decided to look at the situation from a more holistic point of view:Do we have other error dialogues within the product? How should they look like?How do we usually communicate sensitive matters to the user?By that I assumed a goal for this assignment as the following:Create a consistent and scalable wording style for error messages across the product.Exploring the problem space further, I analyzed this message through the lens of UX, UI and Writing best practices and identified a few challenges:Inconsistent wording.
+
+Sentence case vs. title case/ color/ font sizes. While a lot can be said about the UI, we are seeing 3 different colors, 3 different font sizes and title case applied frivolously.
+
+Imagine reading a book in this format, or your microwave’s buttons labeled in this way.The tone doesn’t fit the product.
+
+I would imagine a software for doctors/ nurses/ hospitals wanting to sound practical and clear in its product tone to minimize disturbance for its users who are working in a stressful environment.Doesn’t align with the Nielsen-Norman Usability Guide for error messages.
+
+This is a big one on the design industry best practices. In a nutshell, we want the product to communicate consistency, clarity and a manner that is solution oriented to the users. Needless to say, this error message didn’t match the rest of the product.What about accessibility?
+
+The really small descriptive text and X in the upper right corner do not align with standard accessibility guidelines.
+
+A lack of UI orientation for the primary vs. secondary buttons can contribute to user confusion as well.
+
+Expanding on the exploration stage, I looked at different ways we can tackle the problem space. In this stage it’s important to remember that in a real life scenario I would be working with many stakeholders within the company.
+
+There is actually zero chance that a UX Writer will work alone in a company. Collaboration is mandatory.What was tried already to solve this problem?
+
+Was there research done that we can expand on?
+
+How can we work together with design to improve not only the text but also the UI?
+
+Can changes be applied sustainably throughout the product?Looking back, I could have asked even more questions than I did at the time and focus on collaboration even more. Here are a few of the exploration questions I proposed:Research
+
+Are there statistics on how often “Delete” is clicked? What is the probability of a user clicking it? How often does a user actually need/ want to delete a resource?UX Design
+
+If this is such a sensitive action, why is it so readily available on the screen (see screenshot above with the red icon)? Can this action be more hidden in the flow? Can we implement UI principles to avoid a mistake?Writing
+
+What is the tonality guide (so far, if there is none)? Is there room to implement a tonality guide? How do error messages look like in different scenarios? Can we reduce the text to provide clarity (the word Resources appears 3 times)? How can we best direct the user in this case on what might happen?
+
+To summarize on the discovery I’ve done so far from problem definition to exploration, it was time to define a possible direction in the solution space. I divided my delivery into 3 parts:Clear formulation
+
+Using a concise, clear language and keeping the message short. Adjusting the tone of the message to be more practical and less emotional. Creating hierarchy
+
+Headline explaining what happens next if the user decides to permanently delete a resource. Secondary text explaining in detail on how to proceed.Applying UI & UX principles
+
+Using a primary and secondary button to avoid user confusion. Ideating on further interaction: is there a confirmation once the user clicks “delete”?Furthermore, I created a mid-fidelity wireframe to illustrate how a rewriting might look like. Notice that I aligned the text to the center. This kind of decision would also depend heavily on the design direction of the product.My suggested solution for the error dialogue wordingIf you still wish to proceed, please click “continue”For the sake of context and transparency, here is what my original suggestion in German looked like:I am not a native German nor English speaker, so tackling text in foreign languages is always a fascinating explorations in one of my favorite things these days — ✨reducing complexities✨.I would love to hear your opinions on the process and what copy suggestion you would have come up with. What do you think about my process tackling this assignment?As always, your feedback is very welcome!
+
+Thank you for reading thus far!
+
+If you liked this article, please give a looooong clap. It helps me a lot to get more reach and motivates me to write more stuff like this.

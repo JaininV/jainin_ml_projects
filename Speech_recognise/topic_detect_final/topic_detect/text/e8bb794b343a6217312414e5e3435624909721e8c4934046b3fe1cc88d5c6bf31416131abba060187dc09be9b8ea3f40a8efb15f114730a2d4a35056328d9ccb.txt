@@ -1,0 +1,47 @@
+In 2023, food traceability is reaching critical mass, as governments, food companies, and partners along the supply chain focus on creating a transparent, safer food supply chain for everyone. Trustwell’s recent research, the 2023 State of Traceability Report, showed that companies need to consider their traceability options today to stay relevant in the FDA’s New Era of Smarter Food Safety blueprint.
+
+Neil Aeschliman, Independent Traceability Consultant, put it succinctly in our Traceability Report: “There is a mind-blowing number of food and companies involved in the journey from harvest to plate. Only government regulations have the ability to uniformly raise the floor and generate critical mass across the collection of disparate actors.”
+
+And the Food and Drug Administration (FDA) is doing just that. As 2022 ended with the finalization of Section 204 of the Food Safety Modernization Act (FSMA 204), food companies now have a deadline of January 2026 to create and maintain a traceability plan and collect records on “high-risk” foods that pass through their doors. Even end of chain partners, such as convenience stores, grocery retailers, and restaurants, will need to prepare for the FSMA 204 deadline.
+
+In our 2023 State of Traceability Report, we asked a number of traceability experts about what components make up successful food traceability systems. While you can read all their suggestions by downloading our report, here are some key considerations that companies can start to implement today.
+
+The food supply chain is a global system, and as such, companies will need to consider how accessible and accurate their information is, as well as how to cooperate with other partners along their supply chain. This means utilizing a traceability system that can be used by all – including non-English speakers, low or no-tech partners, and international companies that follow different traceability processes and regulations.
+
+Without these considerations, companies could struggle to have all their partners work in sync with their traceability system. Data capture could lag, quality controls could be missed, and mistakes could be more likely to happen. To avoid this, companies should create clear lines of communication between all partners along the supply chain and be open to cooperating with each partners’ needs. Of course, this is easier said than done, and will be particularly difficult for companies that are using paper records.
+
+Here are some questions to ask as you develop your traceability system:
+
+Does your company use a centralized location where suppliers, distributors, and other partners can share data, communicate potential issues, and view essential communications?
+
+Has your company identified a point of contact for each supply chain partner? Are your partners aware of your point of contact, as well?
+
+Is your system flexible to consider all the needs of your supply chain partners – such as capturing data that meets both US FDA FSMA 204 requirements and other international traceability requirements?
+
+Does your system offer compliance checks for partners, so you can easily track who is sharing and completing the correct paperwork and traceability data, and who is falling behind?
+
+A major aspect of FSMA 204 is creating standardized language around traceability data. This includes using standard language when capturing Critical Tracking Events (CTEs) and the relevant Key Data Elements (KDEs). By using a standard language, the FDA believes it will simplify tracking food up and down the supply chain as all partners will (hopefully) be using the same terminology.
+
+But outside of capturing CTEs and KDEs, businesses will also need to capture Traceability Lot Codes (TLCs) that include identifiable product information. This can be done in several ways, and companies can collect product names, brand names, variety or species identifiers, and more. They can even include GS1 US standards to add an additional layer of identification through barcodes.
+
+However, what is most essential is that every partner along the supply chain understands these identifiers and data elements. Again, communication is key to making sure all the elements are properly catalogued, captured, and defined.
+
+While the FDA does allow companies to continue using paper records for capturing traceability data, many companies may find it is far easier to utilize digital recordkeeping systems that automate, audit, and protect traceability data. A number of traceability systems exist on the market for businesses to consider for their unique needs. However, this creates a new challenge for businesses, as it will be paramount for their system to be able to communicate with other systems up and down the supply chain.
+
+System interoperability is defined as the ability for a computer system to integrate, exchange, and make sense of other systems’ data in a business’ internal and external network. While some companies may find a digital traceability system that works for them, if that system can’t communicate with other companies’ systems, it only adds to the burden of work needing to be done and disrupts end-to-end visibility. Employees could have to input data manually and edit errors, or else system errors could cause serious issues down the line. Without interoperability, digital systems will hinder efficiency instead of aiding it.
+
+If you’re in the market for traceability systems, consider these elements:
+
+Does the system adhere to standardized language around traceability data? For example, does it capture the necessary elements (TLCs, CTEs, and KDEs) to maintain FSMA 204 recordkeeping compliance?
+
+What software systems do your supply chain partners use? Does their software easily communicate with other systems, and could that influence your decision?
+
+What processes will be impacted by your software decision? Are all the impacted roles considered when you choose a solution partner?
+
+Does the system use a standardized method of communication and software protection, such as SOC 2 compliance?
+
+If there’s one guarantee in life, it is change. And while your company may build a strong traceability system today, it is also essential for that system to remain flexible to future changes and disruptions.
+
+Think about where your company will be in January 2026. That is what you should be planning for when creating your FSMA 204 traceability program.
+
+To learn more about food traceability, download our State of Traceability Report to read expert insights on building a successful system for today and tomorrow. And to learn more about Trustwell’s FoodLogiQ Traceability system, including how your company can prepare for FSMA 204 compliance, future flexibility, and more, contact our team or schedule a demo.

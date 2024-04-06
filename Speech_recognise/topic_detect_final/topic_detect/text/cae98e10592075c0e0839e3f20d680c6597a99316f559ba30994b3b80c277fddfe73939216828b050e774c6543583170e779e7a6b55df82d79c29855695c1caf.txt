@@ -1,0 +1,17 @@
+Last year, L-Acoustics encouraged users to “amplify differently,” unveiling the new LA7.16i amplified controller. Based on years of research and development, LA7.16 significantly improved flexibility and efficiency, especially in multi-channel fixed installation projects. Today, L-Acoustics unveils its road-ready counterpart, the LA7.16 amplified controller for live productions.
+
+The LA7.16 amplified controller offers supreme flexibility to meet real-time power needs while offering a level of efficiency and sustainability unheard of in modern touring applications. The high-density format—16×16 architecture in a 2U format—powers more line array speakers than any similar-size amplifier, meaning fewer racks on tour, which in turn translates directly to energy and time savings along with the ability to address multichannel and hybrid productions, while offering a level of efficiency and sustainability required in modern touring applications. The high-density format saves space, weight and time in deployment.
+
+LA7.16 responds perfectly to the amplification needs of L Series, whose L2 and L2D elements contain 20 drivers and require 16 high-power amplifier channels and 16 state-of-the-art DSP channels. LA7.16 boasts a touch screen and an encoder wheel to rapidly set up initial parameters and a single SC32 connector on the rear for connecting loudspeakers. Using new connection accessories, LA7.16 powers any L-Acoustics line source array up to K2.
+
+The new LA-RAK III touring rack houses three LA7.16 amplified controllers boasting 48 amplification channels and 48 individual DSP channels totaling more than 60,000 watts of peak power in a 9U rack, with two LS10 switches to support MILAN AVB seamless redundancy.
+
+Current amplifier technology is dimensioned to power all channels simultaneously over extended periods of time. However, in real-world applications, this kind of demand is rare. The LA7.16 amplified controller technology delivers power more efficiently and uses energy more effectively.
+
+“LA7.16, with its best-in-market efficiency, is the perfect partner to the newly launched L Series,” says Scott Sugden, Director of Product Management, Electronics at L-Acoustics. “The power capacity and energy efficiency are breakthroughs in design and will help rental providers to deploy faster and realise real-life economies in transport and deployment.”
+
+LA7.16 uses L-SMART, a suite of advanced power management technologies that allows designers to mix and match any L-Acoustics loudspeaker onto one amplifier. L-SMART uses proprietary predictive modelling algorithms to manage the power supply unit (PSU) and the individual amplification channels. Hardware sensors within the amplifier supply real-time information, which is analysed by the DSP to dynamically match the loudspeaker system needs. The PSU then provides extremely high short-term peak power, or lower power over longer hold times. This energy is delivered intelligently to the advanced Class-D output stages, assuring optimum system performance at all times. LA7.16 can drive any L-Acoustics loudspeakers up to K2, enabling high-resolution amplification and processing of large-format speakers with less system budget.
+
+LA7.16 will be at Prolight + Sound Booth #C06, in Hall 11.0 and at Infocomm Booth 5751, Level 2 and Demo Room W320, Level 3.
+
+For more information on LA7.16, please click HERE.

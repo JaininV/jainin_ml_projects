@@ -1,0 +1,39 @@
+The rise of the Agile model and the DevOps culture has created the requirement for software development Engineer in Test (SDET) experts who can compose and test codes. Software testers encapsulate the skills and mastery of developers and testers, making them capable of software development and quality engineering.
+
+In this article, we will investigate the jobs and obligations of software testers and their various positions.
+
+A Software Development Engineer in Test is an expert with the skills and mastery of both a developer and an analyzer. Software testers are associated with the development and testing periods of the Software Development Life Cycle (SDLC).
+
+They are liable for guaranteeing the quality of software products by designing and carrying out automated tests, distinguishing defects and bugs, and working with development groups to resolve them. Software testers have software development and quality engineering skills, empowering them to comprehend the software code and its testing prerequisites.
+
+Their skills incorporate programming languages, testing frameworks, and automation devices. Software testers likewise have a decent comprehension of software architecture, design patterns, and database frameworks.
+
+A broad perspective of the professional duties of a software tester:
+
+Software testers utilize their engineering expertise to participate in data design, product design, and user interface development. They are proficient in automation testing and can establish test automation frameworks, select appropriate tools, create test cases, and apply these skills across multiple platforms.
+
+Software testers act as customer representatives, seeking to understand product requirements from their perspective. They possess coding knowledge, which enables them to write automated test scripts for various tests in the software development process.
+
+Their roles and responsibilities include building, customizing, deploying, and managing test automation frameworks, conducting debugging activities, investigating customer issues and collaborating with technical support teams, working closely with deployment teams, developing CI/CD pipelines, providing feedback on architectural design, staying up to date with testing tools and methodologies, managing quality in production releases, and preparing test reports.
+
+Overall, Software testers are highly skilled in testing and quality assurance, and they play a critical role in ensuring the successful development and deployment of software products.
+
+The Senior Software tester is a position with many roles and obligations. With their broad work insight, they are fit for delivering big high-quality data, large-scale, multi-platform, and custom hardware-software products.
+
+They are skilled in working in a continuous integration environment and contribute to developing end-to-end and automated functional integration tests, utilizing open-source test automation frameworks in an Agile environment.
+
+Senior Software testers have significant discretionary authority and various roles and responsibilities, including building and maintaining automated test cases, executing test suites, diagnosing and reviewing detected bugs, and working with the engineering team to determine testing requirements. They are proficient in conducting tests for complex mobile, API, and web-based applications.
+
+They are responsible for ensuring the overall quality of the system before customer release, and in addition to functional automation, they also assist with Security Testing, Performance Testing, API Testing, and Unit testing. Senior Software testers collaborate with developers to build software artefacts such as test cases, test plans, procedures, and test reports.
+
+As a senior position, they provide training and technical guidance to junior personnel, identify and detect problems, and assist in reproducing, resolving, and fixing them. They also participate in the analysis framework and performance testing for web service architecture.
+
+The professional activities of a QA software tester are distinct from those of traditional QA professionals. Although SDET is often used interchangeably with software testers, the two differ.
+
+A Software Development Engineer specializes in writing code for automated application testing, whereas QA personnel typically conduct manual testing using traceability matrices and written testing plans. As part of their roles and responsibilities, They create automation frameworks that QA professionals can use to write tests.
+
+Software Development Engineer in Test possesses a unique skill set, including software testing and programming proficiency. This makes them valuable tech leads for QA teams. It is worth noting that while Software Development Engineer in Test has technical programming expertise, QA testers are generally more proficient in traditional testing methods.
+
+The blog thoroughly explains the Roles and Responsibilities of SDETs, which have evolved due to the shift of the software development model to the Agile framework. The need for faster sprints and continuous integration and deployment led to the combination of coding and testing roles, resulting in the emergence of the software tester position.
+
+Compared to traditional software developers or testers, Software Development Engineer in Test has an advantage due to their combined development and testing skills, making them valuable assets for any organization.

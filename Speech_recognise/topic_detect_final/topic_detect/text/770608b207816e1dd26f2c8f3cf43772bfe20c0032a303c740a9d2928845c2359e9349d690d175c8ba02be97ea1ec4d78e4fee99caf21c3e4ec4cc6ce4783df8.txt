@@ -1,0 +1,49 @@
+Sometimes you might wonder why a user or customer keeps contacting your support on issues that have been previously resolved for some customers, despite the resolution being posted on the website knowledge base such as Support Ticket or FAQ.
+
+The case and circumstance of the customer are very understandable, because, whenever customers need instant clarification or answers to concerns, their inquisitiveness is very high with low patience, which then results in the inability to search through your knowledge base for the solution to their concerns. This article provides a step-by-step work-through on how you can convert in real-time, your knowledge base into a conversational chatbot system to enable customers to interact and get instant responses to their concerns without having to contact support on issues previously identified. To step up the conversational chatbot system, we are doing to set up a Dialogflow account and configuring the automation, then embedding and customizing the conversation tool on our website.
+
+Dialogflow is a natural language understanding platform used to design and integrate a conversational user interface into mobile apps, web applications, devices, bots, interactive voice response systems, and related uses. The Dialogflow inbuilt NLP (natural language processing) and ML (machine learning) make it seamless to help auto-train your knowledge base without your intervention and allow you to only focus on updating your website FAQ or support ticket. blah… blah…. blah…. Now let’s dive into it.
+
+Create a Dialogflow account and set up an Agent
+
+Visit Dialogflow to sign in, then click on Create new agent, give it a name, select a default language, and timezone, and you can leave the rest and click Create. The Agent will be responsible for all the auto-responses to your customer during the conversation process.
+
+Click on the settings icon beside the Agent name, then ensure the “Enable beta features and APIs” is checked. This is required to activate the Knowledge API module in Dialogflow.
+
+To add your knowledge base (FAQ) to the Dialogflow knowledge, you will need to ensure that you have your FAQ hosted on your website and accessible via URL, for the sake of this walk-through I will make use of the Amazon Pay FAQ.
+
+Click on “Knowledge”, then provide a name e.g. “Amazon Shopper FAQ”, click “Save”, next click “Create New Document” to provide the Document Name “Shopper FAQ”, select FAQ for “Knowledge type”, then select text/html for “Mime type”, then paste the URL to your FAQ in the URL box as shown above, then ensure “Enable Automatic Reload” — this will allow the Dialogflow to auto-update the bot knowledge using NLP and ML once you update the FAQ on your website. Once you click on “Save”, boom…….Dialogflow will extract your FAQ and build several matching intents for effective conversation chatbot operation.
+
+Integrate/Embed the Chatbot on the ReactJS website
+
+Now it is time to embed your conversational chatbot on your website, note that this can be on any front-end framework website, or even a basic HTML/CSS website. First, we need to copy the embedding code from Dialogflow.
+
+Click on “Integration” and then locate and click on “Dialogflow Messenger”, in the popup, select “Draft” and click “Enable”. That will display your embedding code as shown above, copy that code and paste it anywhere (preferably, inside the Header tag) on your website.
+
+With the below screenshot, you will notice some additional variables added to the tag attributes, such as the expand=”true” and chat-icon=”%PUBLIC_URL%/favicon.ico”, those are customizable attributes.
+
+The “expand” is to force the chat box to auto-open when a customer comes to your website, the “chat-icon” replaced the default Dialogflow icon on the chat box, also, you can change the “chat-title” message as well. See the sample chat box below.
+
+You might wonder how to customize the chat box to ensure the color scheme matches your website branding, no worries, it’s just a few lines of CSS gimmicks to tweak. Copy the code snippet below into your CSS file and change the color codes to your desire, voila!!!!!!
+
+df-messenger {  --df-messenger-bot-message: #666;  --df-messenger-button-titlebar-color: #666;  --df-messenger-button-titlebar-font-color: #fff;  --df-messenger-chat-background-color: #fafafa;  --df-messenger-font-color: #fff;  --df-messenger-user-message: #1187ee;  --df-messenger-input-box-color: #fff;  --df-messenger-input-font-color: #333;}
+
+That is all for ReactJS or any other HTML/CSS-powered website. Now let’s see how we can adjust/replicate the process above in WordPress.
+
+Integrate/Embed the Chatbot on the WordPress website
+
+By now, you already have your embedding code from Dialogflow. To paste the code snippet in your WordPress website, some usually paste in the theme/template header, please do not, it’s usually not the best practice because, whenever there are theme/template updates, it will override the code you pasted. So, I will recommend installing the “Insert Headers and Footers” plugin. See below:
+
+Click on “Add New” under Plugins and search for “Insert Headers and Footers”, install, and activate. The plugin will allow you to add any custom headers and footers CSS and Javascript codes and will be independent of your theme/template.
+
+Now, head on to Settings > WP Headers and Footers, then paste your embedding code snippet in the “Scripts in Header” section.
+
+You can change the “chat-title”, and add the “expand” and “chat-icon” tags to further customize the chat box on your WordPress website.
+
+To add the CSS style to customize the look and feel, copy below code snippet, and paste it into the “Scripts in Header” section, just immediately after the embedding code pasted earlier.
+
+That is it!
+
+You now have your Conversational AI Chatbot fully implemented on your website, and all you need to do is just focus on updating your website, and leave the rest to Dialogflow.
+
+If you wish to watch the complete video demonstration, please see below.

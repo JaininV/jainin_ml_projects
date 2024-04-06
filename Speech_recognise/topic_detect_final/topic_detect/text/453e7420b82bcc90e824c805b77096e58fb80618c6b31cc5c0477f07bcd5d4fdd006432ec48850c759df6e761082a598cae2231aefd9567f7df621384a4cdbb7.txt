@@ -1,0 +1,47 @@
+IT is the mostly invisible glue of modern offices that only leaps into view when it fails: an undelivered text, the dreaded “searching for signal” icon, apps that take minutes to load. But all of that takes on a different meaning inside the Pentagon.
+
+“We have to make sure that the infrastructure behind the scenes is able to handle the new way or the updated way of working,” Sajeel Ahmed, the director of the Defense Information Systems Agency’s Joint Service Provider, told Defense One. Because if it isn’t, key players will be at risk of cyberattacks that could compromise missions and service members' safety.
+
+“JSP has a no-fail mission,” Ahmed said, adding that without network modernization, mission partners wouldn't be able to do their jobs effectively.
+
+The Joint Service Provider, or JSP, is the integrated IT service provider for the Pentagon and surrounding areas, including the Office of the Secretary of Defense, the Joint Staff, and military services—“six different corporate headquarters all sitting in the Pentagon working together, but doing their own missions,” he said.
+
+It’s almost a running joke that technology inside the Pentagon and on bases and installations is years behind the rest of the world.
+
+And Ahmed, who became JSP’s director in August after almost three years as vice director, is familiar with the groups of people—reporters and DOD staff alike—who line the hallways that do have WiFi access, hovering by the E-Ring of the Pentagon’s River Entrance in search of a signal. (Caveat: There’s a process for getting access to the Pentagon’s WiFi; not just anybody or device can sign on.)
+
+“Does it work all the time? It has its own challenges, but I use it. When I'm outside my secure spaces, I use WiFi for my phones,” Ahmed said. “The challenge we run into is, this is a big building…blocks of cement, not a whole lot of signals get inside, and lots of secure spaces where you can’t have WiFi inside.”
+
+Improving the Pentagon’s IT infrastructure, and that of surrounding areas in the National Capital Region, is a continual process JSP owns, covering about 60,000 customers in the Washington, D. C. region—including military bases, some leased spaces, and 35 defense organizations.
+
+JSP started in 2015 as the convergence of three different entities and the systems that came with them, with two main goals: operate and protect Pentagon IT and improve how users experience it. Since then, JSP has been integrating and updating those systems. The results so far are a reduction in outages, but the IT won’t ever be 100 percent perfect, Ahmed said.
+
+The initial shutdown and forced telework mandate of COVID-19 in 2020 was one of the biggest challenges JSP faced since it started in 2015. And the modifications made—more reliance on cloud-based services, tools and applications, using more mobile devices—are not only here to stay, but have shaped JSP’s modernization priorities.
+
+“COVID changed the way IT gets used. The mission we had in providing IT, supporting services did not change, but the way it's getting used changed,” Ahmed said. “It's not just the desktops versus laptops, it's the tablets, it's the iPhones—it could be anything the users might be using to do their jobs.”
+
+JSP is hyper-focused on improving people’s experiences with endpoint devices, especially as more reliance on cloud-based architecture means changes to the networks to make connecting more seamless.
+
+“The whole ‘fix the computers’—that initiated a lot of dialogue, which is all good,” Ahmed said.
+
+“We are moving towards the cloud more and more. So we have to make sure that the network is optimized to support that,” especially as the Pentagon’s network traffic has shifted from mainly within the building to outside of it, to connect to cloud servers.
+
+As a result, JSP is “retooling the way the traffic patterns are, re-optimizing the network…not just modernizing the network, but configuring it properly” so interactions with systems and the network are “instantaneous, within microseconds,” he said.
+
+To improve the networks, JSP is implementing software-defined networking at the the local level, which leads to better configuration, performance, and the flexibility to make changes as needed. That implementation is part of a broader effort in DOD to develop a software-based ecosystem with improved cybersecurity through zero trust.
+
+“We get multiple requests for moving the ports—a user moves someplace and now they need access in some other room, some other building,” Ahmed said. “So the software-defined network capability we are putting in will allow us to do that much faster,” with techs being able to do it from a central location.
+
+Ahmed said the way end systems look will change within the next two years, such as pairing large monitors with smaller, faster desktop computer consoles and promoting virtual desktop use.
+
+The goal is for users to be able to access resources they need, whether it's in the office, at home, or another facility, and not be chained to a desktop.
+
+“For example, the users might have some files they want to use, they might be sitting on the local desktop. But once we move to [Microsoft] OneDrive, it'll be easier [to] access it from any other place—iphone, home, etc.,” Ahmed said.
+
+“Users will start to see those types of improvements. And then when we continue to implement Windows 11, for example, as the next version coming up, we are looking at how do we keep standardizing more on what we actually put on the user's desktop or a laptop—not just the operating system, but the applications, the management of those end systems and the security piece.”
+
+And while it’s easy to load up devices with a bunch of applications, that compromises performance, he said. So there’s an initiative to standardize what must go on devices, while making sure the user can come to work and not think about whether their IT is going to function.
+
+“They should be able to come in and do the mission. Let the IT folks in the background take care of IT.”
+
+And if there is a problem, JSP customers will soon be able to call into DISA’s Global Service Desk, an integration of the agency’s IT help lines into one to “make sure everyone has full visibility into it so we could get to it to resolve it quickly,” whether it’s a larger enterprise issue or a local one to JSP, Ahmed said.

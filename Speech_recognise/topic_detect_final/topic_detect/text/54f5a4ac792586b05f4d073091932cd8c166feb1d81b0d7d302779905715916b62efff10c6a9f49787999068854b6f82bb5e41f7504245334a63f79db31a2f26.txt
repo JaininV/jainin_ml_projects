@@ -1,0 +1,21 @@
+Bitcoin (BTC) traded 2.5% lower  against the US dollar during the 24-hour period ending at 11:00 AM E. T. on April 19th. Bitcoin has a total market cap of $569.15 billion and approximately $22.49 billion worth of Bitcoin was traded on exchanges in the last 24 hours. During the last week, Bitcoin has traded 1.4% lower  against the US dollar. One Bitcoin coin can currently be purchased for $29,412.58 on popular cryptocurrency exchanges.
+
+Here is how related cryptocurrencies have performed during the last 24 hours:
+
+* Bitcoin Cash (BCH) traded down 3.6% against the dollar and now trades at $127.86 or 0.00434750 BTC.
+
+* Bitcoin SV (BSV) traded down 4.6% against the dollar and now trades at $35.06 or 0.00119226 BTC.
+
+* eCash (XEC) traded 4.3% lower  against the dollar and now trades at $0.0000 or 0.00000000 BTC.
+
+* Arweave (AR) traded down 8.7% against the dollar and now trades at $8.42 or 0.00028627 BTC.
+
+* Syscoin (SYS) traded 0.1% lower  against the dollar and now trades at $0.18 or 0.00000597 BTC.
+
+Bitcoin is a proof-of-work (PoW) coin that uses the SHA-256 hashing algorithm. It launched on July 13th, 2010. Bitcoin’s total supply is 19,350,581 coins. The Reddit community for Bitcoin is https://reddit.com/r/bitcoin and the currency’s Github account can be viewed here. Bitcoin’s official message board is bitcointalk.org. Bitcoin’s official Twitter account is @bitcoin and its Facebook page is accessible here. The official website for Bitcoin is bitcoin.org.
+
+According to CryptoCompare, “Bitcoin is a decentralized cryptocurrency that uses peer-to-peer technology and a blockchain to record transactions. It was created by Satoshi Nakamoto and the first block was mined on January 3, 2009. Bitcoin transactions are recorded on a blockchain, which is a distributed ledger that can be accessed by anyone to verify transactions. Transactions are verified by miners, who are rewarded with a set amount of Bitcoin and transaction fees. The supply of Bitcoin is limited to 21 million coins and it is divisible to eight decimal places. A wallet is needed to use Bitcoin and it consists of a public key, which is used to send and receive payments, and a private key, which is used to control the wallet. Bitcoin can be used for a variety of purposes, including everyday transactions, as a store of value, or for investment.”
+
+Investors seeking to trade Bitcoin using US dollars directly can do so using Gemini, Changelly or GDAX.
+
+Receive News & Updates for Bitcoin Daily - Enter your email address below to receive a concise daily summary of the latest news and updates for Bitcoin and related cryptocurrencies with MarketBeat.com's FREE CryptoBeat newsletter.

@@ -1,0 +1,5 @@
+CARE (Carbon Avoided Retrofit Estimator) Tool Quantifies Carbon Benefit and Value of Reuse
+
+CARE (Carbon Avoided Retrofit Estimator) Tool Quantifies Carbon Benefit and Value of Reuse
+
+Building reuse represents a significant opportunity to avoid carbon emissions in the critical near term, but until recently, quantifying the carbon “savings” in a retrofit or reuse versus new construction has been arduous, often fraught with inaccuracy, and lacking in standardized methodology. Architecture 2030’s CARE (Carbon Avoided Retrofit Estimator) Tool has dramatically streamlined the process, enabling owners, communities, and design teams to quickly quantify the carbon benefits — and understand the value of reuse.

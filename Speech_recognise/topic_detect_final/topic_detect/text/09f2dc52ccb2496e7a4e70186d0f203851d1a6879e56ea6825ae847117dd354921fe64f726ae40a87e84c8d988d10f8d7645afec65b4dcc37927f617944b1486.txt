@@ -1,0 +1,87 @@
+In this article, we will look into the basics of visual studio extension. Also, create one application and understand file structure and implementation.
+
+* VSIX project is used to create our custom extension or package the existing extension for deployment as per our requirement.
+
+* The VSIX project has two template versions available for Visual Basic and Visual C# as a part of the .NET Core SDK.
+
+Install Visual Studio extension development from Tools-> Get Tools and Features.
+
+Next, install Extensibility Essentials 2022, which helps us write different extensions.
+
+* Many VSIX project templates are available, each with its purpose and usage.
+
+* VSIX Project w/Command (Community) template comes with a command hooked up, which helps us start a new extension easily after creating commands and configuring the same with Visual Studio.
+
+* Empty VSIX Project (Community) and VSIX Project (Community) templates for MEF-only extensions or use in advanced customized scenarios.
+
+But, here in this article, we will use VSIX Project w/Command (Community) template.
+
+As you can see, it will create different files inside the VSIX project solution, each with its purpose. So, we looked into them one by one and understood their purpose of it.
+
+The command handler file executes logic when the user triggers the command.
+
+namespace VSIXProject
+
+[Command(PackageIds.MyCommand)]
+
+internal sealed class MyCommand : BaseCommand
+
+This file is used to set icons for our extension. We can also set our custom icons for the same.
+
+It contains metadata of our extensions project like name, description, version, tags, author, etc.
+
+namespace VSIXProject
+
+internal sealed partial class Vsix
+
+public const string Id = "VSIXProject.34901e8a-0458-4252-9662-9ca734552faf";
+
+public const string Name = "VSIXProject";
+
+public const string Description = @"Empty VSIX Project.";
+
+public const string Language = "en-US";
+
+public const string Version = "1.0";
+
+public const string Author = "jaydeepvpatil225";
+
+public const string Tags = "";
+
+This XML file contains the binding of different commands with ids, button text for our command, parent menu, and many more.
+
+This file has one Initialize method that registers commands asynchronously when we run our extension project.
+
+global using Community.VisualStudio.Toolkit;
+
+global using Microsoft.VisualStudio.Shell;
+
+global using System;
+
+global using Task = System.Threading.Tasks.Task;
+
+using System.Runtime.InteropServices;
+
+using System.Threading;
+
+namespace VSIXProject
+
+[PackageRegistration(UseManagedResourcesOnly = true, AllowsBackgroundLoading = true)]
+
+[InstalledProductRegistration(Vsix.Name, Vsix.Description, Vsix.Version)]
+
+[ProvideMenuResource("Menus.ctmenu", 1)]
+
+[Guid(PackageGuids.VSIXProjectString)]
+
+public sealed class VSIXProjectPackage : ToolkitPackage
+
+protected override async Task InitializeAsync(CancellationToken cancellationToken, IProgress
+
+When we run the project, it will open one experimental visual studio and keep its own things separately related to settings.
+
+As we can see, our command comes up under the Tool menu “MyCommand”, and when you click on it, a message popup with details that we put inside the MyCommand file. Here we just looked into the basics, but you can customize it as required and perform different operations.
+
+This is all about VSIX Sample Project.
+
+Here we discussed the basics of VSIX Extension with a demo application implementation and its file structure details.

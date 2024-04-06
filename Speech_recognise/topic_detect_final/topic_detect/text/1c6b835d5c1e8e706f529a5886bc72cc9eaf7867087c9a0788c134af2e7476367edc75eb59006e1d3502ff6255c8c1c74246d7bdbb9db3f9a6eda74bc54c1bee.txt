@@ -1,0 +1,35 @@
+Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.
+
+Stripe’s infrastructure powers businesses all over the world. We process payments, run marketplaces, help entrepreneurs start an internet business from anywhere in the world, and more. Software engineers at Stripe within Infrastructure build the systems that power all of our products, globally and at scale.
+
+Our users trust us with their businesses and livelihoods, and every request that Stripe handles is critical. We process billions of dollars every year for millions of users, from the largest enterprises to a startup making their first sale. We invest deeply in the reliability of our infrastructure to earn their trust.
+
+Stripe has thousands of engineers working across many different product areas. The Service Operations team works with engineers to build tools and solutions to accelerate the development and operations of their software. We have a lot of work to do: in 2023, we must expand our development tooling to cover more use cases and provide users with intuitive experiences for creating and operating their services at scale. We’d love for you to be a part of it. We’re close to the people using our tools and solutions and we are constantly looking for opportunities to improve their experiences.
+
+This particular role seeks a senior engineer focused on the user experience, interface, and product aspects of our infrastructure tooling. If you’re someone who has worked on a product team before and been interested in infrastructure, or you’re someone who has previously led internal developer tooling teams, you just might be a great match for this position!
+
+* Define and design user experiences/systems; build and support developer/infrastructure tools and automated processes, which will provide intuitive, resilient and flexible solutions that accelerate engineers across the company.
+
+* Simplify complexity by iterating on products utilizing UI/UX best practices and product design principles.
+
+* Collaborate and set clear expectations with team members, partners, and users in a fast paced environment.
+
+* Debug issues across multiple systems and technologies while using these learnings to improve future resiliency.
+
+We’re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.
+
+We’re looking for people with a strong background (or interest!) in building tools and solutions to make engineers more effective. We’d love to hear from you whether you’re a seasoned productivity engineer, or whether you’ve just learned you like building for other engineers. Many of our engineers work remotely from both the US and Canada, and we’d be happy to talk to you about the possibility of working remotely.
+
+* Ability and passion to define and design UI/UX for developer tools that engineers love to use
+
+* Experience debugging complex problems across the whole stack and multiple technologies
+
+* Metrics driven approach, with the ability to make informed decisions using data
+
+* Strives for operational excellence holding yourself and others accountable for a great experience
+
+* Ability to write high quality code in frontend and infrastructure programming languages (e.g.Typescript, Go, Java, Javascript)
+
+* Experience building extendable UI based developer platforms for other teams to add functionality
+
+* Experience working with stakeholders to define product direction and roadmaps

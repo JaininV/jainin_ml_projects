@@ -1,0 +1,11 @@
+"region RAM overflowed with stack" from nrf_common.ld when RAM region under 100%
+
+I am looking to have a better explanation on "nrf_common.ld". I see that it has a RAM region check at the end;
+
+/* Set stack top to end of RAM, and stack limit move down by * size of stack_dummy section */ __StackTop = ORIGIN(RAM) + LENGTH(RAM); __StackLimit = __StackTop - SIZEOF(.stack_dummy); PROVIDE(__stack = __StackTop);
+
+/* Check if data + heap + stack exceeds RAM limit */ ASSERT(__StackLimit >= __HeapLimit, "region RAM overflowed with stack")
+
+I am experiencing this error message when the RAM region is under 100%. For example, at the moment I have a memory usage of RAM:      242968 B       239 KB     99.28% and am getting this error message.
+
+I see that it checks a stack limit and heap limit, I am wondering if there is a way to align this so that this error is at 100% or if the error can give more context on how far over what section is rather than the memory output indicating that there is space, yet the error message suggesting the allocation is exhausted with no indication of by how much?

@@ -1,0 +1,21 @@
+Oxeye discovered a new vulnerability (CVE-2023-0620) in the HashiCorp Vault Project, an identity-based secrets and encryption management system that controls access to API encryption keys, passwords, and certificates.
+
+The vulnerability was an SQL injection vulnerability that potentially could lead to a Remote Code Execution (RCE). Oxeye reported this vulnerability to HashiCorp, and the team quickly patched it in versions 1.13.1, 1.12.5, and 1.11.9. of Vault.
+
+HashiCorp Vault provides encryption services for modern, microservices-based applications that often require a multitude of secrets. With Vault, these secrets are gated by authentication and authorization methods using HashiCorp’s UI, CLI, or HTTP API.
+
+Access to secrets and other sensitive data can be securely stored and managed, tightly controlled (restricted), and auditable.
+
+Oxeye researchers identified this new vulnerability as part of a standard deployment scan. They found that attackers could use it to access sensitive data, modify or delete it, and run malicious code on the target system.
+
+Given the trend toward microservices in modern software development, configuration-based attacks like this are a significant threat and are expected to become more common.
+
+Because the centralized nature of configurations makes them a single point of truth, they are a lucrative target for threat actors. As such, organizations should prioritize the security of configuration files and other centralized components in modern applications.
+
+The vulnerability exists in how Vault handles SQL queries when interacting with its backend database. Attackers can exploit this vulnerability by injecting malicious SQL statements into the configuration parameters Vault loads at startup. The attacker can run arbitrary SQL queries on the target database if successful. In some cases, depending on the database configuration, the threat actor can escalate the vulnerability to execute arbitrary system commands on the machine hosting the database.
+
+Organizations that use HashiCorp’s Vault in their infrastructure should prioritize patching their installations and review security policies to prevent similar vulnerabilities from being exploited in the future.
+
+The vulnerability affects versions up to 1.13.0 and has been fixed in versions 1.13.1, 1.12.5, 1.11.9.
+
+“The importance of restricting access to critical tools and implementing adequate input validation to prevent SQL injection attacks is highlighted by this vulnerability in HashiCorp’s Vault project,” said Ron Vider, CTO of Oxeye. “To safeguard your environment, swiftly applying patches and ensuring security policies are current will ensure successful attacks are avoided.”

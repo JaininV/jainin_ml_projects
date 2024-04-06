@@ -1,0 +1,29 @@
+Since August 2017, the Federal Motor Carrier Safety  Administration has allowed motor carriers to use its DataQs system to submit crashes for evaluation of  whether the crashes were preventable or not. In 2020, FMCSA went  live with a permanent Crash Preventability Determination Program (CPDP) in  which crashes deemed not preventable would be removed from use in a carrier’s Crash  Indicator Behavior Analysis and Safety Improvement Category (BASIC) percentile ranking in the CSA Safety Measurement System.
+
+According to FMCSA, between May 1, 2020, and Dec. 30, 2022, nearly 40,000 DataQs requests in this crash-review program were submitted to the agency. Approximately 72.5% of the  submitted requests were eligible, meaning they were one of 16  specific crash types that could be deemed not preventable. Approximately 96%  of the eligible crashes were found to have been not preventable.
+
+FMCSA is now proposing to change some of the 16 existing crash types  and add four new types to expand the program "to review even more crashes  each year for preventability.” FMCSA said the proposed changes are expected to  double the size of the current CPDP and provide more data for analysis of the  impacts of a carrier’s not preventable crashes on its overall safety. The  agency would analyze these changes to existing crash types and new crash types  for two years, but may announce changes earlier if certain crash types cannot be  consistently reviewed or if there is insufficient information to make eligibility  and preventability determinations, FMCSA noted.
+
+The agency hoped the changes as they flowed into the Safety Measurement System itself might "allow us to  further refine our prioritization to ensure the carriers and drivers with  riskiest behaviors are identified for prioritization,” FMCSA said in a Federal  Register notice that will publish Thursday. FMCSA also said it believed more preventability information would make for better assessments of motor carriers' actual crash risk.
+
+[Related: Preventable, or not: How to DataQ for FMCSA’s crash review program]
+
+FMCSA is proposing changes to 11 of the 16 current crash  types, which can be seen  on page 10 of this notice. The proposed revised crash types are in cases where a truck was struck because:
+
+Another motorist was  driving in the wrong directionAnother motorist was  making a U-turn or illegal turnAnother motorist did not  stop or slow in traffic Another motorist failed  to stop at a traffic control deviceAnother individual was  under the influence (or related violation, such as operating while  intoxicated), according to the legal standard of the jurisdiction where the  crash occurred Another motorist  experienced a medical issue which contributed to the crashCargo, equipment or debris  (e.g., fallen rock, fallen trees, unidentifiable items) were in the roadwayThe truck's crash was a result of an infrastructure failureThe truck was involved in a crash with a  non-motorist
+
+FMCSA said the 11th change “would create a separate [crash] type for  these events” involving non-motorists. Such crashes are the  predominant type submitted in the current “Rare and Unusual” crash category. FMCSA  said the “change will allow the agency to distinguish these events and use the  information to identify ways to reduce the increasing number of non-motorist  crashes.”
+
+[Related: Proposed CSA-scores changed a mixed bag, particularly in hours of service category]
+
+The agency is also proposing to add the following four crash  types:
+
+* Struck on the side by a motorist  operating in the same direction. (Currently, the crash type is limited to side  strikes at the very rear of the vehicle.)
+
+* Struck because another motorist was  entering the roadway from a private driveway or parking lot.
+
+* Struck because another motorist lost  control of their vehicle. (FMCSA reviewed many police accident reports that  included this information but were ineligible for the program under the current  crash types.)
+
+* Any other type of crash involving a CMV where a  video demonstrates the sequence of events of the crash. (FMCSA said it believes that the  submission of videos could allow it to review crashes that are not in the 21  other types.)
+
+FMCSA will accept comments on the proposed changes for 60  days beginning Thursday, April 13. Comments can be made at www.regulations.gov by searching Docket  No. FMCSA-2022-0233.

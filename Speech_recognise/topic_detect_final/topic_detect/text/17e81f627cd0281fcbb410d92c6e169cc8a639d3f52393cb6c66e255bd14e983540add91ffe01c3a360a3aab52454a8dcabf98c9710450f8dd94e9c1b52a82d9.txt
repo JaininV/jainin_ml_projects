@@ -1,0 +1,111 @@
+Sportsnet's Iain MacIntyre and Dan Murphy discuss everything learned from the final player availability for the Vancouver Canucks this season, including Elias Pettersson's contract, Tanner Pearson's injury and Brock Boeser's desire to stay. You can change your selections at any time.Select as many teams as you like from the leagues below. You can change your selection at any time.Selections might be changed at any time.SAVE
+
+NEXT
+
+Select additional sports and leagues you’re interested in from the list below.To see your localized preferences, please enable geolocation services in your browser settings.NextWould you like to create an account so you can see these Favourites on your other devices too?Not nowCreate an account Not nowCustomize your Sportsnet lineup for the latest news from your favourite leagues and teams.CustomizeCustomize your lineup with your favourite leagues and teams.There isn’t enough recent news in your lineup. We’ll give you the latest news when it becomes available, or feel free to add some more selections to your settings.feedbackCustomize your Sportsnet lineup for the latest news from your favourite leagues and teams.CustomizeCustomize your lineup with your favourite leagues and teams.There isn’t enough recent news in your lineup. We’ll give you the latest news when it becomes available, or feel free to add some more selections to your settings.feedbackWe use cookies to improve your experience. Learn More or change your cookie preferences. By continuing to use this site, you agree to the use of cookies.
+
+We've sent an email with instructions to create a new password. Your existing password has not been changed.
+
+We'll send you a link to create a new password.
+
+{* #forgotPasswordForm *}
+
+{* traditionalSignIn_emailAddress *}
+
+{* /forgotPasswordForm *}
+
+{* #legalAcceptancePostLoginForm_radio *}
+
+{* traditionalRegistration_displayName *}
+
+{* email *}
+
+By checking this box, I agree to the terms of service and privacy policy of Rogers Media.
+
+{* /legalAcceptancePostLoginForm_radio *}
+
+Your account has been created!
+
+Don't miss out - sign up for our newsletters! (approx 1 - 2 per week)
+
+An error has occurred while trying to update your details. Please contact us.
+
+Your account has been created
+
+{* #userInformationForm *}
+
+{* traditionalSignIn_emailAddress *}
+
+{* traditionalSignIn_password *}
+
+{* /userInformationForm *}
+
+Please confirm the information below before signing up.
+
+{* #socialRegistrationForm_radio_2 *}
+
+{* socialRegistration_firstName *}
+
+{* socialRegistration_lastName *}
+
+{* socialRegistration_emailAddress *}
+
+{* socialRegistration_displayName *}
+
+By checking this box, I agree to the terms
+
+of service and privacy policy of Rogers
+
+Media.
+
+{* /socialRegistrationForm_radio_2 *}
+
+{* #registrationForm_radio_2 *}
+
+{* traditionalRegistration_displayName *}
+
+{* traditionalRegistration_emailAddress *}
+
+{* traditionalRegistration_passwordConfirm *}
+
+Don't miss out - sign up for our newsletters! (approx 1 - 2 per week)
+
+By checking this box, I agree to the terms of service and privacy policy of Rogers Media.
+
+{* /registrationForm_radio_2 *}
+
+Your Verification Email Has Been Sent
+
+Check your email for a link to reset your password.
+
+We've sent an email with instructions to create a new password. Your existing password has not been changed.
+
+We didn't recognize that password reset code. Enter your email address to get a new one.
+
+{* #resetPasswordForm *}
+
+{* traditionalSignIn_emailAddress *}
+
+{* /resetPasswordForm *}
+
+Your password has been changed successfully.
+
+Thank you for verifying your email address.
+
+Sorry we could not verify that email address. Enter your email below and we'll send you another email.
+
+{* #resendVerificationForm *}
+
+{* traditionalSignIn_emailAddress *}
+
+{* /resendVerificationForm *}
+
+{* #userInformationForm *}
+
+Email?You may have created an account with another Rogers Media
+
+account that can be used to sign in here.
+
+{* traditionalSignIn_emailAddress *}
+
+{* /userInformationForm *}

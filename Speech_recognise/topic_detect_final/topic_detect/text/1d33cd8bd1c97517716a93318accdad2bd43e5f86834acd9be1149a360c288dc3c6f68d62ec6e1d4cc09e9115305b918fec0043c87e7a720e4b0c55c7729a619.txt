@@ -1,0 +1,11 @@
+OpenAI announced a new bug bounty program that will offer people $200 to $20,000 for finding and reporting vulnerabilities in the ChatGPT chatbot.
+
+The artificial intelligence (AI) company is opening the program in association with bug bounty platform Bugcrowd.
+
+OpenAI said it established the program partly because it thinks "transparency and collaboration" are critical to uncovering flaws in its technology, while OpenAI head of security Matthew Knight blogged that the effort "is an essential part of our commitment to developing safe and advanced AI."
+
+The Bugcrowd page for the bounty program indicates certain safety issues related to the models are disqualified from rewards, including jailbreak prompts or queries that prompt the writing of malicious code, or questions that cause the model to say bad things to users.
+
+From Bloomberg
+
+View Full Article - May Require Paid Subscription

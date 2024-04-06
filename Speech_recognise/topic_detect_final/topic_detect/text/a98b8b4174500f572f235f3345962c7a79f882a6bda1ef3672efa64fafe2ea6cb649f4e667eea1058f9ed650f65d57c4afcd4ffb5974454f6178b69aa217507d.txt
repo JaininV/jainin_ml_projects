@@ -1,0 +1,49 @@
+* PNT from space has always been an expensive and government-sponsored effort.
+
+* Several companies have been formed to provide PNT as a commercial service using smaller, much less expensive satellites.
+
+* Xona Space Systems launched a LEO PNT demonstration as a hosted payload in May last year. A month later China’s automaker Geely launched nine satellites, an effort that seems to have been underwritten by the government. TrustPoint’s privately funded launch of a LEO PNT satellite is the next step toward a full commercial service.
+
+* These satellites are and will be at Low Earth Orbit instead of Medium Earth Orbit where GPS and other GNSS satellites reside
+
+LEO means it is less expensive to put satellites in space
+
+Signals from LEO are also much stronger when they get to earth
+
+* LEO means it is less expensive to put satellites in space
+
+* Signals from LEO are also much stronger when they get to earth
+
+* Other possible benefits of commercial LEO PNT include the ability to upgrade, adapt, and improve more quickly.
+
+Not only will the satellites be more flexible, but they have a higher refresh rate and are cheaper and easier to replace.
+
+They will likely be able to offer various types and classes of services depending on customer demands.
+
+* Not only will the satellites be more flexible, but they have a higher refresh rate and are cheaper and easier to replace.
+
+* They will likely be able to offer various types and classes of services depending on customer demands.
+
+What are some of the big questions?
+
+* Is there a business case? Clearly TrustPoint, Xona, and others think so.
+
+* What will be the role of government?
+
+The Space Development Agency seems to be developing its own LEO PNT system. Will they continue or elect to contract for bespoke commercial services.
+
+Will government endorse or certify commercial PNT services so they can be used in regulated industries like aviation?
+
+* The Space Development Agency seems to be developing its own LEO PNT system. Will they continue or elect to contract for bespoke commercial services.
+
+* Will government endorse or certify commercial PNT services so they can be used in regulated industries like aviation?
+
+* What will be the role of other LEO constellations? For example, researchers have been able to use information from LEO communications satellites, like Starlink, to obtain PNT information. How will all of that play out?
+
+Bottom Line; These are very exciting ventures! Watch this space for more! (Pun not intended.)
+
+Full Disclosure: Both TrustPoint and Xona are corporate members of the RNT Foundation.
+
+DULLES, Va.–(BUSINESS WIRE)–TrustPoint, an aerospace startup providing next-generation GNSS products and services, today announced the launch of its first satellite. The satellite, named “It’s About Time”, will allow TrustPoint to mature and demonstrate core technologies as they progress towards delivering GPS-independent global time and positioning services.
+
+“This launch marks a pivotal moment for aerospace innovation,” said Patrick Shannon, CEO of TrustPoint. “TrustPoint’s new platform is the first commercially-funded, purpose-built PNT microsatellite. With this mission, we are expediting the impact of commercial technologies and innovation cycles on the world of timing and navigation, arguably one of the most far reaching and critical satellite services today.”

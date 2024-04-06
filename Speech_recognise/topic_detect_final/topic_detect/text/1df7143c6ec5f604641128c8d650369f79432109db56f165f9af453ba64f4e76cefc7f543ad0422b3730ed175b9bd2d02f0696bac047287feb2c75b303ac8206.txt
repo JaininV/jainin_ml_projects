@@ -1,0 +1,9 @@
+Other companies are also beginning to see value in the conversations and images they host. Shutterstock, the image hosting service, also sold image data to OpenAI to help create DALL-E, the A. I. program that creates vivid graphical imagery with only a text-based prompt required.
+
+Last month, Elon Musk, the owner of Twitter, said he was cracking down on the use of Twitter’s A. P.I., which thousands of companies and independent developers use to track the millions of conversations across the network. Though he did not cite L.L.M.s as a reason for the change, the new fees could go well into the tens or even hundreds of thousands of dollars.
+
+To keep improving their models, artificial intelligence makers need two significant things: an enormous amount of computing power and an enormous amount of data. Some of the biggest A. I. developers have plenty of computing power but still look outside their own networks for the data needed to improve their algorithms. That has included sources like Wikipedia, millions of digitized books, academic articles and Reddit.
+
+Representatives from Google, Open AI and Microsoft did not immediately respond to a request for comment.
+
+Reddit has long had a symbiotic relationship with the search engines of companies like Google and Microsoft. The search engines “crawl” Reddit’s web pages in order to index information and make it available for search results. That crawling, or “scraping,” isn’t always welcome by every site on the internet. But Reddit has benefited by appearing higher in search results.

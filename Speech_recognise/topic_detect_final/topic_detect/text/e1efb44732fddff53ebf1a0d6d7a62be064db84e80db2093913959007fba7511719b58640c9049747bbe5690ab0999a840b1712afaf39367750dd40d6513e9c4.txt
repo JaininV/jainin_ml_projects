@@ -1,0 +1,35 @@
+BELFAST, Northern Ireland — Russian-aligned cyber groups outside Moscow’s formal control represent a growing threat and are looking to target critical infrastructure in the West, according to Britain’s cybersecurity agency.
+
+Motivated more by ideology than by money, the groups, which surfaced after Russia invaded Ukraine, pose a potential risk to crucial infrastructure systems in Western countries, especially those that are “poorly protected,” the U. K. National Cyber Security Center, or NCSC, said in an alert issued Wednesday local time.
+
+“Although these groups can align to Russia’s perceived interests, they are often not subject to formal state control, and so their actions are less constrained and their targeting broader than traditional cyber crime actors,” the NCSC alert said. “This makes them less predictable.”
+
+The groups often focus on denial-of-service attacks, defacing websites and spreading misinformation, according to the alert. But some “have stated a desire to achieve a more disruptive and destructive impact against Western critical national infrastructure, including in the U. K.,” it said.
+
+Without outside assistance, it is unlikely that the groups “have the capability to deliberately cause a destructive, rather than disruptive, impact in the short term,” the cybersecurity center said. But the groups may become more effective over time, and the NCSC recommends that organizations “act now to manage the risk against successful future attacks.”
+
+British Cabinet Office Minister Oliver Dowden plans to cite the cybersecurity alert in a speech later Wednesday, according to excerpts of his remarks released in advance, and will urge companies to take necessary precautions.
+
+“Disclosing this threat is not something we do lightly,” Dowden is prepared to say, according to the released text. “But we believe it is necessary … if we want these companies to understand the current risk they face and take action to defend themselves and the country.”
+
+Dowden, the chancellor of the Duchy of Lancaster, the most senior Cabinet member after the prime minister, is scheduled to deliver his speech at a U. K. cybersecurity conference in Belfast.
+
+Lindy Cameron, CEO of the National Cyber Security Center, which is part of Britain’s cyber and intelligence agency GCHQ, said Wednesday that there is increased concern about hackers planning to strike U. K. infrastructure but did not elaborate.
+
+Asked about whether she has seen attempts to target the U. K., she told BBC Radio’s ‘Today’ show: “We’re seeing some indication of that, but I wouldn’t want to go into further detail.”
+
+Ukraine has accused Russia of launching thousands of cyberattacks against its infrastructure since the February 2022 invasion, but experts say Moscow has not staged similar cyber offensives against NATO countries.
+
+Some experts warn Russia has most likely penetrated sensitive networks and could order damaging cyberattacks if it decides to widen the war beyond Ukraine.
+
+A leaked U. S. intelligence assessment warned that Russian hacktivists broke into a Canadian gas infrastructure company this year and have received directions from Russian intelligence, NBC News has reported. The assessment was part of a trove of classified Defense Department documents that surfaced on social media and were obtained by news organizations.
+
+NBC News could not independently confirm the intelligence assessment.
+
+The hacktivists, a Russian-speaking group called Zarya, broke into the computer network of an unnamed Canadian gas distribution facility in February and sent Russia’s FSB intelligence agency screenshots of what it claimed were controls “to increase valve pressure, disable alarms, and initiate an emergency operation [that] would cause an explosion,” the U. S. assessment says.
+
+“If Zarya succeeded, it would mark the first time the IC has observed a pro-Russia hacking group execute a disruptive attack against Western industrial control systems,” the assessment says, using an abbreviation for the intelligence community.
+
+No such disaster appears to have happened. But the assessment illustrates both how the U. S. worries about destructive hacks against Western energy infrastructure and how Russian intelligence can rely on domestic hackers to work for it.
+
+The post Russian-aligned cyber groups are seeking to target Western infrastructure, U. K. says appeared first on NBC News.

@@ -1,0 +1,221 @@
+Before reading this article, I recommend looking at my blog, Application Ideas for Beginner, Intermediate and Advanced, using Blazor.
+
+Roman To Decimal Converter will be a converter that takes Roman numerals from input strings and converts them to their decimal value. And we will add the ability to convert from decimals to Roman numerals.
+
+MudBlazor is "a Material Design Component framework" for Blazor to ease up the web development framework without struggling with CSS and javascript if you're looking for Date pickers, progress bars, Ratings, etc.
+
+MudBlazor has your back, and nearly all components use just C# (no Javascript, except where it's strictly necessary). The vision of MudBlazor is to keep it clean, simple, and with a highly customizable modern design: no Javascript, just Blazor and CSS. The team has documented the library in a very understandable way. You can check the documentation here.
+
+Open the Visual Studio and search for Blazor App. Click on the Next button,
+
+Define the project name, path, and solution name. Click on the Create button,
+
+After that, a new window will pop up to choose the target framework (.Net 6.0) from the dropdown and ensure "Configure the Https" is checked.
+
+Open up the package manager console and try running the following command to install the MudBlazor in our project.
+
+Install-Package MudBlazor
+
+After the package is installed, open up the startup.cs file and try adding the services inside the ConfigureServices() method, adding all the common services required by the MudBlazor component.
+
+services.AddMudServices();
+
+We need to add the references of CSS and js files of MudBlazor inside the wwwroot /index.html  page,
+
+Here we need to import the MudBlazor package inside the _Imports.razor file,
+
+@using MudBlazor
+
+Once after that, we need to add the providers we consume from the MudBlazor package. Open up the Shared/MainLayout.razor and add the below code.
+
+To have the logic in place, we must create a c# class in ViewModels/Beginner/RomanToDecimalConverterViewModel.cs.
+
+using MudBlazor;
+
+using SmallApplications_Blazor.Models;
+
+namespace SmallApplications_Blazor.ViewModels.Beginner
+
+public class RomanToDecimalConverterViewModel
+
+public string? Roman { get; set; }
+
+public string? Decimal { get; set; }
+
+public string? ReturnMessage { get; private set; }
+
+public bool HasError => !string.IsNullOrEmpty(ReturnMessage);
+
+public void ConvertRoman()
+
+try
+
+ReturnMessage=string.Empty;
+
+if (string.IsNullOrEmpty(Decimal)) throw new FormatException();
+
+var number = Convert.ToInt32(Decimal);
+
+Roman = RomanNumeral.FromDecimal(number).Value;
+
+catch
+
+ReturnMessage="Decimal must be a valid number with only digits 0-9.";
+
+public void ConvertDecimal()
+
+try
+
+ReturnMessage = string.Empty;
+
+if (string.IsNullOrEmpty(Roman)) throw new FormatException();
+
+Decimal = new RomanNumeral(Roman).ToInt().ToString();
+
+catch
+
+ReturnMessage = "Roman numerals only support the following characters: I, V, X, L, C, D, M.";
+
+public void Reset()
+
+Decimal = string.Empty;
+
+Roman = string.Empty;
+
+ReturnMessage=string.Empty;
+
+Here is a brief description of the above code snippet,
+
+* ReturnMessage is a display message whenever an error happens in the conversion.
+
+* ConvertDecimal( ) method takes the Roman property, converts it to an integer, and stores it as a string in the Decimal property.
+
+To have the UI in place, we must create a Razor component in the Pages/Beginner/RomanToDecimalConverter.razor.
+
+@page "/Beginner/romanToDecimal"
+
+@using SmallApplications_Blazor.ViewModels.Beginner;
+
+@if (vm.HasError)
+
+@code {
+
+public RomanToDecimalConverterViewModel vm = new RomanToDecimalConverterViewModel();
+
+* Line 45- 51. Section to show or not Error Message
+
+Adding the page routing in a new card in the Beginner/Main_Beginner razor page
+
+At this point, we can build and run the project locally. Enter some Roman data into the input element and click the 'Covert to Decimal' button to see the result (and convert it back).
+
+We will finish this article by creating some tests to verify the functionalities.
+
+Let's start by creating a test project SmallApplications_Blazor. Tests within the same solution.The separate RomanToDecimalConverterViewModel class makes it easy to unit test the logic. Create a ViewModels/Beginner/RomanToDecimalConverterViewModelTests
+
+using SmallApplications_Blazor.Pages.Beginner;
+
+using SmallApplications_Blazor.ViewModels.Beginner;
+
+using Xunit;
+
+namespace SmallApplications_Blazor.Tests.ViewModels
+
+public class RomanToDecimalConverterViewModelTests
+
+private const string romanErrorMessage = "Roman numerals only support the following characters: I, V, X, L, C, D, M.";
+
+private const string decimalErrorMessage = "Decimal must be a valid number with only digits 0-9.";
+
+[Fact]
+
+public void Construction()
+
+// arrange
+
+// act
+
+var vm = new RomanToDecimalConverterViewModel();
+
+// assert
+
+Assert.NotNull(vm);
+
+Assert.Null(vm.Roman);
+
+Assert.Null(vm.Decimal);
+
+Assert.Null(vm.ReturnMessage);
+
+[Theory]
+
+[InlineData("V", "5", "")]
+
+[InlineData("CCXVIII", "218", "")]
+
+[InlineData(null, null, romanErrorMessage)]
+
+[InlineData("CCQVI", null, romanErrorMessage)]
+
+public void ConvertDecimal_WithRomanString(
+
+string initialRoman, string expectedDecimal, string expectedErrorMessage)
+
+// arrange
+
+var vm = new RomanToDecimalConverterViewModel
+
+Roman = initialRoman
+
+// act
+
+vm.ConvertDecimal();
+
+// assert
+
+Assert.Equal(expectedDecimal, vm.Decimal);
+
+Assert.Equal(expectedErrorMessage, vm.ReturnMessage);
+
+[Theory]
+
+[InlineData("5", "V", "")]
+
+[InlineData("186", "CLXXXVI", "")]
+
+[InlineData("", null, decimalErrorMessage)]
+
+[InlineData("102l", null, decimalErrorMessage)]
+
+public void ConvertBinary_WithDecimalString(
+
+string initialDecimal, string expectedRoman, string expectedErrorMessage)
+
+// arrange
+
+var vm = new RomanToDecimalConverterViewModel
+
+Decimal = initialDecimal
+
+// act
+
+vm.ConvertRoman();
+
+// assert
+
+Assert.Equal(expectedRoman, vm.Roman);
+
+Assert.Equal(expectedErrorMessage, vm.ReturnMessage);
+
+We notice the xUnit [Fact] and [Theory] attributes that are on each method. The xUnit test runner uses these attributes to discover the unit tests in our class. [Fact]Iss for a single test method. [Theory]Iss used to define a method with variations run for each [InlineData] attribute on that same method. The method signature [InlineData] must match the test method's signature, and data must be passed into the method for each test.
+
+All of the unit tests conform to the same outline: arrange (set up the requirements for the test), act (perform the test on the method), and assert (validate the state after the method is tested). This helps other developers, and ourselves understand the intent of the tests.
+
+I hope this article helps you understand the implementation of Roman To Decimal Converter with .NET 6, Blazor wasm and MudBlazor.
+
+Thank you for reading; please let me know your questions, thoughts, or feedback in the comments section. I appreciate your feedback and encouragement.
+
+The source code is available on the following repository GitHub.
+
+This is an open-source project, and contributors are what makes such a project with rich features to learn, inspire, and motivate. Any contributions you make are greatly appreciated. Fork the Project to add a new application.
+
+Happy Documenting!

@@ -1,0 +1,157 @@
+Everybody knows what a comma is, right? We use them every day whenever we write anything. But did you know that there are plenty of common mistakes that people make when using a comma in a sentence? Sometimes we use them when they aren’t necessary, and sometimes we don’t use them when they are. This guide will take you through what exactly a comma is (so you can understand when to use them correctly), when not to use a comma, and provide you with some common comma mistakes! We’ll also provide a quiz at the end to test your new understanding of commas.
+
+A comma is a punctuation mark (,) that is used in a sentence to show a pause. It may connect two parts of a sentence or else separate items in a list. Commas are generally used to make a piece of text more reader-friendly, as without them a reader may become overwhelmed by the sheer volume of uninterrupted text.
+
+A comma is used to denote a pause in the sentence, which is shorter than a colon or a semicolon. A comma is used to show the difference between two separate ideas or elements within a sentence. Commas have other usages as well, as they can be used to separate numbers, and write dates.
+
+The major difference between American and British English and the use of the comma is with the serial comma (or Oxford comma in the UK). In the U. S. serial commas are most often used in all lists, no matter what. In the UK, however, Oxford commas are only used when the meaning of the items in the list would be unclear. Here’s an example of when both American and British English would use the serial/Oxford comma:
+
+I’m going to the park with my sisters, Kelly, and June. – By using the serial/Oxford comma here, we are making it clear that the author is going to the park with their sisters and Kelly and June. Writing it as ‘I’m going to the park with my sisters, Kelly and June‘ may imply that the sisters are called Kelly and June. So to avoid confusion, we use the serial/Oxford comma.
+
+Below we’ll provide an example in which American writers and British writers might differ in their use of the serial or Oxford comma:
+
+I’m going to pick up bananas, grapes, apples and pears. – In British English it would be seen as unnecessary to use an Oxford comma after apples and before pears, because it is obvious that the two are separate items. Remember, British English only requires the use of an Oxford comma if it is otherwise confusing.
+
+I’m going to pick up bananas, grapes, apples, and pears. – In American English, a serial comma is often used in all lists, regardless of whether it would make sense without one.
+
+The key thing to remember about commas in sentences is that they should be used to break up clauses. If you have more than one clause within a sentence, then using a comma is almost certainly necessary (unless you have another more appropriate punctuation mark to replace it).
+
+Linking a subordinate clause that makes little sense without the main clause, should always be done with a comma to show that the two ideas are linked. If you use your subordinate clause within the middle of a main clause, then you ought to use two commas, one before the subordinate clause and one after. And of course, we should always use commas to separate items in a list. Just remember the differences here for the serial or Oxford comma.
+
+We use commas to separate a series of words
+
+To set off introductory phrases or clauses
+
+Used after certain words that introduce a sentence
+
+To set off phrases to express contrast
+
+To set off expressions that interrupt the sentence flow
+
+We use commas between words in a series. Notice that a comma does not follow the last word in the series.
+
+* See, listen, and be silent, and you will live in peace.
+
+* He was tall, dark, and handsome.
+
+* Do you want some cakes, candies or ice cream?
+
+* I like reading books, listening to music, watching TV, and studying English.
+
+We use commas to separate two complete statements.
+
+* It’s an old car, but it’s very reliable.
+
+* I was feeling hungry, so I made myself a sandwich.
+
+* Although she is very poor, she has not lost her dignity.
+
+* He walked all the way home, and he shut the door.
+
+We use a comma to separate an introductory element from the rest of the sentence.
+
+* Having finally arrived in town, we went shopping.
+
+* As the day came to an end, the firefighters put out the last spark.
+
+* Talking with her, you’d try to head off your happy marriage.
+
+* Well, I’m not going home on foot, at any rate.
+
+* Hey, don’t tell me what to do.
+
+* Yes, I’ll be there. Thanks for reminding me.
+
+A parenthetical element adds extra information and can be removed from the sentence without changing the meaning of the sentence.
+
+* Football, which is a popular sport, is very good for health.
+
+* My grandmother, old and sick, never goes out of the house.
+
+We place commas between adjectives, if two ore more adjectives modify a noun in the same way. These are called coordinate adjectives which can be identified by the fact that the word and can be inserted between them and their order can be reversed.
+
+* He asked,”Do you want to go with me?”
+
+* “I don’t think you should do that,” he said.
+
+We also use commas to set off contrasting expressions beginning with not, but…
+
+* The golden age is before us, not behind us.
+
+We also add a comma in some cases to make a sentence clear.
+
+* For most, the year is already finished.
+
+* I saw that she was busy, and prepared to leave.
+
+* This, after all, is a company which is awash with cash.
+
+* On the other hand, many women choose to go out to work.
+
+* We all tried our best. However, we lost the game.
+
+We use this punctuation mark to set off a tag question which is used at the end of the statement to ask for confirmation.
+
+* There weren’t any problems when you talked to Jack, were there?
+
+* Let’s take the next bus, shall we?
+
+The following section will cover the instances when using a comma is unnecessary. We don’t have the space to tell you all the situations in which you shouldn’t use a comma, but we will highlight all the situations in which people most often use a comma, when it isn’t necessary. This should help you avoid making these same mistakes.
+
+As a general rule though, whenever we use a comma in a sentence we should test if it works by reading it and taking an exaggerated pause where the comma is. If it feels unnecessary or as though it takes away from the meaning or tone of the sentence, then you should probably remove the comma and see if the sentence works better without it.
+
+Below are the most common mistakes that people make when using a comma.
+
+People often get in the habit of adding a comma whenever there are more than one item/object/subject/character in a sentence, and people can be tempted to add an unnecessary comma here. For example:
+
+* From the store, I just need to pick up lipstick, and eyeshadow.
+
+This comma is unnecessary because there are only two items on this list. We should write it as:
+
+* From the store, I just need to pick up lipstick and eyeshadow.
+
+Notice how the first comma remains. That is because ‘From the store’ is an introductory phrase that is a subordinate clause, because it makes no sense without the rest of the sentence. So, a comma is necessary here, but not to separate the two items in the list.
+
+If there are two actions that both relate to the same subject of the sentence, then a comma is unnecessary. However, plenty of people still make this mistake. For example:
+
+* I walked home through the park, and sang along to my music.
+
+A comma is unnecessary in this case because both actions refer to the subject ‘I’. So we should write it as:
+
+* I walked home through the park and sang along to my music.
+
+If a list is given and then the sentence continues after the list, people are tempted to place a comma after the last item. This is, however, a mistake, and a very common one at that. For example:
+
+* Jamie, Daniel, and Lisa, were terrified the moment they stepped inside.
+
+The problem with this mistake is that pausing after Lisa where the comma is somewhat natural. So when reading back your work to identify the mistake, it may be difficult. Just remember, that a comma is never necessary before the first item in a list, or after the last item in a list. We should write it as:
+
+* Jamie, Daniel, and Lisa were terrified the moment they stepped inside.
+
+Now that you know all about commas, we’ve put together this little quiz to see if we can catch you out. Decide whether the following sentences use a comma correctly or incorrectly, and if you think it’s incorrect, think about how it should be written:
+
+Walking down the street I spotted two of my friends Tim, and Alice.
+
+I need to pick up chocolate, eggs, sugar, and butter from the store.
+
+Alice, whose tattoo was still healing, decided not to get in the swimming pool.
+
+I have to remember a toothbrush, a change of clothes, a drink, and a towel, for the trip.
+
+Tim switched on the TV, and sat down to watch.
+
+There is no need for the comma after Tim, as there are only two items in the list. Walking down the street is also a subordinate clause acting as an introductory phrase, so it should be:
+
+* Walking down the street, I spotted two of my friends Tim and Alice.
+
+Just remember that British English would omit the comma between sugar and butter, but it is still perfectly correct to write it using the serial or Oxford comma if you wish.
+
+‘Whose tattoo was still healing’ is an example of a subordinate clause that has been imbedded in the main clause to add extra information. Here, both commas are necessary.
+
+Remember, we never use a comma after the last item on a list. So it should be:
+
+* I have to remember a toothbrush, a change of clothes, a drink, and a towel for the trip.
+
+There are two actions that both relate to one subject (Tim) so a comma is unnecessary. It should be:
+
+* Tim switched on the TV and sat down to watch.

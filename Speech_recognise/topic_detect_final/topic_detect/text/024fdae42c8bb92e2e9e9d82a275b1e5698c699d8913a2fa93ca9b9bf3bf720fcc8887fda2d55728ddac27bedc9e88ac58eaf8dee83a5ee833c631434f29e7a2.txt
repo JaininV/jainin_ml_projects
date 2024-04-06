@@ -1,0 +1,41 @@
+* Shortages in crucial industrial metals and rare earth metals could lead to rising prices for renewables.
+
+* Hydrocarbons remain very crucial for our energy security.
+
+Last year, investments in low-carbon energy hit $1.1 trillion—a record high and a major increase on the previous year.
+
+However, this record investment did nothing for the world’s energy security, it seems, because besides the record investments in renewables, 2022 was also a year that saw a major increase in oil, gas, and coal demand.
+
+Not only that, but warnings multiplied about more fossil fuels investments that will be needed. Even the head of the International Energy Agency warned earlier this month that the oil market is facing a shortage later this year because of a growing gap between supply and demand.
+
+In such a context, when the most developed economies in the world are striving to reduce their dependence on fossil fuels, one cannot help but wonder why they are also encouraging more fossil fuel production.
+
+Germany, for instance, just closed its last three nuclear power plants—a low-carbon source of electricity—but expanded a coal mine. The United States’ federal government is spending billions on alternative energy but is insisting that oil producers boost their output. Britain wants to become the Saudi Arabia of wind energy, as former PM Boris Johnson said, but gas demand hit a record last year.
+
+Something doesn’t seem to be adding up. This something is the hidden cost of renewable energy. It is not something widely talked about because it has the potential to derail transition efforts by casting doubts over the viability of the transition.
+
+Yet the issue is very much clear and present. Why else would China be building as many coal power plants as the rest of the world despite boasting the world’s most wind and solar capacity?
+
+Many critics of the transition to wind and solar argue that the biggest problem is that these are being touted as cheaper than fossil fuels. And the calculations to do that are made on the basis of something called levelized cost of energy.
+
+The levelized cost of energy is a simple measure. Per the U. S. Department of Energy, LCOE measures lifetime costs for an energy installation divided by energy production. It sounds straightforward and simple enough. The problem is, it isn’t.
+
+LCOE is not a comprehensive measure of costs because it only factors in upfront costs and the cost of operating a wind or solar farm. What it markedly does not factor in is the cost of energy that is not produced by these farms when the sun is not shining and the wind is not blowing.
+
+These are some substantial costs because when wind and solar are down, fossil fuel plants need to step in and fill the gap, and the electricity they produce has become expensive because of those cheap renewables.
+
+But besides LCOE, which proponents of wind and solar have used for years to argue for their affordability, there are also other costs that are making themselves known now. Raw material prices are going through the roof, and there is little anyone can do about it.
+
+Daniel Yergin earlier this month wrote in an op-ed for the Wall Street Journal that the transition would kickstart a mining boom. The reason is that wind, solar, and EVs require massive amounts of metals and minerals, and these are not being produced at anywhere near the necessary scale. And this means some shortages may well be looming over the horizon.
+
+Copper is a case in point. Trafigura warned last year that there was only five days’ worth of copper supply in the world in inventory. Not only this, but that inventory was likely to shrink further to just 2.9 days’ worth. Just how dangerous this is becomes clear from the fact that ordinarily, the world’s copper inventories are measured in weeks.
+
+As a result, copper prices are about to hit a record this year—again—according to Trafigura. This is not going to do anything about the affordability of wind and solar, especially given that it’s not the only commodity in short supply.
+
+“Everything is getting much more expensive in an already stretched wind industry supply chain,” a senior Siemens Gamesa executive told the FT late last year. In the U. S., the Biden administration last suspended exorbitant tariffs on Asian import solar panels after these caused a slew of new project delays and cancellations because of higher costs.
+
+No wonder, then, that the wind and solar industries are finding life hard at the moment, despite upbeat reports that continue to insist that wind and solar are the cheapest sources of energy.
+
+This is why oil—and coal, too—continue to be essential for the world’s energy security. Their LCOE may be higher than wind and solar’s, but so is their reliability because, unlike those two, fossil fuel power is dispatchable: it can deliver whenever it’s needed.
+
+And let’s face it – oil and gas production and processing requires a lot less metals and minerals than manufacturing solar panels, inverters, cables, and wind turbines for that low-cost, low-carbon energy that is, essentially, neither of these.

@@ -1,0 +1,7 @@
+Presenting a smart clock for Pi 4B with the 7-inch display. This will display the date/time as a clock should 🙂 and also weather data (courtesy of OpenWeather). Also, the background image would cycle based on the weather status.
+
+I know for a simple clock this architecture is too much :), but I wanted a simple HTML file that would update Date/Time every second, I did  not want it to talk to OpenWeather API every two seconds, so Node JS would take the API server role, it will read the JSON response created by a Python script.
+
+The Python script will talk to the OpenWeather API and create a JSON file which will be eventually ready by the NodeJS server and the HTML with Javascript would fetch data from the NodeJS and display it on the 7-inch display of the Pi 4B.
+
+Thank you for reading!! Hope you like it!!

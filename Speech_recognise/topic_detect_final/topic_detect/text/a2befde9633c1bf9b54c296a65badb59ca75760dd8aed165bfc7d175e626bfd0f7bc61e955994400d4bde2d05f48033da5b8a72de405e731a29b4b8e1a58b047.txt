@@ -1,0 +1,11 @@
+A flat file is a type of data storage that stores data in a simple, text-based file format. Flat files are a straightforward way to store and transmit data without the need for complicated database management systems.
+
+A flat file typically contains a set of records, each of which consists of one or more fields. A field is a piece of data that represents a particular attribute of each record. Fields within a record are usually separated by a delimiter character, such as a comma or tab.
+
+Flat files are commonly used for storing large amounts of data that are regularly accessed and processed by computer programs. They are often used in business applications, such as accounting systems and inventory management.
+
+One of the main advantages of flat files is their simplicity. Because they are stored as plain text files, they can be easily created, edited, and read by humans and computers alike. Additionally, flat files do not require any special software to access and manipulate, making them a popular choice for small businesses and other organizations with limited IT resources.
+
+However, flat files do have some limitations. They are not designed to handle complex data relationships or large volumes of data, and they do not provide the same level of security and data protection as more sophisticated database systems.
+
+Despite these limitations, flat files are still widely used today, especially in situations where data storage and retrieval must be simple and efficient. Whether the data is a simple list of contacts or a complex set of financial information, flat files remain an essential tool for managing and storing data.

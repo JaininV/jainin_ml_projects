@@ -1,0 +1,11 @@
+Ripple CTO David Schwartz recently engaged in a discussion about the inverse correlation between the number of XRP units in existence and its price.
+
+Schwartz asserted that if there were only 50 billion XRP units instead of 100 billion, the price would likely be twice as much.
+
+However, he pointed out that the cost would also be twice as high for everyone involved.
+
+Schwartz further explained that reducing the total number of XRP units to an extreme, such as 20 million, could make the numbers more challenging for humans to comprehend.
+
+He compared the ease of understanding XRP and Bitcoin (BTC) prices, noting that it's easier for humans to grasp the magnitude of 19 XRP as opposed to 0.00034 BTC.
+
+The executive also highlighted the potential for making costly errors when typing out BTC amounts due to their decimal nature. In contrast, XRP's larger unit count makes it less prone to such mistakes.

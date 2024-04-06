@@ -1,0 +1,149 @@
+* ASUS ExpertBook B1 laptops are targeted towards enterprise users
+
+* Screen size options include 14-inch and 15.6-inch
+
+* The company is yet to reveal prices of the new business laptops
+
+ASUS has launched two new enterprise laptops in the country — the ASUS ExpertBook B1402 and B1502. The laptops offer a good variety of specifications, as well as additional features to enhance the utility and security of the devices.
+
+Among the key takeaways behind the new laptops is also the durability aspect, all of which is aimed at making the ASUS ExpertBook series enterprise-focused offerings. The products come at a fairly busy stretch for ASUS, which unveiled its 2023 lineup of ZenBook and VivoBook laptops on March 14th, followed by its flagship gaming range of ROG Strix Scar and ROG Zephyrus on March 22nd.
+
+Commenting on the launch of the ExpertBook B1402 / B1502 , Dinesh Sharma, Business Head, Commercial PC and Smartphone, System Business Group, ASUS India said, “At Asus Our vision is to innovate solutions and equip our Business customers with the latest and meaningful technologies to help them stay ahead of the curve. We are excited to introduce the latest segment leading and true game changer ExpertBook B1402 and B1502, laptops that built to perform and engineered to endure.
+
+ExpertBook B1402 / 1502 are affordable yet offer segment leading performance, durability, convenience and security with unmatched features in the segment such as NumPad 2.0, Dual Display Out, 180 Degree robust Hinges tested for 30000 times, USB Type C PD fast Charging and comprehensive hardware security of TPM 2.0, RJ 45 port, Kensington Lock and optional IR Camera.
+
+The ASUS ExpertBook B1 (1402 and 1502) will be available at “all leading commercial PC channel partners”, according to the company. Prices and availability dates of the laptops were not revealed upon launch.
+
+The ASUS ExpertBook B1 (1402 and 1502) range will feature 12th generation processor options, which range from Core i3-1215U, Core i5-1235U and Core i7-1255U SKUs. The Core i3 variant will feature Intel UHD integrated graphics, while the other two variants will come with Intel Xe graphics.
+
+Along with this, there are a total of six display options spread across the two ExpertBook B1 models — three for each. These include one LED-backlit 1366 x 768 pixels HD resolution variant, one LED-backlit full HD resolution variant, and a full HD TN panel variant. Each of these three choices are available in the 14-inch size on the ASUS ExpertBook B1402, and 15.6-inch on the B1502.
+
+RAM and storage configurations for the laptops will include up to 16GB DDR4 memory and 2TB NVMe PCIe 4.0 SSD storage on all the variants, although the RAM configuration can be user-upgraded up to 32GB. Other core offerings include a backlit keyboard, a fingerprint sensor, a multi-touch trackpad which doubles up as a virtual numeric pad with ASUS’ NumberPad 2.0.
+
+Interestingly, the latter features a major upgrade where even with the number pad enabled, users can still use the trackpad to control the pointer.
+
+In terms of connectivity, the two laptops feature two USB-A ports, with one USB 2.0 and one USB 3.2 Gen 1. It also gets two USB-C ports — with one USB 3.2 Gen 1 standard for power delivery, and one USB 3.2 Gen 2 port with full features including DisplayPort support and power delivery. It also gets one HDMI 1.4 port, one RJ45 Ethernet port with LED indicators for connectivity, and a 3.5mm audio combo port.
+
+It also gets Wi-Fi 6E and Bluetooth 5.1 for wired connectivity, and a 720p HD webcam on both the models. Finally, both the laptops are powered by 42Wh batteries that can be charged with 65W USB-C power adapters. ASUS advertises a 49-minute charging time for juicing up the laptop by 60 percent. Both the laptops are advertised to last for seven hours of usage time.
+
+They also measure the same in thickness — 19.9mm, and while the ASUS ExpertBook B1402 measures 1.49kg in weight, the B1502 measures 1.69kg. The laptops also feature infrared cameras for Windows Hello recognition.
+
+The enterprise segment offering is underlined by the security offerings on the laptops, which feature the Trusted Platform Module (TPM) 2.0 security chip, Kensington micro security ports, and physical webcam covers. The displays on the laptops can also be pushed down flat at 180 degrees for added viewing convenience.
+
+Finally, the laptops also come with military-grade durability, thanks to their US-MIL-STD-810H certifications — ASUS advertises that you can place up to 25kg of weight atop the laptop lids, and not damage the products.
+
+* Design: 180° lay flat hinge; easy screen sharing
+
+* Display: 14″ FHD Anti-Glare display, Low Bluelight certified by TÜV Rheinland
+
+* Operating system: Windows 11
+
+* Processor: Intel Core i3-1215U/i5-1235U/i7-1255U Processors
+
+* Graphics: Intel UHD Graphics for i3 / Intel Iris Xe Graphics for i5 and i7
+
+* Memory: Up to 16GB DDR4 on board; 16GB DDR4 SO-DIMM, Memory Max Up to:48GB
+
+* Storage: Up to 1TB M.2 NVMe PCIe 4.0 SSD
+
+* Ports: 1x USB 2.0 Type-A, USB 3.2 Gen 1 Type-A, USB 3.2 Gen 1 Type-C support power delivery, USB 3.2 Gen 2 Type-C support display / power delivery, HDMI 1.4, 3.5mm Combo Audio Jack, RJ45 Gigabit Ethernet
+
+* Expansion Slots: 1x DDR4 SO-DIMM slot; 1x M.2 2280 PCIe 4.0×4
+
+* Keyboard & Touchpad: Chiclet Keyboard, 1.4mm Key-travel, Spill-resistant Keyboard, Support NumberPad
+
+* Camera: 720p HD camera; With privacy shutter
+
+* Audio: Audio by Dirac; Built-in speaker and array microphone
+
+* Connectivity: Wi-Fi 6(802.11ax) (Dual band) 2*2 + Bluetooth® 5.1
+
+* Battery: 42WHrs; TYPE-C, 65W AC Adapter, PD Charger
+
+* Dimensions (W x D x H): 32.69 x 21.45 x 1.99 cm; Weight: 1.49 kg
+
+* Built-in Apps: MyASUS and McAfee
+
+* Military Grade: US MIL-STD 810H military-grade standard
+
+* Security: Trusted Platform Module (TPM) 2.0, Kensington Nano Security Slot
+
+* Dual heat dissipation fins & dual fan exhaust ports
+
+* Color: Star Black
+
+* Display: 15.6″ FHD Anti-Glare display, Low Blue light certified by TÜV Rheinland, Screen-to-body ratio of 83 %
+
+* Operating system: Windows 10 Home (Upgradable to Windows 11 Home)
+
+* Processor: Intel Core i3-1215U/i5-1235U/i7-1255U Processors
+
+* Graphics: Intel UHD Graphics
+
+* Dimensions (W x D x H): 32.16 x 23.30 x 1.99 cm; Weight: 1.69 kg
+
+Ans) Key Points of Asus Expert Book are-
+
+• Rugged beyond Military-grade: ExpertBook B1402 /1502 comes certified with the latest military-grade standard, and torture tested to ensure robust reliability with 180 degree lay flat hinges tested up to 30,000 open and close test, Panel stress tests dealing up to 25kg of force, keys tested for 10 million times, spill proof keyboard and I/O ports tested up to 5000 times of plug-in and out.
+
+• Numberpad 2.0 in 14” version : The 14-inch variant ExpertBook B1402 features the innovative ASUS NumberPad as a standard, allowing easy number input alongside mouse functionality.
+
+• Sustained high-performance: Up to 12th Gen Intel® Core™ processors with dual exhaust vents for accelerated cooling and performance, powerful Iris Xe integrated graphics, coupled with support of up to 48 GB of upgradable RAM and blistering fast PCIe Gen 4 SSD storage.
+
+• Extensive connectivity and input: Modern and Comprehensive I/O with segment first dual USB-C ports with 65W USB-C PD charging, Full-size rigid RJ-45 ports with status LEDs, USB-A ports and full size HDMI.
+
+• Commercial-grade features and Security: 180-degree ‘lay-flat’, Shielded webcam, dedicated TPM 2.0, Secure MAC-binding over RJ-45, Kensington lock, and a segment-first Numpad 2.0 touchpad.
+
+• Crystal-clear audio conferencing: High-fidelity audio with Dirac audio tuning, ASUS two-way AI noise-cancelling technology & software employs machine learning to eliminate background sounds, both in single presenter and multi-presenter mode
+
+Ans) Primed to perform: Up to 12th Gen Intel® Core™ i7 processor and flexible configuration.
+
+The new ExpertBook B1 series is powered by the latest 12th Generation Intel® Core™ processors and blazing fast PCIe Gen 4 SSDs, so they’re primed to deliver the sterling performance needed to get the job done.
+
+A unique dual-vented exhaust cooling solution on the B1402 helps the processor to achieveconsistent high-speed performance for heavy workloads, in comparison to a laptop with a single exhaust vent, the laptop will frequently have to turn down performance to keep the thermals in check. ASUS-exclusive algorithms are combined with up to five smart sensors to intelligently manage CPU performance.
+
+The ExpertBook B1402 and B1502 offer superior memory support of up to 48 GB, and also allows the option of having the Iris Xe graphics operate in dual-channel mode on i5 and i7 CPUs for elevated 3D graphics performance. The device also benefits from an admin-friendly design for hassle-free maintenance in commercial or even in education settings. Removal of a few screws on the base provides easy access to upgrade the RAM or storage devices without the need to disassemble the entire device.
+
+The ExpertBook B1402 and B1502 feature Asus Expert Widget the increases user’s productivity by allowing the users to customise their own hot keys to launch apps / browser instantly with the combination of Fn Key + Number Key 1-4 and F10 / F12 keys.
+
+Expert B1402 is enabled with NumberPad 2.0, dual function touchpad that has a numeric keypad integrated that can be switched on or off as needed and is perfect for crunching numbers. Even when NumberPad 2.0 is activated the touchpad can be used for cursor control.
+
+Connectivity is especially important in a business laptop to ensure it’s easy for any task types or workloads, hence the ExpertBook B1 series feature comprehensive selection of modern I/O ports. It offers a ‘segment-first’ dual USB-C ports, with USB 3.2 Gen 2 offering Power Delivery, Data transfer and DisplayPort. It also has both USB 3.2 Gen 2 and USB 2.0 Type-A ports, an HDMI 1.4, a rigid full-size RJ-45 Ethernet port with connection status LEDs, and a combo audio jack — all tested for up to 5000 times of connection cycles for an assurance of maximum reliability. The ExpertBook B1 series also feature a Kensington Lock slot allowing for quick, easy, and physical security the device.
+
+The need for remote work and learning tools has never been greater, ExpertBook B1402 is equipped for these demands, with two external-video outputs — DisplayPort over USB-C and HDMI, supporting connections of up to two external 4K UHD displays. This gives users the freedom to engage in a video-conferencing or remote-learning session on the laptop’s display while using two screens on either side to keep in view information that’s relevant to a call or event.
+
+The new ExpertBook B1402 model is also engineered for non-stop connectivity and productivity, with congestion-busting Wi-Fi 6E coupled with ASUS Wi-Fi Master Technology and features Bluetooth 5.1 as standard.
+
+ASUS ExpertBook B1402 and B1502 are surprisingly light for a business laptop, weighing as little as 1.49 kg and 1.69kg respectively for the 14 and 15-inch variants. It’s comfortable to carry anywhere – and lighter than many competing models in its segment. It’s also one of the thinnest in its class barring its feet extensions that facilitates better underbody airflow, standing just 19.2 mm tall.
+
+Despite the slim dimensions and lightweight, the laptop also offer great screen-to-body ratio. The narrow-bezel design of their NanoEdge displays allows a for a much smaller body design to accommodate a larger screen. The display is also certified up to TÜV Rheinland standards for low blue-light emissions, ensuring comfortable eyes when used over longer periods.
+
+The latest ExpertBook B1402/ B1502 laptop offers numerous options for robust security to ensure confidential and private data does not leak out.
+
+The laptop features a front webcam with a built-in privacy shield. This ingeniously simple idea means that all the user needs to do for instant privacy is to swipe the cover across the webcam’s lens, with that visibility is just one flick of the finger away.
+
+The optional Trusted Platform Module (TPM) 2.0 chip also ups the new ExpertBook B1’s business-friendly security credentials. The embedded TPM 2.0 chip securely stores authentication information used by software, such as passwords or encryption keys, to protect important data and transactions — keeping the information away from the eyes of would-be attackers.
+
+Of course, life on the road can be tough, so the new ExpertBook B1402 / B1502 is designed to both meet and surpass exacting industry thresholds — including the latest ultra-demanding MIL-STD 810H US military standard, putting ExpertBook B1402/ B1502 one step ahead of the competition.
+
+The chassis design combines additional structural enhancements to meet the rigorous tests of daily use. These include an internal keyboard bracket that provides additional structural support. The laptop is further subjected to additional durability testing that’s separate from Military-grade certifications, among these tests is testing the laptop lid with up to 25kg of force at the centre of the display lid.
+
+Crystal-clear conferencing audio: Two-way AI Noise cancellation & Dirac powered audio
+
+ExpertBook B1402 and B1502 are ready for the increased levels of remote working and education, with ASUS two-way AI noise-cancelling technology integrated to ensure superior audio experiences for calls and video conferences.
+
+ASUS two-way AI noise-cancelling audio employs machine learning to isolate unwanted noise from human speech. There are two modes: Single-presenter mode allows the voice directly in front of the PC to be heard clearly; while multi-presenter mode clarifies speech from different directions, ensuring optimum quality for group conference calls.
+
+MEANWHILE, the AI noise-cancelling mic speaker feature filters out all ambient noise apart from human speech, making it easier to hear what everyone else is saying. With Dirac’s software audio tuning, the ExpertBooK B1402/ B1502 steps up its audio fidelity to match your current productivity stream, whether if its playing back a video or listening to a conversation live, it all sounds punchy, crisp and definite.
+
+Ans) The ASUS ExpertBook B1402 and B1502 will be available at leading Commercial PC channel partners.
+
+Ans) ASUS, Taiwan-head-quartered, multinational computer hardware as well as consumer electronics and the fastest-growing consumer laptop brand in India, today announced the launch of the latest ASUS ExpertBook B1 series, offering 14-inch (B1402) and 15.6-inch (B1502) variants of the commercial laptop. ExpertBook B1402/B1502 is the brand new slim, light, and highly versatile notebook that is tailored for business, designed as the smart choice for fast-paced ambitious enterprises and as well as small-medium businesses that demand the utmost in portability and security.
+
+Powered by the latest 12th Generation Intel® Core™ processors, ExpertBook B1402/B1502 is super sleek, highly configurable , boasts a design, replete with military-grade durable construction, that effortlessly combines high performance with rugged reliability to empower every business. The new ExpertBook B1 series includes ‘segment-first’ features such as incredible dual-vented exhausts for accelerated cooling that offers consistent high-speed performance, blazing fast PCIe Gen 4 Solid-State Drive, Dual USB-C ports with USB-C charging, a full-size rigid RJ-45 port with status LEDs, 180-degree lay-flat hinges that are internally tested for 30,000 open-and-close lifecycles, NumberPad 2.0 on the touchpad of 14 inch screen version for fast number crunching and choices of up to a Full-HD Wide-view IPS display, all with Anti-glare layer for all-day long productivity.
+
+The ExpertBook B1402 and B1502 offer superior and modern I/O ports ranging from Dual high-speed USB-C ports that allows for high-speed data transfer and allows for fast-charging via a 65W USB-C adapter and offers display-out and power delivery. The laptop also features full-sized ports such as USB-A ports, and HDMI.
+
+Also Read: ASUS launches new ROG Zephyrus and Strix Scar series of gaming laptops in India: check price, specifications
+
+Also Read: Asus launches new AMD Ryzen 7000 versions of ZenBook, VivoBook laptops in India: Price & Specifications

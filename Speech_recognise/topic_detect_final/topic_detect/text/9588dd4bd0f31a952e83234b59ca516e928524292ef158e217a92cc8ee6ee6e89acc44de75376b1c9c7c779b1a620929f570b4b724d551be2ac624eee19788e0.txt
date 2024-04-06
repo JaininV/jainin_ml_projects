@@ -1,0 +1,341 @@
+Chinese Joint Venture OEMs' Telematics System and Entertainment Ecosystem Research Report 2022: Voice Interaction Set to Gain Further Momentum in Coming Years
+
+,  /PRNewswire/ -- The "Chinese Joint Venture OEMs' Telematics System and Entertainment Ecosystem Research Report, 2022" report has been added to  ResearchAndMarkets.com's offering
+
+Telematics System Research 2: Baidu Family Bucket, Huawei and Tencent Become the Mainstream Ecosystems
+
+The publisher has released Chinese Joint Venture OEMs' Telematics System and Entertainment Ecosystem Research Report, 2022 (hereinafter referred to as 'this report'), combing through telematics systems of joint venture brands in China.
+
+From January to December 2022, joint venture brands in China sold a total of 10.74 million passenger cars, a year-on-year decrease of 8.6%, of which 6.59 million units were equipped with telematics systems, with the installation rate up to 61.3%, 5 percentage points higher than in the previous year.
+
+By brands and their telematics system installations in 2022, Volkswagen moved up to first position, with its market share increasing by 5.2 percentage points on an annual basis (Volkswagen sold 2.193 million new vehicles in 2022, down 8.1% year on year); Nissan fell to third, with its market share dropping by 3 percentage points (Nissan sold 802,000 new vehicles in 2022, down 23% year on year).
+
+In 2022, the development of joint venture brands in telematics systems highlighted the following:
+
+1. Cockpit hardware offers big improvements, and high-resolution integrated displays and rear entertainment screens become the norm
+
+In 2022, the new models of joint venture brands offer big improvements in cockpit displays. Take GM and BMW as examples:
+
+Buick and Cadillac under GM carry virtual cockpit systems (VCS). Buick Century is equipped with a 30-inch  curved display in the front row, and a 32-inch entertainment screen and two - 8-inch armrest control screens in the rear row (both front and rear rows are equipped with a Qualcomm 8155 chip); Cadillac LYRIQ packs a 33-inch  curved display, with the PPI up to 271
+
+The front row of BMW i7 adopts a curved display that integrates the 12.3-inch dashboard and 14.9-inch center console screens, with the resolution of 2880*1080 and the PPI of 201. A 31-inch  entertainment screen is first introduced in the rear row, and can be controlled via the two 5.5-inch rear door screens on the left and right
+
+2. In cockpit interaction, voice interaction becomes a standard configuration, but few advanced functions are installed in vehicles
+
+In 2022, typical models of joint-venture brands came with voice interaction, but few of them bore advanced voice functions, such as "see and speak", four-zone sound recognition, and sound reproduction. Among the 12 models in this report, only Buick Century is equipped with "see and speak" and voice reproduction features, and Nissan ARIYA supports four-zone sound recognition
+
+Toyota bZ3, to be launched in , is planned to be equipped with voice interaction functions from dual-zone sound recognition, wakeup-free, sound reproduction and scenario DIY to 20/30/60/120-second continuous dialogue and semantic interruption, which will be gradually upgraded and opened up later
+
+Compared to Chinese independent brands which have developed such functions as user-defined voice command, voice-controlled ADAS and external voice interaction, joint venture brands still have a long way to go in interaction modes. (see details in Chinese Independent OEMs' Telematics System and Entertainment Ecosystem Research Report, 2022)
+
+3. In terms of ecosystem, Baidu Family Bucket (Baidu's applications) has found massive application in vehicles, and Huawei and Tencent cooperate with more brands
+
+Among the 13 joint venture brands researched in this report, 8 brands cooperate with Baidu, of which Buick, Cadillac and Chevrolet under GM, Toyota and Hyundai choose to install Baidu Family Bucket. In addition,  Aiquting,  MINI Scenario and Huawei APP Store are gradually available to vehicles. For example, BMW i7 integrates  Aiquting and  MINI Scenario applications on its front row center console screen, and Huawei APP Store on its rear row entertainment screen
+
+In contrast, the cooperation of Alibaba Ecosystem with joint venture brands is being scaled down. Except for Amap, Tmall Genie falls short of expectations, losing its partner BMW in 2022 (in , BMW announced that starting from , it will phase out Tmall Genie and related functions in its IVI system and My BMW APP).
+
+Key Topics Covered:
+
+1 Telematics System Market Size of Chinese Joint Venture OEMs
+
+1.1 Installations and Installation Rate of Telematics Systems in China: Nationwide
+
+1.2 Telematics System Installations and Installation Rate of Chinese Joint Venture OEM
+
+1.2.1 Installations: by Brand
+
+1.2.2 Installation Rate: by Brand
+
+1.2.3 Installations: by Price
+
+1.2.4 Installation Rate: by Price
+
+1.2.5 Installations: by System
+
+2. Comparison of Telematics Functions between Joint Venture OEMs in China
+
+2.1 Cockpit Display
+
+2.2 Cockpit Interaction
+
+2.3 Vehicle Ecosystem
+
+2.4 Remote Control
+
+2.5 Cooperation between Major Joint Venture Brands and BATH
+
+3. Telematics Systems of Major Joint Venture OEMs in China
+
+3.1 SAIC GM
+
+3.1.1 Development Strategy in China
+
+3.1.2 Telematics System Layout of Three Major Brands
+
+3.1.3 Telematics System Installations and Installation Rate of Three Major Brands
+
+3.1.4 Development History of Buick eConnect
+
+3.1.5 Main Functions of Buick eConnect 3.0
+
+3.1.6 iBuick APP
+
+3.1.7 Models with Buick eConnect 3.0
+
+3.1.8 Development History of Cadillac User Experience (CUE) Infotainment System
+
+3.1.9 Highlights of New-generation CUE System (Based on VCS Intelligent Cockpit)
+
+3.1.10 Typical Models with Cadillac VCS Intelligent Cockpit
+
+3.1.11 Development History of Chevrolet MyLink System
+
+3.1.12 Core Functions of Chevy OS
+
+3.1.13 OnStar Platform
+
+3.1.14 OnStar APP
+
+3.1.15 Dynamics in Telematics (2021-2022)
+
+3.2 Changan Ford
+
+3.2.1 China Strategy
+
+3.2.2 Development History of SYNC Telematics System
+
+3.2.3 Installations and Installation Rate of Telematics System
+
+3.2.4 SYNC+
+
+3.2.5 Highlights of SYNC+
+
+3.2.6 Models with SYNC+
+
+3.2.7 SYNC+ 2.0
+
+3.2.8 Models with SYNC+ 2.0
+
+3.2.9 Highlights of "Ford Online" Telematics System
+
+3.2.10 FordPass Connect APP
+
+3.2.11 Future Cockpit Plan
+
+3.2.12 C-V2X
+
+3.2.13 Dynamics in Telematics (2021-2022)
+
+3.3 Toyota China
+
+3.3.1 Telematics System
+
+3.3.2 Models with Smart Mobility Interconnection System
+
+3.3.3 Installations and Installation Rate of Telematics System
+
+3.3.4 Highlights of the Smart Mobility Interconnection System
+
+3.3.5 Toyota Connect APP
+
+3.3.6 Typical Models with Smart Mobility Interconnection System
+
+3.3.7 Automotive Software Platform
+
+3.3.8 To Launch the Automotive Software System by 2025
+
+3.3.9 Dynamics in Telematics (2021-2022)
+
+3.4 Honda China
+
+3.4.1 Development Strategy
+
+3.4.2 Development History of Telematics System
+
+3.4.3 Installations and Installation Rate of Telematics System
+
+3.4.4 Highlights of Honda CONNECT 3.0
+
+3.4.5 GAC Honda APP
+
+3.4.6 Models with Honda CONNECT 3.0
+
+3.4.7 Partners
+
+3.4.8 Dynamics in Telematics (2021-2022)
+
+3.5 Nissan
+
+3.5.1 Connectivity Strategy
+
+3.5.2 Development History of Telematics System
+
+3.5.3 Installations and Installation Rate of Telematics System
+
+3.5.4 Nissan Connect
+
+3.5.5 Typical Models with Nissan Connect 2.0+
+
+3.5.6 Nissan Connect APP
+
+3.5.7 Telematics Partners
+
+3.5.8 Dynamics in Telematics (2021-2022)
+
+3.6 Mercedes-Benz
+
+3.6.1 Telematics Development Planning
+
+3.6.2 Iteration of Telematics System
+
+3.6.3 Installations and Installation Rate of Telematics System
+
+3.6.4 Highlights of New MY MBUX
+
+3.6.5 Models with MY MBUX
+
+3.6.6 Highlights of MBUX Hyperscreen
+
+3.6.7 Mercedes me (BEV)
+
+3.6.8 Mercedes me (Fuel Car)
+
+3.6.9 Models with MBUX Hyperscreen
+
+3.6.10 Telematics Partners
+
+3.6.11 Dynamics in Telematics (2021-2022)
+
+3.7 BMW
+
+3.7.1 iDrive 8.5 & iDrive 9.0 Plan
+
+3.7.2 Development History of Telematics System
+
+3.7.3 Installations and Installation Rate of Telematics System
+
+3.7.4 Functions of iDrive 8.0
+
+3.7.5 Models with iDrive 8.0
+
+3.7.6 Digital Key
+
+3.7.7 In-vehicle Game Development
+
+3.7.8 MY BMW APP
+
+3.7.9 OTA
+
+3.7.10 Telematics Partners
+
+3.7.11 Dynamics in Telematics (2021-2022)
+
+3.8 Volkswagen
+
+3.8.1 Telematics Development Planning
+
+3.8.2 Development History of Telematics System
+
+3.8.3 Installations and Installation Rate of Telematics System
+
+3.8.4 Highlights of CNS 3.0
+
+3.8.5 Functions of Connectivity System 4.0
+
+3.8.6 Models with Connectivity System 4.0
+
+3.8.7 China Strategy
+
+3.8.8 Software Platform Development Planning
+
+3.8.9 Research Projects of CARIAD China Subsidiary
+
+3.8.10 Main Telematics Partners
+
+3.8.11 Dynamics in Telematics (2021-2022))
+
+3.9 Audi
+
+3.9.1 Development History of Telematics System
+
+3.9.2 Installations and Installation Rate of Telematics System
+
+3.9.3 Highlights of MIB 3
+
+3.9.4 Audi Connect Car2x
+
+3.9.5 Models with Next-generation Telematics System: Audi A7L
+
+3.9.6 V2X+5G
+
+3.9.7 Telematics Partners
+
+3.9.8 Audi Connect Developer Platform
+
+3.9.9 Automotive VR
+
+3.9.10 Dynamics in Telematics (2021-2022)
+
+3.10 Beijing Hyundai
+
+3.10.1 HSMART+ Strategy
+
+3.10.2 Development History of Telematics System
+
+3.10.3 Installations and Installation Rate of Telematics System
+
+3.10.4 Intelligent Connection System 4.0
+
+3.10.5 Models with Intelligent Connection System 4.0
+
+3.10.6 Partner: Baidu
+
+3.10.7 "Software Defined Vehicle" Plan
+
+3.10.8 Dynamics in Telematics (2021-2022)
+
+3.11 Volvo
+
+3.11.1 Intelligent Connectivity Planning
+
+3.11.2 Development History of Telematics System
+
+3.11.3 Installations and Installation Rate of Telematics System
+
+3.11.4 Highlights of New-generation Telematics System
+
+3.11.5 Models with New-generation Telematics System
+
+3.11.6 Main Telematics Partners
+
+3.11.7 Telematics System Self-development Pan
+
+3.11.8 Dynamics in Telematics (2021-2022)
+
+Companies Mentioned
+
+For more information about this report visit https://www.researchandmarkets.com/r/he9q1u
+
+About ResearchAndMarkets.com
+
+ResearchAndMarkets.com is the world's leading source for international market research reports and market data. We provide you with the latest data on international and regional markets, key industries, the top companies, new products and the latest trends.
+
+Research and Markets
+
+Laura Wood, Senior Manager
+
+[email protected]
+
+For E. S.T Office Hours Call +1-917-300-0470
+
+For U.S./CAN Toll Free Call +1-800-526-8630
+
+For GMT Office Hours Call +353-1-416-8900
+
+U.S. Fax: 646-607-1907
+
+Fax (outside U.S.): +353-1-481-1716
+
+Also from this source
+
+Colombia Data Center Market Investment and Opportunities Analysis Report 2023-2028 Featuring Leading Players and New Entrants Such as Ascenty, DHAmericas, & Scala Data Centers

@@ -1,0 +1,33 @@
+Every GST Identification Number (GSTIN) registered user is required to file a Goods and Services Tax (GST) return mandatorily. About 22 different forms of GST returns exist. Four of these are suspended, and eight are in view-only format. Depending on the type of taxpayer—regular taxpayer, composition taxpayer, TDS (tax deducted at source) deductor, non-resident taxpayer, e-commerce operator, Input Service Distributor (ISD), and others—the remaining 11 must be filed on the basis of all these discussed categories.
+
+Three returns must typically be filed by a conventional business: GSTR-1, GSTR-3B, and GSTR-9. What they are all about let’s put light on them:
+
+GSTR-1 is a monthly statement of outward supplies, it is required from taxpayers for the supply of goods and services, or both, whether through a sale, transfer, barter exchange, licence, rental, lease, or other means. However, you can choose the Quarterly Returns with Monthly Payment (QRMP) scheme to file GSTR-1 every quarter while paying tax dues every month via challan. It is applicable if your company’s turnover during the previous financial year was up to Rs. 5 crores or if the anticipated turnover for the current financial year is up to Rs. 5 crores.
+
+To file the GSTR-1 form, you are required to give invoice information of supplies to recorded consumers other than invoice details of inter-state supplies. It should be with an invoice having a value of more than Rs 2.5 lakh to unrecorded consumers.
+
+You need to gather the information on credits and services, including deemed exports (SEZ), encapsulated state-level information on supplies to unrecorded consumers, information on advances received for future supplies and their adjustment, nil-rated, exempt, and non-GST supplies, and an HSN/SAC (services accounting codes) wise summary of outward supplies to submit a GSTR-1 form.
+
+Taxpayers who come under the composition plan are exempted from filing GSTR-1. Businesses having a turnover of less than Rs. 1.5 crore may choose the plan or scheme that will enable them to file an annual return but only one quarterly return (GSTR-4A). Non-resident foreign taxpayers, online information databases and access retrieval service providers, ISD, TDS deductors, and e-commerce platforms collecting TCS are free from filing GSTR-1.
+
+The deadline for filing GSTR-1 for a given tax duration is the 11th day of the following month. For those filing it quarterly, the 13th day of the month following the end of every quarter is the deadline to file GSTR-1.
+
+GSTR-3B is fundamentally a summary of the return of outward supplies and inputs tax credits declared along with taxes paid. GST Portal is the platform from which you can file it online. Just go to the ‘Services’ tab and then ‘Returns’ and ‘Returns Dashboard’. Select the financial year and tax period, and Form GSTR-3B will be popped up in front of you.
+
+To prevent data mismatch, accommodate sales and input tax credit details with GSTR-1 before submitting GSTR-3B.
+
+The deadline for individuals who file it monthly is the 20th of the month following the tax period, and for those who file it quarterly under the QRMP scheme, it is the 22nd and 24th of the month after the quarter to which the return relates. Even if no deal has been done during the specific tax timeline, GSTR-3B is mandatory to be paid.
+
+Missing the deadline for filing GSTR 1, Rs 50 per day from the due date will be fined while in case of nil returns, a late fee of Rs 20 per day will be levied.
+
+Each year, the GST-registered taxpayer is required to submit Form GSTR-9. Details on purchases, sales, claimed input tax credits or refunds, demand generated, etc. are included in the return under several tax headings, including CGST, SGST, and IGST. It may also be seen as a compilation of all quarterly and/or monthly returns submitted by taxpayers over the course of the year. However, it appears that submitting GSTR-9 is optional for companies with a revenue of up to Rs 2 crore.
+
+People who chose the composition system may submit their annual returns in GSTR-9A rather than GSTR-9. However, they must submit GSTR-9 for the time they were a regular taxpayer and registered.
+
+Moreover, normal taxpayers, non-resident taxable persons, ISDs, and OIDAR Service Providers are not liable to file the annual return.
+
+OIDAR (Online Information Database Access and Retrieval Services) is a class of online services that don’t require any direct contact with the service provider.
+
+Importantly, the taxpayer must have submitted GSTR-1 and GSTR-3B for the applicable financial year in order to submit the annual return. The deadline for filing the yearly return is December 31 or the extension date set by the government.
+
+Businesses with annual revenue of up to Rs. 5 crores who fail to file their annual returns by the deadline are subject to a late fee of Rs. 50 per day, up to a maximum of 0.04 per cent of their annual revenue.

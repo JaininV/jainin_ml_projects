@@ -1,0 +1,51 @@
+PALO ALTO, Calif., April 14, 2023 /PRNewswire/ — Hesai Technology (NASDAQ:HSAI) today officially releases the latest automotive-grade, ultra-thin long-range lidar ET25. ET stands for “Extremely Thin”. Named after its height, ET25 is only 25 mm tall and extremely light.
+
+As an in-cabin lidar specially designed to be placed behind the windshield, ET25 provides automakers with more possibilities for automotive applications.
+
+Lidar provides high-precision 3D perception for smart cars. It effectively compliments cameras, providing higher safety redundancy. Lidar is a key perception hardware enabling L2+ and L3 ADAS applications.
+
+Automakers require lidar placement to consider both function and aesthetics. ET25 is designed to be placed behind the windshield, which enables a sleeker design without affecting aerodynamics or acceleration performance.
+
+Dust and rain can block the lidar’s FOV, but the unique in-cabin design allows for quick cleaning via windshield wipers. This ensures that the visibility of lidar is maintained in different scenarios.
+
+ET25 comes with state-of-the-art features to achieve its unique in-cabin design.
+
+ET25 is about half the height of AT128, yet offers even higher performance. With 120° (H) x 25° (V) FOV, its detection range can reach 250 meters without the windshield, and 225 meters behind the windshield[1]. Its point frequency exceeds 3 million points per second. With a minimum resolution of only 0.05° x 0.05°, ET25 brings ultra-high resolution and long-range 3D perception to smart cars.
+
+ET25’s ultra-thin form factor and improved performance comes from Hesai’s proprietary technology. The upgraded laser receivers increase ET25’s sensitivity by several folds. As a result, the ranging capability of the 905 nm lidar has also increased to over 250 meters (for objects with 10% reflectivity), helping smart cars to assess risks promptly and make safer decisions in complex road conditions.
+
+Why is it critical for in-cabin lidar to be thin?
+
+All sensors integrated in-cabin require some space between the sensor and windshield. The space is called the optical Keep Out Zone (KOZ). The thicker the sensor, the more KOZ it needs. For example, the ET25 with a thickness of 25 mm has less than half the KOZ compared to other long-range lidars with a thickness of 45 mm. Since the sensor bracket is placed above the driver, a smaller KOZ takes less in-cabin space and reduces the impact on the driver’s vision.
+
+Therefore, only a lidar as thin as the ET25 can ensure safety when installed behind the windshield, bringing wider field of view and more in-cabin space.
+
+The in-cabin air does not circulate well while driving, especially in high-temperature weather. After exposure to sunlight, the rearview mirror tends to become very hot, creating a major challenge for the in-cabin lidar. If the power of the lidar is too high, it can not be placed in the cabin due to serious overheating problems.
+
+ET25 has excellent thermal performance with only 12 W of power consumption. Even in the hot summer, it can work continuously while maintaining high-performance operation.
+
+In addition, selecting sensors with lower power consumption will save a car’s battery life.
+
+Noise, vibration, and harshness (NVH) are essential indicators of car quality. High-end and luxurious models need a higher NVH rating performance.
+
+Therefore, in-cabin installations of lidar have higher NVH requirements. The noise level of ET25 is less than 25 dB, which is even lower than the noise level in a quiet library. It fully meets the NVH requirements for luxury electric vehicle brands[2] and provides an “immersive” driving experience.
+
+Another key factor is the particular windshield used for the ET25 integration.
+
+Normally, when near-infrared laser light emitted by the lidar encounters traditional car glass, it causes signal attenuation, which lowers the maximum range and resolution. Therefore, integrating the lidar with other devices behind a normal windshield, such as cameras and rain sensors, poses a great challenge.
+
+On the ET25 release date, Hesai officially announced a joint strategic cooperation with Fuyao Group to promote the release of ET25 ADAS solution.
+
+Founded in 1987, Fuyao Group is China’s largest automotive glass supplier with leading R&D and production capability. Fuyao’s customized front windshield optimized infrared light transmittance, solving the signal attenuation problem caused by ordinary glass.
+
+Using Fuyao’s near-infrared anti-reflection glass in lidar’s KOZ ensures the performance of the lidar behind the windshield, and leaves the point cloud effect “uncompromised”.
+
+Furthermore, Fuyao’s industry-leading windshield integration design capability and accumulated experience enabled the perfect integration between ET25 and the existing ADAS systems. Together, Hesai and Fuyao will jointly promote the mass production of in-cabin lidar and bring innovative solutions to global users.
+
+ET25 is extremely thin while maintaining its high performance. It is another breakthrough for Hesai, following the fully solid-state lidar FT120 designed for ADAS series production vehicles.
+
+In 2022, Hesai’s annual revenue and delivery volume exceeded the combined sum of the eight lidar companies listed on the US stock market[4]. Hesai’s AT128 has already won over several million units of expected volume from 11 leading OEMs and tech companies including Li Auto, Jidu, HiPhi, Lotus, Changan, and SAIC. Beginning mass production and delivery in July 2022, AT128 has empowered Li L9, L8 Max, L7 Max, Hiphi Z, Lotus Eletre, and various other car models.
+
+Hesai will continue to empower smart cars with high-performance and reliable lidar products, bringing a safer and more intelligent driving experience.
+
+Note – If you liked this post click here to stay informed of all of the 3D laser scanning, geomatics, UAS, autonomous vehicle, Lidar News and more. If you have an informative 3D video that you would like us to promote, please forward to editor@lidarnews.com and if you would like to join the Younger Geospatial Professional movement click here.

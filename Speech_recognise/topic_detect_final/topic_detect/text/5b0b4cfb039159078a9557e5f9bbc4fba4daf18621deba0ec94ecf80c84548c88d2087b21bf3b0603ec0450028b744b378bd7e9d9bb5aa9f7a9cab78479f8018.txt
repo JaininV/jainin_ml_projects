@@ -1,0 +1,13 @@
+In a recent blog post, WhatsApp said that it has introduced a new feature where users can make their own stickers from Apple photo cutouts. WhatsApp for iOS 23.7.82 is compatible with the latest introduction, as per the company.
+
+Also Read: WhatsApp, Lottie working to bring animated emojis to chat.
+
+As seen in the above screenshot, or on the App store app description, the feature has already been rolled out for iOS 16 version.
+
+* Long-hold on the object you wish to turn into sticker.
+
+* Copy the selected object, and paste on a WhatsApp chat. Then tap on Send.
+
+Tap on the same sticker to Add to Favourites in the sticker pack.
+
+Also Read: WhatsApp rolls out new interface for screen lock.

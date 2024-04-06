@@ -1,0 +1,7 @@
+This post is about Python, Threads, Multiprocessing, the GIL, and a great talk by David Beazley titled “Inside the Python GIL”.
+
+Threads make it possible to execute multiple pieces of code in parallel, which means either utilizing multiple processors or having the operating system schedule execution time for the threads sequentially on one processor. In contrast to multiprocessing (forking) where multiple separated processes are started, all threads run in a single process and have access to the same resources. Python makes both threading and forking easy with the threading and multiprocessing modules.
+
+Since multiple threads access a single Python interpreter process with shared resources, Python uses a Global Interpreter Lock (GIL) to schedule access to the interpreter. Each thread has about 100 interpreter instructions before a context switch to the next thread occurs. As a result multiple threads in a single Python process cannot utilize more than one cpu, and cpu intensive code can actually run slower with threads than without. Only the multiprocessing module allows utilization of more cpu’s by starting multiple Python interpreter processes (with the downside of a more complicated message passing between the processes).
+
+The 2009 teach talk “Inside the Python GIL” by David Beazley offers a lot of insight into how the GIL operates and is highly recommended for everyone interested in more details.

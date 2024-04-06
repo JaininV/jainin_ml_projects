@@ -1,0 +1,181 @@
+As an engineer I’ve been working with multiple development approaches and practices.
+
+Some of them worked good, some not. One set was easy to implement, but complex to support. Another — opposite.
+
+My search journey is still in progress, cause there is no ideal approach which I like 100%. And there is no “silver bullet” solution as well.
+
+Each new company and project — is a good way to revisit/rethink the way things are being built. And I also like to write-up things for myself to save as notes.
+
+In this story I’d like to share my observations based on multiple NodeJS repos and discussions seen from time to time in community and chats. I see it as a dialogue/fight with my brain, where I try to convince myself about specific approach/direction.
+
+When working in a team/organisation — it’s important to be on the same page in terminology.
+
+There is a huge set of known architecture types and patterns which allow to talk on the same language. Similar to `microservices` term — most of us talk about the same and understand core principles.
+
+From time to time I hear hot discussions in community and chats like:
+
+“this is Java way”, “JS is flexible, so it’s very bad proposal”, “NestJS is opinionated”, “nahh, this is OOP way. JS is not about that” etc.
+
+Lots of such statements can be unfair or misleading. So I’d like to start from typical app written in NodeJS.
+
+As we can see, it has API (typically with express or similar), Handlers, Services and Repositories. “Domain” objects are described for working with ORM and then starting from repository back to top we serve the whole flow.
+
+* Services contain most of business logic
+
+* Repository — all the work with database
+
+How would we name this architecture? This is a typical N-layered (3-layer) architecture.
+
+Such is implemented in many languages.
+
+* Instead of classes/objects — we just use JS modules. In classes we define private fields and functions <=> in modules we define module scope variables and functions, export what we need. Services present kind of objects, like `OrdersService`, `CustomersService` etc.
+
+* Dependency management is done thanks to JS imports/require. And JS ‘monkey-patching’ makes this kind of flexible in terms of replacing deps where it’s needed (typically we hear it about tests). BTW, in some cases people also use “ServiceLocator” which also serves to manage deps (though it’s pretty often an anti-pattern)
+
+Typically I have to ask myself such questions:
+
+* Is it fair to say that this is not OOP way? Nope.
+
+* Is it functional way? Nope. The fact that we export/import functions does not make it functional approach. In that world all should be a ‘pure function’ including dependencies. So it’s really far from that.
+
+* Is it fair to say that this is NodeJS way to go? Well, kind of. In terms of dependencies management — yep. But it’s still dependency management, which we will face with any approach and architecture.
+
+It’s all about software design fundamentals. They exist regardless of language or platform. Specific ecosystem is just and instrument to implement selected type of system/architecture.
+
+It’s popular approach. And suites lots of simple or mid-level projects.
+
+In cooperation with good abstractions and correct dependencies management — it’s often a good deal. And I used it with many teams to implement things quickly.
+
+Typical concerns in it for me are:
+
+* Separation of concerns is not ideal. Because changes in one layer typically affect other layers
+
+* Concentration is done on database layer and objects from there (e.g. repository and ORM). And it then goes to the top and used in services etc.
+
+* Scaling is not ideal. Each layer can be a bottle-neck when scaling horizontaly
+
+Here I just want to express one important thing.
+
+When designing an application — we should give an appropriate name to selected architecture.
+
+If it’s 3-tier — ok, if it’s onion or hexagonal — cool. It should be just named according to existing practices and fundamentals.
+
+Remember, talking using the same language.
+
+I believe apps are complex exactly because of different dependencies.
+
+* Deps have different types and often can change
+
+* We have to manage dependencies
+
+* It’s important to do correct separation of concerns to make our app flexible and good for support
+
+This is where SOLID comes in. Where D means `Dependency inversion`.
+
+Core point it says: prefer abstractions over implementations.
+
+Often mentioned dependency injection is just one way of reaching dependency inversion. But it’s not the only one.
+
+Abstractions is a hot topic in many holley-wars. Regularly we see 2 camps — who like abstractions and those who don’t.
+
+Typically people connect it to interfaces and shifting all to “ah, this is OOP and Java, but in JS we are different and flexible”.
+
+The thing is — interfaces is one of the ways to work abstractions.
+
+We can abstract in JS using wrappers and naming conventions instead. In TS, though — interfaces are very useful.
+
+I’d say interface is just a common term. Imagine a door you’d like to open. It has interface where handle and direction are described. Wooden, metallic doors just implement it.
+
+In my opinion — the need of abstraction depends on complexity of project and selected type of architecture.
+
+For more or less complex projects created by team (not a single person) — it’s often a must.
+
+* Loose coupling. Because we can just reduce coupling between different parts of our code
+
+* Flexibility. It’s easier to switch to different implementations. No, don’t consider example like `switch from SQL to NOSQL` or similar. Take it simpler — related to any business logic or 3rd party system connection we might have in a system
+
+* Extensibility. With correct abstraction — adding new extended implementation is not tricky
+
+* Scalability. Multiple engineers can work in the same codebase based on agreements and contracts
+
+Now I’ll share some observations about the way how dependency management is done in JS & Node world.
+
+In many cases it’s mentioned as ‘flexible’, but I see multiple concerns in it, especially for mid-size+ projects.
+
+* With modules — we let consumer be responsible for dependency resolution. Consumer should not be responsible for that
+
+* Modules are not good for TDD flow. Because we’re coupled to implementation. The point is not to argue about TDD. It’s just a fact that it’s tricky that way
+
+* Modules require more boilerplate for the cases when we need to manage different types of dependency or manage lifecycle. Typically that requires creation of separate wrapper modules or factories etc.
+
+* In modules — abstraction is usually made using names. But we clearly tight ourself to location of that module and structure of another layer. Imagine a need to abstract NotificationsManager. It can be SalesForceNotificationsManager and BrazeNotificationsManager. Having wrapper module we still can have NotificationsManager, which will return needed instance. It’s kind of abstraction as well, but with more boilerplate
+
+* No single place to manage dependencies. And hard to make replacement of specific dependency based on env for example.
+
+Yeah, monkey patching helps. But it’s more like a ‘flexibility’ hack. I also like how jest does monkey patching, but it’s still like a toy.
+
+* Monkey patching is possible for anything. This is again about ‘flexibility’, but usually results in wild-west.
+
+* In many cases people export via index file. Which can bring up lots of things with it. Often we notice that in tests when do mocking. But tests is only one aspect.
+
+* Typically it’s a huge pain when we need to do refactoring or change paths. Or when dependency suddenly needs to change dynamically/conditionally/at runtime
+
+Is a different philosophy related to core focuses and separation of concerns. Instead of classic layers — elements are split into ring layers. At a first glance it might feel complicated. But once it’s understood — people rarely want to get back.
+
+Diagrams might slightly differ in network, but overall it looks like this:
+
+Such core points should be noticed about it:
+
+* The heart of system — is domain. And enterprise business logic related. It has no dependencies to other rings.
+
+Typically domain objects there are rich and smart. So they are responsible for their business state and business operations.
+
+* Application layer — service layer with application business rules. It’s a sort of orchestrator for application logic, which connects multiple domain entities and performs side effect calls. The heart of service domain is still in Domain ring
+
+* Infrastructure. It’s a service layer to help with persistence, communications, dependency modules etc.
+
+Each ring/layer has strict communication rules and allowed directions.
+
+The thing is — rings communicate using abstractions. You can also here about it as an architecture of `ports and adapters` because of that.
+
+For example, in application layer — it’s a good idea to call `repository.save`. Implementation of repository itself goes to Infra ring. But abstraction/interface — should sit into Application ring (sometimes in Domain). The pros of such separation is obvious — application layer knows nothing about persistence. It just calls repository contract = done.
+
+It’s easy later to switch persistence part from SQL to NoSQL and so on. And this is just a single example.
+
+In many cases I hear concerns like “it’s just an overhead to abstract all”, “I’ve never switched persistence storage”, “the boilerplate is big” and so on. No argues, the boilerplate might be a bit bigger. But that’s an OK payment for good structure and separation of concerns. The set of rules is also well described and tried by enterprise gurus a lot. So the adoption is usually smooth — in case of questions it’s easy to google things. Might be complicated for understanding, but in response — brings lots of good aspects and requires engineers to ask more and more questions when implementing things.
+
+BTW, clean architecture is typically introduced by onion and hexagonal architectures. And it works very well with DDD approach. I could write some more here, but it’s already long one part.
+
+We’ve touched this topic a bit already. Here I’d like to touch deps part a bit more.
+
+I often hear statements like “injection and IOC = evil”, “in JS we don’t need that”, “it’s like in angular, so it’s poor”.
+
+But, wait… We anyway work with dependencies in JS and NodeJS => using modules, imports and method injection.
+
+In plain TS classes we just have more options to inject: constructors, methods, properties.
+
+Now, is there any way to do it better? In my opinion, yes.
+
+This is where Composition root pattern comes to the rescue. In several words — it’s a top level earliest point where we can manage dependencies in our system. If working with classes — it’s kind of root class which knows about tree of sub-classes to build.
+
+I’d still say it’s platform agnostic pattern, cause it’s about the way to manage dependencies, not about classes and OOP itself.
+
+With mentioned clean architecture — dependencies management can have different experience.
+
+* Infra layer can describe and register dependencies in modules
+
+* Composition root will be on top, gather all modules and define deps structure
+
+* Once we need to change specific implementation — we know where to go, cause the place is strictly agreed
+
+Multiple framewors exist on the market today. Most of them — simply implement series of common enterprise patterns. To address mentioned concerns.
+
+So when we talk about `nestjs` or `inversifyjs` — it’s not fair to say they do something in “opinionated” way.
+
+Are they ideal? Nope. For example, `nestjs` implements Composition root pretty well. But at the same time requires to work with decorators. BTW, many people like decorators (me too). The thing is — when adding such attributes to concrete implementations — we corrupt separation of concerns. For some people that might be a reason to say “no”. For me — it was hard to accept this fact and violation, but it’s still worth do go with this it to have better dependencis management.
+
+In ideal world — it’s cool just to say `container.bind()` and that’s it. So that dependencies management is in a separated piece of application.
+
+For sure, it’s not a must to use any of these frameworks. SOLID, composition root, onions, DI, GoF patterns — can be implemented without them.
+
+All they do — simplify life in many cases. And add one more level of agreement for teams. I typically select one which violates things less.

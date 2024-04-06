@@ -1,0 +1,31 @@
+Dell has introduced two new products to enable 100GbE networking on the PowerEdge MX7000 blade server platform.  These new additions will provide up to 400GbE per MX750c or MX760c blade server.
+
+The first of the new additions is a 100G mezz card from Broadcom – the 57508 100G KR Dual Port Mezzanine Card.  This card provides 2 x 100GbE ports per card and works in both mezzanine slots A and B on the PowerEdge MX750c and MX760c.  With the Dell solution, the mezzanine cards connect to I/O modules.  Half of the ports on the mezzanine card connect to the the I/O module in the associated bay (i.e. mezz card for slot A will have the port 0 directly connect to I/O Bay A1 and port 1 will connect to I/O Bay A2.)  More on this below.
+
+The next part of the puzzle is the new MX8116n Fabric Expander Module (or FEM.)  This is a key part of the solution as it allows for the network port from each mezzanine card to be extended to the switch.  The MX8116n has some key capabilities:
+
+* Increase the Scalable Fabric to 14 Chassis at 100GbE and 16 Chassis at 25GbE
+
+* All switching done at Fabric Switching Engine
+
+At first glance, this may seem a bit confusing, so I’ve drawn out how the mezzanine cards connect to the MX8116n:
+
+As you can see in the image above, the MX8116n provides 2 x 400GbE uplinks per module.  So what does it connect to?  Well, this is where the solution gets interesting.  As the network bandwidths get wider, the best option for a high bandwidth solution is to go external.  Therefore, in this optional 100GbE network, the last piece of the puzzle in the solution is a Dell PowerSwitch Z9432F-ON.   The Z9432F-ON is a 100/400GbE switch for demanding environments with 4X the throughput, 2X the price/performance and double the power efficiency of 100GbE platforms. This switch is not technically a new switch built for the PowerEdge MX – it’s actually been around and is used with all of the Dell server platforms that need high bandwidth.
+
+Taking a look at the Z9432F, it supports:
+
+* Flexible & multi-rate (10/25/40/50/100/200/400GbE) for cost-effective 100GbE connectivity and to help simplify migration to 100/200/400GbE
+
+* Note: Dell SmartFabric Services is not supported with the MX8116n
+
+So how does the Z9432F-ON work in the solution?  Remember the 400GbE ports on the MX8116n?  Well they connect to ports on the PowerSwitch.  Take a look at this diagram for additional clarity:
+
+Since the MX8116n connects to the Z9432F-ON, not only does the Z9432F-ON provide 100GbE connectivity on the MX750c and MX760c blade servers, but it also helps to reduce the network cables in more PowerEdge MX7000 blade chassis.   Here is a mapping guide to help you understand how the chassis gets mapped.
+
+One key thing that I want to make sure is clear.  This solution does NOT mean the existing design architecture of PowerEdge MX7000 (using MX9116n switches with MX7116n FEMs.)  This is an OPTIONAL solution for those environments needing 100GbE connectivity.  I hope this was helpful.  For more information, check out these links:
+
+Kevin Houston is the founder of BladesMadeSimple.com. With over 26 years of experience in the x86 server marketplace Kevin has a vast array of competitive x86 server knowledge and certifications as well as an in-depth understanding of VMware virtualization. He has worked at Dell Technologies since August 2011 and is a Principal Engineer supporting the Northeast Enterprise Region and is also a CTO Ambassador for the Office of the CTO at Dell Technologies.
+
+#IWork4Dell
+
+Disclaimer: The views presented in this blog are personal views and may or may not reflect any of the contributors’ employer’s positions. Furthermore, the content is not reviewed, approved or published by any employer. No compensation has been provided for any part of this blog.

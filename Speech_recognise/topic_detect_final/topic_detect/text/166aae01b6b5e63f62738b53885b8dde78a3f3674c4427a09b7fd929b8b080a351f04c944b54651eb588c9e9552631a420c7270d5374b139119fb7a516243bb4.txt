@@ -1,0 +1,27 @@
+When writing JavaScript code, you may come across the term “prototype”. It’s an important concept to understand, as it underlies the way objects are created and inherit properties and methods from one another.
+
+In JavaScript, objects are created using constructor functions or object literals. A constructor function is a function that creates and initializes an object using the “new” keyword.
+
+function Person(name, age) {  this.name = name;  this.age = age;}const bharath = new Person('Bharath', 30);
+
+In this example, “Person” is the constructor function that creates an object with the properties “name” and “age”. The “new” keyword is used to create an instance of the “Person” object.
+
+Each object created with a constructor function has a “prototype” property, which is an object that serves as a template for the object’s properties and methods. The prototype object is shared among all instances of the object created with the constructor function.
+
+For example, we can add a method to the prototype object of the “Person” constructor function like this:
+
+Person.prototype.greet = function() {  console.log(`Hello, my name is ${this.name}`);}bharath.greet(); // logs "Hello, my name is Bharath"
+
+In this example, the “greet” method is added to the “Person” prototype object. When we call the “greet” method on the “bharath” instance of the “Person” object, it looks for the “greet” method on the “bharath” object first. If it doesn’t find it there, it looks for it on the prototype object.
+
+This is where the concept of inheritance comes in. If we create a new constructor function for a “Teacher” object, we can inherit the properties and methods of the “Person” object by setting the “Teacher” prototype to the “Person” prototype.
+
+function Teacher(name, age, subject) {  Person.call(this, name, age);  this.subject = subject;}Teacher.prototype = Object.create(Person.prototype);Teacher.prototype.teach = function() {  console.log(`I teach ${this.subject}`);}const lalitha = new Teacher('Lalitha', 35, 'Math');lalitha.greet(); // logs "Hello, my name is Lalitha"lalitha.teach(); // logs "I teach Math"
+
+In this example, the “Teacher” object is created with a constructor function that calls the “Person” constructor function using the “call” method. This allows us to inherit the “name” and “age” properties from the “Person” object.
+
+We then set the “Teacher” prototype to an object created with the “Object.create” method, passing in the “Person.prototype” object. This sets up the inheritance relationship between the “Teacher” and “Person” objects.
+
+Finally, we add a “teach” method to the “Teacher” prototype object, which can be called on instances of the “Teacher” object.
+
+In conclusion, understanding the concept of prototypes in JavaScript is crucial for creating and working with objects that have inheritance relationships. By setting an object’s prototype to another object’s prototype, we can inherit properties and methods and create powerful and flexible code.

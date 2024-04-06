@@ -1,0 +1,3 @@
+Does nRF52820 have support for streaming audio, if so can it do sample rate conversion?
+
+Choosing a new part for bluetooth interface. Would like to be able to support a stereo audio stream - ideally in both directions. Is nRF52820 sufficient to do this? Can a sample-rate converter be implemented with this chip? Or has one already been developed?

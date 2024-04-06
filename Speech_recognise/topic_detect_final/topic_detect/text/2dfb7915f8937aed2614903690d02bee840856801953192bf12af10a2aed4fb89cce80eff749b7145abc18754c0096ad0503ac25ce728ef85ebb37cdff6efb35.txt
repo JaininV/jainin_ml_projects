@@ -1,0 +1,27 @@
+(CTN News) – By partnering with Chegg Inc., ChatGPT, the homework-drafting chatbot that some schools banned, will be available to a wider number of students.
+
+Last week, CheggMate, a study aid tailored to students, was created by the US educational software maker by combining its corpus of quiz answers and an AI model called GPT-4, CEO Dan Rosensweig told Reuters.
+
+CheggMate is a tutor in your pocket, he said in advance of Monday’s announcement.
+
+According to Rosensweig, the software will adapt to students by processing data regarding their classes and exam questions that they have missed, personalizing practice tests, and providing study guidance in a way that generalist programs, such as ChatGPT, cannot. A free version of the software will be available next month, according to Chegg.
+
+In the midst of educators grappling with the impact of AI, the release is poised to expand what pupils do with AI. During the launch of ChatGPT last year, some students were able to sidestep coursework and faculty were forced to verify the integrity of their work.
+
+Los Angeles Unified School District has blocked access to ChatGPT pending further analysis, according to Reuters, while Science Po in France has banned it due to concerns that it plagiarized content. Other teachers have encouraged the use of ChatGPT, if disclosed, for a variety of purposes, such as critique.
+
+The ChatGPT logo can be seen in this illustration taken on March 31, 2023. Illustration by Dado Ruvic for Reuters
+
+As Rosensweig explained, Chegg focuses on math and science, rather than the drafting of essays that has been challenging for schools. Additionally, teachers can restrict the review of answers to questions on current exams.
+
+There is still a problem with the accuracy of AI models, which predict what to say next without having any knowledge of the facts. In order to ensure the accuracy of Chegg’s answers, Rosensweig stated that Chegg’s answers are structured and checked.
+
+In response to a question about whether AI will result in Chegg’s pool of 150,000 experts contributing content, he said the company already balances the contribution of humans and technology. According to him, CheggMate will likely reduce its cost of content and increase profitability in the future.
+
+It has been questioned in recent months whether Chegg can maintain its 8 million subscriber base as students embrace the largely free ChatGPT software created by the startup OpenAI. Chegg’s stock has declined by 28% this year as of Friday, resulting in a market capitalization of approximately $2.3 billion.
+
+As OpenAI’s CEO Sam Altman stated in a Monday press release, the company is eager to collaborate with Chegg to “improve the way people learn around the world.”
+
+Rosensweig noted the relevance of Chegg’s proprietary data. The reason they are working with us is because of this.
+
+How to Use High Volume Low CPC Keywords to Boost Your Website Traffic

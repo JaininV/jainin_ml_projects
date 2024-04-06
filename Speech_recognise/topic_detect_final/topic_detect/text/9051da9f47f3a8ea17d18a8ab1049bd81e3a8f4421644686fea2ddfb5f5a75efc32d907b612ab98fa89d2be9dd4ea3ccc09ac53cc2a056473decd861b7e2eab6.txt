@@ -1,0 +1,73 @@
+As of this date, there are few scientific papers that analyse and quantify the impact of polluting rockets on the environment. However, one thing we know for sure: current rockets are polluting and the compounds of some of them are toxic and even carcinogenic.
+
+One of the arguments that is circulated a lot and is defending the current status-quo is that the current rockets don’t pollute much in terms of volume, because of their low launch rate. So we should not worry about the matter too much. But in my opinion this is a wrong approach for two main reasons.
+
+The first is that the rockets that use polluting engines are releasing unwanted compounds into the atmosphere during the ground tests as well, and the emissions generated during engine development and ground tests matter too, but are ignored. For a rocket to become operational, a significant number of tests are performed. Also, the rate of rocket launches increase every year.
+
+The second is that every polluting emission has an impact, and it doesn’t matter if this impact is big or small. Where is this limit set, and who is setting it? As long as cleaner alternatives become available, it would be irresponsible not to use them.
+
+Through their emissions, the current rockets impact the ozone layer, release green-house gases into the atmosphere, as well as toxic and carcinogenic compounds with potential negative effects on both humans and the fauna and vegetation.
+
+On May 2, 2019, ARCA published an Youtube video called LAS, Electric Rocket in which we emphasised the negative effects of polluting rockets on the environment. We also presented the new water-based propulsion Launch Assist System (LAS) rocket, and its economical and environmental advantages over the rockets that use polluting, toxic, explosive and carcinogenic propellants.
+
+In the video ARCA stated that current rocket launches release as much polluting gases into the atmosphere as one million cars running simultaneously. This applied to large size rockets.
+
+On May 20, 2020, Tim Dodd, the internet personality better known as the Everyday Astronaut, who produces spaceflight-related content, published a video called “How Much Do Rockets Pollute? Are They Bad for Our Air?” The video and the written article associated with this video, circulated a lot over the internet, as the video had 1.2 million views.
+
+At the beginning of the article, Tim says: “By the end of this article we will hopefully have a healthy understanding of the environmental impact rockets have on our atmosphere, we will figure out whether or not rockets’ impact is reckless, or if it is really not that big of a deal.” After he makes a short, but pretty comprehensive analysis of rockets emissions, admitting that: “Rockets really do not look like a very eco-friendly way to transport stuff, do they? That is an awful lot of stuff coming out the back per kg for everything but a purely hydrogen powered rocket.”
+
+Then, he makes a comparison between airliners and rockets taking as reference SpaceX’s Starship/Superheavy vehicle, and one of the conclusions is: “But now compare that to 26.83 tonnes on an orbital Starship with 100 people and you realise we can actually make some pretty drastic improvements to those per passenger numbers! And then just look at Starship doing suborbital trips with 400 people! It would come out to be only 1.79 tonnes per passenger. That is actually not that bad at all! Compare that to a 747 at 0.73 tonnes per passenger, and the 737 is king here at only 0.33 tonnes per passenger. So Starship actually gets pretty close to a 747 as far as per-passenger CO2 emissions. On certain long haul routes with certain passenger loads, it might actually be very comparable. Sure in general, it still could be over twice as bad, but it is at least not two orders of magnitude worse, like some of the other rockets.”
+
+And then he compares how many rocket launches are performed compared to actual airline flights: ”CO2 emissions from all commercial aviation in 2018 totalled 918,000,000 tonnes of CO2. Compare that to the 22,780 tonnes from the aerospace industry in that same year, and we realise that you would have to fly 40,300 times more rockets per year to equal the output of airliners”, and continues: “CO2 emissions from the airline industry were only 2.4% of global CO2 emissions!!! So that means in 2018, the global CO2 output of rockets was only 0.0000059% of all CO2 emissions. In other words, there are a lot bigger fish to fry.”
+
+Some of the closing lines of the article are: “Worrying about the current CO2 output of rockets compared to the rest of the world’s contributors would be like worrying about and focusing on a single leaf in a forest fire. There are much worse offenders we should be focusing on.”, and “So rockets are just a tiny little drop in the grand scheme of emissions currently. But that does not mean we should just give them a pass, right?”
+
+Tim Dodd produced a pretty good video and article, but we definitely don’t agree with his approach based on numbers that are purposefully put forward and saying: “Yes, rockets do pollute, but the amount of pollutants emitted by the rockets is so tiny. This isn’t that bad. There are worse things in the world that pollute more.”
+
+This approach creates a precedent to treat other polluting industries in similar ways. Where is the point at which the interest to reduce the polluting sources starts and where it ends? Why wouldn’t the aviation industry say the same about themselves? Tim is mentioning that: ���CO2 emissions from the airline industry were only 2.4% of global CO2 emissions!!!”, meaning it is a small percentage. OK, then, if this is also small, probably we shouldn’t look into this either? It is a completely wrong and dangerous approach. The space industry is one of the leading technological areas of human civilisation, and an example of pollution reduction from this direction could become a leading example for many other human activities.
+
+After ARCA released it’s water-based propulsion rocket we’ve seen so many social media comments going: “you should stop with this eco-friendly rocket rhetoric”, and “why bother create a eco-friendly rocket, because rockets don’t pollute that much compared to cars and airplanes”. And we must admit that these comments are right, rockets don’t pollute that much compared to cars and airplanes, but one of the reasons for which we are promoting this, in all honesty, beside the significant cost effectiveness of this system, is responsibility. Every human activity must reconsider its position towards environment protection, spaceflight included and this approach of: “well…you know, we shouldn’t do anything because we don’t pollute that much” isn’t acceptable. At what point does it become too much, who defines this? Simple: common sense and responsibility. We think we have the technology to move in the right direction and the time is now. Why not do it if we can? Because there are people for which innovation is too hard to swallow and their business model is affected? We don’t care. As long as we are doing the right thing, we will never cease to do it.
+
+As long as there’s a problem, as long as rockets pollute, and ARCA has the means, the technology to tackle this, whether the other space companies like it or not, or their supporters like it or not, well, my company is going to do it. And at the end of the day, I will make a better world by 0.0000059%. And even if it’s less than that I’ll take it.
+
+But the rockets that burn kerosene or methane are not the worst when compared to the Solid Rocket Boosters (SRB) that were used by the Space Shuttle in the past, and will continue to be used by the European Ariane 5 and Ariane 6 rockets.
+
+The propellant mixture in each SRB varies from a rocket to another, but basically the mixture consists of ammonium perchlorate, aluminium, iron oxides, polybutadiene, and epoxy. Their negative impact on the environment, each time a test is performed or a rocket is launched was a reason of concern even for their manufacturers.
+
+Martin Ross’s paper “The Coming Surge of Rocket Emissions”, shows that alumina and black carbon can be deposited in the higher atmosphere and they warm it up, thereby impacting the ozone layer.
+
+In 2017, a Scientific American article by Leonard David, called “How Much Air Pollution Is Produced by Rockets?”, acknowledges the impact of rocket emissions on the ozone layer: “The climate impact of rockets has not really been seriously addressed as yet,” Ross, a senior project engineer for civil and commercial launch projects at The Aerospace Corporation in El Segundo, California, told Space.com: “With respect to ozone, we now understand that the climate and ozone impacts of rocket exhaust are completely intertwined.”
+
+In Europe, things are worse than in the rest of the world. The European Space Agency (ESA), the European Agency for the Space Program (EUSPA) and the European Commission (EC) are strangely encouraging the use of polluting technology, and not only through the use of polluting propellant rockets, but even worse, through the use of toxic ones, as they are actively supporting and financing the Ariane 5 and Ariane 6 toxic rockets.
+
+What’s even worse is that we, the Europeans, pay for all of it, as a lot of their work is supported by public funds. It’s not just that they make us swallow that poison, they even make us pay for it.
+
+There are strong, less dangerous alternatives available. I’m not talking about water, about our advanced approach, but about methane or even kerosene. Because huge steps may not be be made overnight, but at least big agencies can replace something that is toxic and carcinogenic with something that is only polluting.
+
+Europe’s Ariane 5 uses 158.3 tons of LOX/LH2 ecological mixture. The same vehicle’s boosters, however, are using 476 tons and the second stage 9.7 tons of toxic, carcinogenic, polluting propellants. It means that in the case of Ariane 5, from a total of 634.8 tons of propellant, only 25% is ecological.
+
+In a New Scientist article from June 7, 1996, called “No such thing as a free launch”, the author Mark Ward, presents the worrying effect of Ariane 5 Solid Rocket Boosters on the ground environment.
+
+He notes: “ESA is aware of the extent of the pollution because in 1987 it commissioned a six-volume study — at a cost of 1.3 million francs (Ј162 000) — from the French national space agency (CNES), to look into every aspect of the launch. The final two volumes contain the results of environmental tests, and include evidence from biologists, botanists and ecologists. However, the study has yet to be made public.
+
+The scientists tested the effect of the booster rockets on the surrounding forest by firing them on a fixed stand and measuring the fallout from the exhaust gases. They concluded that the main cause for concern was the large volume of hydrochloric acid formed when tonnes of water are sprayed into the exhaust cloud to absorb vibrations from the burning propellant which would otherwise damage the rocket. The water turns the exhaust cloud into toxic rain, which falls on the forest around the launch pad.
+
+Claude Petit, a toxicologist at the National Veterinary School in Toulouse and one of the scientists involved in the CNES study, placed rats in cages around the test site to find out how the acid rain would affect native animals. He discovered that the acid seared lesions onto the lungs of rats up to 2 km from the test site. If these rats had been allowed to live, Petit claims, many of them would have suffered respiratory problems. He says that lesions were also found in animals placed in cages 10 km away, but that these were not life-threatening.
+
+In a similar test Jean-Pierre Garrec, director of the atmospheric pollution laboratory in Nancy, planted radishes around the booster site. He reported that the fallout from the tests killed some leaves and left small holes in others, features he says are classic examples of hydrochloric acid pollution. Garrec found dead and dying leaves up to 15 km downwind of the test site. He says that every time a test took place the surrounding vegetation suffered an “acid shock”.”
+
+Without aiming to offer a scientific answer on how much the rockets pollute and what their effect on the environment is, we are certain of two things:
+
+* current rocket technologies pollute and have a negative impact on the environment and inherently on humans, fauna and flora;
+
+* through its innovative, ecological, water-based propulsion system, EcoRocket takes an important step in solving this problem.
+
+EcoRocket’s first two stages use a type of ecological propulsion that generates only water vapours and oxygen. The third stage uses a classic propulsion using hydrogen peroxide and kerosene, but it ignites at altitudes of 100 km. It finds itself in space for all its running time and it constitutes only 3.6% of its total propellant mass. Therefore, 100% of EcoRocket’s atmospheric emissions are water and oxygen.
+
+Yes, the EcoRocket engine is less efficient than the ones using classic propellants, but performance is something that we are not chasing here. Instead, we aim for a product that is unprecedentedly cost effective and eco-friendly.
+
+Paying customers also mainly care about cost, not performance. If we can twin the eco-friendliness with cost effectiveness, can we ask for more?
+
+This is exactly the sustainable base on which we are building the Asteroid Mining (AMi) Program.
+
+Through EcoRocket, ARCA has started the ecological spaceflight movement, and others are welcome to follow.

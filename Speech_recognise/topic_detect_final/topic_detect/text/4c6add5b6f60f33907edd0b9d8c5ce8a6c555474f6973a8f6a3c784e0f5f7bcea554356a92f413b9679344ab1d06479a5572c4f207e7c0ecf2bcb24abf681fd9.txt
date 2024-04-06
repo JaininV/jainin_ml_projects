@@ -1,0 +1,73 @@
+Hands-free cars are driving on British roads for the first time after Ford launched its innovative BlueCruise technology.
+
+The 'hands-off, eyes-on driving' system allows motorists to take their hands off the wheel so their vehicle can steer itself as well as accelerate and slow down.
+
+It is the first 'partial automation' assisted driving feature legally passed for use on roads in Europe, having received approval from the UK government.
+
+BlueCruise relies on cameras and radar-sensing technologies to monitor nearby traffic, speed signs and road markings.
+
+So how exactly does the technology work? MailOnline breaks it down.
+
+BlueCruise has infrared sensors that constantly monitor the driver's eyes and head position to check that their attention is on the road.
+
+If not, the system sounds an alarm, applies the brakes to shake the driver and ultimately slows the car to a halt with hazard-warning lights if they do not respond.
+
+It will also do this if the driver fails to put their hands back on the steering wheel when leaving a Blue Zone approved road.
+
+When BlueCruise is active, the driver is alerted via the infotainment screen and can remove their hands from the wheel entirely.
+
+BlueCruise is effectively an addition to Ford's intelligent adaptive cruise control (IACC) feature and is considered 'Level 2' automation.
+
+IACC sees your speed automatically set to the zone that it detects.
+
+The system uses what is known as 'Speed Sign Recognition' to slow from 70mph to 40mph when zones change, for example.
+
+IACC also allows the car to control its pace against the rest of the moving traffic up to the designated speed limit — adjusting where required by reading speed limit signs at the side of the road.
+
+The IACC's front-mounted radar lets it automatically adjust the car's speed in live time to keep a safe distance to the vehicle in front.
+
+Lane centering technology allows the vehicle to keep itself in the middle of its lane on a motorway.
+
+But for the system's forward-facing cameras to work it must be able to see the lane markings at all times.
+
+One thing it cannot do, however, is change lanes itself, despite this being a feature of the tech in the US.
+
+In order to change lanes in the UK, BlueCruise will need a driver's steering input.
+
+The technology uses cameras and radar sensors to monitor nearby traffic and road markings.
+
+It has predictive speed assistance that can slow the car when it knows it is approaching a curve in the road or a traffic jam.
+
+BlueCruise also uses 'human-like' lane positioning that 'subtly' moves the car away from larger vehicles – such as HGVs – it is passing in adjacent lanes.
+
+It features text and blue lighting cues to communicate that the system is in 'hands-free mode', meaning the technology is effective even for those with colour blindness, Ford has said.
+
+BlueCruise works only on approved roads in the UK, including the M25, M6 and M4. Ford has a map of these so-called 'Blue Zones'.
+
+They have been designated using geofencing technology which utilises GPS to create a virtual boundary in which the system can only be activated.
+
+It can legally be activated on 2,300 miles of motorways across England, Scotland and Wales.
+
+The system is designated as Level 2 automation, meaning drivers can take their hands off the wheel but they must keep their eyes on the road at all times and be able to take back control of the vehicle immediately if prompted.
+
+BlueCruise is the first 'hands off, eyes on' Level 2 automated system to officially received approval from the Department for Transport for use in the UK.
+
+It can only be activated via a button on the steering wheel when the car is being driven within a 'Blue Zone'.
+
+Which cars does it work on?
+
+Ford's BlueCruise system is now available on the £51,000 Mustang Mach-E electric SUV, but the car maker says the technology will be rolled out to other models at a later date.
+
+The feature has been made available for free to customers for the first 90 days.
+
+After that, it will only be sold on a monthly subscription at £17.99.
+
+The technology is already available in North America, where more than 193,000 Ford and Lincoln drivers have engaged in more than 64 million miles of BlueCruise enabled hands-free driving so far.
+
+Customers in the US can buy the feature with a one-off payment of $1,900, which is roughly £1,500.
+
+BMW offers similar technology on its new £110,000 BMW i7 luxury electric limo but this is only available in North America.
+
+It includes lane centering, traffic-aware cruise control, automatic lane changes, self-parking, and the ability to summon the car from a garage or parking spot.
+
+The auto maker has been testing driverless cars in the US but recently issued a recall affecting 363,000 vehicles after safety officials raised concerns that it could allow drivers to exceed speed limits or travel through intersections unsafely.

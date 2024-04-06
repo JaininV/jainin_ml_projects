@@ -1,0 +1,21 @@
+BELLEVUE, WA, Apr 19, 2023 – EagleView Technologies, a leading provider of software and services for the solar industry, announced the launch of TrueDesign version 2.0, the latest release of its solar design solution. TrueDesign, a cloud-based solution, bridges the gap between sales and installation enabling users to design solar panel layouts, determine shading analysis, and estimate energy production quickly and accurately.
+
+TrueDesign is a web-based application, with SDK and API connections, allowing customer to use it on the EagleView website, or embed and control it within their own applications. TrueDesign version 2.0 introduces a host of new features and enhancements that make designing solar panel systems faster, more accurate, and more intuitive. Some of the key features of TrueDesign version 2.0 include:
+
+* Proposal integrations: TrueDesign version 2.0 integrates with popular proposal software, including Enerflo, SumoQuote, Subcontractor Hub, and Sales Rabbit, with more to come, making it easier for solar companies to generate and send accurate proposals to customers.
+
+* Improved shade analysis: The new version of TrueDesign includes a feature for tree removal, which assists users in modeling potential shade improvements by adjusting the shade scene.
+
+* 3D environment/3D shade scene: TrueDesign Version 2.0 enables users to visualize projects in a realistic 3D environment based on a Digital Surface Model (DSM) derived from our high-resolution aerial imagery.
+
+* Tablet support for sales enablement: TrueDesign Version 2.0 now includes tablet support, allowing solar sales representatives to present designs and proposals to customers in the field with a smooth, touch friendly interface.
+
+* Solar Tiles: In addition to traditional solar modules, TrueDesign version 2.0 now enables users to quickly design tile systems with the same level of ease and accuracy.
+
+“TrueDesign is the first solution to enable holistic workflow efficiencies, driving down soft costs and allowing companies to scale to meet the increasing demand for residential solar,” said Peter Cleveland, VP of EagleView’s Solar business. “Users can sell from an install ready design, reduce or eliminate site visits and download CAD files that streamline the permitting process, with minimal labor and almost no solar design experience required.”
+
+TrueDesign version 2.0 has already received positive feedback from customers, including Robert Heckendorn, general manager of Future Energy Corp., who said, “EagleView’s TrueDesign 2.0 is a true breakthrough. Its accuracy, ease of use, and relevant information allows me to perform crucial tasks from the convenience of my desk and eliminate the time and expense of additional employee tasks.”
+
+TrueDesign version 2.0 is available now. For more information on TrueDesign and the entire solar product suite, please visit webpage.
+
+EagleView is a leader in geospatial technology, providing solutions that transform how our customers work. EagleView has the most significant geospatial data and imagery library ever assembled, encompassing 94 percent of the North American population. EagleView’s unique technology portfolio comprises more than 300 patents, enabling it to offer highly differentiated software, imagery, and analytics products for multiple industries.

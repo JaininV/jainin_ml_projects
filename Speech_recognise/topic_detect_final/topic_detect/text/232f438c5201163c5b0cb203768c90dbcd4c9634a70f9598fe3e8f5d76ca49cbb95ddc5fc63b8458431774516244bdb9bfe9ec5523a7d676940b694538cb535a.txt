@@ -1,0 +1,21 @@
+Block, the publicly traded company behind the popular payment apps Cash App and Square, announced on Wednesday a partnership with Yellow Card, one of the largest crypto exchanges in Africa, to facilitate cross-border payments between 16 countries in Africa, including Nigeria, Ghana, and South Africa.
+
+Block, the publicly traded company behind the popular payment apps Cash App and Square, announced on Wednesday a partnership with Yellow Card, one of the largest crypto exchanges in Africa, to facilitate cross-border payments between 16 countries in Africa, including Nigeria, Ghana, and South Africa.
+
+In March, Yellow Card and Block’s TBD, an offshoot of the payments giant that specializes in developing software for crypto and Web3 projects, tested their cross-border payment infrastructure to send money between the U. S., Ghana, Nigeria and Kenya. The system leverages stablecoins and Bitcoin to decrease the fees needed to send money across borders, TBD says.
+
+Yellow Card provided the software to plug into each of the 16 countries financial networks, and TBD provided the “bridge” between each of the countries, Emily Chiu, TBD’s cofounder and COO, told Fortune. Specifically, TBD designed its technological “bridge” to be legally compliant and adhere to international and national money-transfer regulations, legal and technological expertise that Yellow Card doesn’t have.
+
+“Developers don’t want to worry about compliance jurisdiction by jurisdiction,” she told Fortune in an interview. “Developers just want to build and make sure that it works.”
+
+Block’s partnership with Yellow Card comes two years after cofounder and CEO Jack Dorsey, the former CEO of Twitter, invested in the African exchange. Meanwhile, Block has been pursuing a broader strategy of cross-border payments, including remittances. That includes leading a funding round for Gridless, a Bitcoin mining firm in Kenya that hopes to use Bitcoin mining to encourage the development of renewable energy projects.
+
+“The international payments space, especially in Africa, is in dire need of the innovative solutions we are building together,” Chris Maurice, cofounder and CEO of Yellow Card said in a statement. “And this is the culmination of the vision behind Block’s initial investment in Yellow Card in 2021.”
+
+TBD is just one of Block’s crypto businesses. While its flagship products Cash App and Square generate the majority of its revenue, the payments giants has doubled down on crypto in the past few years.
+
+Dorsey, a Bitcoin evangelist, announced in 2018 that Cash App users would be able to buy and sell the cryptocurrency. Formerly called Square, the company then announced in 2021 that it would rename itself Block, emphasizing its new focus on Bitcoin and blockchain. And later that year, Dorsey announced the creation of TBD.
+
+The subsidiary’s cross-border payment infrastructure, which COO Chiu says will eventually be available for other developers to plug into beyond Yellow Card, is not its only focus. It is also developing a decentralized web platform, and soon after it was founded, TBD released a white paper detailing plans for the construction of a decentralized Bitcoin trading exchange.
+
+“It’s not just remittances,” Chiu, TBD’s COO, told Fortune. “It’s just really bridging the world of old money and new money.”

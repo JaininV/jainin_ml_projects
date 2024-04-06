@@ -1,0 +1,5 @@
+In December last year, the moderators of the popular r/AskHistorians Reddit forum noticed posts popping up that appeared to carry the hallmarks of AI-generated text.
+
+"They were pretty easy to spot," says Sarah Gilbert, one of the forum's moderators and a postdoctoral associate at Cornell University. "They're not in-depth, they're not comprehensive, and they often contain false information." The team quickly realized their little corner of the Internet had become a target for ChatGPT-created content.
+
+It's not just one forum. Reddit's ChatGPT-powered bot problem is "pretty bad" right now, according to a Reddit moderator with knowledge of the platform's moderation systems. Several hundred accounts have already been removed from the site, and more are being discovered daily, they said. Most of the removals are being done manually because Reddit's automated systems struggle with AI-created content.

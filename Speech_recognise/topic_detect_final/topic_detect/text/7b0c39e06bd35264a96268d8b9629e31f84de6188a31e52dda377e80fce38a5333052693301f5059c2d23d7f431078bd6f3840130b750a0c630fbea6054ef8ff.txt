@@ -1,0 +1,27 @@
+Picked up this nice stock 57k mile N54 DCT and had a few teething issues�
+
+On the 250 mile trip home - car first threw ABS, DBC and TPMS and the passenger seatbelt faults. Scanned codes and found front right wheel sensor faulty. The fuel gauge and range then started to go up and down with acceleration
+
+Cleaned the connection for the wheel sensor as a temp fix, ordered a new sensor. Read online to check the fuses and ABS connection under the hood - there was a bit of corrosion etc on the fuses so replaced them.
+
+Then the car started throwing a few different codes, brilliant.
+
+2A19 - DME: TANK-VENTING VALVE, ACTIVATION.
+
+2A94 DME: CRANKSHAFT SENSOR SIGNAL.
+
+2EA1- BSD MESSAGE OIL CONDITION SENSOR MISSING.
+
+2FBC: FUEL SUPPLY CONTROL VALVE SIGNAL.
+
+Any help or advice is very much appreciated on diagnosing this! Thanks in advance
+
+You may not post new threads
+
+You may not post replies
+
+You may not post attachments
+
+You may not edit your posts
+
+All times are GMT -5. The time now is .

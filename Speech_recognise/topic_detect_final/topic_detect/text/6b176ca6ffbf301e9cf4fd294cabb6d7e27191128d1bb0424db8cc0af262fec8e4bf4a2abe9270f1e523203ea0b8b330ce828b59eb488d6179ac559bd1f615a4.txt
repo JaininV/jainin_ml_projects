@@ -1,0 +1,37 @@
+this post
+
+this post
+
+I have opened case 06017420. At this point, I have recovered the original appliance using a snapshot backup, since that is all that was available with v3, so I can attempt the upgrade again.
+
+I did attempt the v4 upgrade with those instructions, but the DotNet software is now too new for the v4 upgrade to run, so I'm stuck with that recovery, too! If I could recover the configuration from the v3 appliance and apply it to a new v5 appliance, that would be my preference at this point so I can have a clean installation. This original appliance was deployed as v1, and upgraded to v2, then v3, so it's had a lot of upgrades over time. I'm not sure how we missed v4 since I check for updates monthly. We had paid support available until about a month ago, but we had to let that lapse.
+
+admin@veeamaz:~$ sudo dpkg -i veeamazurebackup_4.0.0.714_amd64.deb
+
+(Reading database ... 118879 files and directories currently installed.)
+
+Preparing to unpack veeamazurebackup_4.0.0.714_amd64.deb ...
+
+Unpacking veeamazurebackup (4.0.0.714) over (3.0.1.34) ...
+
+dpkg: dependency problems prevent configuration of veeamazurebackup:
+
+veeamazurebackup depends on dotnet-runtime-6.0; however:
+
+Package dotnet-runtime-6.0 is not installed.
+
+veeamazurebackup depends on aspnetcore-runtime-6.0; however:
+
+Package aspnetcore-runtime-6.0 is not installed.
+
+veeamazurebackup depends on veeamflr-netdep (>= 5.0.0.426); however:
+
+Version of veeamflr-netdep on system is 4.0.0.360.
+
+dpkg: error processing package veeamazurebackup (--install):
+
+dependency problems - leaving unconfigured
+
+Errors were encountered while processing:
+
+veeamazurebackup

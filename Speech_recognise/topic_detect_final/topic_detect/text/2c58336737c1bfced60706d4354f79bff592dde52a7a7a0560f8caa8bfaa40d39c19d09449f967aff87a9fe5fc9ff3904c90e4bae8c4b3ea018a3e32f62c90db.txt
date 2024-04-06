@@ -1,0 +1,111 @@
+In a drafty dockside warehouse at the Port of Los Angeles on a cool evening early this year, Gaurav Sant, a UCLA professor of environmental engineering and materials science, was speaking to a conference crowd about the potential for a new way to pull carbon dioxide out of the atmosphere.
+
+The 39-year-old director of UCLA’s Institute for Carbon Management (ICM) described a method of eliminating the dangerously prevalent greenhouse gas in a way that seemed too good to be true: suck it out of the ocean, allowing it to absorb more CO2 from the air like a giant global sponge. It could be done via a relatively simple electrochemical process miming what nature already does. And a byproduct is hydrogen, arguably the future of storable, carbon-free energy.
+
+Proportionally, “ocean water contains 150 times more carbon dioxide than the air, which means if you want to remove carbon dioxide from the atmosphere one of the most effective ways to do it is by removing it from the oceans,” he told the audience.
+
+Sant’s method is more than a science experiment: It’s well on the way to commercialization through Equatic, a Los Angeles-based startup that’s scaling up the ocean-based CO2 reduction and hydrogen production tech developed by Sant and UCLA scientists. His hope, and that of backers including the Grantham Foundation, Chan Zuckerberg Initiative, Singapore’s Temasek Foundation and U. S. Energy Department, which have contributed $30 million so far, is that Equatic will be removing millions of tons of CO2 in the years to come—and do so for less than $100 per ton. Sant also expects the company to generate hydrogen for $1 per kilogram that it can sell or use to help power Equatic’s operations.
+
+Two small pilot facilities are operating on barges to prove the approach works: one in Los Angeles that was unveiled for the first time today and a similar one in Singapore. Each can remove 100 kilograms of CO2 and make a few kilograms of hydrogen daily. A larger test plant is to open late next year in Singapore, integrated into a desalination facility, scaled to remove 10 metric tons of CO2 per day or at least 3,500 tons annually. If all goes well, Equatic’s goal is to operate large commercial-scale plants capable of eliminating 1 million metric tons of CO2 and making 35,000 metric tons of hydrogen annually by the late 2020s. Ahead of that, the company’s goal is to raise a further $100 million and refine the design of its plants.
+
+“If you want to remove carbon dioxide from the atmosphere one of the most effective ways to do it is by removing it from the oceans.”
+
+Gaurav Sant, UCLA professor and director of the Institute for Carbon Management
+
+“Equatic, I don’t want to call it a moonshot, but of (ICM’s) businesses that's the one that's going to have the most profound impact for the planet and humanity if they're successful,” said Robert Feller, a member of ICM’s advisory board and principal of RDF Advisors, which provides investment services for a family office and serves as a general partner for private funds.
+
+Increased use of wind, solar and other forms of carbon-free energy and shifting to electric vehicles are essential to slow the rate of carbon emissions, but the need for large-scale removal of vast amounts of CO2 in the air and oceans that are already warming the planet may be even more vital. The International Panel for Climate Change made as much clear in a March report underscoring the likelihood of environmental catastrophe if carbon dioxide emissions are not scaled back dramatically. Despite stated goals by the world’s biggest economies and companies, global CO2 kept rising in 2022, up 0.9% to a record of 36.8 gigatons—an unfathomable 36.8 trillion kilograms—spewed by cars, trucks, power plants, agriculture, manufacturing, landfill emissions and other sources, according to the International Energy Agency.
+
+The IPCC estimates that by mid-century it will be necessary to remove between 3 and 12 gigatons of CO2 from the air annually to limit global warming to 1.5° Celsius above pre-industrial levels. While Equatic's technology appears like it could contribute to that goal and create a fully virtuous cycle, from ocean CO2 removal to hydrogen production, questions remain about the large amount of energy the process requires and if there’s any risk of harming sea life from the process's other byproduct, a slurry of carbonates resembling seashell material.
+
+“We need to find a balance between doing what is necessary to address the climate circumstance that surrounds us but at the same time being responsible that we do no harm,” Sant said. “What Equatic delivers is a climate strategy that could work at scale.”
+
+he mission is to “retire carbon that Western societies have been blowing into the atmosphere over the last 100 years,” Lorenzo Corsini, tapped to be Equatic’s CEO, told Forbes. And doing so could be a lucrative business.
+
+The company wants to generate tens of millions of dollars in revenue within a few years by selling carbon offset credits to corporate buyers. And if the U. S., European Union, Japan and other governments set ever stricter rules for carbon emissions, the business could generate billions of dollars annually in the future. (Elon Musk’s Tesla learned long ago just how lucrative credit sales can be: It booked $1.8 billion in margin-free revenue from other automakers in need of CO2 and air-pollution credits in 2022.)
+
+“What’s going to catalyze the business is large corporations who’ve pledged to become carbon negative. They can do that only by buying carbon credits,” said Corsini, who’s transitioning from his role as drug developer BioNTech’s head of Austrian operations to run Equatic.
+
+Corsini points out that he foresees more regulations coming that prevent companies from emitting CO2 without paying for it. “It’s going to be a bit like municipal waste: You can't just throw out your trash into the street or the woods. You need to pay for it.”
+
+Hydrogen will also be a core element of its business, especially if the company can generate it for $1 a kilogram. That’s cheaper than the target of PlugPower, a leader in the race to commercialize “green” hydrogen made from water and renewable power, which wants to get to $1.50/kg.
+
+CO2 is “going to be a bit like municipal waste: You can't just throw out your trash into the street or the woods. You need to pay for it.”
+
+Making the elemental fuel from sources other than natural gas got particularly attractive last year with a new $3/kilogram federal incentive included in the Inflation Reduction Act. Some of that zero-carbon hydrogen may go to power vehicles, but much of it will replace tens of millions of metric tons of the fuel now made from natural gas — a process that emits carbon — needed for industries including steel, fuel, chemical and food production.
+
+Equatic isn’t the only startup coming out of UCLA’s ICM, launched in 2018 to develop decarbonizing technologies with the potential to combat climate change commercially. CarbonBuilt, for instance, uses proprietary technology developed by Sant’s team to turn CO2 from industrial sources into concrete building blocks and materials, and other startups are on the way.
+
+“It's pretty unique for an academic center to be so focused on carbon management and also very focused on rapidly commercializing from lab to pilot to commercial industrial scale,” said Caitlyn Fox, vice president for strategic investments with the Chan Zuckerberg Initiative, the charitable foundation created by Meta founder Mark Zuckerberg and wife Priscilla Chan. Last year, CZI pledged $21 million to aid efforts by Sant and ICM.
+
+ceans are the planet’s main CO2 sink, absorbing billions of tons from the air. But their ability to keep doing so is at risk as human activities generate more and more of the gas. As CO2 levels keep rising and the oceans keep absorbing it, they’re becoming more and more acidic — something that Equatic’s process could help combat.
+
+“Think about carbon dioxide as an acid. How do you neutralize an acid? Treat it with a base,” Sant said. “What we're doing is essentially allowing really simple acid-base chemistry to work to our advantage in a way that we produce the same material that seashells and chalk are made of: calcium carbonate.”
+
+This approach was sketched out in a paper Sant and other UCLA scientists published in 2021 on what they call “single-step carbon sequestration and storage.” It envisions future plants that would be large electrochemical reactors, with lots of tanks, plumbing and piping, that suck in millions of gallons of seawater and pass it through an electrically charged mesh to increase its pH. This induces a series of chemical reactions, including combining dissolved carbon dioxide in the water, and CO2 in the air, with calcium and magnesium. These two elements trap CO2, becoming calcium and magnesium carbonates—materials found in chalk and seashells. Hydrogen is simultaneously produced as a byproduct.
+
+“It's surprising that nobody came up with this before,” said Corsini. “It's not high school chemistry, but it's not far away. It's not super difficult.”
+
+It's not high school chemistry, but it's not far away. It's not super difficult.”
+
+After cycling through this process, seawater flows back into the ocean — as does the carbonate slurry it creates. Sant believes this will be harmless to ocean life since the amount of material sent back is a fraction of the volume of water pulled in and it consists of elements naturally found in seawater. Still, environmental testing needs to be done to confirm that, he said.
+
+By reducing the amount of CO2 in seawater, the process frees up capacity for the oceans to absorb more from the air, ultimately reducing and removing atmospheric CO2 — as Sant put it, it should increase “the CO2 storage capacity of seawater.”
+
+“Go through all of the chemistry that underlies this and you end up with a process that does 4.6 kilograms of CO2 removal per cubic meter of seawater processed,” Sant, a native of India’s Goa state and the son and grandson of civil engineers, told Forbes.
+
+ut it’s an energy-intense process. Removing a ton of CO2 in this way requires 2 megawatts of electricity, Sant said. However, the simultaneous production of energy-rich hydrogen helps offset this, cutting the net power requirement to 1 megawatt per ton. Still, that’s enough energy to power 750 homes at once.
+
+Though it’s a substantial amount, Sant believes it uses less than competing forms of CO2 elimination, such as direct air capture. “Their needs are several times larger than ours,” he said, declining to elaborate.
+
+Ideally, future Equatic plants would be located in coastal regions with access to abundant renewable energy from wind and solar installations. Because the process generates hydrogen, it would still be “carbon negative” even if some power from natural gas-fired plants is used.
+
+The science behind the process has been verified in the lab. But now comes the tricky part: Can it be done at ever larger pilot facilities and, ultimately, at high-efficiency commercial plants? Singapore will play an essential role in figuring that out.
+
+“Proving it now is quite critical,” said Gurdev Singh, an environmental engineer and deputy director of technology for Singapore’s National Water Agency. He’s working closely with Sant and his team and will be the first to test it at something approaching a commercial scale.
+
+And as things move from the lab to real-world deployment, many details need to be worked out, including reducing the system’s total energy requirements and verifying that the slurry it creates is truly benign when sent back to the ocean.
+
+“While it has all the synergies, all the benefits, one of the key issues we realized early on is that it does require quite a fair bit of energy to be put into the system, although it’s net (carbon) negative,” Singh said.
+
+“While it has all the synergies, all the benefits, one of the key issues we realized early on is that it does require quite a fair bit of energy to be put into the system.”
+
+Integrating Equatic’s technology into a desalination plant is an obvious choice since the latter is already pulling in vast amounts of water (though such facilities use substantial amounts of power and can harm aquatic life if the byproduct brine they produce is not dispersed safely). And there’s an additional benefit from combining the two systems, Singh told Forbes: Equatic’s removal of calcium and magnesium from seawater has a “softening” effect.
+
+“A softened water stream has benefits downstream,” he said. Namely, it lowers the overall amount of energy needed for the desalination process because it reduces scaling that typically builds up on membranes that separate water from brine. Right now, Singh says he has to use chemicals to remove that scaling and is hopeful Equatic’s system will cut down on that.
+
+Even the calcium and magnesium carbonate slurry created from Equatic’s CO2 removal process may prove to be a resource too useful to pump back into the ocean.
+
+“Can this go into concrete, for example; could it go into construction materials? Then we avoid the issue of having that slurry go into the oceans,” Singh said. It could also potentially be used to protect Singapore’s coastline from erosion and rising sea levels. “These are things that we need to study … these additional synergies.”
+
+Managing the system’s energy needs and impact on the ocean aren’t the only challenges. Designing cheaper, more efficient and durable electrodes required to start the CO2 removal process will be one of the biggest, in addition to scaling up the design from small pilots to large commercial facilities. Still, the ICM team appears to be progressing relatively fast, according to Doug Wicks, program director at the Energy Department’s Advanced Research Projects Agency-Energy, which has poured $1 million into Equatic via a federal grant.
+
+“When we funded them last year, they were at a scale where their reactive cell was smaller than my phone. By September, on my next visit, they were at a prototype scale that’s very equivalent to the one deployed” at the Port of Los Angeles, Wicks said. “They have a system and it works, but this is not a simple follow-up process. There are still some great technical challenges, which is what we're funding from the DOE side, really focusing on those electrodes.”
+
+“They have a very serious breakthrough, and I'm not going to minimize that it's got technical challenges, but their approach is very interesting,” Wicks said.
+
+quatic is pursuing a very different tactic than the spate of companies working to perfect ways of removing CO2 from the atmosphere via “direct air capture” and then storing or sequestering the gas permanently. Zurich-based Climeworks, the early leader in direct air capture that has raised $810 million in funding, began operating the world’s first and largest facility to do that in Iceland in 2021. Many other companies, including GE, Occidental Petroleum and Los Angeles-based startup CarbonCapture, are readying their own direct air capture and sequestration projects that go into operation in the next few years.
+
+A big challenge for that method, however, is ensuring that CO2 pulled from the air stays underground or in storage without leaking. Methods to pipe or transport large amounts of captured carbon also need to be developed. And unlike Equatic’s sea-based approach, it doesn’t make hydrogen as a byproduct.
+
+“I'm clear-eyed about the risks, but in Gaurav we trust.”
+
+Similarly, Climeworks’ business model is based on selling carbon credits to companies including Microsoft, Swiss Re, UBS, Shopify, Stripe and Zendesk. The company said in an email that it intends to reach a “megaton capacity” of carbon removal by 2030 and “gigaton capacity” by 2050.
+
+As it scales up, the company estimates it can eventually lower the cost of CO2 capture and sequestration to about $200/ton. By comparison, the U. S. Energy Department set a target of $100/metric ton for companies participating in its Carbon Shot Negative initiative. That’s also the cost Sant believes Equatic will hit when it begins commercial operations late this decade.
+
+Equatic’s Corsini thinks the company’s approach has two key advantages over direct air capture: It eliminates the need to figure out how and where to store captured carbon and it produces high-value hydrogen. “This method locks it away while capturing it in one step. That's the elegance of it,” he said.
+
+With Sant’s science and Equatic’s backers, the company is poised to shake up the carbon capture industry, and the stakes couldn’t be higher.
+
+“The world's not going to be getting off of hydrocarbons or fossil fuels certainly within my lifetime. We're going to be reliant on technological innovation to help us get to our net-zero goals—assuming they're even realistic,” ICM advisor Feller said. “I'm clear-eyed about the risks, but in Gaurav we trust.”
+
+Climate Capitalist: This Billionaire Heiress Is Betting Big On Renewable Energy
+
+Why Cannabis Jobs Are Going Up In Smoke
+
+Swipe Right On Your 1040EZ: Inside The 'Tax Heaven 3000' Dating Sim
+
+How Bond Laddering Can Keep You From Having An SVB Portfolio Nightmare
+
+How Alexandr Wang Turned An Army Of Clickworkers Into A $7.3 Billion AI Unicorn

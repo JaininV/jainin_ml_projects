@@ -1,0 +1,5 @@
+I was able to flash before, but I reinstalled Keil5, J-Link, and downloaded Device Family Pack 8.24.1 and CMSIS 4.5.0 from the Nordic website. The SDK version is 15.3.0.
+
+I really don't know how to solve this problem. Can you help me? Thanks
+
+Note: I have three debuggers at hand, 5340 DK, 52840 DK, and a small package debugger given by someone else. The 52840 debugger did not respond when powered on, while the other two could be detected as J-Link and 52811 in Keil. I want to solve the issues with these two debuggers first before asking about the power-on problem with 52840.

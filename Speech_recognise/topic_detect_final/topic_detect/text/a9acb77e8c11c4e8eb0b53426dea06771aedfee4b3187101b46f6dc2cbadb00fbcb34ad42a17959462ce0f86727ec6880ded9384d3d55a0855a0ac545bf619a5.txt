@@ -1,0 +1,85 @@
+Skip to content
+
+Elon Musk supports halt to AI development – what exactly are the dangers of smart machines?
+
+Disclaimer: Opinions expressed in this story belong solely to the author, unless stated otherwise.
+
+Since the launch of ChatGPT last November, artificial intelligence (AI) development has been kicked into overdrive. Tech giants around the world – Google, Microsoft, and ByteDance to name a few – have been investing heavily in AI-powered programs such as chatbots and content discovery algorithms.
+
+Today, ChatGPT is known to be the fastest-growing app of all time, with 100 million active users as of January 2023. In March, OpenAI – the company behind ChatGPT – released the next iteration of their chatbot, GPT-4, which has proven to be far more sophisticated than any of its predecessors.
+
+GPT-4 is capable of interpreting not only text, but visual inputs as well. It can describe images, interpret graphs, solve complex problems, and cite sources accurately. As per OpenAI, it is 40 per cent more likely to come up with factual responses than its previous iteration.
+
+The uses of GPT-4 transcend industry boundaries. Language learning app Duolingo is using the technology to facilitate human-like conversations for its users. In finance, companies like Morgan Stanley and Stripe have employed GPT-4 to organise data and help with fraud detection.
+
+Startups like Groundup.ai are going even further, hiring employees who will primarily use ChatGPT to support business objectives.
+
+ChatGPT is phenomenal.
+
+But GPT-4 has shaken up Tech Twitter.
+
+18 incredible things that GPT-4 is capable of doing that will blow your mind (I bet):— Shushant Lakhyani (@shushant_l) March 16, 2023
+
+With all these capabilities – from creating apps to writing lawsuits – GPT-4 is pushing the boundaries of AI technology. However, as promising as these developments are, many have expressed concerns about the pace at which they’re emerging.
+
+This March, the Future of Life Institute published an open letter calling for a pause to any AI experiments more powerful than GPT-4. In the letter, it is argued that AI systems with human-like intelligence could pose profound risks to society and humanity.
+
+As developers race to advance this technology, there’s little by way of contingency in case things get out of hand. Powerful AI systems could be tough to understand or control, and there’s no guarantee that their impact will be positive.
+
+ChatGPT crossed one million users within the first five days of its launch / Screenshot of ChatGPT
+
+The letter advocates for AI labs and researchers to come together and develop shared safety protocols, overseen by independent experts.
+
+With over 50,000 signatures collected, it has been backed by leading tech personalities including SpaceX CEO Elon Musk and Apple co-founder Steve Wozniak. The founders of Skype, Ripple, and Pinterest are among the list of signatories as well.
+
+An OpenAI article by CEO Sam Altman which discusses artificial general intelligence (AGI) – defined as AI that is generally smarter than humans – is cited in the Future of Life Institute’s letter.
+
+Altman acknowledges the risks that AGI poses and the need for a gradual transition, giving policymakers and institutions enough time to put regulations in place.
+
+He further states that as OpenAI’s systems approach the AGI classification, the company is taking measures of caution and considering even the most extreme scenarios such as AI posing threats to civilisation and human existence. Although such ideas may sound far-fetched, OpenAI acknowledges the arguments that have been made in their support.
+
+A misaligned superintelligent AGI could cause grievous harm to the world; an autocratic regime with a decisive superintelligence lead could do that too.
+
+That being said, not all companies might share the same standards of self-policing. With billions to be made in the AI ‘arms race’ – as it has come to be known – there’s plenty to be earned by being reckless.
+
+In recent history, this lesson can also be found when looking at the rapid emergence of cryptocurrencies. The most recent market crash – triggered by events such as the crash of LUNA/UST and collapse of FTX – might’ve been avoided with greater oversight from policymakers.
+
+As such, the need for regulatory intervention in AI becomes more apparent by the day.
+
+Although AI world dominance isn’t a pressing issue just yet, there are still concerns in need of addressing. A particularly challenging one is that of inherent bias.
+
+ChatGPT is trained on existing data banks and is known to reflect their biases. These can often present themselves in the form of derogatory remarks.
+
+Altman has acknowledged this drawback and stated that OpenAI is working towards a more objective chatbot.
+
+This is an immense wall to climb and perhaps, an impossible one. For instance, consider a prompt asking ChatGPT to write a joke. OpenAI may prevent jokes on certain topics while allowing others. Their chatbot would now reflect a set of moral values which they deem acceptable. For better or worse, it wouldn’t be wholly objective.
+
+Yes, ChatGPT is amazing and impressive. No, @OpenAI has not come close to addressing the problem of bias. Filters appear to be bypassed with simple tricks, and superficially masked.
+
+And what is lurking inside is egregious. @Abebab @sama
+
+tw racism, sexism. pic.twitter.com/V4fw1fY9dY— steven t. piantadosi (@spiantado) December 4, 2022
+
+To truly circumvent this, OpenAI might have to prevent ChatGPT from writing jokes altogether, as well as stories and poems. GPT-4’s ability to describe images would come under question as well. This would take away some of the key features which separate these AI bots from traditional search engines.
+
+For an AI software to truly have human-like intelligence, a moral compass might be a prerequisite. This applies not only to chatbots but other AI applications as well. Take self-driving cars, for example – to have fully autonomous vehicles, they’d need to have a moral stance on dilemmas like the trolley problem.
+
+Apart from biases, AI tools could be used to spread misinformation – through deepfake videos audio mimicry – and infringe copyright and intellectual property laws.
+
+Whether it’s text, images, or videos, it has already become a challenge to distinguish AI-produced content from that made by humans. Regulations and safeguards are yet to catch up, once again signalling a need to moderate innovation in this field.
+
+I have read and accept the Terms of Service & Privacy Policy.
+
+ChatGPT’s creator OpenAI offers rewards of up to US$20K for finding bugs in its AI systems
+
+Giving discarded rubber a new life, this M’sian started a footwear biz that upcycles them
+
+Age is just a number: Seasoned entrepreneur Ryan Wong on building a tech empire in his 40s
+
+Nails to lashes: The First Refresh founder on building an on-demand beauty platform in S’pore
+
+Unable to find a job she liked, this Johorian started her own biz making hand-painted pots
+
+Here’s how M’sian artists can win up to US$15k in this global comic contest
+
+M’sian chef pivots to creating botanical gelato while caring for her ill mother and sister

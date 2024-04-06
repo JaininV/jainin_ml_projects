@@ -1,0 +1,69 @@
+When you start the development of a new project on NestJS you have quite a big range of options: starting from scratch or taking one of the multiple boilerplates developed by the community. Starting from scratch is quite a good option if you’d like to have full control of everything in your project and you have some time to set it all up. But if you have tight deadlines (almost always =) ), you can save quite a lot of time by taking one of the pre-setup solutions: boilerplates.
+
+Boilerplate is a starter kit, a set of configured libraries and some basic features, that helps to start the project faster. You can also use a boilerplate just as a reference to see how to build or set up some features or just clone the repository and start your project from it.
+
+In the Awesome NestJS list, I found 32 repositories under the Boilerplate section by the time this article was written. Quite a lot, huh? How would you choose what to take for your next project? I must admit here that we are the authors of one of such boilerplates. But I promise, in this article, we’ll try to be as objective as we can and try to help you to choose what fits you best.
+
+Before we start, we need to filter those solutions somehow because analyzing all 32 of them would take way too much time. We are lazy developers, so better try to find just decent candidates first for our research.
+
+The main criteria will be:
+
+* Support and Maintenance: if the project is active at all?
+
+* Production readiness: if the project is ready to be used in production now?
+
+So finally, we chose 5 boilerplates that more or less satisfy our requirements and added them to the table:
+
+Now we are going to compare them by features.
+
+Here I will briefly take a look into the repositories and give my notes about the source code of each selected repository. I would say that I didn’t find any critical issues, just a few things that make sense to keep in mind. Hopefully, this code review can help you to avoid some common mistakes in your projects.
+
+There are some performance-related issues:
+
+Redundant queries to DB in jwt.strategy, which will execute on each request (code).
+
+const user = await this.userService.findOne({ // FIXME: issue with type casts id: args.userId as never, role: args.role,});This can reduce the performance of your application. Tables are not optimized: indexes are not created (code).
+
+@ManyToOne(() => UserEntity, (userEntity) => userEntity.posts, { onDelete: 'CASCADE', onUpdate: 'CASCADE',})@JoinColumn({ name: 'user_id' })On a large dataset, the application will work slowly, for example, for “get posts by user.”
+
+There are imperfections with file upload:
+
+There is no validation for file size and mime type. File uploading follows some bad practices: for each endpoint, we need to write weird logic for handling files.
+
+Auth flow is not complete. Email confirmation and Forgot password flows are missing.
+
+The issue is similar to Awesome NestJS Boilerplate: redundant queries to DB (code).
+
+validateUser(userId: string): PromiseThis can reduce the performance of your application. Some tables are not optimized: indexes are not created (code), and on a large dataset, the application will work slowly.
+
+Auth flow is not complete. Email confirmation and Forgot password flows are missing.
+
+And there is no file uploading feature that is usually necessary.
+
+There is only a NestJS + database setup with its own solutions, which will be hard to support in the future.
+
+This boilerplate has a well-designed schema with optimization, but still, there is a problem with performance: jwt.strategy makes redundant queries to DB which will execute on each request (code).
+
+const user = await this.authService.validateUser(payload);
+
+Also, the mailing system has some anti-patterns.
+
+Own template solution (code).
+
+const mail = confirmMail .replace(new RegExp('--PersonName--', 'g'), name) // ... a few more lines here .replace(new RegExp('--ButtonLink--', 'g'), buttonLink) .replace( new RegExp('--TermsOfServiceLink--', 'g'), config.project.termsOfServiceUrl,);This will be hard to support in the future. Part of the templates is stored in the service file (code).
+
+Also, I would notice a badly designed service config. Configs are stored in JS object (code) without env configuration. This can cause problems with security.
+
+I wouldn’t say too much about this Boilerplate as I wrote most of it, and it would be difficult to criticize it :-)
+
+But I’d like to note that I mostly followed official documentation of REST API and NestJS techniques. I tried to focus on performance and long support along with e2e tests.
+
+It includes all necessary features for auth (sign in, sign up, social sign up, confirm email, forgot password, and roles) and file uploading (this allows one endpoint for file uploading and then attaching it to any other entity). I decided to have it from the box because all the projects we started required these features.
+
+Actually, from the code review standpoint, all of the selected solutions are good. Nothing critical. Any of such issues can be easily resolved in your own implementation. However, it makes sense to select the starter kit knowing all the differences between solutions and making your choice consciously. Also, now, hopefully, you know a bit more about some good and bad practices so can better design your application.
+
+Thanks to @Vlad Shchepotin for helping with this article.
+
+Sign up for our free weekly newsletter. Follow us on Twitter, LinkedIn, YouTube, and Discord.
+
+Interested in scaling your software startup? Check out Circuit.

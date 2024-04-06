@@ -1,0 +1,37 @@
+Cue patch or perish, "ransomware edition," as Microsoft on Tuesday released updates for all versions of Windows to fix 114 vulnerabilities, including a zero-day flaw being exploited by crypto-locking extortionists.
+
+See Also: Webinar | The Evolution of Network Architecture: What You Don't Know Can Hurt You
+
+Microsoft said in a security alert that "an attacker who successfully exploited this vulnerability could gain system privileges," giving them full access to the system.
+
+Credit for identifying the flaw, which could be used to take down even the latest Windows 11 systems, goes to cybersecurity firm Kaspersky, which discovered the vulnerability in February and reported it to Microsoft. The security firm reported seeing the flaw being used in the wild, primarily against small and midsized organizations in North America, the Middle East and Asia, and said it was being used to infect systems with Nokoyawa ransomware. Known victims of the group hail from such sectors as healthcare, energy, retail, manufacturing and software development.
+
+The vulnerability is in the Common Log File System, or CLFS, and has been designated CVE-2023-28252. New updates from Microsoft fix the flaw in supported versions of Windows Server 2008, 2012 and 2016, as well as Windows 10 and Windows 11.
+
+The new flaw may give patch management personnel déjà vu. "If it seems familiar, that's because there was a similar zero-day patched in the same component just two months ago," said Dustin Childs, a security analyst at the Zero Day Initiative, a software vulnerability initiative run by cybersecurity firm Trend Micro (see: Microsoft's February Patch Tuesday Fixes 3 Zero-Days).
+
+"This type of exploit is typically paired with a code execution bug to spread malware or ransomware," he added. "Definitely test and deploy this patch quickly."
+
+Ransomware groups wielding zero-day exploits remain unusual. "We don't often see APTs using zero-day exploits in their attacks, and now there are financially motivated cybercriminal groups that have the resources to acquire exploits for unknown vulnerabilities and routinely use them in attacks," Kaspersky said. "Moreover, there are developers willing to help cybercriminal groups and to produce one exploit after another."
+
+Nokoyawa appears to have a predilection for using Common Log File System, or CLFS, driver exploits, which Kaspersky said "were likely developed by the same exploit author," who's been tied to at least five different, high-quality exploits since June 2022.
+
+Based on their tactics, techniques and procedures, Nokoyawa ransomware-wielding attackers may be former members or business partners of Hive ransomware. "The two families share some striking similarities in their attack chain, from the tools used to the order in which they execute various steps," Trend Micro reported in March 2022. Among the tools seen being used then were Cobalt Strike during the initial stages of the attack, as well as "anti-rootkit scanners GMER and PC Hunter for defense evasion."
+
+While Hive ransomware was infiltrated by law enforcement in July 2022 and had its infrastructure shut down in January, Nokoyawa appears to remain fully operational.
+
+The fix for CVE-2023-28252 is just one of a slew of vulnerabilities patched Tuesday by Microsoft. They include fixes for 45 different vulnerabilities that could be used to remotely exploit code. That represents a notable increase from the 33 remote code execution flaws patched by Microsoft in each of the previous three months, reported Adam Barnett, lead software engineer at Rapid7.
+
+Some of the remote code execution flaws getting fixed include CVE-2023-21554 in the Windows message queuing service, which can be exploited by sending a specially crafted MSMQ packet and is used to remotely execute malicious code. The same goes for a flaw in Windows Pragmatic General Multicast, designated CVE-2023-28250.
+
+For either type of attack to be successful, the Windows message queuing service must be enabled. "You can check to see if there is a service running named Message Queuing and TCP port 1801 is listening on the machine," Microsoft said in a security alert.
+
+Unusually, this month Microsoft updated and republished details of a 10-year-old WinVerifyTrust signature validation vulnerability tied to portable executable files.
+
+ZDI's Childs said the flaw, designated CVE-2013-3900, has been getting exploited as part of the software supply chain attack on 3CX, which is a voice and video calling desktop client used by major multinational companies. Multiple security firms have attributed those attacks to North Korea's Lazarus group of APT hackers.
+
+As in 2013, Microsoft's fix remains opt-in, and the company said it doesn't plan to make it a default. The fix "remains available as an opt-in feature via reg key setting, and is available on supported editions of Windows released since Dec. 10, 2013," including "all currently supported versions of Windows 10 and Windows 11."
+
+Microsoft said the vulnerability could be exploited by an attacker who altered an existing portable executable file in a way that didn't invalidate its signature. "An attacker who successfully exploited this vulnerability could take complete control of an affected system. An attacker could then install programs; view, change or delete data; or create new accounts with full user rights," it said.
+
+To address this risk, Microsoft recommends that application developers sign their apps using its stricter Trusted Root Program verification system and that customers restrict their Windows environments to only use apps signed in this manner, albeit after first testing this approach "to evaluate how it will behave in their environments."

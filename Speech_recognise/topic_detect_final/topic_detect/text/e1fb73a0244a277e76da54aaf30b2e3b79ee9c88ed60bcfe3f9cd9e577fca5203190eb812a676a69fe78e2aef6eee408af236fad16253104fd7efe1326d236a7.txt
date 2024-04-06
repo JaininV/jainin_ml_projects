@@ -1,0 +1,25 @@
+ResponseSource  uses cookies  to ensure we give you the best experience on this website. We'll assume you're happy with this if you continue to use this site.
+
+You are using an outdated browser. Please  upgrade your browser .
+
+PervasID’S Mobile Ranger Shortlisted in Best New Product Category at RFID Journal Awards
+
+Mobile Ranger helps solve retail delivery inaccuracy to stores which has been proven to be worth around 30% of all store stock inaccuracy Cambridge, UK – 19th April 2023 - PervasID, the company providing best-in-class battery-free Radio Frequency Identification (RFID) reader systems for automating inventory and asset tracking, today announced that its Mobile Ranger System has been shortlisted for an RFID Journal Award in the Best New Product Category. The vehicle/trailer-based passive RFID tracking solution combines a smart distributed antenna system with advanced signal processing techniques to revolutionize inventory management in the logistics & supply chain and retail sectors for goods being transported by trailer and for medical asset management in ambulances in healthcare. The winner will be announced at RFID Journal LIVE! in Orlando, FL at 1pm in Exhibit Hall on Thursday, May 11.
+
+At the event PervasID founder and CEO, Dr Sabesan Sithamparanathan will be delivering a presentation titled: Next Generation Medical and Surgical Equipment Tracking using 99%+ Accurate Passive RFID which will detail the opportunities for healthcare providers for tracking medical equipment as well as surgical instruments (tray level) across hospitals, all with a battery-less RFID system. The presentation will take place in the Technology Room: W312B on Thursday, May 11th, 2023, from 9:50 AM – 10:30 AM. In addition, PervasID will also be exhibiting at the event on stand booth 200.
+
+Based on pioneering research carried out at the University of Cambridge, PervasID’s unique battery-less passive RFID technology achieves unrivalled detection accuracy of close to 100% and improved responsiveness compared to existing solutions in the market. The company’s Mobile Ranger in-vehicle solution builds upon this core technology to connect supply chain & logistics items to business and workflow applications. By offering retail and distribution customers highly accurate, reliable, and scalable tracking, it delivers unparalleled efficiency and traceability.
+
+Mobile Ranger is currently being piloted by a major retailer and has been proven to validate store deliveries to 99%+ accuracy. It has been used to check the validation of intake accuracy from suppliers and the movement of stock from location A to location B within the network (e.g. from national distribution centres to regional distribution centres), ecommerce dispatch accuracy and store delivery accuracy and correction. This leads to a holistic end-to-end solution covering key handshake points from supplier intake through to store deliveries. During the pilot, the vehicle/trailer fitted with PervasID Mobile Ranger systems carried an average of 5,000 garments from distribution centres to stores with the solution measuring what was being loaded and unloaded into the vehicle/trailer.
+
+The technology is also highly applicable to the healthcare sector. With more than 5,000 front-line ambulances on a high utilization basis in the UK alone, Mobile Ranger can deliver significant efficiency gains by ensuring that ambulances are able to be rapidly and accurately restocked with the equipment and medicines required to deliver high-quality front-line care.
+
+“Our core RFID technology has brought ground-breaking performance and accuracy gains to the RFID tracking market, and our Mobile Ranger Solution builds on these innovations to deliver a revolutionary new product for the retail, logistics & supply chain and healthcare sectors,” said Dr Sabesan Sithamparanathan, PervasID founder and CEO. “The use of our in-vehicle tracking solution provides granular, scalable and accurate tracking of assets as they are being transported, promising significant efficiency gains across a range of sectors. We are delighted to have been shortlisted
+
+alongside such illustrious competition and look forward to the award ceremony at RFID Journal Live!”
+
+To learn more about Mobile Ranger or to book a meeting at the event please contact info@pervasid.com
+
+About PervasID PervasID is a fast-growing technology company that designs and supplies world-leading, passive (battery-free) RFID fixed reader systems for automating inventory tracking, stock taking and asset management processes. PervasID patented products are enabling organisations across a wide range of markets to streamline processes by providing unparalleled visibility into goods, assets and people. No other solution on the market today can offer such accuracy, speed and cost effectiveness. For more info visit www.pervasid.com
+
+Media Contact Ed Howson Temono for PervasID Ed.howson@temono.com +44(0)7740 173 051

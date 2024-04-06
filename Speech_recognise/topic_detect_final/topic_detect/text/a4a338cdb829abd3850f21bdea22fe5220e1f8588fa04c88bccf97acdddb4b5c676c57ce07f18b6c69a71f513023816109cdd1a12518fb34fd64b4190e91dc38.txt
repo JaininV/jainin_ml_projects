@@ -1,0 +1,19 @@
+This article has been reviewed according to Science X's                                                      editorial process
+
+and policies.                                                     Editors have highlighted                                                     the following attributes while ensuring the content's credibility:
+
+This article has been reviewed according to Science X's                                                      editorial process
+
+and policies.                                                     Editors have highlighted                                                     the following attributes while ensuring the content's credibility:
+
+In the fight against sepsis, one of the leading causes of death in hospitalized patients, clinicians are increasingly reliant on prediction tools trained on massive amounts of data stored in electronic health records. One of the most popular tools comes from Epic Systems and is used in more than half of United States hospitals. However, research has shown that its performance varies depending on the hospital in which it's being used.
+
+In a recent research letter published in JAMA Internal Medicine, researchers from U-M, Oregon Health and Sciences University, and Washington University looked for a possible explanation for this variation. Using more than 800,000 patient encounters across 9 hospitals between January 1, 2020 and June 30, 2022, they determined the performance of the model at each hospital: how likely it was to accurately predict the onset of sepsis compared to chance.
+
+They found that the sepsis model performed worse in hospitals with more incidence of sepsis, more patients with multiple health conditions and more patients with cancer. One possible explanation, noted the authors, is sepsis may be difficult to distinguish from other signs and symptoms in sicker patients.
+
+"Our findings suggest [sepsis prediction models] may be most useful at lower-acuity hospitals, where sepsis rates may be lower," they stated.
+
+More information:
+
+Patrick G. Lyons et al, Factors Associated With Variability in the Performance of a Proprietary Sepsis Prediction Model Across 9 Networked Hospitals in the US, JAMA Internal Medicine (2023).  DOI: 10.1001/jamainternmed.2022.7182

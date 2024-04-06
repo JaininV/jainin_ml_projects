@@ -1,0 +1,109 @@
+There are now just hours to go until one of Europe's most daring and technologically-advanced space missions is blasted to the stars.
+
+Tasked with hunting for clues as to whether Jupiter's icy moons could host alien life, the six-tonne satellite will have to survive on as little power as a half a hair dryer as it makes an eight-year journey to our solar system's largest planet.
+
+It will lift off from Europe's Spaceport in French Guiana at 13:15 BST today.
+
+When Juice finally arrives at the Jovian system in 2031 it will make a series of flybys of Jupiter and its three large ocean-bearing moons Callisto, Europa and Ganymede, before performing a controlled crash into the latter when it runs out of fuel.
+
+Here MailOnline breaks down everything you need to know about the exciting mission.
+
+How can I watch the launch?
+
+Members of the public can watch the lift-off through ESA Web TVYouTube channel
+
+Juice will piggyback on an Ariane 5 rocket similar to the one that propelled the James Webb Space Telescope into orbit in December 2021.
+
+It will launch from Europe's Spaceport in Kourou, French Guiana at 13:15 BST today.
+
+If all goes to plan, Juice will separate from the upper stage of Ariane 5 at 13:42 BST, before sending its first signal down to the Earth's surface by 13:51 BST.
+
+This will then allow mission crews to take control of the craft.
+
+Why is it called Juice and what is its aim?
+
+It has cost £1.4 billion to build, a figure which included £9 million in funding from the UK Space Agency.
+
+The satellite will make a 4.1 billion mile (6.6 billion km) trip to the Jovian system over a period of eight-and-a-half years, arriving at Jupiter in July 2031.
+
+It will carry out 35 flybys of the gas giant's three moons before entering a permanent orbit around Ganymede in late 2034.
+
+During its mission Juice will use an advanced suite of instruments to explore Jupiter and investigate whether any of the satellites that surround it are habitable.
+
+Is it hunting for alien life?
+
+Juice is not equipped to search for signs of life but its purpose is to explore the conditions that could support life.
+
+Europa is the smallest of Jupiter's four Galilean moons but it is seen by most experts as the most likely to have the right ingredients for life.
+
+Part of the reason for this is that beneath the ice crust of Europa is thought to lie a huge ocean of liquid water, containing twice as much water as Earth's oceans combined, which is heated up by tidal forces.
+
+This is believed to create an internal circulation system which keeps waters moving and replenishes the icy surface on a regular basis.
+
+Such a theory is significant because it means scientists would not necessarily have to delve deep into the underground ocean to find evidence of life, as the fact that the ocean floor interacts with the surface means it could throw up clues there.
+
+'Of the Galilean satellites, Europa is the most likely [to have alien life] as the ocean is likely in contact with sand/rock according to models,' Professor Coates told MailOnline, 'whereas at Ganymede and Callisto the ocean floor would be ice due to lower temperature'.
+
+However, for the purposes of the Juice mission, scientists are more interested in Ganymede.
+
+Jupiter's largest moon is thought to have a salty ocean beneath its icy shell and one of Juice's key goals is to explore this body of water to determine whether the world may be habitable.
+
+Juice will carry 10 state-of-the-art instruments, including the most powerful remote sensing and geophysical tools ever flown to the outer solar system.
+
+They include an optical camera system, UV imaging spectrograph, 'Moons and Jupiter Imaging Spectrometer', particle environment package and an instrument known as the 'Radar for Icy Moons Exploration'.
+
+The spacecraft has been built to withstand harsh radiation and extreme conditions, ranging from 250C around Venus to minus 230C near Jupiter.
+
+Its sensitive electronics are protected inside a pair of lead-lined vaults within the body of the probe, which is where the instruments will sit and collect data.
+
+In effect, this area will act as a 'nuclear bunker' to shelter the electronics from radiation.
+
+Among the 10 instruments that Juice possesses is one that British scientists led the development of, while the UK Space Agency also injected £9 million of funding into the project.
+
+Experts from Imperial College London helped create the magnetometer, known as J-MAG, which will measure the characteristics of the magnetic fields of Jupiter and Ganymede.
+
+It will also play a key role in detecting moving salts in the oceans beneath Europa, Callisto and Ganymede.
+
+Scientists hope the data from the latter will allow them to establish the depth and salt content of Ganymede's ocean to see if it may hold the conditions for life.
+
+Professor Michele Dougherty, head of the Department of Physics at Imperial College London and principal investigator for J-MAG, said: 'With our instrument's measurements, we are almost looking inside these worlds.
+
+'What we're doing however is extremely difficult, as the signals we're trying to detect are extremely small.
+
+'It's like trying to find lots of needles in a haystack, and those needles are changing shape and colour all the time.
+
+'But we think the results are going to be spectacular.'
+
+UCL's Mullard Space Science Laboratory (MSSL), along with the Open University, also have science roles in Juice's optical camera system called Janus.
+
+Dr Chiaki Crews, research fellow at The Open University, said: 'The Juice mission aims to answer many exciting questions, including whether the ocean worlds beneath the surfaces of Jupiter's icy moons could potentially harbour life.
+
+'One of the many instruments needed to make detailed scientific observations to help answer such questions is a camera.
+
+'A large part of our work was to irradiate test sensors with high doses of radiation, just like it is expected to experience during the Juice mission lifetime, to check that Janus will still be able to take images without too much degradation.'
+
+ESA will also be assisted in its work by NASA, and the space agencies of Japan and Israel.
+
+Why is it so tricky to get to Jupiter?
+
+Just reaching Jupiter is difficult in itself. The closer you get to the gas giant and the longer you want to stay in its vicinity, the harder it becomes.
+
+The enormous world is five times farther away from the sun than Earth, meaning it receives just 4 per cent of the sunlight that our planet gets.
+
+The knock-on effect is that any spacecraft visiting the twilight zone where it exists has to have huge solar arrays if it is to rely on solar power.
+
+Engineers and mission controllers also have a very short launch window if they are to get a probe to reach Jupiter, which is a key consideration for Juice.
+
+This is because Venus and Earth need to be in the perfect position for Juice to perform a manoeuvre known as gravitational assist, where it will use the gravity of these planets to slingshot towards Jupiter.
+
+Justin Byrne, head of science for Airbus and the mission's lead contractor, said that despite having three-and-a-half tonnes of fuel, it is not enough for Juice to get to Jupiter directly.
+
+He said: 'We have to use planets – Earth and Venus – just to get to Jupiter.
+
+'We will minimise the amount of fuel we need to use by using gravitational support.'
+
+However, if the first window is missed Mr Byrne said there will be more opportunities in April, and then later in August.
+
+The European satellite will later be joined by NASA's Europa Clipper spacecraft in its mission to explore Jupiter's moons.
+
+Although Juice and Europa Clipper have different priorities, there will be opportunities for the two to collaborate.

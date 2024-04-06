@@ -1,0 +1,31 @@
+Two police forces were spared a £1million fine yesterday for unlawfully recording more than 200,000 phone calls with victims, witnesses and suspects without their knowledge.
+
+Sussex Police and Surrey Police were found to have secretly stored 'highly sensitive' conversations containing personal details from cases.
+
+Both forces were formally reprimanded instead of fined by the Information Commissioner's Office (ICO).
+
+The blunder happened when a recording app, which automatically records all calls, was rolled out in 2017. It was downloaded by 1,024 employees – many unaware their phones were logging calls.
+
+The app was supposed to be used as recording software by a small number of hostage negotiators to support kidnap and crisis negotiations.
+
+But both forces chose to make it available for all staff to download on their work phones in 2017, which meant they continued to automatically record conversations for almost four years.
+
+Yesterday the watchdog said it was highly likely that the app captured a large variety of personal data during these calls and the processing of some of this data was 'unfair and unlawful'.
+
+The app has now been withdrawn from use and the recordings, other than those considered to be evidential material, have been destroyed.
+
+Stephen Bonner, ICO Deputy Commissioner, said: 'Sussex Police and Surrey Police failed to use people's personal data lawfully by recording hundreds of thousands of phone calls without their knowledge.
+
+'People have the right to expect that when they speak to a police officer, the information they disclose is handled responsibly. We can only estimate the huge amount of personal data collected during these conversations, including highly sensitive information relating to suspected crimes.
+
+'The reprimand reflects the use of the ICO's wider powers towards the public sector as large fines could lead to reduced budgets for the provision of vital services.
+
+'This case highlights why the ICO is pursuing a different approach, as fining Surrey Police and Sussex Police risks impacting the victims of crime in the area once again.'
+
+In a joint statement the forces said they took immediate action when the error was identified in March 2020, including removing access to the app, deleting the conversations and self-referring the breach to the Investigatory Powers Commissioner's Office (IPCO) and the ICO.
+
+Despite 1,024 officers and staff downloading the app, the two forces claimed only four users had recordings on their device that related to 'an offence that is or was under investigation'.
+
+Sussex Temporary assistant chief constable Fiona Macpherson said: 'This case exposed a lack of governance around use of this digital application, and this is regrettable.
+
+'As soon as the error was reported, we took urgent action to ensure that this did not happen again.'

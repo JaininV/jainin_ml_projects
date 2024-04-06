@@ -1,0 +1,17 @@
+If you're an iPhone 12 user, you know how great it is to have the latest technology in your hands. But do you know how to make the most of your phone? One great feature of the iPhone 12 is the ability to silence unknown callers. This setting helps protect your Privacy by preventing calls from unknown numbers from ringing through.
+
+The first thing you'll want to do is open up the Settings app on your iPhone 12 and select the Phone option. Once inside, scroll down until you find “Silence Unknown Callers”. Toggle this option off if it's currently on, and that's all there is to it!
+
+Now, any time a call comes in from an unrecognized number, it won't even show up on your device. This will help keep unwanted calls from interrupting your day and help protect your privacy.
+
+The iPhone 12 is packed with features that make life easier, and this one can help keep those pesky unsolicited calls away! If you ever need to turn this setting back on for any reason, just follow these same steps and toggle the switch back on.
+
+To turn off silenced calls on your iPhone, go to Settings > Phone. Then tap the Silence Unknown Callers switch to turn it off. This will allow you to hear all incoming calls, regardless of whether the caller is identified or not.
+
+To turn off silenced call notifications, open the Settings app and navigate to Notifications > Phone. Tap on the toggle switch next to Allow Notifications to disable them. Alternatively, you can also swipe down from the top-right corner of the screen to open the Control Center and tap on Do Not Disturb. This will prevent any incoming calls from making a sound or vibrating your device.
+
+To fix Do Not Disturb on an iPhone 12, open the Settings app and tap Focus. From here, you can enable or disable Do Not Disturb, select which notifications you would like to receive or be silenced, set your Lock Screen or Home Screen as a Focus filter, and set the Focus to turn on automatically. You can also choose to have calls and messages from all contacts come through while Do Not Disturb is enabled.
+
+The iPhone has a feature called “Silence Unknown Callers” which is enabled by default. This feature silences incoming calls from phone numbers that are not stored in your Contacts list, so if you don't have the caller's phone number saved, the call will be silenced. This is to help protect you from potential spam or unwanted calls. If you're expecting a call from someone and they're not in your Contacts list, you can disable this feature by going to Settings > Phone > Silence Unknown Callers and turning it off.
+
+The iPhone 12 is a revolutionary device with an array of features that make it stand out from other phones. It has an A14 Bionic chip, a 6.1-inch Super Retina XDR OLED display, 5G connectivity, a powerful camera system with Night Mode, Dolby Vision HDR recording, and much more. It is also water resistant up to 4 meters and has the longest battery life ever in an iPhone. With its sleek design and intuitive user interface, the iPhone 12 is sure to be a favorite for anyone looking for a top-of-the-line mobile experience.

@@ -1,0 +1,43 @@
+New Delhi: When heat causes discomfort, severe illness or death, as happened at a public event in Kharghar near Navi Mumbai on April 16, the discussion often centres not only on the ambient temperature but also on the relative humidity.
+
+PREMIUM
+
+To say “it’s not the heat but the humidity” is inaccurate, for the effect on the human body is a combination of both. (HT Photo)
+
+New Delhi: When heat causes discomfort, severe illness or death, as happened at a public event in Kharghar near Navi Mumbai on April 16, the discussion often centres not only on the ambient temperature but also on the relative humidity.
+
+PREMIUM
+
+To say “it’s not the heat but the humidity” is inaccurate, for the effect on the human body is a combination of both. (HT Photo)
+
+To say “it’s not the heat but the humidity” is inaccurate, for the effect on the human body is a combination of both. In an age when a warming climate has made us more aware than ever of how dangerous the combination can be, metrics such as dry bulb temperature, wet bulb temperature and real feel temperature have become increasingly familiar terms.
+
+What is the point of measuring temperatures in different ways, and what is the role of humidity in these?
+
+Dry bulb temperature is just that: the temperature measured by a regular thermometer. Wet bulb temperature is read when a thermometer is covered in a wet cloth. Water evaporating around the thermometer bulb lowers its temperature and its reading. But why do we need to need measure that? As long as the air is not completely saturated with water vapour, the wet bulb temperature will always be lower than the actual temperature. In other words, wet bulb temperature measures how much an object can possibly cool down. But when the air is saturated with as much moisture as it can hold under ambient conditions (i.e, an indication of the humidity), it prevents evaporation.
+
+From a health perspective, wet bulb temperature reflects whether the human body can sweat or not. People sweat in order to regulate their body temperature, as evaporation of their sweat helps releases heat and lowers the body temperature. However, the higher the humidity, the less a person sweats and, consequently, the tougher it gets for the body to cool down and for its temperature to fall.
+
+In fact, our very survival depends on our ability to cool down.
+
+It is generally considered that survival is impossible when the wet bulb temperature reaches 35°C. Sweat will no longer cool the body even if the individual stands in front of a fan. In an overheated body, cellular structures will get deformed and organ systems will eventually fail, leading to death within hours.
+
+The danger begins, in fact, at temperatures lesser than 35°C. Generally, when one is outdoors, a wet bulb temperature of 30°C or more can be potentially fatal. When conditions reach those levels, it’s advisable to stay indoors and drink as much water as possible.
+
+Even the 35°C limit challenges the limit of endurance. In a study published in March last year in the Journal of Applied Physiology, Penn State University researchers found that a wet bulb temperature of 31°C wet-bulb is the limit for young, healthy study subjects, implying older populations are likely to have an even lower endurance limit.
+
+Given that these are all wet-bulb temperatures, the question to ask is how these translate into air temperature readings (or vice versa) and relative humidity.
+
+There are a number of different formulas or thumb rules, as well as online tools based on them to calculate wet bulb temperature from readings for dry bulb temperature and relative humidity.
+
+Relative humidity data for Kharghar was not immediately available, but the maximum temperature recorded on Sunday at Kopar Khairane, the nearest weather station, was 38.7°C. For the wet bulb temperature to cross the threshold of 35°C at that dry bulb reading, the relative humidity would need to be as high as 77%. For 30°C (wet-bulb), the humidity would have needed to be 51%.
+
+To take a weather station where relative humidity figures are available, Safdarjung in Delhi measured a maximum temperature of 40.6°C on Monday and relative humidity of 37% at 8:30 am. That translates into a wet-bulb temperature of 28.3°C, not too short of the range when going out would potentially become life-threatening.
+
+Your smartphone’s weather app often gives you two temperature readings: that of the ambient air and what it “feels like”. This is real feel temperature, also known as heat index, and is again derived from the measured ambient temperature and humidity (absolute or relative). In effect, it tells you what the ambient temperature feels like because of the humidity.
+
+Under most conditions, the effect of humidity is to make the temperature feel higher than measured; in other words, the real feel temperature is usually higher than the ambient temperature. There are exceptions in very dry conditions. For example, in an arid region with a relative humidity of 13%, an ambient temperature of 38°C would "feel like" 35°C.
+
+A real feel temperature of 26° to 32°C will likely cause fatigue in many people, while 32°to 40°C is widely associated with sunstroke, and 40° to 54°C with heatstroke.
+
+To go back to Kharghar, the 40°C borderline for sunstroke or heatstroke would have beeen reached if Sunday’s measured 38.7°C ambient maximum temperature was accompanied by relative humidity of 28%. And in Safdarjung, Monday’s 40.6°C and 37% relative humidity translates into a “real feel” of 48°C. Now that's hot.

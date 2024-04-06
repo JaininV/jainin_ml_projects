@@ -1,0 +1,99 @@
+Have you always wanted to learn how to do use Clojure but don’t know where to start?
+
+Would you like to build apps with Clojure Basics and bring your apps to life?
+
+Then Clojure Basics is for you!
+
+Hi, I’m your instructor Josh Werner and I’ll be leading you through this course.
+
+Clojure is an in-demand skill in 2021.
+
+The course begins with the basics. We’ll Cover everything you need to know about Clojure Basics from scratch.
+
+Next, you’ll learn all the fundamentals of Clojure Basics.
+
+This is great for students starting that need a refresher course on Clojure Basics.
+
+There are no requirements necessary to enroll I only ask that you come open minded and ready to learn.
+
+Feel Free to look through the course description and checkout some of my preview videos.
+
+Here Is What You Will Learn:
+
+01. Introduction
+
+01. Overview
+
+02. Getting Started
+
+02. Overview
+
+03. Install iTerm 2 on Mac
+
+04. Install Clojure on Mac via Homebrew
+
+05. How Install Clojure on Linux
+
+06. How to Install Clojure on Windows
+
+07. Summary
+
+03. Clojure
+
+08. Overview
+
+09. Syntax
+
+10. Functions
+
+11. Sequential Collections
+
+12. Hashed Collections
+
+13. Namespaces
+
+14. Summary
+
+04. REPL
+
+15. Overview
+
+16. Introduction
+
+17. Launching a basic REPL
+
+18. Basic Usage
+
+19. Data Visualization at the REPL
+
+20. Navigating namespaces
+
+21. Enhancing your REPL workflow
+
+22. Guidelines for REPL - Aided Development
+
+23. Community Resources
+
+24. Troubleshooting
+
+25. Summary
+
+05. Tools
+
+26. Overview
+
+27. Deps and CLI
+
+28. Tools-build
+
+29. Summary
+
+06. Conclusion
+
+30. Summary
+
+So what are you waiting for? I look forward to going through course with you I’ll see you inside!
+
+You need to be logged in to view this content. Post a reply to unlock. Publica una respuesta para desbloquear.Poste uma resposta para desbloquear.Postez une réponse pour déverrouiller.अनलक करने के लिए पोस्ट करें।انشر رد لفتح
+
+We and our partners share information on your use of this website to help improve your experience. Do not sell my info:

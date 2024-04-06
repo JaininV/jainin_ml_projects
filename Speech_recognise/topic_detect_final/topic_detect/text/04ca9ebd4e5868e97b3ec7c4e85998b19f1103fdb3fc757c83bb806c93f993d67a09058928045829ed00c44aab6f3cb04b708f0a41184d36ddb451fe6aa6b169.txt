@@ -1,0 +1,9 @@
+Capstone Green Energy Corp., a global leader in carbon reduction and on-site resilient green energy solutions, announced that E-Finity Distributed Generation, Capstone’s exclusive distributor for the Mid-Atlantic, Southeastern United States, and the Caribbean, has secured an order for a biogas-fueled Capstone C600 Signature Series microturbine. The microturbine system will be coupled with an Alfa Laval Micro heat exchanger to heat thermal oil from 200 degrees to 280 degrees, resulting in a 40 percent temperature increase in the biogas production process. The order is scheduled to be commissioned in late 2023.
+
+“We continue to see demand for biogas installations globally and Capstone is extremely pleased with our new network partner Alfa Laval, a leading supplier of products and solutions for heat transfer, separation, and fluid heating with a unique product lineup,” said Darren Jamison, president and CEO of Capstone Green Energy. “Customers are seeking out these innovative energy solutions because they help manage costs, reduce emissions and support predictable operations.”
+
+The waste heat from the C600S microturbine will be channeled into an Alfa Laval heat exchanger and will heat thermal oil in an innovative way to produce the biogas, all while providing the highest system efficiency possible.
+
+The system will be controlled and operated using the E-Finity m-TIM PLC Controller. The m-TIM will systemically operate the C600S microturbine, a 250-scfm gas conditioning skid, and the heat exchanger, allowing for peak performance of the CHP output and lowering energy costs.
+
+“This state-of-the-art biogas CHP system is part of a new approach to transforming manure into energy, eliminating site odor, pollution, and emissions while reducing energy demand needed for the process,” said Jeff Beiter, president and CEO of E-Finity Distributed Generation.

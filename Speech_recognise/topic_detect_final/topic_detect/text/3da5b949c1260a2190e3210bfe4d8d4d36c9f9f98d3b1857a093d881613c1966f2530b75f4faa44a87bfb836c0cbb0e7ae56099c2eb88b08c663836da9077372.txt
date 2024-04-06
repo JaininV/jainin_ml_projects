@@ -1,0 +1,37 @@
+WhatsApp, the instant messaging platform owned by US social media giant Meta, has again attacked the UK government over planned legislation it says would “weaken the privacy” of users worldwide.
+
+As Britain’s upper House of Lords prepares to scrutinise the government’s Online Safety Bill (OSB) on Wednesday, WhatsApp and other messaging services issued an open letter demanding an “urgent rethink” of the legislation.
+
+UK-based signatory Element has warned it could leave the country if the law is passed.
+
+“The UK government is currently considering new legislation that opens the door to trying to force technology companies to break end-to-end encryption on private messaging services,” WhatsApp said in an open letter on its blog page on April 17.
+
+Signed by WhatsApp head Will Cathcart and bosses of other messaging services, including Signal and Wire, the letter stated: “We don’t think any company, government or person should have the power to read your personal messages and we’ll continue to defend encryption technology.”
+
+WhatsApp had said it would refuse to comply with the bill, which has triggered speculation that it could exit the UK market.
+
+Responding on Tuesday to the letter, the office of Prime Minister Rishi Sunak insisted the government “will not introduce routine scanning of private communication”.
+
+While the state does “support strong encryption, this cannot come at the cost of public safety”, Sunak’s spokesperson added.
+
+Britain’s interior ministry argues that tech firms have a “moral duty” to ensure law enforcement agencies are not kept in the dark about “unprecedented levels of child sexual abuse on their platforms”.
+
+However, the letter claimed the proposed legislation could see “routine, general and indiscriminate surveillance of personal messages”.
+
+It added that “friends, family members, employees, executives, journalists, human rights activists and even politicians” could be affected.
+
+That “would fundamentally undermine everyone’s ability to communicate securely”, it argued.
+
+The letter concluded that “the UK government must urgently rethink” the planned legislation, “revising it to encourage companies to offer more privacy and security to its residents, not less”.
+
+“Weakening encryption, undermining privacy, and introducing the mass surveillance of people’s private communications is not the way forward.”
+
+The letter was also signed by the heads at OPTF/Session, Threema and Viber.
+
+The head of Element warned against passing the legislation in its current form.
+
+“The UK wants its own special access into end-to-end encrypted systems,” Element chief executive Matthew Hodgson told the BBC.
+
+“Bad actors don’t play by the rules. Rogue nation states, terrorists, and criminals will target that access with every resource they have.
+
+“OSB is outright dangerous. It’s the cyber equivalent of Britain decommissioning its nuclear deterrent,” he said

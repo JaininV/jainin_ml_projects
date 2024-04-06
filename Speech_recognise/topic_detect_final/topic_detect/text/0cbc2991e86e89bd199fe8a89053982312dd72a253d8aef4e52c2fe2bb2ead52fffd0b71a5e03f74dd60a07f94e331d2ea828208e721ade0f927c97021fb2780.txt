@@ -1,0 +1,31 @@
+イーロン・マスク氏がTwitterのCEOとなり、それまでのTwitterで行われていた対策や処理をまとめた社内文書「Twitterファイル」が公開されました。このTwitterファイルを公開したのがジャーナリストのマット・タイービ氏でしたが、Substackの問題をきっかけにマスク氏との仲が険悪になり、マスク氏との関係が解消されたと報じられています。
+
+Elon Musk tweets then deletes DMs from Matt Taibbi over his Substack snit - The Verge
+
+https://www.theverge.com/2023/4/10/23678105/elon-musk-substack-notes-battle-matt-taibbi
+
+マスク氏はTwitterを買収する前から「Twitterは政治的に偏った施策を行っている」と主張していました。そして、マスク氏がTwitterを買収した直後、マスク氏の主張を裏付ける社内文書が「Twitterファイル」として、タイービ氏のTwitterアカウントを通じて公開されました。
+
+イーロン・マスクお墨付きの社内文書「Twitterファイル」でTwitter社内で��主党員の削除要請を優先的に受理しバイデンの息子の汚職を隠していた実態が発覚、今後は「シャドウバン」についても暴露予定 - GIGAZINE
+
+タイービ氏はTwitterで、Substackへの一連の規制は、Notes機能を巡る論争によるものだと証言しました。この時、「When I asked why,(理由を尋ねたところ)」とタイービ氏は述べていますが、誰に尋ねたのかは明らかにされていません。
+
+Of all things: I learned earlier today that Substack links were being blocked on this platform.
+
+When I asked why, I was told it’s a dispute over the new Substack Notes platform…— Matt Taibbi (@mtaibbi)
+
+タイービ氏のツイートに対し、マスク氏は「Substackのリンクはブロックされていないのでタイービ氏の発言は誤りです。SubstackはTwitterのクローンをブートストラップしようとしていたため、IPアドレスが信頼できません」と述べ、さらに「タイービ氏はSubstackの従業員でした」と発言しました。
+
+1. Substack links were never blocked. Matt’s statement is false.
+
+2. Substack was trying to download a massive portion of the Twitter database to bootstrap their Twitter clone, so their IP address is obviously untrusted.
+
+3. Turns out Matt is/was an employee of Substack.— Elon Musk (@elonmusk)
+
+その後、Substackに対するTwitterの制限が撤廃されたことを、Substackの公式Twitterアカウントが2023年4月9日にツイートしています。
+
+We’re glad to see that the suppression of Substack publications on Twitter appears to be over. This is the right move for writers, who deserve the freedom to share their work.— Substack (@SubstackInc)
+
+しかし、このSubstackの一件でマスク氏とタイービ氏の仲は険悪になった模様。2023年4月9日に、タイービ氏がまとめたTwitterファイルのスレッドがTwitterの検索システムでヒットしなくなることが判明しました。また、タイービ氏のアカウント自体もシャド���バンされていることも判明。
+
+Matt Taibbi’s Twitter Files tweets haven’t been deleted but it appears Twitter is blocking users from searching for any and all of his posts (including his Twitter Files tweets) https://t.co/fAQ5EI8g7O pic.twitter.com/sXvDQT1GCh— Matt Binder (@MattBinder)

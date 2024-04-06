@@ -1,0 +1,51 @@
+Among the most popular and versatile of these modes, the Dorian mode can be used in an incredibly wide variety of musical contexts. In this article, let’s discuss what exactly the Dorian mode is, some popular songs that make use of it, and how to apply it to your own music.
+
+Feel free to use the table of contents below to quickly navigate to a specific section.
+
+The Dorian mode is a mode that’s in many ways similar to minor, but features a raised sixth (♯ˆ6) as its distinguishing feature. If we started on D, then its ascending scale would consist of D, E, F, G, A, B, C, and D.
+
+The Dorian mode gets its name from the Dorian Greeks, who were among the four main ethnic groups in ancient Greece. Early iterations such as that of the enharmonic genus featured quarter tones, which are intervals that are even smaller than semitones that are seldom seen in modern Western music. The mode saw further evolutions via the Byzantine church in medieval theory, where it could include a B♭ ‘by license,’ in addition to a B♮.
+
+Today, the modern Dorian mode is understood as a strictly diatonic scale that corresponds to all of the white keys on the piano from D to D, as seen above.
+
+As you can decipher from the previous example, the Dorian mode consists of the following intervals:
+
+If you were to sequence an ascending scale, the intervals could be expressed in shorthand as WHWWWHW (‘whole half whole, whole whole half whole’).
+
+Once you familiarize yourself with this pattern, you can apply it to construct a Dorian scale off of any other root note. For example, the C Dorian mode would consist of the following:
+
+The raised sixth is the key differentiator between the Dorian and natural minor scales, as mentioned in our initial definition. Depending on how this interval is treated, the mode can sound mysterious, delicate, grand, dark, and more—we’ll take a listen to some specific examples shortly.
+
+While familiarizing yourself with the sequence of intervals is far more valuable (and easier) than memorizing every scale one-by-one, here’s a table outlining the Dorian scale associated with every root note for easy reference:
+
+As we mentioned in our article on the Lydian mode, we use the term “key” loosely to refer to these because modes don’t follow the same functional behaviors of traditional major and minor keys, which are a requisite of the term in its strictest definition. Also note that several of these are enharmonically equivalent—for example, the modes built off of A♯ and B♭ share all of the same pitches, but are simply expressed differently in writing.
+
+From Daft Punk and Pharrell Williams’ “Get Lucky” and Lizzo’s “About Damn Time” to Miles Davis’ “So What” and Koji Kondo’s “Song of Storms” (from The Legend of Zelda), various songs in an incredibly wide array of genres make use of the Dorian mode. In the tutorial video below, we examine the chord progressions of these songs and others to break down how the distinctive raised sixth is used to achieve different moods.
+
+If you’d like to explore chord progressions like the ones we highlighted in the video in your own DAW, you can download the MIDI files for absolutely free here. We’ve also included some bonus progressions to further help spark your creativity.
+
+As heard in the examples referenced above, there’s truly no single ‘right’ way to use the Dorian mode. Depending on your arrangement, harmonies, and more, the mode can sound anything from mystical to playful.
+
+With that said, below we’ve highlighted a few ideas that you can experiment with to develop your own unique applications and associations.
+
+If you’re always gravitating towards major and natural minor by default and want to try building a song entirely around a new palette, the Dorian mode can be just the right thing for you. Although it only has one pitch that separates it, the raised sixth alone introduces enough new color to spark a wealth of new ideas.
+
+If you’re not sure where to start, try dragging any of the provided MIDI chord progressions into your DAW, and constructing a melody over it. What happens when you refrain from using the raised sixth in your melody until you hit a ii chord or IV chord? What happens when you play it over a chord that it isn’t voiced in? There are no hard rules, so feel free to experiment freely here.
+
+There’s also no need to use the Dorian mode (or any other mode, for that matter) as the sole harmonic backbone of your composition. In fact, many pieces will simply borrow its color in idividual sections.
+
+Take Linkin Park’s “Burning in the Skies,” for example. The song uses a i – III – ♭VII – IV chord progression in the intro and verse, with the guitar riff and vocal melody also emphasizing the raised sixth (an F♯) over the last chord. However, in the chorus, the song transitions to A minor, as indicated by the total absence of the F♯ and the introduction of the ♭VI chord (F major).
+
+By oscillating between the Dorian mode and natural minor, Linkin Park are able to evoke a unique emotional color for each section in the song. The raised sixth makes the verse feel introspective yet larger-than-life, while the flattened sixth adds an emotional intensity to the chorus.
+
+You can apply this idea in your own compositions by treating the Dorian mode as more of a borrowed color—use it to create a fleeting moment of intrigue, and then revert to minor, major, or perhaps even a different mode.
+
+When thinking about chord progressions, we often underestimate the impact that inversions can have in achieving different emotional nuances. Whether it’s for smoother voice leading or to intentionally highlight certain intervals, try experimenting with different inversions of the same chord. In the tutorial video, we demonstrate this idea by using the Chord Pad mode in Cubase to quickly compare different inversion options.
+
+Also don’t hesitate to add sevenths, ninths, and other intervals to your chords to introduce even more color. How does a ii7 chord impact your chord progression compared to a ii triad? It’s important to be intentional with your seventh chords and extensions, but don’t hesitate from exploring them to arrive to your own creative conclusions.
+
+While there’s no one way to use it, the Dorian mode provides a fresh yet familiar color that’s a great addition to any composer’s toolkit. Hopefully this article gave you a foundation for how it’s structured, showcased a couple of its different emotional sides, and provided you with some initial ideas for using it that you can apply to create your own musical settings.
+
+Do you have any questions around using modes in your music? What topics in music theory would you like to see us cover next? Start a conversation with us and other music creators via the Splice Discord.
+
+Continue your exploration of modes in music:

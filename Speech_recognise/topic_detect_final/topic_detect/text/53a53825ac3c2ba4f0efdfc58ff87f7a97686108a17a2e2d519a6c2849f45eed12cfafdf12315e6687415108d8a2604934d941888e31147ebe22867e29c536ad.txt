@@ -1,0 +1,25 @@
+WhatsApp, Signal and five other apps have come together to sign an open letter to oppose Britain's Online Safety Bill. The platforms suggest that the law if regulated in the wrong way can lead to the disruption of privacy for billions of users around the globe and hence, the platforms have united to disapprove the bill.
+
+Britain's Online Safety Bill has been primarily designed to prepare a strict set of laws for regulating social media platforms such as Facebook, Instagram, TikTok and YouTube. However, in order to regulate these platforms the fundamental aspect of privacy, end-to-end encryption is put under threat. The British government has mentioned that the bill in "no way represented a ban on end-to-end encryption, nor would it require services to weaken encryption".
+
+Also Read: How to send original quality photos on WhatsApp on iOS, Android, and Web
+
+However, the government wants regulator Ofcom to use accredited technology for the platforms, or advance the technology so that there can be ease of identification for child sexual abuse content.
+
+Also read: WhatsApp users will get animated emoji feature soon, just like in Telegram
+
+The transformation of plaintext data into a non-understandable form (cipher text) where the original data cannot be recovered, which is a one-way encryption or cannot be recovered even after the use of inverse decryption technology, which is a two-way encryption.
+
+The bill in no way provides a protection for encryption, and if implemented as written, will propagate the Ofcom to enforce the scan of private messages on end-to-end encrypted communication services. This will devoid the primary purpose of end-to-end encryption, which allows information sent through a message to be read only by the sender and recipient. This in turn will compromise the privacy agendas for the users.
+
+Speaking of the bill and the concerns of the social platforms, a British government spokesperson said: "We support strong encryption, but this cannot come at the cost of public safety.”
+
+Also Read: WhatsApp introduces 3 new features for security and privacy
+
+It’s not inconceivable to think that loosening WhatsApp or other private messaging apps’ encryption in Britain may impact Indian citizens interacting with their counterparts in Britain. To the best of our knowledge, India currently does not have any specific encryption laws. However, industries governing the banking, finance, and telecommunications industry verticals, mandate requirements for minimum encryption standards to be implemented in protecting financial and confidential transactions. The Central Government has the authority to frame any regime regulation of encryption under the Information Technology Act of 2000. The ITA 2000 regulates electronic and wireless modes of communication.
+
+India governs the laws that can be aligned and be in sync with the international standards and regulations. The amendment of 2008 for ITA 2000 states that the government can prescribe the methods for encryption for electronic medium security and for e-governance and e-commerce promotion.
+
+The private sector requires continuous adaptation and evolution of technology to provide stronger encryption on their networks to prevent any cyber security discrepancies. Taking this into consideration to combat cyber security and safeguard technology the platforms depend on a transparent national framework or regulatory presence. India has been proactively trying to mandate regulations on social media platforms which resulted in WhatsApp filing a lawsuit against them. However, the government requires a set of rules that can help the technology industry and law enforcement bodies to be able to provide better cyber security, citizen’s privacy and national security.
+
+For more      technology news,      product reviews, sci-tech features and updates, keep reading      Digit.in or head to our      Google News page.

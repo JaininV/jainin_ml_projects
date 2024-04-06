@@ -1,0 +1,51 @@
+Centers for Disease Control and Prevention. CDC twenty four seven. Saving Lives, Protecting People
+
+Centers for Disease Control and Prevention. CDC twenty four seven. Saving Lives, Protecting People
+
+Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.
+
+The 2023 earthquakes that affected Turkey and Syria, with Kahramanmaraş Province in Turkey at their epicenter, measured 7.8 and 7.5 on the Richter scale. The effects were devastating, making these the strongest earthquakes in Turkey since 1939. Combined with their multiple aftershocks, the earthquakes caused >50,000 deaths and severely damaged or collapsed >170,000 buildings (https://www.aljazeera.com/news/2023/2/25/death-toll-climbs-above-50000-after-turkey-syria-earthquakes). In their wake, the earthquakes left a growing humanitarian crisis. If previous experiences are any indication, we can also expect hospitals caring for the injured and wounded to struggle with highly antimicrobial-resistant infections, many of which will lead to excess illnesses and deaths.
+
+Multidrug resistant microbes have often been reported after earthquakes and other natural disasters. Medical literature on earthquake-associated injuries, going as far back as the Marmara, Turkey, earthquake of 1999 (1), have consistently shown highly resistant microbial strains emerging in hospital settings and causing hospital-acquired infections in trauma patients. Antimicrobial-resistant Acinetobacter baumannii has been identified in disproportionately high rates from infections associated with large-scale earthquakes in Southeast Asia in 2004; northern Pakistan in 2005; Wenchuan, China, in 2008; central Italy in 2009; and Haiti in 2010 (Appendix).
+
+Although earthquake-associated pathogens detected in hospital settings have been consistently multidrug resistant, their resistance profiles have varied. The etiology of antimicrobial resistance from earthquakes remains uncertain. After the Marmara earthquake of 1999, associated A. baumannii and Pseudomonas aeruginosa infections were mainly resistant to carbapenems, which had been preemptively administered in large numbers to patients before hospitalization (1). After the 2004 Southeast Asia earthquake, patients with multiple wounds admitted to the intensive care unit of the Cologne-Merheim Medical Center in Germany were reportedly contaminated with multidrug-resistant A. baumannii, extended-spectrum β-lactamase Escherichia coli, and methicillin-resistant Staphylococcus aureus (2). After the 2005 northern Pakistan earthquake, Kiani et al. reported emergence of multiply drug-resistant Acinetobacter spp., Enterobacter spp., and other gram-negative organisms, susceptible to amikacin only. Hospitals were overwhelmed with staff and antimicrobial drug shortages, and wounds were often treated empirically because of limited laboratory capacities (3). After the 2008 earthquake in Wenchuan, China, the predominant pathogen causing infections was A. baumannii; 1 hospital reported that >65% of Acinetobacter isolates were resistant to a wide range of antimicrobial drugs, except imipenem, and 24.6% of isolates were pan–drug resistant (4).
+
+Since the 2023 Turkey/Syria earthquakes, multidrug resistance has not yet been reported. However, on the basis of the epidemiology of infections in earthquake-stricken regions, we expect hospitals in the region to struggle with containing nosocomial transmission of highly resistant pathogens that may increase deaths among hospitalized patients. Also of concern is the re-emergence of other infectious diseases, such as cholera, known to be precipitated by disaster settings (5). The Turkey/Syria earthquakes come on the heels of multiple crises in the region, many of which have been shown to influence the rising rates of multidrug resistance, as in the wake of the Iraq and Syrian conflicts (6). Rising rates of antimicrobial resistance are further compounded by the regionwide travel of wounded patients for treatment as healthcare infrastructure in Iraq and Syria collapsed (7). Medicine shortages, especially resulting from sanctions in Syria and Iraq and following the 2019 financial collapse in Lebanon, further compound selective pressures on microbes to develop specific resistance profiles.
+
+Hospitals in and outside the region treating injuries from the Turkey/Syria earthquakes will probably observe a surge in highly resistant pathogens and nosocomial transmission. In addition to providing immediate care for the injured and displaced, relief efforts should therefore anticipate a probable increase in antimicrobial-resistant infections for which therapeutic options may be limited. Detecting and responding to this superimposed crisis urgently requires support and expansion of existing microbiology laboratory capacity. Recent initiatives, such as the deployment of telemicrobiology in northern Syria, are examples of how to rapidly assist local laboratory teams in settings of social disruption (8). Training healthcare workers on surgical techniques and wound care adapted to deal with traumatic injuries have also been shown to enhance wound healing and to limit complications such as chronic and recurrent skin and soft tissue infections, which are risk factors for antimicrobial resistance (9). Early-stage detection and aggressive infection-control practices (e.g., active surveillance, contact isolation, sampling of healthcare workers and hospital environments, and antimicrobial stewardship) during and after disasters play key roles in preventing resistant strains from becoming endemic to healthcare facilities (10). Healthcare facilities may need to consider patient decolonization through chlorhexidine bathing to forestall colonization by antimicrobial-resistant Acinetobacter strains (10). Communities affected by the recent earthquakes will probably experience their effects for months to come. It is not too late to act to prevent further complications from these natural disasters, such as antimicrobial-resistant infections, from compounding ongoing human tragedies.
+
+Mr. Rizk is a PhD candidate in anthropology at the Geneva Graduate Institute, Switzerland. His research interests include scientific laboratory capacities and antimicrobial resistance.
+
+About the JournalAuthor Resource Center
+
+Links with this icon  indicate that you are leaving the CDC website.
+
+The Centers for Disease Control and Prevention (CDC) cannot attest to the accuracy of a non-federal website.
+
+Linking to a non-federal website does not constitute an endorsement by CDC or any of its employees of the sponsors or the information and products presented on the website.
+
+You will be subject to the destination website's privacy policy when you follow the link.
+
+CDC is not responsible for Section 508 compliance (accessibility) on other federal or private website.
+
+For more information on CDC's web notification policies, see Website Disclaimers.
+
+We take your privacy seriously. You can review and change the way we collect information below.
+
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+
+Cookies used to make website functionality more relevant to you. These cookies perform functions like remembering presentation options or choices and, in some cases, delivery of web content that based on self-identified area of interests.
+
+Cookies used to track the effectiveness of CDC public health campaigns through clickthrough data.
+
+Cookies used to enable you to share pages and content that you find interesting on CDC.gov through third party social networking and other websites. These cookies may also be used for advertising purposes by these third parties.
+
+Thank you for taking the time to confirm your preferences. If you need to go back and make any changes, you can always do so by going to our Privacy Policy page.
+
+Close
+
+Data is collected weekly and does not include downloads and attachments. View data is from .
+
+What is the Altmetric Attention Score?
+
+The Altmetric Attention Score for a research output provides an indicator of the amount of attention that it has received. The score is derived from an automated algorithm, and represents a weighted count of the amount of attention Altmetric picked up for a research output.

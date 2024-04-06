@@ -1,0 +1,19 @@
+,  /PRNewswire/ -- To better automate the middle and back-office functions around trade matching, global Fintech leader, Broadridge Financial Solutions, Inc. (NYSE: BR), today announced an expansion of its partnership with Linedata, a global provider of asset management and credit technology data and services. Through this expanded global partnership, Broadridge's NYFIX Matching solution will be integrated directly with Linedata's Order Management System (OMS) powered by its Asset Management Platform (AMP).
+
+"Post-trade processing is still highly manual and prone to errors, however with NYFIX, Broadridge is able to provide the buy-side with a streamlined post-trade workflow," said George Rosenberger, General Manager of NYFIX, Broadridge. "Our partnership with Linedata represents our mutual commitment to offering an optimized post-trade matching service to the widest client base."
+
+Linedata Longview OMS clients will benefit from Broadridge's NYFIX Matching solution, enhancing Linedata's post-trade matching capabilities. Further, this integration offers mutual clients an alternative to other trade lifecycle processors. Linedata clients and corresponding brokers gain cost efficiencies with this straightforward yet robust workflow solution.
+
+"In today's volatile market environment, Linedata remains laser-focused on driving value and efficiency into our customers' workflows," said Bob Moitoso, Head of Asset Management, North America at Linedata. "Broadridge is proving to be a key partner for us in our commitment to providing flexible, innovative OMS capabilities and expanding choice for our customers."
+
+About Linedata
+
+With 25 years' experience and 700+ clients in 50 countries, Linedata's 1,100 employees in 20 offices provide global humanized technology solutions and services for the asset management, insurance and credit industries that help its clients evolve and operate at the highest levels.
+
+Headquartered in France, Linedata achieved revenues of EUR 172.7 million in 2022 and is listed on Euronext Paris compartment B FR0004156297-LIN – Reuters LDSV. PA – Bloomberg LIN:FP. For more information, please visit our website or contact us.
+
+About Broadridge
+
+Broadridge Financial Solutions (NYSE: BR), a global Fintech leader with more than $5 billion in revenues, provides the critical infrastructure that powers investing, corporate governance and communications to enable better financial lives. We deliver technology-driven solutions that drive business transformation for banks, broker-dealers, asset and wealth managers and public companies. Broadridge's infrastructure serves as a global communications hub enabling corporate governance by linking thousands of public companies and mutual funds to tens of millions of individual and institutional investors around the world. Our technology and operations platforms underpin the daily trading of more than U. S. $9 trillion of equities, fixed income, and other securities globally. A certified Great Place to Work®, Broadridge is part of the S&P 500® Index, employing over 14,000 associates in 21 countries.
+
+For more information about us and what we can do for you, please visit www.broadridge.com.

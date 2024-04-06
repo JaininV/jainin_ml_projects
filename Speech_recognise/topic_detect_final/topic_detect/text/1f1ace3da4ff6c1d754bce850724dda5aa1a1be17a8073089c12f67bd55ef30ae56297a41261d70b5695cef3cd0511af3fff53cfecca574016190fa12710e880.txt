@@ -1,0 +1,15 @@
+ROHM’s New 4ch/6ch LED Drivers for LCD Backlights Contribute to Lower Power Consumption in Medium to Large Automotive Displays
+
+ROHM Semiconductor announced new 4ch/6ch LED driver ICs (BD83A04EFV-M, BD83A14EFV-M, BD82A26MUF-M) designed for medium- to large-size automotive displays in car infotainment and instrument clusters.
+
+In recent years, the continuing evolution of ADAS (Advanced Driver Assistance Systems) and enhanced car infotainment functionality have led to the use of larger displays. Consequently, LED drivers for LCD backlights in automotive displays are required to provide high efficiency drive that improves rated output current while reducing power consumption. In addition, as flickering of automotive displays can lead to poor visibility and unsafe conditions, LED drivers must be capable of avoiding this issue.
+
+Conventional LED drivers that consume relatively large amounts of power are susceptible to flickering during PWM dimming. In contrast, ROHM has developed LED drivers for LCD backlights that combine proprietary low power technology with seamless PWM dimming. This eliminates flickering when changing the display brightness from low to high.
+
+These new products leverage proprietary low power consumption technology to reduce losses in LED driver current control circuits. The result is 20% lower overall IC power consumption compared to conventional products under typical conditions (80mA/ch LED circuit current, 12V power supply). This contributes to lower power consumption in medium- to large-size automotive displays where power consumption is an issue.
+
+At the same time, all models are equipped with both DC and PWM dimming to meet a wide range of requirements. As there no longer exists a need to switch current feedback mode for low/high brightness change with ROHM’s original seamless PWM dimming technology, flickering that occurs with general PWM dimming is reduced, improving system reliability.
+
+All new models products are equipped with both DC and PWM dimming for broad applicability. ROHM’s seamless PWM dimming enables smooth, flicker-free dimming from low to high brightness. View the product details here: BD83A04EFV-M, BD83A14EFV-M, BD82A26MUF-M
+
+mail: hdnieuws (at) gmail.com. The owner of this blog does not buy or distribute products, please do not send us solicitations

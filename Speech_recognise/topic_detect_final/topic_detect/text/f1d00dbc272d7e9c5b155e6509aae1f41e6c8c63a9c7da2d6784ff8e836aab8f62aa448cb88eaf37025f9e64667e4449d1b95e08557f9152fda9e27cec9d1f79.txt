@@ -1,0 +1,39 @@
+Are you looking for ways to stop Safari from syncing with iCloud? If so, you've come to the right place.
+
+Safari is Apple's web browser and it comes pre-installed on all Apple devices. It allows users to browse the Internet, save bookmarks, store history and view open tabs across multiple devices. This syncing of data is achieved through iCloud.
+
+By default, Safari uses iCloud to sync your browsing history and other data so that you can access it on multiple devices. However, this isn't always desirable as it can lead to Privacy issues or just general clutter if you don't need this feature. Fortunately, you can easily turn off Safari syncing with iCloud on both iOS and macOS devices.
+
+On macOS:
+
+1. Go to the Apple menu? > System Preferences.
+
+2. Click ‘iCloud' in the preferences window.
+
+3. Deselect ‘Safari' from the list of Apps that will sync data with iCloud.
+
+4. Close the window when done – that's it!
+
+On iOS:
+
+1. Open the Settings app on your device and scroll down until you find ‘General'; tap on it to open it up.
+
+2. Tap ‘Handoff' in the General settings menu and toggle off the Handoff switch – this will turn off Safari syncing with iCloud for your device only; other devices linked with your account may still have their Safari data synced via iCloud unless those are also turned off separately as well.
+
+And there we have it – a quick guide on how to turn off Safari syncing with iCloud on both iOS and macOS devices! We hope this has been helpful!
+
+To unsync Safari from your iCloud, you will need to open the System Preferences on your Mac. If you are using macOS Catalina, click Apple ID and then select iCloud. From here, you can deselect Safari from the list of apps synced with iCloud. This will ensure that any changes or updates made to Safari on one device will not be automatically applied to other devices connected to the same iCloud account.
+
+To stop Safari from sharing between devices, you need to turn off Handoff in your iOS device's Settings. To do this, open the Settings app on your iOS device and scroll down to find ‘General'. Tap on this and then tap on ‘Handoff'. Finally, turn the ‘Handoff' toggle off. This will prevent Safari from sharing information between devices.
+
+If you unsync Safari from iCloud, your browsing history will no longer sync across devices signed into your iCloud account, nor will it be restored from an iCloud backup. This data will still be retained locally on your device. To remove the local data, you can refer to the instructions provided in the link mentioned in this answer.
+
+When Safari is synced to iCloud, it means that any bookmarks, Reading List items, Tab Groups, and open browser tabs you have saved will be stored in the cloud instead of locally on your device. This allows you to access your information on any device that's set up for iCloud and Safari, such as an iPhone, iPad, iPod touch, or Mac. iCloud keeps your data safe and secure in the cloud so you can access it from anywhere with internet access.
+
+Yes, iCloud sync Safari history. When you turn on iCloud Syncing, your browsing history is sent to iCloud and kept up to date across all of your devices that have Safari turned on in iCloud preferences. This means that you can access your browsing history from any device, as long as you are signed into the same Apple ID and have Safari enabled in iCloud preferences. Your browsing history is also encrypted when sent to iCloud for added Security. Security
+
+If you want to stop your search history from appearing on other devices, you need to turn off Web & App Activity. To do this, open your device's Settings app, go to Google > Manage your Google Account > Data & personalization. Under “Activity controls,” tap Web & App Activity and turn it off. This will stop your search history from appearing on other devices connected to the same Google account.
+
+If you have enabled iCloud Safari sync on both of your iPhones, then your Safari history, bookmarks, and open tabs will be shared between them. This means that when you open Safari on one device, the same tabs and pages that you had opened on the other device may show up. Additionally, any bookmarks or websites that you have saved in Safari on one device will also be available on the other.
+
+In conclusion, Safari is a great browser that provides you with an excellent user experience. It allows you to quickly and easily browse the web, access content from your favorite websites and apps, and stay connected with friends and family. With iCloud, you can keep your browsing history, bookmarks, reading list, tab groups, and open tabs synced across your devices so you have access to them wherever you go. However, if you prefer to keep your data local on just one device or don't want it to be synced across other devices then you can easily turn off the iCloud sync for Safari.

@@ -1,0 +1,55 @@
+Google Drive is one of the most trending apps used by millions of users. To make things interconnected with the services of the different Google Apps, the developers provided Google Drive access to the users for free storage and sharing with the other users. Initially, the users get some memory to store their files for free. Google announced that the first 15 GB would be free for users to store anything in their Google Drive. However, if you need more storage, you must buy it.
+
+Millions of users use Google Drive daily to share different things just with the help of the link. Also, many users have bought plans for more storage as more users believe that it is good to upload all the important pictures, videos, files, etc., to Google Drive as it is safer than physical storage.
+
+Many users have done this, but some are confused about a question. They are looking for the answer to a query: “If I share a folder in Google Drive can they see my other folders.” We all know that it is not a tricky question, so we are here with a guide to help you share the Google Drive folders properly, along with the answer to your query. So, let’s get started with it.
+
+We all know that millions of users use Google Drive to share files with friends and relatives and on the internet with different users. However, the users are worried about whether the files they are sharing are only visible to the users or whether other folders in Google Drive are also visible to the users. The answer is No. The files you share with friends, relatives, and other users are only visible to them. However, the other folders which are private/public on your Google Drive will not be visible to any users until you share them with the help of permission or a link. We will list the steps to see who can access your Google Drive Files. So, check the steps below.
+
+* Now, go to the folder for which you want to check the access.
+
+* After it, right-click on the file or the folder.
+
+* Now, you will see the users who have access to your files.
+
+* Also, you will see if you have created any links to directly share the files with the users.
+
+* You can revoke the permission from the same window. That’s it.
+
+By doing the above steps, you can get the answer to your query: “If I share a folder in Google Drive can they see my other folders.” Now, let’s check the steps you must follow to share Google Drive access with other users properly.
+
+We know it is very important for users to share the folders/files with the correct person; otherwise, it will create big trouble for you. Google Drive is one of the fastest ways to share files. However, you should know what steps to follow to share Google Drive Access with other users adequately. We have listed the steps for you that you need to follow when you are sharing the files with the users. So, check them below.
+
+* First of all, open Google Drive on your system.
+
+* Now, log in to Google Drive.
+
+* Upload the file and folder that you have to share.
+
+* Now, open that file or folder and right-click on it.
+
+* You will see the option of the Share button there. Click on it.
+
+* After clicking on the Share button, a window will appear on the screen.
+
+* You will get two options to share the uploaded files. The first option is to directly add the users’ email to whom you want to share so that they can get the invitation. The second way is to create a sharing link with the permission of the Viewer, Commenter, and Editor. You can also give the listed permission while sharing with the email.Viewer: If you have made any user a viewer on the Google Drive shared file, they can only view the file and not do anything with it.Commenter: The users with the capability of Commenter can add comments on the file you share. It is mostly given to the users if you have to take feedback.Editor: The users with the Editor capability will be able to change the files.
+
+* Viewer: If you have made any user a viewer on the Google Drive shared file, they can only view the file and not do anything with it.
+
+* Commenter: The users with the capability of Commenter can add comments on the file you share. It is mostly given to the users if you have to take feedback.
+
+* Editor: The users with the Editor capability will be able to change the files.
+
+* Once you have done the settings, click on Done.
+
+* Now, open the link on the other tab and check whether you can access it. You can also try sharing it to your other mail, which is logged in to a different device. That’s it.
+
+Note: The person who shares the folder or files with the other users is the Owner. The Owner can change the role of the other users. So you will be able to change it at any time you want to.
+
+No, the users can only see the folder you shared with them with proper permission. No one can check what folders you have on your Google Drive. Also, Google takes care of your privacy, so you don’t have to worry about it until you have shared the other folders with the users. When sharing any folders on Google Drive, cross-check the email ID and settings you have done while creating the link or sharing them with other users.
+
+We have also listed the steps that the users can easily follow to check who has access to the shared folders. Along with it, we have also shared the proper ways you need to follow to create the sharing link of the folder. We hope that the above steps will be going to help you a lot in the sharing of the Google Drive files.
+
+Thousands of users were confused about whether the users would be able to see the other folders uploaded to Google Drive. In this guide, we answered the users’ queries along with a proper explanation. We have also shared the steps the users need to follow to share the folder/file with the other users properly.
+
+We hope this guide has helped you understand the steps to access and share the drive properly. That’s it for today. If you still have any doubts, do let us know in the comment section below.

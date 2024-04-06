@@ -1,0 +1,35 @@
+The standardisation of life cycle assessments could be an instrumental step in securing net zero targets in the construction industry, one of the largest contributors to global carbon emissions and waste production.
+
+Findings from the European Commission show that the sector is responsible for approximately 40% of energy consumption and 36% of CO2 emissions in the EU.
+
+The UN’s sustainable development goals (SDGs) are having a significant impact on the construction industry and its targets for reducing energy consumption, including around how technology is being used to improve energy efficiency, the use of sustainable and recycled materials and biodiversity.
+
+The European Green Deal, which is connected to many other legislative documents, includes initiatives for building and renovating in an energy efficient way. It is also helping to ensure the design of new and renovated buildings is in line with the needs of the circular economy.
+
+When you look at the sheer volume of guidance and policy documents it can be overwhelming.
+
+One thing they all have in common, though, is the need to use consistent methodologies to allow for meaningful comparisons.
+
+As sustainability is now a priority for many organisations in the industry, the need to evaluate the environmental impact of building projects has grown. Life Cycle Assessment (LCA) is a method that allows for comprehensive analysis of the environmental impact of a product or material used in a building throughout its entire life cycle, from its manufacture through to its installation, maintenance and eventual demolition.
+
+By using LCA, constructors can make better informed decisions about the materials and processes they are using, with the goal of creating more sustainable and efficient building practices. However, many are still struggling to understand how they can gather the data they need for this and where the responsibility for it sits within the construction value chain.
+
+The LCA of construction products considers a wide range of environmental factors including energy consumption, greenhouse gas emissions, water use, and waste generation. These factors are used to evaluate the overall environmental impact and performance of building projects.
+
+In order to conduct an LCA of a wall, for instance, organisations would take into account its thermal transmittance (the rate of transfer of heat through matter, otherwise known as a U-value) in relation to the required energy to heat/cool a building, as well as the resulting emissions from this production of energy.
+
+The responsibility for measuring the LCA of this wall spans multiple organisations. The first point of information is the manufacturer, who must provide accurate data about the raw materials used in the product and also about their transportation. Contractors and architects are then required to record how the product is used in a building project. Finally, those involved in the building’s maintenance must measure its performance over time.
+
+There are, however, obstacles in the way of the widespread adoption of LCAs. One of the most significant of these concerns data collection and consistency. The comprehensive and accurate data needed to determine the environmental impact of different materials and processes is often lacking.
+
+Firstly, not all manufacturers provide the data needed to evaluate the environmental effects of their products. This may be because they do not have the desired data available, or simply that they choose not to disclose it.
+
+Another challenge is the potential for discrepancies in collected data, such as outdated information or differences in data sources and collection methodology, which can lead to incorrect or incomplete assessments of the results. The large number of organisations involved in a building project often complicates this information-gathering process further.
+
+Changes are taking place in the industry to solve these data collection challenges. ISO, the international standardisation body, has published ISO 22057 that describes a standardised digital approach, using the data template methodology to exchange EPD data for construction products.
+
+This data model provides all parties with a common technical language that enables them to collect and share extensive amounts of accurate information. It does this by providing industry players with accessible data that is based on international standards and in accordance with industry and country-specific regulations. This now also includes environmental data, currently available in the standardised EPD format.
+
+In the past, the lack of standardised data proved to be a big obstacle for performing comprehensive and accurate LCAs. Today, organisations can use tools such as EPDs, data dictionaries and data templates to develop a common way of describing objects, products, systems, materials, and assets. This is removing the ambiguity of language from information exchange and helping to create a holistic source of data for organisations to draw from.
+
+The system thinking approach delivered using lifecycle assessments will play an important role in helping construction industry players to achieve their net zero carbon targets. Organisations not only need to understand the methodology of conducting these LCAs, but also to consider how they can make their data accurate and accessible to benefit others within the industry. This can only be made possible if we describe things is a consistent way.

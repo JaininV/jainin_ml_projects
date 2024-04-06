@@ -1,0 +1,7 @@
+I have three nRF52840 boards and have been running the examples MESH and MESH-PROVISONER().One provisioner and two nodes. Can data transmission still occur between a provisioner and node after provisioning is completed? For example, can a node control the provisioner's LED while the provisioner maintains its own functionality?Is it possible to use a provisioner as a node in the mesh network？
+
+How to measure latency in Bluetooth mesh？（or Inter BLE node latency？）
+
+Is the "delay" here referring to the latency between two nodes？
+
+Thanks in advance for your help!

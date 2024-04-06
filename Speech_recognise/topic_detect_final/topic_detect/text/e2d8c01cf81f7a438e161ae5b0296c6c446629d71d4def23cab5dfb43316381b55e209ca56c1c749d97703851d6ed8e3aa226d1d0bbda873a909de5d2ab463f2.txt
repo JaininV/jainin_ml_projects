@@ -1,0 +1,27 @@
+Unhappy that IBM licensed chip-making know-how to Intel and foundry upstart Rapidus, GlobalFoundries today said it is suing Big Blue.
+
+GlobalFoundries is also seeking an injunction that may derail Intel and Rapidus' roadmaps.
+
+In a lawsuit filed in a New York City federal court, GlobalFoundries alleged IBM unlawfully disclosed GF's trade secrets to Intel and Japan's state-backed Rapidus.
+
+"IBM is unjustly receiving potentially hundreds of millions of dollars in licensing income and other benefits," GlobalFoundries claimed in a statement summarizing its lawsuit. "GF will aggressively defend its investments in technology against those who violate them, as the complaint demonstrates IBM has repeatedly done."
+
+GlobalFoundries asserts that following its acquisition of IBM's microelectronics business in 2015, GF obtained the "sole and exclusive right to license and disclose" that unit's chip-making technology. GlobalFoundries is therefore quite cross that IBM has seemingly given Intel and Rapidus this kind of tech behind GF's back, technology GF says it owns.
+
+At the heart of this case are two partnerships announced between Big Blue and Intel and Japan's Rapidus.
+
+IBM's tie-in with Intel began in early 2021, following the return of former CTO Pat Gelsinger as CEO, and his strategy of rebooting Intel's approach to fabricating customer-designed chips under contract – like what TSMC and many others do.
+
+For Intel, this is a great way to make some extra money and keep production at capacity. The strat involves putting Intel fabs to use making non-Intel chips, and as part of that, building leading-edge factories in Arizona as well as setting up a rather vague research collaboration with IBM.
+
+The extent of the collaboration remains unclear, though some announcements from both IBM and Intel offer clues. In May 2021, IBM revealed a 2nm manufacturing process developed at its Albany, New York lab that used a gate-all-around transistor design. Two months later Intel said it was working on a 20 angstrom — 2nm — manufacturing process also using a gate-all-around design, though Intel prefers to call the approach RibbonFET.
+
+Over a year later, Japan's newly formed foundry service Rapidus revealed it would license IBM's 2nm process tech.
+
+While GlobalFoundries didn't specifically mention IBM's 2nm process tech as the offending IP in its portfolio, the fact that both Intel and Rapidus were named would seem to confirm the theory that GF believes IBM was wrong to license its 2nm designs to others. GF thinks it should be the one doing the licensing as owner of the tech.
+
+GlobalFoundries is seeking both compensatory and punitive damages as well as an injunction against IBM preventing the IT giant from "further unlawful disclosure and use of GF trade secrets." Additionally, GlobalFoundries alleges that IBM has been poaching GlobalFoundries talent, and is asking the court to "end the unlawful recruitment efforts."
+
+An injunction on the use of this intellectual property could spell trouble for Intel and Rapidus' foundry expansions. While Rapidus doesn't expect to begin manufacturing 2nm parts until sometime between 2025 and 2027, Intel's roadmap calls for its first 2nm chips to ship in 2024. Depending on how deeply ingrained the offending IP is in Intel's designs, if at all, an injunction could potentially delay Intel's chip and foundry roadmap for years.
+
+The Register reached out to GlobalFoundries, IBM, Intel, and Rapidus for comment. We'll update this story if anything material arises. ®

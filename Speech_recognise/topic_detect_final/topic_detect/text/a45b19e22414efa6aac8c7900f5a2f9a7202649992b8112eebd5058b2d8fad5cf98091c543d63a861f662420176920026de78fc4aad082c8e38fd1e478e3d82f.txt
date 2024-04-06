@@ -1,0 +1,17 @@
+BigID, the leading platform for data security, compliance, privacy, and governance,announced a breakthrough in data cleanup with the launch of its industry-first ML-powered solution for finding duplicate and similar data content. The innovative technology uses groundbreaking AI to locate both similar and duplicate data on any data set, enabling organizations to easily identify duplicate data as well as redundant, obsolete, or trivial (ROT) data.  These transformative capabilities mean that organizations can reduce their storage cost, accelerate compliance, and improve cybersecurity across their environment.
+
+Latest Insights: Why Only AI and Data Analytics Can Stop Financial Criminals
+
+Duplicate and redundant data are a treasure trove for cybercriminals – exponentially increasing the risk of data leaks, data breaches, and compromised data.  By reducing the attack surface and reducing duplicate and redundant data, organizations can improve their system hygiene, reduce insider risk, and get more value from their data.
+
+With BigID’s powerful data minimization and cleanup capabilities, organizations can now automatically find duplicate data quickly and delete it in accordance with retention policies – enabling full data lifecycle management across all of their data, everywhere. This not only helps reduce risk and improve security posture, but also saves time and resources that would otherwise be spent manually sorting through large amounts of data.
+
+* Manage and de-risk their data by type, sensitivity, and policy
+
+Hot AI News: Stagwell’s First Free Generative AI Writing Tool, Taylor to Debut at SXSW 2023
+
+“Data minimization is critical to any data management strategy, and BigID’s ML-powered solution makes it easier and faster than ever before,” said Dimitri Sirota, CEO of BigID. “By automating the process of identifying and deleting duplicate data, we’re helping our customers reduce their risk and improve their overall security posture.”
+
+The ML-powered solution is a key component of BigID’s comprehensive data management platform, which provides a range of capabilities including data discovery, classification, compliance, risk management, privacy, and governance.
+
+[To share your insights with us, please write to sghosh@martechseries.com]

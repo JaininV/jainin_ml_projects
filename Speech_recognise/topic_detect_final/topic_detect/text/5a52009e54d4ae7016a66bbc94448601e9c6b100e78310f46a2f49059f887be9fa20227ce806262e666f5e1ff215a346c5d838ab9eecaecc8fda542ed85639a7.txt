@@ -1,0 +1,13 @@
+If you are wondering when is Ranked Play coming back in MW2 Season 3, you are defiantly not alone. The MW2 & Warzone 2 Season 3 update is now here, and it delivers an abundance of exciting content across both games and their modes. However, those among us who are most competitive are disappointed. That’s because MW2 Ranked Play is disabled in Season 3. Here’s what we know about it.
+
+Call of Duty Modern Warfare 2 ranked play was introduced back at the start of Season 2. This mode, developed by Treyarch, uses the same framework as the official Call of Duty League rulebook. This means everything from the 4v4 format to all official modes, maps, rules, and more. The first season was a great success, and players were eager to jump into action once again with the start of Season 3. However, that’s currently not possible, as issues are preventing the developers from starting the new season.
+
+📢 Ranked Play: Season 03 has been temporarily delayed while we resolve an issue with the Season 02 – 03 transition.
+
+We will update this thread when Ranked Play is live and ready.
+
+Details: https://t.co/wUYHxLVsJQ— Treyarch Studios (@Treyarch) April 12, 2023
+
+“Ranked Play: Season 03 has been temporarily delayed while we resolve an issue with the Season 02 – 03 transition,” reads the official Tweet. “We will update this thread when Ranked Play is live and ready.” So there you have it. Unfortunately, there were some unforeseen issues, resulting in a delay. Hopefully, this will be a short delay, and the mode will be back by the end of this week. In the official Call of Duty Trello board, there is additional information regarding this issue, which we write here as shared by Treyarch:
+
+“Players who managed to enter the Ranked Play lobby before it was disabled will see incorrect Rank & Skill information displayed. However, their backend Rank and Skill Rating data are unaffected. Anyone who managed to play games of Ranked before it was disabled this morning will have their SR reset to their starting Season 03 Skill Division when the issue is resolved.”

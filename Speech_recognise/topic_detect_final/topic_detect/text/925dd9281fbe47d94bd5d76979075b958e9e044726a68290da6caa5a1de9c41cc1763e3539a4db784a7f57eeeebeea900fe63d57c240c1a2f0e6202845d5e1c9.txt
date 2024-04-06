@@ -1,0 +1,3 @@
+After introducing netlab in the Network Automation Tools webinar, I spent a few minutes describing the structure of the netlab lab topology file.
+
+As always, use the video only as a starting point. For more details, read the netlab documentation (overview, reference guide).

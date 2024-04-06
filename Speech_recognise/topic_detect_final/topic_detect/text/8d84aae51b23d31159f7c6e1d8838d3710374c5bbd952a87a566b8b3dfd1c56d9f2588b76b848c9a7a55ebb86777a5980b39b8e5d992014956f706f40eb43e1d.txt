@@ -1,0 +1,51 @@
+A recent study published in the Frontiers in Endocrinology Journal investigated the effects of laughter yoga on glycemic control in people with type 2 diabetes.
+
+Study: Laughter yoga as an enjoyable therapeutic approach for glycemic control in individuals with type 2 diabetes: A randomized controlled trial. Image Credit: AboutLife/Shutterstock.com
+
+Diabetes is a chronic condition requiring lifelong self-management for metabolic control and self-monitoring of blood glucose levels.
+
+Studies report that maintaining glycemic control is essential to decrease the risk of associated complications and death. Nonetheless, 40% to 60% of individuals with type 2 diabetes have yet to achieve glycemic control.
+
+Another study revealed that improvements in glycemic control were not achieved despite the higher utilization of new glucose-lowering medications, suggesting that prevailing therapeutic strategies might be insufficient for glycemic control.
+
+Research indicates that individuals are likelier to engage in healthy behaviors if enjoyable/pleasant.
+
+In the present study, researchers examined laughter yoga as an enjoyable self-care intervention for glycemic control in individuals with type 2 diabetes.
+
+The study was conducted between October and December 2015 at Osaka University. Eligible outpatients were aged 40 or above, with type 2 diabetes and glycated hemoglobin (HbA1c) levels ranging between 6.1% and 7.9%, with less than 1% change in the three months before baseline measurements.
+
+Patients were excluded if they had active coronary heart disease, stroke, vascular complications, and other severe illnesses. The standard therapy for diabetes continued among participants during the study.
+
+Participants in the intervention arm received standard therapy and laughter yoga sessions, whereas controls received the standard treatment. Overall, eight yoga sessions were provided over 12 weeks.
+
+Each session included a 30-minute lecture on health and laughter and a one-hour laughter yoga activity. The primary outcome was differences in Hb1Ac levels between weeks 0 and 12.
+
+Participants completed a questionnaire and physical examination at baseline and twelfth week. Exploratory outcomes were changes in waist circumference, body weight, body mass index (BMI), subjective stress, sleep duration, and positive/negative affect.
+
+Participants were randomly assigned to intervention and control arms. Baseline differences between groups were assessed using chi-squared and independent sample t-tests for categorical and continuous variables, respectively.
+
+The differences in measurements between weeks 0 and 12 were compared using paired-sample t-tests in both groups.
+
+Overall, 42 participants were included and randomized 1:1 to intervention and control groups. The average rate of attendance for laughter yoga sessions was approximately 93%.
+
+Serious adverse events were not observed. Changes in medical treatment were not reported. Baseline characteristics were similar between groups.
+
+The average Hb1Ac levels dropped from 7.07% at baseline to 6.82% at week 12 in the intervention group. In controls, the Hb1Ac levels showed a marginal increase from 7.1% to 7.26%. This difference in Hb1Ac levels was statistically significant, even when adjusted for BMI, age, and baseline levels.
+
+The positive affect score was significantly elevated in patients who took yoga sessions, albeit the adjusted difference between groups was statistically insignificant.
+
+There was a trend of increased sleep duration in the intervention group, with a difference of 0.4 hours between groups, with marginal significance after adjustment.
+
+There were no significant differences between groups in waist circumference, BMI, body weight, subjective stress, and negative affect.
+
+The number of participants performing exercise twice weekly increased in the intervention group by the end of the study, although it did not reach statistical significance. The difference in Hb1Ac levels remained significant when the change in exercise habits was included as a covariate.
+
+The average change in Hb1Ac levels was 0% in those with exercise habits and -0.32% in those without.
+
+The study observed that laughter yoga sessions reduced Hb1Ac levels in type 2 diabetes patients during the 12-week intervention.
+
+This was consistent with earlier studies reporting that laughing by watching a comedy show inhibited increases in postprandial glucose levels.
+
+Although the underlying mechanisms are unclear, several possible effects of laughter yoga on diabetes are suggested, including the upregulation of genes associated with natural killer cell activity.
+
+Notably, the study had a small sample and was conducted at a single center, with all participants being Japanese residents from an urban area, limiting the applicability of findings to others. Thus, extensive multicenter studies are required to validate the results in different populations.

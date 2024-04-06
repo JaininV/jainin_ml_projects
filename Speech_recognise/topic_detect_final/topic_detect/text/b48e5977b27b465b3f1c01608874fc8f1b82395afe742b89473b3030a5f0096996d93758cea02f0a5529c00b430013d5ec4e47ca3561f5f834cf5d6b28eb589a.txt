@@ -1,0 +1,3 @@
+Click here to read more >> https://www.prnewswire.com/news-releases/licel-release-their-guide-to-mobile-application-protection-301800580.html
+
+LONDON, April 19, 2023 /PRNewswire/ — Licel have announced the publication of their guide to mobile application protection. The guide is designed to give software engineers and architects a solid grounding in app protection and, ultimately, to enable them to create more resilient…

@@ -1,0 +1,43 @@
+Swaap builds the next-generation market-making protocol that leverages a combination of oracles and dynamic spread for sustainable yields and reduced trading costs.
+
+Its unique approach aims to offer LPs (liquidity providers) passive and profitable market-making strategies, addressing the critical issue of impermanent loss, prevalent in DeFi.
+
+Launched in July 2022 on Polygon, Swaap version one has already proven that profitable market-making on-chain is possible.
+
+Its WBTC/WETH/USDC pool, powered by Chainlink price feeds, has recorded less than 0.1% of impermanent loss.
+
+Swaap version two is set to revolutionize the DeFi landscape with its new enhancements and features, further improving version one.
+
+It employs the most advanced market-making models in DeFi, built by leveraging the AMM (automated market maker) simulator developed in collaboration with the Louis Bachelier Institute, a leading math research institute.
+
+Swaap version two further boasts innovative architecture that delivers a significant improvement in data latency, elevating the platform’s overall performance.
+
+Additionally, this new architecture empowers users with access to a diverse range of tokens, including yield-bearing options, further expanding the platform’s capabilities and solidifying Swaap version two as a frontrunner in the DeFi space.
+
+The seed funding round was led by Signature Ventures, with participation from high-profile investors including New Form Capital, C² Ventures, Kima Ventures, Pareto Ventures, Entrepreneur First – where Swaap’s co-founders met – and renowned business angels like Stake Capital’s Julien Bouteloup, CEO of Ledger Pascal Gauthier, CEO of Quantstamp Richard Ma, The Graph’s Tegan Kline, CSO of Coinshares Meltem Demirors, co-founder of Arianee Frederic Montagnon and CEO of eFounders Thibaud Elzière.
+
+“We are thrilled to have the support of our investors as we work to democratize DeFi and create a more efficient environment for liquidity providers.
+
+“This funding will enable us to accelerate the development and release of Swaap version two, which promises to deliver even more value to LPs and traders in the DeFi ecosystem.”
+
+“We are proud to work with the outstanding team at Swaap Labs and to be a part of their journey. We think Swaap’s market maker protocol is a true game-changer for decentralized finance.
+
+“Building upon the progressively more scalable public chain infrastructure – as well as more transparent and robust oracle infrastructure – Swaap is setting new standards in DEX efficiencies for liquidity providers and traders.
+
+“By offering more stable yields and sustainable returns, we believe Swaap is an essential building block in the evolution of DeFi towards a financial system.”
+
+Swaap is inviting users to join the waitlist for its upcoming version two release.
+
+To be among the first to access the new platform and enjoy exclusive benefits, visit here.
+
+The waitlist is powered by Zealy (previously Crew3), ensuring a seamless and efficient onboarding experience.
+
+Swaap is transforming the DeFi landscape with its cutting-edge market-making models, improved performance and access to a wide variety of token options including yield-bearing assets.
+
+Developed in collaboration with the Louis Bachelier Institute using the innovative AMM (automated market maker) simulator, Swaap delivers an enhanced experience for liquidity providers.
+
+Dive into a new era of on-chain liquidity provision and experience the future of DeFi with Swaap at their website.
+
+For more information, visit the links below.
+
+The post Swaap Closes $4.5 Million Seed Round and Announces Upcoming Version Two Launch appeared first on The Daily Hodl.

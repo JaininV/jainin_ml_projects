@@ -1,0 +1,31 @@
+In a recent study published in the journal Nutrients, researchers developed human milk calorie guide (HMCG), a color-based tool, to measure caloric content.
+
+Human milk (HM) is the ideal diet for neonates, including preterm infants. In preterm infants, the nutritional requirements are higher, and unfortified HM cannot meet those needs. HM fortifier (HMF) is a multicomponent supplement that boosts the protein, total energy, and micronutrient content of HM and enhances growth in preterm infants.
+
+The standard policy in neonatal intensive care units (NICUs) involves adding a fixed-dose HMF to milk. However, this is not ideal since HM varies in nutrient content, which changes according to the lactation stage, maternal nutrition, and time of expression. Previously, the authors revealed that standard fortification could not meet the macronutrient requirement for preterm infants.
+
+Study: Human Milk Calorie Guide: A Novel Color-Based Tool to Estimate the Calorie Content of Human Milk for Preterm Infants. Image Credit: Ratchat / Shutterstock
+
+In the present study, researchers developed and validated a visual color-based tool to predict the calorie content of HM. The study was conducted between October 2019 and September 2021.
+
+Mothers of preterm infants with ≤ 1500 g weight at birth or ≤ 34 weeks gestation were eligible for breastmilk collection. Mother's own milk (MOM) was collected from the second-week post-delivery (for up to eight weeks if available). Additionally, individual donor HM (DHM) samples were obtained.
+
+First, the team developed a preliminary HMCG tool building upon observations from a prior study that suggested a correlation between HM yellowness and caloric content. Twenty distinct shades were initially selected, and 12 were included in the preliminary HMCG tool.
+
+Based on the preliminary analysis, some shades were excluded, while others were added. The final HMCG tool comprised nine color shades arranged into three rows (A, B, and C) of three shades each. The team speculated that HM calorie content would increase in a linear fashion from categories A to C. The caloric ranges for each category were predefined – A: < 55 kcal/dL, B: 55-70 kcal/dL, and C: > 70 kcal/dL.
+
+Milk samples were hand-homogenized before color-matching and were color-coded per the final HMCG tool. Milk's fat, protein, calorie, and lactose content were estimated using a commercial mid-infrared HM analyzer (HMA). HMA results from the initial development phase were used to modify the preliminary HMCG tool. HMA results were used during the validation phase to assess the tool's accuracy.
+
+Preliminary HMCG tool comprising 12 shades (December 2018 version). The lighter ‘watery’ shades are grouped in the first row (row A), the ‘regular white’ appearing shades in the second row (row B), and the ‘creamy yellow’ appearing shades are in the third row (row C).
+
+Overall, 267 HM samples (136 DHM and 131 MOM samples) were matched and coded using the final HMCG tool. Baseline data on macronutrients indicated that nearly 22% of DHM samples had a caloric value of < 55 kcal/dL, while most (75%) had < 70 kcal/dL. Contrastingly, most MOM samples had a caloric value of over 70 kcal/dL.
+
+The yellowness of milk was positively correlated to the higher caloric value of DHM samples. The mean caloric value of category A HM samples estimated by HMA was 62.2 kcal/dL, while 70.3 kcal/dL and 73.6 kcal/dL for categories B and C HM samples, respectively. Sub-group analysis revealed that DHM samples had significantly different caloric values across the color categories.
+
+Most HM samples (157) were classified as category B. Thirty-seven DHM samples were coded as category A and 31 were classified as category C. Thirty-four and 11 MOM samples were coded as A and C, respectively. The HMCG tool best predicted lower calories in DHM samples, with modest accuracy for higher caloric content.
+
+The diagnostic performance of the HMCG tool was low for MOM samples across all categories. Overall, the tool's accuracy was moderate in predicting lower calories and poor for higher calories. For all HM samples, the optimal cut-points for categories A and C were 57 kcal/dL and 66 kcal/dL, respectively. The tool's sensitivity was poor for MOM samples at all cut-points.
+
+To conclude, the study demonstrated the development and validation of a novel color-based tool to predict HM calorie content. The tool's accuracy was rated good for predicting lower caloric ranges (< 55 kcal/dL) for DHM. This could help inform fortification practices when DHM is the primary nutritional source.
+
+Nonetheless, the tool could not predict with reliability the caloric range of MOM samples. Further, the accuracy was limited in predicting higher-calorie milk. The findings suggest the need to develop a separate tool for MOM samples. Nevertheless, the HMCG tool has great potential for application in resource-limited settings lacking HMAs and where DHM is predominately used.

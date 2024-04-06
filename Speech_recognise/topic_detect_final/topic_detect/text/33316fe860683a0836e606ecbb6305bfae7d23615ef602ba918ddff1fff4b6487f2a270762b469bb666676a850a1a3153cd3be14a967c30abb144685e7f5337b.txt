@@ -1,0 +1,33 @@
+To construct a rich search experience over private, heterogeneous material in online, mobile, and corporate apps, Azure Cognitive Search (formerly known as "Azure Search") provides developers with infrastructure, APIs, and tools.
+
+Any software that surfaces text to users relies on search, and common applications include document or catalogue search, online shopping apps, and data exploration over proprietary material. You will use the following tools when building a search service.
+
+A full-text search engine that operates over a search index of user-generated content.
+
+Extensive indexing with lexical analysis and optional AI enrichment is available for content extraction and transformation.
+
+Rich query syntax for text, fuzzy, autocomplete, geo-search, and other search types.
+
+Programmability through REST APIs and client libraries in Azure SDKs
+
+Azure integration at the data layer, machine learning layer, and AI (Cognitive Services)
+
+Access Vision, Language, Search, and Speech Cognitive Services with a single API key. Quickly connect services together to achieve more insights into your content and easily integrate with other services like Azure Search.
+
+This Cognitive service is intended to process Customer Data that includes Biometric Data (as may be further described in product documentation) that the Customer may incorporate into its systems used for personal identification or other purposes. Microsoft provides technical documentation regarding the appropriate operation applicable to this Cognitive Service that is made available by Microsoft. The customer acknowledges and agrees that they have reviewed this document and will use this service. The customer acknowledges and agrees that it is responsible for complying with the Biometric Data obligations contained in the Online Services DPA.
+
+* All networks, including the internet, can access this resource.
+
+* Selected networks and configured network security for your Cognitive Service resource.
+
+* Disabled, no networks can access this resource. You could configure private endpoint connections that will be the exclusive way to access this resource.
+
+Tags are name/value pairs that enable you to categorize resources and view consolidated billing by applying the same tag to multiple resources and resource groups.
+
+Note that if you create tags and then change resource settings on other tabs, your tags will be automatically updated.
+
+By clicking "Create", I (a) agree to the legal terms and privacy statement(s) associated with the Marketplace offering(s) listed above; (b) authorize Microsoft to bill my current payment method for the fees associated with the offering(s), with the same billing frequency as my Azure subscription; and (c) agree that Microsoft may share my contact, usage and transactional information with the provider(s) of the offering(s) for support, billing and other transactional activities. Microsoft does not provide rights for third-party offerings. See the Azure Marketplace Terms for additional details.
+
+Our Cognitive Search Service Instance Has Been Deployed
+
+This article teaches how to create Azure cognitive search services.

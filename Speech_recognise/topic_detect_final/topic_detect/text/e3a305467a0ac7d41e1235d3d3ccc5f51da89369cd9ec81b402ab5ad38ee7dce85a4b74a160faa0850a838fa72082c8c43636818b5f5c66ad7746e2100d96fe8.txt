@@ -1,0 +1,57 @@
+This is the paid version of IPTV app.
+
+Pro features (comparing with free version):
+
+✔ Ad free
+
+✔ Ability to auto-reconnect to streaming server when connection is closed unexpectedly (http streams only).
+
+✔ Start app on device boot option, useful for set-top boxes.
+
+✔ Auto-play last channel option
+
+✔ Extended playlists history
+
+Watch IPTV from your Internet service provider or free live TV channels from any other source in the web.
+
+If you are using VLC to watch TV on your PC then this app is for you.
+
+Features:
+
+✔ M3U and XSPF playlists support
+
+✔ Playlists history
+
+✔ Playing multicast streams with UDP proxy (proxy need to be installed in your LAN)
+
+✔ Ability to auto-reconnect to streaming server when connection is closed unexpectedly (http streams only)
+
+✔ Grid or list view of TV channels
+
+✔ EPG support in XMLTV and JTV formats
+
+✔ Start app on device boot option
+
+Please note that this app doesn’t contain any built-in channels. You need to have playlist with TV channels in order to use this app.
+
+Setup instructions:
+
+* First you’ll need to input m3u or xspf playlist, you can get it from your ISP or find free playlist in the web.
+
+* If app asks to setup UDP proxy, please do it, see instructions below.
+
+Installing UDP proxy for multicast streams:
+
+* for Windows: download and install UDP-to-HTTP proxy from http://borpas.info/download/UdpProxy.exe or check the corresponding option while installing IP-TV Player http://borpas.info/iptvplayer
+
+* for Linux: install udpxy (http://udpxy.com/index-en.html, http://sourceforge.net/projects/udpxy/)
+
+* the best solution would be installing udpxy on your WLAN router, this can be done for DD-WRT (http://www.dd-wrt.com) and OpenWrt (https://openwrt.org) firmware
+
+* some WLAN routers have built-in udpxy in manufacturer’s firmware
+
+Sometimes m3u files on Android could be deleted by the system. This happens because Android scans sd-card, reads m3u playlists and fixes them by deleting the links to files which could not be found on your sd-card. Since you have URLs instead of files in your playlist, Android thinks that playlist is empty and deletes it. To avoid this just create some folder, place there empty “.nomedia” file and your m3u playlist. After that Android will exclude that folder from scanning and won’t touch the playlist.
+
+Alternatively, you can place your playlist to some web server (Dropbox public link is one of the options) and specify its URL in the app.
+
+Please join translations project at https://crowdin.com/project/iptv/invite if you want to add new or improve existing translation.

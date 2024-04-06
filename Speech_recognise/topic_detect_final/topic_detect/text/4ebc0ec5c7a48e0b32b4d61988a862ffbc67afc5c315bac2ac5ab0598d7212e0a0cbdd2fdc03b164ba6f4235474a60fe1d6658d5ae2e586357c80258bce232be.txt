@@ -1,0 +1,65 @@
+Free public charging stations in the US have become the latest weapon for cyber criminals to infect devices with malware and tracking software.
+
+The Federal Bureau of Investigation (FBI) warns people not to connect to the free power but instead carry their own chargers and USB cord that plug into an outlet.
+
+The attack lets bad actors scrape personal information from devices, such as account logins, passwords, credit card details and photos.
+
+The FBI's alarming message, however, was not sparked by a recent attack but is to provide a service announcement to people visiting airports, hotels and shopping centers where stations are widespread.
+
+'Everyday tasks—opening an email attachment, following a link in a text message, making an online purchase—can open you up to online criminals who want to harm your systems or steal from you,' the FBI's website reads.
+
+'Preventing internet-enabled crimes and cyber intrusions requires each of us to be aware and on guard.'
+
+The agency urges against doing sensitive transactions, such as purchasing goods, on devices before connecting to a public network.
+
+Hackers have become creative over the past decade, finding new, inconspicuous ways of infiltrating our devices to steal personal information.
+
+The FBI urges users to examine the email address in all correspondence, scrutinize website URLs, and not click links in unsolicited text messages, which has recently become a major issue.
+
+Recent data shows that Americans are being attacked by more than 376 million scamming text messages daily, posing as Netflix, Amazon and banks to steal their money or voices.
+
+These fake messages claim users' accounts are frozen, or credit cards are expired, prompting them to click a link that asks for personal information.
+
+'If you get a text message you weren't expecting and it asks you to give some personal or financial information, don't click on any links. Legitimate companies won't ask for information about your account by text,' according to the Federal Trade Commission.
+
+'If you think the message might be real, contact the company using a phone number or website you know is real. Not the information in the text message.'
+
+Mobile devices have advanced our lives in ways we could never imagine, but they have also become a vital tool for scammers to weasel their way into our lives.
+
+The Federal Communications Commission (FCC) reported that between 2015 and 2022, the number of robotext complaints skyrocketed from 3,300 to 18,900 per year.
+
+And Americans lost $10 billion to these scams in 2021 alone.
+
+FCC Chairwoman Jessica Rosenworcel said in a statement: 'Scam artists have found that sending us messages about a package you never ordered or a payment that never went through along with a link to a shady website is a quick and easy way to get us to engage on our devices and fall prey to fraud.'
+
+Netflix released a statement about such schemes that urgently claimed 'your account is on hold,' stating an issue with the current billing information.
+
+A link is attached to the message with a note telling recipients they have 48 hours to take action before their account is permanently suspended.
+
+The link takes users to a site that looks like Netflix and asks them to reenter their credit card details, which the scammer steals.
+
+'We will never ask you to enter your personal information in a text or email,' Netflix said in a statement about the fishy texts.
+
+'We will never request payment through a 3rd party vendor or website. If the text or email links to a URL that you don't recognize, don't tap or click it.
+
+'If you did already, do not enter any information on the website that opened.'
+
+Unfortunately, if scammers successfully trick you into visiting the webpage, they could quickly exploit your phone or computer.
+
+Amazon is another major company used to trick people with text messages.
+
+The fake communications could claim your account has been suspended after a security check and provides a link to verify your credentials.
+
+Another scheme tells consumers that an expensive product was ordered from their account and includes a phone number if they think it was a mistake.
+
+Like Netflix, Amazon has also addressed the issues by urging customers not to share their personal information.
+
+In May 2022, the Better Business Bureau (BBB) sent out an alarm after people received text messages from a bank, alerting them to a hold, fraudulent activity, or an update to a financial account.
+
+'Scammers will use the opportunity to obtain your banking information. For example, a website may prompt for an ATM card number and PIN under the guise of 'reactivating your ATM card,'' BBB said in a statement.
+
+'Other times, the link may download malicious software that gives scammers access to anything on the phone. A scammer on the phone may demand personal information such as your social security number.'
+
+The FCC announced new rules to combat spammy text messages requiring cellular providers to block text messages from suspicious sources, including phone numbers that appear 'invalid, unallocated, or unused.'
+
+The update, announced last week, also requires carriers to block text messages from phone numbers that do not send text messages.

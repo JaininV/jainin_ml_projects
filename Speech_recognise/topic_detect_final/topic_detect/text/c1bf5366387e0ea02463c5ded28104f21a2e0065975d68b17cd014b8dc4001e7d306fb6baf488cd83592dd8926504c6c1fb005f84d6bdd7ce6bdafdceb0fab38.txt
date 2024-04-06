@@ -1,0 +1,21 @@
+Mandi, April 19 (IANS) A team of researchers from Indian Institute of Technology (IIT) Mandi has proposed a 2D metamaterial-based foundation for protecting buildings against earthquakes.
+
+The research, detailed in the journal Scientific Reports, showed that a metamaterial foundation can help reduce damage to structures and offer protection to people living in earthquake-prone regions of the world.
+
+The team used two-dimensional metamaterials. A metamaterial is created by assembling multiple elements made from composite materials like metals and plastics, usually arranged in repeating patterns that are smaller than the wavelengths of the phenomena they affect, such as earthquake vibrations or seismic waves.
+
+Seismic waves are elastic waves that transport energy through the Earth’s layers. Unlike other types of physical waves, seismic waves have long wavelengths and low frequencies.
+
+“By intelligently designing the foundation of the building, the earthquake waves can be diverted/reflected back, without causing much damage to the building. Any building requires a good foundation, but the key here is to have periodicity in the foundation design, and this is known as Metamaterial Foundation,” said Dr Arpan Gupta, Associate Professor, School of Engineering, IIT Mandi in a statement.
+
+“Such periodic variation of material properties can lead to reflection of waves thereby protecting the building structure on that foundation,” he added.
+
+The team studied a foundation consisting of repeating circular scatterers made of steel and lead embedded in a rubber matrix.
+
+The concept of a 2D-metamaterial-based foundation for earthquake protection was tested on a computer model. A computer model of the foundation along with the building structure was subjected to earthquake excitations.
+
+Two cases were considered — concrete foundation and metamaterial foundation. In the case of concrete foundation, large vibrations were recorded, while in the case of metamaterial foundation — very minimal vibrations were observed.
+
+“A comparison between concrete and metamaterial foundations shows that the metamaterial can significantly decrease the vibration response of building frames to earthquakes. The research indicates that the composite periodic foundation achieves satisfactory wave attenuation from 2.6 Hz to 7.8 Hz. This broad and low-frequency band gap is a noteworthy advancement that could assist in the creation of future metamaterial foundations for earthquake mitigation purposes,” Gupta said.
+
+The results showed that metamaterial foundations can effectively reduce ground accelerations caused by earthquake excitations and presents a significant step forward in the development of earthquake-resistant buildings.

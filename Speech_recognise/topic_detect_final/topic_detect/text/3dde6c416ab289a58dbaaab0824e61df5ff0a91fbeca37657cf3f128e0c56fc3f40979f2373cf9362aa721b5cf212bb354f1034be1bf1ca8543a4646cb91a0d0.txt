@@ -1,0 +1,25 @@
+Many applications are a part of the Windows 11 operating system from the second you install it on your computer. One of these applications is the Photos app. After a recent update, some users have reported that the Photos app Slideshow option is missing. If you face this issue, please read this article for the resolution.
+
+When many images are arranged in a fixed order, it is called a slideshow. A slideshow can be self-rolling or manually changed. If you wish to present your photos to people, a slideshow would be an excellent method.
+
+The Slideshow option is missing in the Photos app since the new update asks Windows users to shift to Clipchamp for creating videos out of images. However, many users still prefer slideshows, and thus, Windows has a suggestion for them. They can use the older version of the Photos app, Microsoft Photos Legacy.
+
+If the Photos App Slideshow option is missing in Windows 11, you have the following options:
+
+Microsoft Photos Legacy is the older version of the Microsoft Photos app. It retains all the older features but misses the new ones. However, you can use it to create and view a slideshow of your photos. This can be done as follows:Log in to your system using your Microsoft account. Once you install the application browse and open the images.Now, click on the 3 dots above the first image.Select Slideshow from the list. Alternatively, you can press F5.
+
+While Microsoft Photos and Microsoft Photos Legacy are excellent apps for viewing photos and creating slideshows/videos, etc., they have limitations. However, third-party photo-viewer applications have many more features, and you can use them instead.
+
+If you don’t want to use the Microsoft Photos legacy app, you can change the new Photo app and allow the Slideshow option. The procedure is as follows.
+
+Search for Command Prompt in the Windows Search bar.
+
+Click on Run as administrator in the right pane to open the elevated Command Prompt window.
+
+In the elevated Command Prompt window, copy-paste the following command and hit Enter:reg.exe add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Shell Extensions\Blocked" /v "{e2bf9676-5f8f-435c-97eb-11607a5bedf7}" /t REG_SZ
+
+Now, you will see the Slideshow option for the new Photos app.
+
+If you believe the Photos app is not working on your Windows 11 system, you can repair it as follows. Right-click on the Start button and select Settings from the menu.Go to the Apps tab on the list on the left-hand side.In the right pane, go to Installed Apps.Scroll down to the Microsoft Photos app.Click on the 3 dots associated with the application. Select Advanced Options.Scroll down to the Reset section and click on Repair.
+
+I hope this helped resolve your issue. Please let us know in the comment section.

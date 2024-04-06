@@ -1,0 +1,13 @@
+Node.js 7.x is the current stable release of the Node.js, which is actively maintained in parallel to Node.js 6.x Long-Term Support (LTS). At the moment, the latest version is Node.js v7.4.0, and you can find the Node.js v7.x Changelog here on Github.
+
+This guide shows a quick and reliable way to install the current Node.js 7.x version (including npm) on Ubuntu/Debian and CentOS, using the system package manager, in order to continually receive security updates without risking a major version jump with possibly breaking changes.
+
+This is the official way to install Node.js 7.x on Ubuntu, Debian, Linux Mint, Linux Mint Debian Edition (LMDE) and elementaryOS:
+
+The setup_7.x bash script basically just checks whether your operating system version is suppored and adds the corresponding repository (eg. https://deb.nodesource.com/node_7.x xenial InRelease).
+
+Node.js provides a script for CentOS/Fedora/RHEL based distributions, which checks your operating system and adds the corresponding RPM repository for yum, the standard package manager:
+
+The content of the script can be found here: https://rpm.nodesource.com/setup_7.x.
+
+For feedback, ideas and recommendations, contact me on Twitter.

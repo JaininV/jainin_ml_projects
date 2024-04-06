@@ -1,0 +1,25 @@
+Snowflake has launched the Manufacturing Data Cloud, which enables companies in automotive, technology, energy, and industrial sectors to unlock the value of their critical siloed industrial data by leveraging Snowflake’s data platform, Snowflake- and partner-delivered solutions, and industry-specific datasets.
+
+The Manufacturing Data Cloud empowers manufacturers to collaborate with partners, suppliers, and customers in a secure and scalable way, driving greater agility and visibility across the entire value chain.
+
+With Snowflake’s Manufacturing Data Cloud, organizations can build a data foundation for their business, improve supply chain performance, and power smart manufacturing initiatives in today’s digital-industrial world.
+
+Manufacturers face an increasingly complex and competitive landscape, where supply chain performance and factory efficiency are critical to success. Fragility has been exposed in supply chains and digitization continues to be a massive opportunity to drive visibility into the supply chain and factory floor.
+
+As manufacturers look to address these issues, their efforts around modernization and resiliency require data and a willingness to embrace industry 4.0 initiatives, in which data is collected from sensor networks and smart machines and filtered through artificial intelligence (AI) and machine learning (ML).
+
+Traditionally, these data sets, which encompass both operational technology (OT) and information technology (IT) data, have been siloed and difficult to access and integrate.
+
+The Snowflake Manufacturing Data Cloud enables manufacturers to address these industry challenges by:
+
+The Snowflake Manufacturing Data Cloud offers a single, fully-managed, secure platform for multi-cloud data consolidation with unified governance and elastic performance that supports virtually any scale of storage, compute, and users. It allows manufacturers to break down data silos by ingesting both IT and OT data and analyzing it alongside third-party partner data.
+
+Enable seamless data sharing and collaboration with partners for downstream and upstream visibility across an organization’s entire supply chain, coupling its own data with data from third-party partners and data from Snowflake Marketplace. By leveraging this data with SQL and Snowpark, Snowflake’s developer framework for Python, Java, and Scala, different teams can collaborate on the same data and build AI and ML models with confidence to forecast demand and enable critical use cases like supply chain control tower and spend analytics.
+
+Native support for semi-structured, structured, and unstructured high-volume Internet of Things (IoT) data in Snowflake enables manufacturers to keep operations running remotely by streamlining operations within and across manufacturing plants, while also leveraging shop floor data in near real-time to predict maintenance needs, analyze cycle time, improve product yield and quality, and meet sustainability goals.
+
+Take advantage of a rich partner ecosystem and industry-specific, prebuilt templates to drive innovation, reduce time to value, and build more valuable solutions.
+
+“Data has never been more critical as manufacturers embrace smart manufacturing initiatives and steer their companies into an increasingly digital-industrial world,” said Tim Long, Global Head of Manufacturing at Snowflake.
+
+“The Snowflake Manufacturing Data Cloud and our ecosystem of partners gives manufacturers and their suppliers access to the data, applications, and services needed to effectively manage end-to-end supply chains, create new shop floor efficiencies, and deliver better products and services to their customers,” Long concluded.

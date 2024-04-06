@@ -1,0 +1,7 @@
+It seems the @SushiSwap RouterProcessor2 contact has an approve-related bug, which leads to the loss of >$3.3M loss (about 1800 eth) from @0xSifu.
+
+If you have approved https://t.co/E1YvC6VZsP, please *REVOKE* ASAP!
+
+One example hack tx: https://t.co/ldg0ww3hAN pic.twitter.com/OauLbIgE0Q
+
+— PeckShield Inc. (@peckshield) April 9, 2023

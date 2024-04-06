@@ -1,0 +1,21 @@
+Here are the top medical news for the day:
+
+Lowering hormone doses in contraceptives may be feasible, suggests model
+
+A normal menstrual cycle involves multiple phases which are regulated by the endocrine system and influenced by levels of various hormones. The most contraceptive approaches, including pills, injectables and implants, involve the administration of exogenous estrogen and/or progesterone to block ovulation-the phase of the cycle in which an egg is released into the uterus.
+
+The dosage of hormones in common contraceptives could be reduced by as much as 92% and still effectively suppress ovulation, according to a computational model described this week in PLOS Computational Biology by Brenda Lyn A. Gavina, PhD student at the University of the Philippines Diliman, and her collaborators.
+
+Higher dose corticosteroids may increase mortality in hypoxic COVID-19 patients requiring only non-invasive oxygen therapy, shows study
+
+Compared with standard care that included low dose corticosteroid use, treating hypoxic COVID-19 patients needing only oxygen therapy or no breathing support with higher dose corticosteroids is associated with a 60% increased risk of death shows a new study to be presented at this year’s European Congress of Clinical Microbiology & Infectious Diseases (ECCMID 2023, Copenhagen 15-18 April), and published in The Lancet.
+
+This study conducted by the RECOVERY Collaborative Group and led by Prof Sir Peter Horby and Prof Sir Martin Landray (both of the University of Oxford, UK) had already identified that low-dose corticosteroids reduce mortality for patients with COVID-19 requiring oxygen or ventilatory support. Since May 2021, the RECOVERY trial has evaluated the use of a higher dose of corticosteroids in this patient group. However, in May 2022, the independent Data Monitoring Committee advised that this treatment assessment be stopped for those patients receiving oxygen alone or no breathing support. The trial continues to study the effects of high-dose corticosteroids for those needing non-invasive or invasive mechanical ventilation.
+
+Higher dose corticosteroids in patients admitted to hospital with COVID-19 who are hypoxic but not requiring ventilatory support (RECOVERY): a randomised, controlled, open-label, platform trial,The Lancet,MEETING ECCMID 2023
+
+Better radiation protection needed in female healthworkers to minimise  risk: Study
+
+Ionising radiation is a known human carcinogen and breast tissue is highly radiation sensitive. As such, there are concerns that regular exposure to ionising radiation during image guided procedures may be linked to a higher risk of breast cancer in female healthcare workers.
+
+Personal protective equipment (PPE) such as lead gowns are used to shield the body from harmful radiation during these procedures. But studies have shown that current radiation PPE provides inadequate protection to breast tissue as it leaves the area close to the armpit (known as the upper outer quadrant and axilla - the most common site of breast cancer) exposed.

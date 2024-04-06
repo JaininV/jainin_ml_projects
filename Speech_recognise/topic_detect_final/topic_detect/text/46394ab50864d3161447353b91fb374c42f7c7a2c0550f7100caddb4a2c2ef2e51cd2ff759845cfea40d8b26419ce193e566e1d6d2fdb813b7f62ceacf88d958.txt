@@ -1,0 +1,11 @@
+Tailored bases have flat parallel faces that function as ZOCALADOS models allowing precision OCLUSAL according to the original occlusal register of each person.
+
+1) Preparation of 3D models.
+
+2) Transfer the 3D model to the meshmixer or other program.
+
+3) Load the base move to the model (you can decrease or increase the size to be proportional to the model).
+
+4) Match the base with the model and export.
+
+5) Ready to print.

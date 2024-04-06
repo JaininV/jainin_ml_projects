@@ -1,0 +1,25 @@
+For all the friends of a more realistic play style. Some loads will be blown away by heavy winds when transported in open trailers or other vehicles.
+
+Version 0.0.7.0
+
+– moved tilt losses mechanic into separate mod “FS22_TiltLosses”
+
+– bugfix of crashing with particles on vehicles with fill units that have a capacity of 0
+
+– bugfix: vehicles with multiple fill units now shows particles for every fill unit
+
+The strength of this effect depends on the kind of load as well as on the fill level of the respective vehicle. A fully filled trailer will be much more affected by the mod than an only partially filled one. High velocities have an overproportional effect on the blowing strength. Closing the cover of trailers avoids the effect of losing loads. So if a vehicle has no cover, you should think about what to transport with it.
+
+You can see a particle effect when the load of the trailer is being blown away by the wind. For now the particle effect is static so to say. This means that it doesn’t change color according to the fill type. But it changes intensity according to the strength of the blowing effect. This gives you an impression of how much load you’re loosing when driving with open trailers. I will try to figure out in the future how to adapt the smoke color according to the fill type.
+
+New in this version:
+
+The mechanic that the load gets lost above certain tilt angles of the vehicle is now moved to a separate mod called “Tilt Losses” (FS22_TiltLosses). check it out if you like the idea ;-)
+
+I tried to fix a bug that causes crashing of the game when changing the configuration of some vehicles in the game. I found some issue with vehicles that have a fill unit configured which has a capacity of zero. I don’t know if that#s even allowed.
+
+I hope this fixes the issue for good. If not, I’m happy for any hint what might be wrong with the initialization of the particle system within this mod. Unfortunately I don’t know what else to check right now. because the game wouldn’t show any error message when it crashes :If you have issues with the mod causing the game to crash, try to ddisbale the particles in the mod config. Up to now this seems to solve the problem. Even though you cannot see the particles anymore.
+
+The package includes a .xsd file which describes the allowed configuration paramaters of the modDesc.xml.
+
+Important note: This is still work in progress! I’m thankful for any feedback about bugs, errors or improvement suggestions.

@@ -1,0 +1,35 @@
+Let’s face it, most streaming devices suck. Whether it’s a Roku, Fire TV Stick, or a Chromecast with Google TV. But there’s one (maybe two) that really stand out. One of those is the Apple TV 4K (the other is the NVIDIA SHEILD TV). Why is the Apple TV so great? One reason. Apple didn’t cheap out on the specs.
+
+When you look at a lot of these streaming devices, they come with pretty slow processors, sometimes less then a gigabyte of RAM and usually under 16GB of storage – most times it’s 8GB of storage. That results in a very poor experience. There are a couple of models that buck this trend, like the Amazon Fire TV Stick 4K Max and the Fire TV Cube. But then storage is still an issue with those.
+
+With Apple, they have two models, a 64GB and a 128GB model with the most recent refresh. Before this, it was 32GB and 64GB for the 4K model. That’s still loads more storage than you’d get on a Chromecast with Google TV. Even an NVIDIA SHIELD TV only comes with 16GB of storage, unless you opt for the “pro” model.
+
+Why does that matter? Apps. On my Chromecast with Google TV, I only have maybe 15 apps downloaded. And my available storage is in the hundreds of megabytes. Now keep in mind, while it does have 8GB of storage, only about 4.5GB is actually usable. The operating system uses up the rest of that.
+
+Now let’s move onto the actual hardware of the Apple TV. It looks great. It looks like a mini Mac Mini. It’s small and it’s black, so it’s easy to hide behind your TV or even next to it. Now yes, it’s pretty light on ports, but honestly, what more do you need besides power and HDMI? There is an upgraded model that has an ethernet port included.
+
+The remote on the other hand, went from being the worst remote in the industry, to the best. Previously, Apple had a touchpad at the top of the remote. So you used it like a touchpad on your laptop. Which absolutely sucked. It was also black, and pretty flat, making it super easy to lose it.
+
+Now, the remote has a proper D-pad, but if you still want to use it as a touchpad, you can do so. It’s also powered by USB-C, and has very few buttons. And that includes zero promoted buttons. If you use a Fire TV, Chromecast or a Roku, you’ll see dedicated buttons to random streaming services. Some of which might not even still be around – I have a Roku with a remote that has a button for PlayStation Vue. There’s no ads on this remote, nor in the interface of Apple TV. Which is another big plus for Apple.
+
+Currently, I have two TVs in my house. One is a Fire TV, and the other is an older Hisense Android TV that has my Apple TV connected to it. And, I hate using Fire TV. One of the big reasons is the interface, it’s also quite slow. But we already talked about that. The most annoying part with Fire TV is that you only have a handful of apps on the home screen. To get to your full apps list, you need to navigate all the way over and click on the apps list button. Which is fine if you only use like 5 apps. But if you use more, this can be quite annoying.
+
+So how does Apple TV do that better? Well, Apple basically brought over the iOS home screen to the TV. So all of your apps are right there on the home screen. There’s around 30 apps on my Apple TV, and it’s way easier to navigate to any of them than most of the apps on my Fire TV.
+
+Chromecast does this a bit better than Fire TV, but still far from perfect. Chromecast with Google TV and Fire TV also load up the top of the screen, and the bottom, with stuff it thinks you should watch. Apple doesn’t do that. It just lets you watch what you want. Now at the top, it will show you the shows and movies you’ve started watching. Making it easier to jump right back in.
+
+That means, no ads on your TV.
+
+Apple Arcade is available on the Apple TV, but that doesn’t mean it’s going to compete with the PlayStation 5 or Xbox Series X|S. But for those casual gamers like myself, it’s great. Especially since you can use third-party controllers like the DualSense from the PlayStation 5.
+
+You won’t buy the Apple TV for the gaming, but it’s here, and works well, which is really great.
+
+Additionally, other Apple services are available here. Like Apple Fitness Plus. So you can do a workout with your TV, versus using a phone, tablet, or another smaller screen.
+
+The catch? Well, you do need to have an Apple device to be able to use the Apple TV. Whether that’s an iPad or iPhone, or even a Mac. For some of us that use iOS and Android, that won’t be a problem. But for others it will be. I really wish Apple made this available for Android users a bit more, because it is such a great streaming device.
+
+The other catch is the price. The Apple TV isn’t really expensive, but when you compare it to the Fire TV Stick which starts at around $30, or Roku which also starts around $30 and the Chromecast with Google TV which is around $50. The Apple TV is $129. However, you do get eight times the storage at that price, which is really impressive.
+
+Apple also has a higher-end model for $149 which includes the Ethernet port as well as doubling the storage to 128GB.
+
+It’s not cheap, but it’s worth the price. I bought mine a couple of years ago and absolutely love it. As much as I want to love Google TV, the hardware is really holding it back. So Google, please up the specs in the Chromecast. Even if that means raising the price, it needs to be done.

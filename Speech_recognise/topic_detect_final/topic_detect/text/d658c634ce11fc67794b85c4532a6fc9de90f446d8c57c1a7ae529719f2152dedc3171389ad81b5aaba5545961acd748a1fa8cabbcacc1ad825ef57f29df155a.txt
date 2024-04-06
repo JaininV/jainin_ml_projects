@@ -1,0 +1,99 @@
+Latest:
+
+Virgin Media O2 reveals the most common spam texts blocked on its network
+
+EE BRINGS “MONSTER” 4G CONNECTIVITY TO A FURTHER 1,500 RURAL COMMUNITIES AS PART OF THE SHARED RURAL NETWORK
+
+Putting words on the internet since 1999
+
+Virgin Media O2 reveals the most common spam texts blocked on its network
+
+EE BRINGS “MONSTER” 4G CONNECTIVITY TO A FURTHER 1,500 RURAL COMMUNITIES AS PART OF THE SHARED RURAL NETWORK
+
+Virgin Media O2 reveals the most common spam texts blocked on its network
+
+‘Hi Mum/Hi Dad’, fake delivery and bank payment text messages top the list of most common fraud texts blocked on Virgin Media O2’s network in March.
+
+The company’s firewall technology, which is constantly adapting to new scams, has prevented tens of millions of texts from reaching customers in 2023 alone.
+
+The telecoms company is urging customers to forward suspicious texts to 7726 to protect themselves and others from fraudsters.
+
+After analysing and blocking tens of millions of malicious and fraudulent text messages targeting its customers, Virgin Media O2 has today shared the most common spam text trends to help warn customers what to look out for and avoid.
+
+The company’s firewall technology, which uses machine learning to identify new spam attempts, has detected and prevented hundreds of variations of text messages from reaching customers as well as blocking fraudster’s mobile numbers to stop customers being targeted again.
+
+With the top five types of scam texts accounting for more than 95% of all scam messages blocked on Virgin Media O2’s network, the operator is warning customers to pay particular attention and watch out for these frequently sent frauds.
+
+In March, messages from fraudsters posing as someone contacting their mum or dad from an unknown number, widely known as ‘Hi Mum / Hi Dad’ spam texts, was the most common scam message blocked by the network.   This sees scammers claiming to be using a new or friend’s mobile number because their phone is smashed, lost or stolen.
+
+This was followed by fake package delivery texts, where fraudsters purported to be from some of the UK’s biggest delivery companies and tried to get customers to visit a scam website to rearrange, add more detail or pay for a ‘delivery’ in the hope of gaining customer bank details.
+
+Sham failed bank or payment notifications were also common. This is where fraudsters send texts purporting to be from their bank and claiming there is an issue with a payment, an account has been accessed or a new payee had been set up.
+
+Rounding off the top five most common blocked scams are cryptocurrency and investment scams, where fraudsters claim people can make significant returns if they visit a website or join a phishing social networking group and dodgy debt write-off texts, where fraudsters claim individuals could write-off bills if they visit a fake government website.
+
+Whilst millions of texts and numbers have already been blocked, with scammers constantly evolving their methods and looking for new ways to gain personal information from customers, Virgin Media O2 is urging all mobile customers to report suspicious texts for free by forwarding them on to 7726.
+
+By forwarding on scam texts, customers can protect themselves and others from fraud. The telecoms company is not only able to investigate and block the mobile numbers used by fraudsters, but also use the scam texts to help support improvements to its firewall technology in future, making it easier for new trends to be identified and shut down faster.
+
+Liam Rawsthorne, Head of Fraud at Virgin Media O2 said: “We’re working relentlessly to stop fraudsters in their tracks, helping keep our customers safer by blocking millions of spam texts and calls every month.
+
+“The five most common texts blocked on our network show just how sophisticated scammers are, with these criminals always looking for new ways to reach their victim by posing as the people and businesses we trust.
+
+“Taking the time to stop and think before calling back or clicking through can make all the difference and, by forwarding on scam texts to 7726 for free, you can help spot new trends and tricks, so we can build even stronger defences.”
+
+Last year, Virgin Media O2 prevented more than £70 million worth of fraud, including through introducing additional security measures to stop online scammers conning victims out of high-end handsets.
+
+TOP FIVE MOST COMMON TEXTS BLOCKED ON O2’s NETWORK – MARCH 2023
+
+Example texts blocked:
+
+·       ‘Hey mum I’ve smashed my phone, please message me on this number [NUMBER CHANGES] urgently x im texting of a friends phone.’
+
+·       ‘Hi Mum I’m texting you off a friends phone I’ve smashed mine and their phones about to die, can you message my new number asap it’s [NUMBER CHANGES] x’
+
+·       ‘Hi mum I had an incident today and my phones broken. please message me on this number on [NUMBER CHANGES] when you get this. Urgently xx’
+
+·       ‘Hi Dad, I’ve got a new number you can delete my old one 07925260385 Text me on it please’
+
+Example texts blocked:
+
+·       ‘Evri: Your order 2A728GB is waiting at your Iocal depot, as nobody answered. To book a sIot, visit: hxxp://evri-local-depot.com/arrange’
+
+·       ‘RoyaIMaiI: Sorry we missed you today, Your package has been placed on hold, Your able to select a deIivery date, via: hxxp://redeliver-uk.com’
+
+·       ‘DPD: Your package DPD89731002 has a £2.99 unpaid shipping fee, to pay this now please visit: hxxp://uk.mydpdtrackdelivered.online/’
+
+Example texts blocked:
+
+·       ‘SatanderSecure: NEVER share this code, even with staff. OTP 935013 for transaction of £485.99 to Argos. Please call [NUMBER CHANGES] if this was not you’
+
+·       ‘Your Apple Pay has been suspended due to suspicious transactions please visit hxxp://Securityauthentication.net to restore it’
+
+·       ‘LIoyds: We have successfully received your request to add a (payee) on 27/03. If this was not you contact us immediately on [NUMBER CHANGES]’
+
+Example text blocked
+
+·       ‘Get Smarter with CGPTB – the AI-powered tradobot that delivers real-time insights and automated trade alerts. For info.  hxxp://6clicke.com/’
+
+·       ‘Invite you to join the (BTC/ETH) discussion group to teach you how to earn 1000-5000USDT in the encryption market. Click to join   hxxp://t.ly/HAQ2o’
+
+·       ‘Quant-AI invites you to achieve financial freedom on autopilot. Don’t miss your rare spot. Make 509 GBP Daily hxxp://acsu.site/eqomj  STOP to: 54857’
+
+Example texts blocked:
+
+·       ‘Khuram Send 6, you are eligible to use a government write-off program to pay off your debt. Click on hxxps://www.debtresolve.co.uk for FREE pack to BL2 3DG’
+
+·       ‘Adrian , Records show you can write off up to 75% of your Debts. Freeze Interest/Legal Action. Click on hxxps://www.debtresolve.co.uk for FREE pack to L66BY’
+
+·       ‘New Law means you can now write off debts your struggling to repay. Freeze Interest/Fees to Apply reply YES’
+
+Http:// has been changed to hxxp in order to ensure links to fraudulent sites are inoperative.
+
+The post Virgin Media O2 reveals the most common spam texts blocked on its network appeared first on Virgin Media O2.
+
+EE BRINGS “MONSTER” 4G CONNECTIVITY TO A FURTHER 1,500 RURAL COMMUNITIES AS PART OF THE SHARED RURAL NETWORK
+
+Next Week on Xbox: New Games for March 20 to 24
+
+We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it.

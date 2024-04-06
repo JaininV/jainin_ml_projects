@@ -1,0 +1,51 @@
+Good morning, good day, and good evening. Welcome back to The Morning Cup. It’s your weekly recap of the latest in crypto news and your start to the week, no matter where you are. Don’t worry, we’ve selected just what you need to stay up-to-date, so you won’t spend time pouring through the news you don’t need, only the news you care about.
+
+As of yesterday, users can make use of our new Spot Grid Trading feature! We’re thrilled to be able to give you all another tool in your trading toolbelt. With Spot Grid Trading, you can create grid strategies using system-recommended parameters and manually enter grid parameters to create strategies. Check out our help center for more information on the new feature.
+
+BTC has been rather flat this past week, failing to crack $31,000. Even as a sort of retracement after it regained $30K remains to be seen, many are still wary of a drop amid regulatory uncertainty in large economies like the US. Around the world, other indicators like inflation rates seemed to ease in places like Canada. In the US, CNN reported that the inflation rate fell to its lowest levels since 2021, which may spell a more positive outlook for crypto traders.
+
+The top gainers for the last 24 hours on Poloniex are PEPE/USDT, XEN/USDT, PSI/USDT, FTT/USDT, and TRR/USDT.
+
+You, me and the SEC
+
+Few national institutions have an outsized effect on the overall crypto market equal to that of the US Securities and Exchange commission. Throughout the past couple of years, in a litany of litigation, the SEC has made its presence very well felt. From its headline-making ongoing case with Ripple to its recent crackdown on staking products offered by the likes of Krake, the regulatory body has been a source of ire and concern for many industry participants. Gary Gensler, current head of the SEC, has become known for his strict outlook on crypto, although he recently made headlines for refusing to call ETH a security. One of the more recent developments saw the SEC suing Bittrex, a once dominant exchange that has since left the US. This lawsuit is following a similar pattern. That is, the SEC alleges that Bittrex operated a securities exchange without proper registration.
+
+All this contention could be summed up in a lot of ways, but one word might prove apt: dissonance. That is, many crypto proponents, exchanges especially, contend that they are actively trying to conform to US regulations. They say that even though they’ve tried to communicate, the SEC is not giving clear instructions on how to be compliant. The SEC however, feels that it has given all the instructions it needs to. Quoting Gensler in his statements at a congressional hearing on the 17th, “It’s not a matter of a lack of clarity. I think [crypto] is a field that, in the main, has built up around non-compliance and that’s their business model. They have chosen, even though it’s not the law, to be non-compliant.” A very clear statement on how the SEC chair feels about crypto. Another point of dissonance here is the SEC’s application of something called the Howey Test, which is what it uses to determine if something is a security.
+
+And of course, this means that the Howey test is what the US SEC is using to determine whether cryptocurrencies are securities, which is why we read so much news about exchanges that operate in the US getting sued by the SEC for operating unregistered securities exchanges. And this sort of judgment is understandably causing a lot of friction with exchanges like Coinbase, which announced today that it is planning to go to court with the SEC. Coinbase, along with many others, has felt that the SEC has not given proper clarity on how they can be more in line with the regulatory body, and case law, says its CEO Brian Armstrong, may be the only way to get that clarity. What this could mean for companies like Coinbase that operate in the US, as mentioned recently by Armstrong, is that they move abroad. However, these sorts of decisions, at least from companies as big as Coinbase, could be years away.
+
+ETH withdrawals see long wait as the crypto hits a high
+
+Since the Shanghai upgrade took place last week, validators have been able to withdraw their staked ETH. The welcome upgrade comes after the biggest network for decentralized applications and second biggest crypto by market cap shifted to a Proof of Stake consensus engine with the deployment of its Beacon Chain on its mainnet net- an event known as The Merge. This past week, withdrawals actually built up a wait time for blocks to confirm such requests.
+
+When validators choose to fully exit, they must go through a process to do so. In total, this process is currently taking ~17 days. The biggest contributor to that time is the exit queue, which sits at around 11.5 days, according to reporting by Coindesk. This has not stopped ETH from being on the rise however. Ethereum’s native token hit an 11-month high after the upgrade as sentiment seems to be very positive, which can be attributed to the smoothness of the upgrade process.
+
+Meanwhile, it is interesting to note that Kraken, which as aforementioned was forced to shut down its staking program, makes up around 43% of withdrawal requests currently. It is believed that over time, the amount of staked ETH will see an increase, auguring well for Ethereum and the greater ecosystem.
+
+Last week, on April 12, Ethereum’s long awaited upgrade, Shanghai/Shapella went live, letting users withdraw their staked ETH. The upgrade is a welcome achievement to many as the network continues its march towards a more scalable future. The upgrade went smoothly, something that received praise from the crypto community at large. Prior to its launch, around 18 million ETH had been staked. This figure had been increasing in anticipation of the upgrade.
+
+But what lies ahead for Ethereum? Following its trend towards better scalability, future upgrades include things like sharding, which is where smaller chains known as “shardchains” process transactions without containing the entire network ledger, taking a lot of stress off the network and allowing it to achieve a much higher transaction rate, also referred to as TPS. In this upgrade, Ethereum looks to not only heighten efficiency, but also make gas fees much lower and facilitate a more hospitable environment to DeFi applications, which are currently plagued by high fees.
+
+If you missed our earlier articles about the Shanghai upgrade, be sure to check ’em out!
+
+Shanghai is LIVE! Here are 5 tokens to look out for after the upgrade
+
+This week we covered DEX AMM Ramses Exchange, which has unique tokenomics that you should check out in our article What is Ramses ($RAM)?
+
+This is what Poloniex’s week looked like
+
+Our recap of ongoing campaigns that YOU can get involved in!
+
+Poloniex Margin Trading Competition Round Two: Come and Win from 20,000 USDT!
+
+Join the Online Web3 Carnival with Friends and Share $50,000
+
+ETH Shanghai Upgrade Earn up to 6.5% APR with ETH Flexible Savings
+
+And that about covers it for this week! Curious about our campaigns or upcoming events? Give us a shout in our Telegram channel- https://t.me/PoloniexEnglish
+
+Is there anything you’d want to see us cover in our newsletter? Make sure to comment on this Medium article! Just want to show your appreciation? Smash that clap button and give a round of applause👏
+
+Thanks for spending some time with us as we went over what’s going on. And wherever you are, from the team here at Poloniex, good morning, good day, and good evening!
+
+☕️The Morning Cup: You, me, and the SEC was originally published in The Poloniex blog on Medium, where people are continuing the conversation by highlighting and responding to this story.

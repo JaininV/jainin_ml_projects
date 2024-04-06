@@ -1,0 +1,197 @@
+The Oil Crisis in the fall of 1973, followed by a recession, affected government, business, and society the world over. A period of general prosperity in the 1950s and 1960s in the wake of WW II had provided good business conditions, particularly in the newly ascendant USA.
+
+However, towards the end of the 1960s, a period of low to no growth and inflation in many countries set in and became known as Stagflation. Companies struggled and, in particular, this was the beginning of the end for the Detroit auto manufacturers that had been so dominant in the preceding decades. However, not all auto makers struggled equally. The Toyota Motor Company sustained greater earnings were in 1975, 1976, and 1977 than at other companies.
+
+Prior to the oil crisis, Toyota’s Production System was of little interest. When rapid growth stopped, however, it became very obvious that a business could not be profitable using the conventional American mass production system that had worked so well for so long. For decades, American auto manufacturers had cut costs through mass production. When economic conditions slowed, all the investment in big fixed costs became a burden.
+
+They had taken on higher fixed costs for lower variable costs. As long as they continued to grow the top line, this was great. Their margins improved over time and they looked like better and better businesses.
+
+However, that sword cuts both ways – as the oil crisis and Stagflation of the 1970s set in and growth stalled, their margins compressed. You would think that this would just require them to restructure but that didn’t seem to work.
+
+Ultimately, company culture is hard to change and Toyota’s culture was more well-suited to the rapidly changing times. A key reason for this was Toyota’s culture of Kaizen: continuous improvement.
+
+It is an obvious statement: companies should be continually improving.
+
+A number of careful studies have now demonstrated that companies making a serious commitment to the disciplines and methods associated with Toyota outperform their competitors. Yet, very few companies actually use it effectively.
+
+The inability of most organizations to reap the full benefit of these innovations has little to do with the specific improvement tools or software selected.
+
+The problem is ultimately cultural and systemic, one that is created by the interaction of tools, equipment, workers, and managers. It is a complex and emergent phenomenon.
+
+Companies that are able to successfully adopt a culture and practice of Kaizen have the ability to establish a dominant position in their market. Those that don’t are likely to fall into decline.
+
+When done correctly, Kaizen humanizes the workplace, eliminates unnecessary work, and empowers people to perform experiments on their work using the scientific method and how to learn to spot and eliminate waste in business processes.
+
+In an effective company, people at all levels of an organization participate in kaizen, from the CEO down to janitorial staff.
+
+The commonly cited benefits of implementing Kaizen are things like:
+
+* Greater team satisfaction and reduced turnover – team members are empowered to have autonomy and control over their work and are able to develop new skills which research shows improves satisfaction.
+
+* Improved customer satisfaction – Kaizen focuses on maximizing the throughput of value to the customer, the question is always how can processes or practices be improved to accomplish that.
+
+* Lower costs – A key component to maximizing throughput of value to the customer is to eliminate waste which tends to result in reduced costs that can either translate to customer savings or increased margins (or some combination of both).
+
+However, the real goal is somewhat more subtle: how do we more effectively deliver value for our clients? how do we eliminate waste?
+
+Kaizen is a mindset, a philosophy, not a list of action items you can mindlessly implement. It is about building a culture where all employees are actively engaged in suggesting and implementing improvements to the company. In truly effective companies, it becomes a natural way of thinking for both managers and front line employees.
+
+The performance of any process can be increased in one of two ways:
+
+Work Harder – Dedicating additional effort or resources working on the current process (e.g. work overtime)
+
+However, the two activities do not produce equivalent results nor do they have equivalent payoff profiles over time, and understanding the difference is important to make intelligent decisions about scaling a company.
+
+Time spent on process improvement typically yields the more enduring change but takes longer to work.
+
+We can think of process improvements as yielding an asset called “capability,” a stock represented with a rectangle in the diagram below.
+
+A stock is a measure of a system’s current state or level, while a flow is a measure of the rate at which the system changes over time.
+
+In the context of a bathtub, a stock is how much water is in the tub, a flow is the rate at which water is entering or leaving the tub.
+
+In the context of a business, a company’s inventory of goods would be considered a stock, while the rate at which the company sells those goods would be considered a flow.
+
+The level of capability of a given process, department, or company is a result of the flows coming in and going out of it.
+
+* The flow coming in is Investments in Capability which is driven by Time Spent on Improvement – If you spend time working on making a process or system better, the rate at which the capability accumulates goes up – the process works better.
+
+* The flow going out is Capability Erosion. Over time, processes decay and entropy sets in. Software has to be maintained, external business conditions require adapting to, and growing companies need new capabilities to keep growing.
+
+This is an important distinction:
+
+* Doing work as existing processes dictate is a flow that doesn’t affect future capability.
+
+* Improving the process increases the future capability, the stock, making it easier to do those processes in the future.
+
+The combination of time spent working and capability results in the actual performance of a business process.
+
+Now that we have a sense for the dynamics, let’s look at the two ways to improve actual performance.
+
+The Work Harder loop is pretty straightforward. A process isn’t producing the desired results so there is a performance gap between the desired performance and the actual performance. This creates pressure to improve. To improve it, you spend more time working on it and short-term performance improves.
+
+Consider an onboarding process for a B2B company that I worked on. The company was growing and had lots of new clients that wanted to get onboarded. The onboarding process was fairly complex and required filling out a few lengthy legal documents. Initially, we were just sending blank pdfs as email attachments for the clients to complete.
+
+The impact of this was that sales conversions weren’t great – asking people to fill out long legal documents manually is a terrible user experience and so some people that wanted to use the product weren’t willing to go through the tedium required to get onboarded. This created a performance gap – we wanted better conversions than we were getting.
+
+The short-term solution was to work harder. Instead of asking the client to complete the legal document, we created a simpler online form that collected the relevant information and then we manually pre-populated the form for them, i.e. doing manual data entry on the customer’s behalf.
+
+This worked more or less immediately. Sales conversions increased. However, we knew we were stuck in a deteriorating loop. More clients meant more data entry. The more successful marketing and sales were, the more disadvantage operations became. This is the loop most companies get stuck in. It doesn’t seem problematic at first, but it will eventually catch up with you.
+
+Working harder without improving capability via investments in process improvements means you just have to work even harder the next time. The process deteriorates resulting in higher error rates, slower completion times, or both.
+
+A perfect example of how this can go wrong is Zenefits. Zenefits helped startups and small businesses find insurance quotes and manage employee benefits in one place. It was, at one point, the fastest growing software company in history until it collapsed with large layoffs and was ultimately sold off.
+
+Fundamentally, my view of what went wrong with Zenefits is that I made a decision very early on that we were gonna scale the business faster than our engineering team could really support it. And so, we thought, look, what we’re gonna do is not everything’s in place yet, not everything’s fully automated.Companies are doing all this admin work; we’re just gonna do it for them. And it was a classic YC do things that don’t scale, which is absolutely the right way to start a company. The corollary to that, though, is eventually, you have to scale them.”
+
+The initial decision to solve the performance gap problem by working harder was actually the right one. When the company was small and it had fairly few customers, the biggest risk is “will anyone pay us for this” and so just doing things manually makes a lot of sense.
+
+However, they got stuck in the Work Harder Loop and never transitioned to the Work Smarter Loop.
+
+So, what happened is we scaled out this manual process. We had a ton of people doing things manually behind the scenes, and that led to a series of problems, and one of them is it actually made it a lot harder to automate things, because once things are being done manually at scale, it’s incredibly difficult to go back and automate it. The program’s too complex, it’s too hard to build software to replace what people are doing. And the second thing was that, when we were doing things manually, there’s always an error rate around that.”
+
+They were stuck in the working harder mode which led to a deterioration of capability (harder to automate, and more errors). This eventually compounded and led to major problems at the company ending with layoffs and being fined $7 million by California’s insurance regulator for allegedly disobeying insurance laws.
+
+The alternative approach to improving performance is the Work Smarter Loop.
+
+Instead of working harder to close a performance gap, the working smarter loop relies on improving the capability of the process so that there is more capability. Here, managers respond to a performance shortfall by increasing the pressure on people to improve capability.
+
+This can take a lot of shapes: they may launch process improvement programs, automate manual processes, or invest in better training.
+
+For the onboarding process, we used tools like Zapier, Airtable and Formstack to build an automated solution that took the information input into the form and mapped it to the correct legal document. We replaced the manual data entry process we were doing with a more automated solution, what Toyota would call autonomation – “intelligent automation,” where the worker has the authority to stop the process when an abnormality occurs.
+
+Ultimately, this meant both a higher quality and faster service for clients and significantly reduced internal workload. Instead of doing data entry ourselves, we left that to the computers that are both faster and less error-prone. The next time we had a large influx of new clients, our system was able to accommodate them getting on boarded quickly without consuming more internal resources.
+
+Despite its obvious benefits long-term, there are two situations where working smarter doesn’t make sense.
+
+One is when you have something urgent. Working smarter usually does mean there is a substantial delay between investing in improvement activities and reaping the benefits.
+
+The more complex the process is, the longer it generally takes to improve. The improvements are also uncertain. Investing in training or building an automated process may not work as well as hoped or at all.
+
+The Working Smarter Loop generally has a negative ROI initially – you invest time that could be spent just doing the process into improving it.
+
+Working Smarter doesn’t solve problems that are faced immediately. If you have a big deadline that you need to hit in a month then a process improvement that takes six months to show positive ROI does you no good.
+
+The other situation where process improvement doesn’t make sense is for one-off tasks.
+
+One-off tasks are not worth optimizing, you will never do it again to reap the benefits of the optimization. Something you are doing every day should definitely be optimized. My rule of thumb is that anything you expect to do annually or more frequently is worth at least making a SOP.
+
+A process improvement has to be weighed in terms of how long it takes to improve and how long it will be in use.
+
+The equation is this:
+
+(expected improvement4) x (expected length of time that process will continue in use)
+
+Resources5 required to improve the process
+
+To use the onboarding as an example, let’s say we were onboarding 10 people per month and it took 5 hours per person or 50 hours.
+
+I estimated that we could reduce that to 2 hours per person or 20 hours per month. For easy math, assume a $100k salary of the person doing the onboarding (roughly $50/hour) and you save 30 hours * $50 per month = $1500/mo or $18,000 per year.
+
+I estimated that we could also increase our conversions by 20% by making the process easier for clients. This would increase the number of new clients per month from 10 to 12. Assuming a lifetime value (LTV) of $5,000 per client, that’s an additional $10k in LTV/mo or $120k/year.
+
+So your pay back in year 1 is ~$138k and the cost to implement it was probably about $25k in time and resource cost. So it’s a 5x ROI in year 1. And I expected the process to be in use for at least 3 years which increases it to a 15x ROI over 3 years.
+
+This is ignoring all the other benefits like what can be done with the excess time freed up, people’s job satisfaction not doing menial tasks and the like.
+
+In general, it should be fairly obvious that improving a process will be a positive ROI thing. Even if my math was overstated in the above example and it just ends up being a 5x or 10x ROI then that’s still great.
+
+If you have to get out a spreadsheet to figure it out and you calculate a 2% improvement then it’s probably not worth it if you are a small to medium sized business or startup.
+
+There is a (probably apocryphal) quote attributed to Einstein that “compound interest is the most powerful force in the universe.” Operations, like companies, economies, and species either progress or decline over time.
+
+The Work Smarter Loop compounds positively. An organization that successfully improves its process capability will experience rising performance. As the performance gap falls, workers have even more time to devote to improvement, creating a virtuous cycle of improved capability and increasing attention to improvement.
+
+The smarter you work, the smarter you can work in the future. However, it takes time for improvements to kick in. The initial impact of working smarter is usually a decrease in productivity.
+
+The Work Harder Loop compounds negatively. If managers respond to a throughput gap by increasing work pressure, employees increase the amount of time spent working and cut the time spent on improvement. Capability begins to decay. As capability erodes, the performance gap grows still more, forcing a further shift towards working harder and away from improvement.
+
+Cutting investments in maintenance and improvement in favor of working harder erodes process capability and hurts performance.
+
+However, capability does not drop right away. It takes time for process effectiveness to depreciate. In the meantime, the decision to skimp on improvement boosts the time available to get work done right now.
+
+The more you use Work Harder as a solution, the more you will also have to use it in the future. However, it works right away. The initial impact of working harder is usually an increase in productivity, the negative compounding doesn’t kick in for a bit.
+
+The reason process improvements are hard to get done is this initial decline in productivity. The immediate feedback is bad so you have to commit to seeing it through. It’s analogous to eating healthy or going to the gym.
+
+Eating pizza and sitting on your couch is initially way more rewarding than eating a salad and going to the gym. However, it compounds negatively. The more you do it, the worse you feel and less able you are to do other things.
+
+Most days I have to drag myself into the gym or to ride a stationary bike, but I’m happy in the long run when I do it somewhat consistently. It compounds positively. The more you do it, the better you feel and you’re able to do other things, live longer, etc.
+
+Kaizen is a habit just like going to the gym or eating healthy. It starts off slowly but it creates a positive compounding loop. It becomes a part of the culture to deal with performance gaps by improving the system and creating new capabilities.
+
+In the same way, it’s a lot harder to get back in shape once you are really out of shape, it’s really hard to change later on because it is self-reinforcing. However, that also means that once you get people in the habit of making things better, it is also self-reinforcing.
+
+While the correct long-term solution is to devote more time to process improvement, it’s important to acknowledge that, in practice, you probably can’t work smart all the time nor do you want to.
+
+If you’re starting a new business, then it doesn’t matter how efficient your processes are if you don’t have any clients or customers.
+
+The correct lesson is that you need to both work smarter and harder at varying points to increase the long-term returns of a company.
+
+In my experience, companies that get this balance right tend to be both resilient and profitable. Using the two together is better than either alone.
+
+It’s at least theoretically possible to focus so much on process improvement that you don’t capitalize on opportunities that are time-sensitive.
+
+However, the most common way to mess this up (by far) is to always focus on working harder without ever investing in improvement capability. The most common result is high stress levels and generally declining margins. This often leads to turnover and ineffective culture which further erodes capability. You get stuck in a negative feedback loop that slowly kills the company or, at best, severely hampers its growth.
+
+Former president of Toyota, Fujio Cho, tells the story of a very talented manager, Russ Scafede, that Toyota hired away from General Motors to run one of their plants. After the first month, Cho remarked to Scafede that he had not shut down the assembly plant once in a whole month and that this was a bad thing.
+
+If you are not shutting down the assembly plant, it means that you have no problems. All manufacturing plants have problems. So you must be hiding your problems. Please take out some inventory so the problems surface. You will shut down the assembly plant, but you will also continue to solve your problems and make even better-quality engines more efficiently.”
+
+Cho said one of the biggest issues Toyota had expanding into the United States was getting group leaders and team members to stop the assembly line. They assumed that if they stopped the line, they would be blamed for lost productivity. Cho said it took a few months to re-educate them that it was a necessity to stop the line if they wanted to continually improve the process.
+
+Almost every business has some seasonality or cyclicality associated with it. Many B2C businesses tend to have peak seasons in Q4 and the holidays and most B2B businesses have some natural ebb and flow depending on their industry and growth trajectory.
+
+Knowing this, you can correctly structure things. In the onboarding example, there was a few-month period with a large influx of customers which was solved by the working harder loop. Everyone was at 110% for a couple of months.
+
+However, when that cooled down, we transitioned to the working smarter loop and started to build out automations and improve the processes.
+
+When a manufacturing line serving an important customer goes down, a manager is unlikely to react by sending the work team to training in reliability improvement. Instead, that manager is going to get the line running and push for overtime until the shipment is out the door. Of course, when the line is back running and the product has been shipped, the manager should return attention to the improvement activities that will prevent future breakdowns, and make up for the improvement time that was lost during the crunch.
+
+To grow a company sustainably, you can’t grow faster than the delays in these process improvements allow or you end up like Zenefits where you eventually collapse under the gravity of your own inefficiency.
+
+If you are never working at more than 80% capacity, then you are probably leaving money on the table and you could be growing faster or more profitably.
+
+“Rebalancing” between working harder and working smarter is optimal in the long run. You need to build capability when there are seasonal or cyclical lulls in production and then you need to be able to draw on those capability reserves when there are spikes in demand.
+
+Last Updated on April 5, 2023 by Taylor Pearson

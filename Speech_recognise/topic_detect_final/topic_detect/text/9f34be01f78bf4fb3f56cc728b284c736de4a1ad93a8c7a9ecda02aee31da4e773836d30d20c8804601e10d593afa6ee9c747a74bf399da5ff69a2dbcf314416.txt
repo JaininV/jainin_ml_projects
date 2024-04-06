@@ -1,0 +1,47 @@
+Everyone knows about Google Photos, but did you know that the company has another photo app called Google Gallery? Use it with Photos or on its own on your Android phone.
+
+At one time photographs were captured on film. We would have to remove it from the camera, send it off to a company or take it to a shop to be developed and have the photos printed. It cost a lot of money and took weeks.
+
+These days photos are easy to take, store and view, and they are free, so we take them at every opportunity. People have hundreds or even thousands on their phones.
+
+The main problem with digital Photos is organising them. There are too many to manage yourself manually and you often end up scrolling through an endless stream of snaps looking for the one you want to show someone.
+
+What if there was an app that automatically organised them? Google Gallery aims to automatically manage and organize your photo library for you. This Android app could be just what you need on your phone.
+
+Google Gallery and Google Photos are two different apps. Google Photos is an online backup service that copies photos on your phone and to your Google online storage. Google Gallery is an offline photo manager that organizes photos on your phone.
+
+Both Photos and Gallery can be used on their own or together because they work in different ways. One works online and the other works offline.
+
+When you take a photo with a phone, it is saved to the phone’s storage, probably in the DCIM folder. Your phone will have an app for viewing saved photos and on Samsung phones it is simply called Gallery. It enables you to browse your photos and manually organize them into albums.
+
+It is a tedious and time-consuming task to manually organize photos into albums. Many people do not bother organizing them either because they don’t know the phone’s Gallery app can do this or they don’t have the time or inclination to take on such a mammoth task.
+
+Google Gallery enables you to browse and view photos stored on your Android phone like the built in Gallery app, but it goes further. It automatically organizes photos into albums without you having to do anything.
+
+Install Gallery from the Google Play Store and open it. The Photos tab shows your photos feed, which consists of thumbnail images of your photos in date order with the newest first.
+
+According to Google, each night Gallery takes a look at your photos and organizes them into groups. Open Gallery the next day and you might see groups of photos containing people, selfies, nature, animals, documents, and videos. They look like folders or albums.
+
+What you see in Google Gallery depends on what photos you have taken, and partly where you live in the world. Some places have privacy laws that prevent facial recognition, so you might not see groups of people or selfies. If you have photos of your pets, you could see a group of animal photos, but if you never photo animals you won’t. Everyone’s Gallery will therefore be different.
+
+Mine has a Nature album or group in which there are landscapes and other photos of nature.
+
+When you are searching for a particular photo, it will be easier to open the appropriate Google Gallery group and find it, instead of swiping through an endless stream of photos. Photos can be marked as a favorite and one tap shows them all. This is another quick and easy way to find photos.
+
+Google Photos organizes photos into albums, but it does so only with online photos. Google Gallery does everything on the phone, which is useful if you don’t want Google to store them online and don’t want to use your phone data uploading them.
+
+Google Photos has AI that creates impressive albums, stories and special effects from your photos. Gallery does,  but it does not go as far as Photos. However, it does create a few interesting groups of photos. I have Nature, Screenshots, Documents and Videos.
+
+Gallery is a small and lightweight app that is one tenth the size of Photos and this makes it useful for budget phones and older phones with limited specifications. One downside is that photos are only on the phone and are not backed up. Lose or break your phone and you will lose the photos if you have not copied them elsewhere for safekeeping.
+
+Some basic photo editing tools are built into Gallery. Open a photo, tap the Auto button and the app automatically enhances the photo, applying whatever enhancements it thinks are necessary. You can flip between the original and enhanced photos and choose which one to keep.
+
+Tap the Edit button and there are rotate and crop tools. Rotate is only available in 90 degree increments and it would be more useful if you could rotate by degrees. We often accidentally take photos where the horizon is sloping and it would be useful to be able to straighten them. As it is, you can’t.
+
+There are 15 color filters and four black and white filters. The color filters only change the photo a little, but they are useful for correcting lighting, contrast and exposure, rather than for applying visual artistic effects.
+
+The filters have subtle effects on the saturation and lightness and they enable you to enhance a dull photo. Edited images are saved as a copy, so you always have the original.
+
+Google Gallery is good if you don’t want to use Google Photos. It is a small and lightweight app that you may prefer to the gallery app bundled with your phone, like Samsung Gallery for example. It will not use phone data and it keeps everything on the phone.
+
+Gallery organizes your photos automatically, but it is not as clever as Photos, which is smarter, has more features and backs up your images online. I prefer Photos, but the Gallery app is one tenth the size and works offline, which may make it the preferred choice for some people. Another benefit is that you won’t need to pay for Google One storage, which is essential if you take lots of photos.

@@ -1,0 +1,153 @@
+When it comes to advertising strategies, an important question that marketers ought to ask themselves is:
+
+“How do I make my brand stand out online amid the competition?”
+
+With how digitized our world is, online advertising has become increasingly saturated. It’s up to you, as the marketing mind of your company, to position your brand amongst your competitors and penetrate the online market.
+
+In this post, we’ll cut to the chase for you: Here are six of the best-proven advertising strategies you can use to model your digital marketing plan.
+
+An online advertising strategy is a plan that outlines how a company will use digital channels to promote its products or services to its target audience. The goal of an online advertising strategy is to reach the right people, at the right time, with the right message, and to convert those individuals into customers.
+
+Effective advertising strategies require a solid understanding of your target audience, defining your advertising objectives, selecting the appropriate digital channels (such as social media, search engines, email or display advertising), creating persuasive ad content, and measuring the success of the campaign.
+
+A good strategy is one that is data-driven, adaptable and focused on achieving measurable results. The ultimate goal of an advertising strategy is to increase brand awareness, generate leads and drive sales.
+
+Dive Deeper: 4 Ways to Stay Ahead of the Game: The Future of Digital Advertising in 2023 & Beyond
+
+The options for online advertising strategies in marketing are constantly growing. Choosing the right platform(s) is crucial to the success of any online advertising strategy.
+
+You’ll need to evaluate your target audience thoroughly when deciding which platforms are most ideal for you to position your brand. You should first determine the objectives you aim to get out of your advertising efforts, as it will affect which channels are best suited for you.
+
+* If your brand sells a physical product, e-commerce and social channels are likely effective routes.
+
+* If your brand is a service, running ads on both social media and paid search would be practical.
+
+Some of the most popular advertising platforms include:
+
+Used by over 80% of online searchers, Google still reigns supreme as the most preferred search engine and one of the largest online advertising networks. Google Ads lets you place ads on Google’s search results pages and other search partner websites. It’s also a promising avenue for remarketing and native advertisements.
+
+Although technically a Google Ads product, YouTube Ads are worth their own entry here for how strong they can drive traffic and conversion rates. Commanding an average conversion rate of 12% from video ads, YouTube is one of the best advertising channels for video promotions.
+
+Facebook and Instagram are two of the largest global social media websites, making them very attractive options to include in different advertising strategies:
+
+Facebook Ads and Instagram ads are particularly effective for targeting specific audiences based on demographics, interests and behaviors. They are also helpful for generating buzz and driving engagement around your brand.
+
+Dive Deeper: How This E-commerce Store Doubled Its Revenue Using Our Facebook Ads Advice
+
+Instagram Ads are similar to Facebook Ads but are specifically designed for the Instagram platform. They are particularly effective for reaching younger audiences and showcasing image-heavy advertisements.
+
+Ads on LinkedIn are optimal for B2B advertising and allow you to target specific job titles, industries and company sizes. LinkedIn Ads offers a variety of ad formats to advertisers for accessing ideal audiences, focusing less on point-of-sale transactions and more on turning leads into relationships.
+
+Dive Deeper: LinkedIn Ads for Enterprise B2B SaaS: The Only Guide You’ll Need
+
+There’s no question that Amazon is the largest e-commerce platform in the world, making it ideal for the sale of consumer goods. Amazon Ads are a form of pay-per-click (PPC) advertising that allows businesses to promote their products on Amazon’s search results pages. They are ideal if you’re trying to sell tangible products on this platform.
+
+Dive Deeper: How to Improve Your Amazon Ads to Increase Sales
+
+Creating ad copy that grabs users’ attention is important for all types of advertising strategies. Ad copy must be clear, concise and relevant to the target audience. It should highlight the benefits of the product or service being promoted and include a strong call-to-action (CTA).
+
+Here is a breakdown of the components that go into crafting succinct ad copy:
+
+* Use simple language: Good ad copy should be compelling, but still easy to understand without talking down to your audience. It should communicate the key benefits of the product or service being promoted and propose a solution for a need.
+
+* Highlight the benefits: Your ad should focus on the product or service’s benefits rather than just the features. Explain why it’s useful, not just what it does.
+
+* Use a strong CTA: Ads must include a clear and decisive CTA that encourages the target audience to interact with your brand and tells them what to do (download, sign up, try out, etc.).
+
+* Be relevant – Ad copy should be relevant to the target audience and their interests.
+
+At its heart, ad copy should be able to encompass the entire buyer’s journey in the most straightforward words possible. It’s partly why Google limits search ads to strictly thirty characters per ad headline. This prevents advertisers from writing novels of text in a space meant to abbreviate brand messaging for the limited attention of searchers.
+
+Dive Deeper: How to Create Compelling Text Ads on Google (with Examples)
+
+In addition to including persuasive ad copy, the creatives must also be visually appealing and capture the target audience’s attention. It’s easy to get this wrong when you don’t put enough thought and attention into the design.
+
+For example, this Netflix ad for their show Black Mirror perfectly captured the fear and paranoia that people felt after watching the futuristic dystopian drama. The ad was simple, stood out, and resembled broken glass, which was particularly effective on mobile screens:
+
+Ad creatives should be visually appealing and of high quality to capture the target audience’s attention. Most ad platforms have a minimum resolution requirement of 1080 x 1080 pixels for 1:1 scaled images. It varies further with different image sizes, but you’ll want to pay attention to the guidelines provided by each respective ad platform.
+
+Ad creatives should be consistent with the brand’s overall visual identity to create a cohesive and recognizable brand image. Brand colors and fonts should be the default, occasionally supplementing with accenting tones.
+
+Ad creatives should use contrasting colors and engaging typography to stand out and capture the viewer’s attention. Avoid overly desaturated tones that can blend into the background of websites. This Asana ad effectively uses the ad space to make the message (the text) stand out:
+
+Ad creatives should be continually A/B tested and optimized to improve their effectiveness and generate better results. Experiment with different backgrounds, colors, CTAs, imagery and ad copy variations.
+
+Now that we’ve covered some core components of crafting quality ads, let’s look at some examples of advertising strategies and where to allocate your marketing dollars.
+
+Retargeting and remarketing are terms that are commonly used interchangeably, but in reality, they have distinct differences. It’s prudent to understand how each might be helpful as a supplemental strategy for your marketing activities:
+
+Functionally, they share the same purpose of re-showing ads to users who interacted with your brand in the past but didn’t take any action:
+
+* Retargeting is done through social media platforms and display ads
+
+* Remarketing is predominantly done through email
+
+Both of these strategies can increase the chances of converting potential customers into buyers as the audience is already very qualified, having previously engaged with your brand.
+
+The average conversion rate from retargeting in retail is increased by nearly 20% with the help of retargeting campaigns.
+
+Remarketing is more of an umbrella term that includes retargeting strategies and encompasses email marketing campaigns. There is some overlap with each type of strategy, but they are different in placement and purpose.
+
+Dive Deeper: How to Easily Set Up a High-Conversion Facebook Retargeting Campaign
+
+Paid social media ads are a great way to promote products and services while engaging with your target audience. Part of the charm of social media ads is that they allow the advertiser and the end-users to communicate directly within the ads:
+
+Social media ads are shareable, able to be commented on and can be liked by users. If well executed, sponsored ad placements will benefit from extended reach from users that engage with them. Paid social media ads allow businesses to target specific demographics, interests and behaviors to reach their ideal audience.
+
+Dive Deeper: Social Media Marketing for Business Owners: How to Get Started in 2023
+
+Paid search advertising is great for presenting your brand to searchers who are actively trying to find a solution to their needs.
+
+When we think of paid search, Google Ads is usually the first to come to mind, but other search engines like Microsoft Ads function similarly to Google. They can even be more affordable to serve ads on since the user volume is less than Google, making it a less competitive ad space.
+
+* Search: Standard text ads commonly seen on the search engine results page
+
+* Display: Image ads that appear on approved Google partner sites
+
+* Shopping: Ads that appear in Google’s shopping results
+
+* App: Ads that appear in apps that include sponsored content
+
+* Video: Ads that appear in videos on YouTube and in embedded ad media space on partner sites
+
+* Call: Ads that feature limited text other than a phone number
+
+* Responsive Search: Ads that have adapted the ad copy to match the query of the user to appear more relevant
+
+Email advertising involves sending promotional messages to a list of subscribers via email. This advertising strategy can include newsletters, product updates and special offers.
+
+Email marketing is very affordable. The costs of email marketing can vary depending on factors such as the size of your email list, the frequency of your emails and the complexity of your campaigns, but overall, it is often one of the most cost-effective forms of digital marketing available.
+
+Where PPC and social media ads entail quicker turnarounds for transactions, email marketing is more of a slow burn that can yield consistent results over a long stretch of time. Recurring emails act as a periodic reminder to your prospects that you exist and have an offer for them whenever they’re ready for it. It’s a medium that allows for personalized and engaging content that encourages subscribers to take action.
+
+No other marketing tactic lets you notify someone directly to their phone as smoothly as email marketing can. This is huge, considering that 54% of emails are opened on mobile devices. While other ad mediums require the user to be on the platform, be it Facebook, LinkedIn or Google, email marketing campaigns hit the users’ inboxes directly:
+
+It’s one of the most direct ways to reach people with your ads.
+
+Dive Deeper: The Fastest and Easiest Way to Increase Your Email Open Rates
+
+Amazon ads can be leveraged in three general forms:
+
+* Sponsored product ads: prioritized listings based on keyword relevance that appear higher on the results page when a user searches for an item.
+
+* Sponsored brand ads: ads that appear at the header of the results page that give a glimpse of an entire brand.
+
+* Sponsored display ads: targeted ads that appear on partner sites to users based on their behavior.
+
+Amazon Ads are particularly effective for businesses that sell physical products on Amazon. People who type in a product name on this platform are ready to buy, whereas when they’re still in research mode, they generally go to Google.
+
+One of the most important details to consider when promoting products on Amazon is to have an abundance of high-quality images featuring the product, with variations if applicable.
+
+Beyond the most prominent advertising platforms, like Google Ads and Facebook Ads, it’s important to plug into any industry-specific websites that may be pertinent to your brand. It may require a bit of digging initially, but it can be worth exploring. The intent is to find highly relevant sites that weave paid media related to the website’s industry into normal content.
+
+For example, let’s say you’re advertising a restaurant and trying to encourage new customers to visit. While you should experiment with mainstay ad channels like search engines and social media sites, you should try venturing out of those bounds to more focused places where your audience might be looking for restaurants to visit.
+
+This is where tapping into your target audience’s buyer persona can be helpful for you. Think as they do and search for it. Search on Google, in broad terms, what you would use to find restaurants in your area. You may discover opportunities for ad placements that you hadn’t thought about before:
+
+When you search “best restaurants in chicago,” a brief scroll will reveal TripAdvisor, a review platform for brick-and-mortar service businesses. With a little investigation, you learn that TripAdvisor hosts ads for restaurants in the Chicago area:
+
+Naturally, this is the kind of discovery you want to make. It’s a valuable process going through the motions as if you were your own prospective customer to find where your brand could be advertised.
+
+A big signal that you should explore these ranking sites further is if you see your competition on them. Competitor presence indicates that the platform works well for similar businesses in your industry. Even if you ultimately decide not to purchase ad placements on the more focused platforms, it’s worth knowing your options and deciding from there.
+
+Remember that just because a given advertising platform is popular does not automatically mean it will be successful for your brand. A successful advertising strategy requires careful planning and execution. It needs a thorough understanding of where your audience is active and how likely they will respond to your offer.

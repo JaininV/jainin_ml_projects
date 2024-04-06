@@ -1,0 +1,1 @@
+Microsoft introduced a more concise and readable syntax for switch expression in C# 8.0, enhancing code clarity and efficiency. In this post, I’d like to compare the new expression syntax to the traditional version and discuss what sets them apart.

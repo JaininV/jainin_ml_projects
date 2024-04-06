@@ -1,0 +1,65 @@
+When you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence.
+
+A budget-friendly headset packed with options for gamers and streamers.
+
+Spatial audio support and Blue Vo!ce are great additions for gamers and streamersThe microphone is quite short and won’t stay putThe Logitech G733 Lightspeed is stylish, comfortable, and has excellent battery life. Despite a few inconveniences in the headset’s design, nifty functionality like spatial audio support and Blue Vo!ce means there’s plenty for gamers and streamers to enjoy.
+
+The wireless Logitech G733 Lightspeed is a very attractive headset, but not in a plush, luxurious kind of way—more of a casual way befitting the headset’s $149.99 base price tag. How so? There’s no plush leatherette or metal to be seen, but the cups are sculpted with tight angles to bestow a futuristic look and RGB lighting ripples down the front side in two neat grooves.
+
+It comes in four colors, each with its own unique styling—there’s a stately black, vibrant white, pretty pink, and my review unit’s blue color, which features contrasting electric/navy hues and a stretchy headband with awesome “glitch” styling.
+
+Note: See our roundup of the best wireless gaming headsets to learn about competing products, what to look for in a wireless gaming headset, and buying recommendations.
+
+Despite looking like “the bomb,” a few drawbacks do present immediately. For one, the all-plastic headband feels a little too flimsy. That wouldn’t have been a problem if the G733 folded down into a streamlined, satchel-friendly unit, but the earcups don’t swivel and the headset’s band is quite big, so it fits awkwardly alongside your other possessions in bags.
+
+Additionally, the notch-less slide mechanism in the G733’s band doesn’t extend all that much, so it won’t fit everyone’s head perfectly. The G733’s detachable microphone only measures a teeny 6mm (less than a quarter-inch), so it doesn’t stretch across your mouth, nor will it stay in any position, so finding consistency in voice chats is also a little hard to do.
+
+Gaming with the G733 was still absolute pleasure. The headset drummed up immersive soundscapes in current favorite games like Elden Ring that had me glued to the action.
+
+The G733’s design is somewhat redeemed by other, more flattering features, like its light weight of only 278 grams (9.8 ounces). This makes it only slightly heavier than the impressively light 252-gram (8.8 ounce) Asus ROG Go Core Moonlight White.
+
+The clamp pressure is also excellent, and comparable again to another recent headset we reviewed for gamers, the Nacon Rig 800 Pro HX. That being the case, the G733 is ideal for gaming marathons where you simply can’t muster up the willpower to drag yourself away from your game.
+
+The mesh covered earcups, too, are far more practical than leatherette ones—they’re perfect for hot, uncomfortable days when you know you’re going to work up a sweat. The dual-layer memory-foam cups are remarkably soft, and the funky headband always keeps the pressure off the top of your head—so well-done to Logitech G for incorporating it.
+
+Sometimes simplicity trumps fanciness and connecting the G733 is child’s play. There’s no mucking about with multiple dongles or adapters; you simply plug the Logitech Lightspeed 2.4GHz dongle into your PC, Mac, or PlayStation 4 console, turn it on and voilà, you’re off.
+
+The one and only dongle in the box is a USB Type-A receiver, which is a little on the bulky side, but it does give you a reliable connection. Logitech claims the signal reaches up to 20 meters away, which saw me making long, slow, Darth Vader-like marches all the way from my desk to the kitchen in the PCWorld offices to test it. The result? It will certainly go the distance and manages to keep static and distortion under control quite well too.
+
+That long-range audio comes in handy if you’re listening to audio from your PC because the G733 can’t connect to your phone, so switching your audio over for roaming about sadly isn’t an option.
+
+You do, however, get excellent battery life—Logitech claims up to 20 hours with the RGB lighting on in the default setting, or up to 29 hours when you switch it off. I didn’t quite have my headset long enough to flatten my battery, but after 15 hours of play with RGB switched on I still had 24 percent of my battery life remaining, so it’s quite decent.
+
+With the G733’s on-ear controls consisting of just a power button, volume wheel, and mute-mic button, you’ll need to download the Logitech G Hub software if you intend on digging deeper into the headset’s more complex functionality.
+
+Here, you can preside over an impressive level of customization, including modifying your EQ settings and Lightsync RGB colors and effects. You can even tweak the volume levels of individual directional fields for the G733’s DTS Headphone: X 2.0 surround sound.
+
+G Hub also includes some useful custom presets, named for what they’re predominantly for. For example, I made good use of the Bass Boost preset to really emphasize explosions in Battlefield I, and the FPS preset for hearing footsteps better in Insurgency, and both worked really well.
+
+Blue Vo!ce is another neat feature in G Hub worth playing around with, especially if you do a lot of streaming or professional gaming. It’s basically a bunch of voice filters that transform your voice from its natural (sometimes cringe-worthy) default state into a cleaner, more authoritative, broadcaster version that you will rather fancy hearing.
+
+The Blue Vo!ce feature in Logitech’s G Hub app modifies your voice to sound better for broadcasting and gaming chat.
+
+It’s easy to do and G Hub has a record and playback feature that lets you listen to the changes you’ve made, so you can hear differences straight away, without having to load up any other program.
+
+The G733’s Pro-G 40mm audio drivers impressed me right off the bat, producing a clean sound that seemed to jump right out of the cups. The G733 also has a decent tonal range, with respectable bass, but also full-sounding mids and highs that I applauded most of the time, and noticed was just a tiny bit flatter than some more premium headsets at other times.
+
+That said, gaming with the cans on was still an absolute pleasure. The headset drummed up immersive soundscapes in current favorite games like Elden Ring that had me glued to the action. As Hollywood director Steven Spielberg has alluded to in the past, sound and music can make up more than half of communicating a story, and that rang true for me in my playtesting—especially watching cut scenes that the G733 really did justice to.
+
+But those first impressions were just a warmup really, because the spatial audio was even more impressive. Logitech’s decision to go with DTS headphone: X 2.0 over the popular Dolby Atmos, comes with both pros and cons.
+
+On the upside, DTS has a higher bit rate than Dolby Atmos, and has consequently become somewhat of a favorite among audiophiles and pro gamers. However, the concession here is that DTS Headphone X isn’t as widely supported among games and other media as Dolby Atmos is. Indeed, comparing my games library with a list of supported titles only revealed a few matches—like Metro Exodus and Shadow of the Tomb Raider.
+
+You can assign volumes for spatial audio directions in the Logitech G Hub app.
+
+Still, what I heard in these games made me hope that situation changes soon; the audio was loud and clear and had excellent directionality. It’s also worth noting that the G733 sports the latest iteration of the DTS software—version 2.0—which includes a few sweetener enhancements, including to the bass, which means you’re getting the very best currently available.
+
+My only nit-pick when it comes to the G733’s audio performance is its noise cancellation, or lack thereof. It relies entirely on passive noise-blocking from its cups. That mostly works well to block out sounds in the lower tonal range, but a high-pitched leaf blower was quite audible in one of my playtests, so if you need absolute pristine audio all the time, the G733 won’t fit the bill.
+
+Should you buy the Logitech G733 Lightspeed?
+
+On balance, the Logitech G733 ticks enough boxes to be a fine headset for gamers and streamers. The audio is clear and defined, it has excellent companion software, as well as robust spatial audio support. It also feels very comfortable and looks attractive in an unassuming kind of way.
+
+Sure, it makes concessions in the design department, the biggest being that the band feels a bit flimsy, but if you keep this headset close to home and out of danger, its sure to last you just as long as any other.
+
+GoPro promo codeGet 15% off sitewide at GoPro without a promo codeHP Coupon CodeHP Deal: 40% Off for Military, Healthcare Workers & First Responders

@@ -1,0 +1,3 @@
+Technical debt is a concerning yet overlooked risk for businesses that can stall a company’s response to disruption, limit their adaptability to change, and cause a failure to respond to shifting business and customer needs. However, reducing technical debt facilitates three positive outcomes: revenue growth, risk reduction, and fostering of innovation. In this research, discover Gartner’s® key findings and recommendations to accelerate growth, mitigate the revenue risk of potential recession, and drive alignment by proactively eliminating technical debt.
+
+The JavaScript is not enabled! The form will not function properly, please enable JavaScript and reload the page.

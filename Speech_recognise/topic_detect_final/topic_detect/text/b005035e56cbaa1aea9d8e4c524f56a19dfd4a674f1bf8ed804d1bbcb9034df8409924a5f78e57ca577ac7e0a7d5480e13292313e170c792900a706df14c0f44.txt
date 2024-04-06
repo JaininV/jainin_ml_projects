@@ -1,0 +1,53 @@
+Summary: Combining data about pregnancy and birth with machine learning technology, researchers identified 17 out of 40 factors that are particularly strong when predicting the number of ADHD symptoms in childhood.
+
+Information available at birth may help to identify children with higher likelihood of developing ADHD, according to new research from RCSI University of Medicine and Health Sciences.
+
+The study, published in Development and Psychopathology, examined data from almost 10,000 children in the United States, showing information about pregnancy and birth may help to help predict the extent of ADHD symptoms in childhood.
+
+The Adolescent Brain Cognitive Development (ABCD) study is an ongoing study of children in the US, born between 2005 and 2009. Children were enrolled to the study at age 9–10 and their parents were asked about aspects of the pregnancy and birth, as well as their child’s current mental health.
+
+The RCSI researchers identified 40 factors that would typically be known by birth, including the sex of the baby, the age of the parents, any complications during the pregnancy or delivery, and the baby’s exposure in the womb to factors such as cigarette smoke.
+
+Using machine learning and statistical techniques, the researchers found that 17 of the 40 factors were particularly good at predicting the number of ADHD symptoms in childhood.
+
+Co-lead researcher, Dr Niamh Dooley from the RCSI Department of Psychiatry, explained that few studies to date have looked at how prenatal and birth information could be useful in predicting ADHD: “We know that certain events during our time in the womb can have long-lasting consequences for our health. But not many studies have tried to quantify just how useful prenatal information could be to predicting childhood ADHD symptoms.
+
+“We focused on readily available information about pregnancies and births, the kind that would be in antenatal records. This ensures our results can be compared to other studies using medical records and that they are relevant to public health.
+
+“The other key element of this study was acknowledging the contribution of social, economic, and demographic factors to maternal and child health. For instance, prenatal information did not predict ADHD symptoms equally across the sexes, family income brackets, or racial/ethnic groups,” Dr Dooley said.
+
+Professor Mary Cannon, Professor of Psychiatric Epidemiology and Youth Mental Health at RCSI and study co-lead, commented: “While we only explained up to 10% of the variation in childhood ADHD symptoms, this was with information typically available at birth.
+
+“We cannot predict who will develop ADHD in childhood with birth information alone, but it may help identify which children are most in need of supports, particularly when combined with other factors like genetics or family history and the early life environment.
+
+“In our study, mothers were asked about the pregnancy and birth of their child, 9–10 years earlier. The next step would be to carry out a study in a group that has been followed in real-time through pregnancy, birth and childhood. This would boost our confidence in this prenatal information, and confidence that it can help identify children at risk of developing ADHD, at a very early stage of life.”
+
+Factors that stood out in the study as being useful in predicting ADHD symptoms in childhood included being male, as well as exposure to factors when in the womb such as cigarette smoke, recreational drugs, and the mother having urinary tract infections or low levels of iron.
+
+Funding: This research was supported by a StAR International PhD Scholarship, the Health Research Board, the European Research Council, the Wellcome Trust and Science Foundation Ireland. The ABCD Study is supported by the National Institutes of Health (NIH) and additional federal partners (abcdstudy.org).
+
+Author: Rosie Duffy
+
+Source: RCSI
+
+Contact: Rosie Duffy – RCSI
+
+Image: The image is in the public domain
+
+Original Research: Closed access.
+
+“Predicting childhood ADHD-linked symptoms from prenatal and perinatal data in the ABCD cohort” by Niamh Dooley et al. Development and Psychopathology
+
+Predicting childhood ADHD-linked symptoms from prenatal and perinatal data in the ABCD cohort
+
+This study investigates the capacity of pre/perinatal factors to predict attention-deficit/hyperactivity disorder (ADHD) symptoms in childhood. It also explores whether predictive accuracy of a pre/perinatal model varies for different groups in the population.
+
+We used the ABCD (Adolescent Brain Cognitive Development) cohort from the United States (N = 9975). Pre/perinatal information and the Child Behavior Checklist were reported by the parent when the child was aged 9–10.
+
+Forty variables which are generally known by birth were input as potential predictors including maternal substance-use, obstetric complications and child demographics. Elastic net regression with 5-fold validation was performed, and subsequently stratified by sex, race/ethnicity, household income and parental psychopathology.
+
+Seventeen pre/perinatal variables were identified as robust predictors of ADHD symptoms in this cohort.
+
+The model explained just 8.13% of the variance in ADHD symptoms on average (95% CI = 5.6%–11.5%). Predictive accuracy of the model varied significantly by subgroup, particularly across income groups, and several pre/perinatal factors appeared to be sex-specific.
+
+Results suggest we may be able to predict childhood ADHD symptoms with modest accuracy from birth. This study needs to be replicated using prospectively measured pre/perinatal data.

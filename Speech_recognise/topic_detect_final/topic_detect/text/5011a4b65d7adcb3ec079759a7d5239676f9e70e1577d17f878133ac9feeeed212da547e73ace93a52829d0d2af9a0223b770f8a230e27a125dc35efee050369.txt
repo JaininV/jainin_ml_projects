@@ -1,0 +1,5 @@
+WhatsApp teased a latest tweak for about text within contact list in a blogpost on Wabetainfo. The latest roll out on WhatsApp brings an additional line for showing the about text of your contacts. This latest change is compatible with WhatsApp beta for Android 2.23.8.25.
+
+As seen in the screenshot, the about text in the current version of the app appears longer than the one in the previous version as there is an additional line now. In addition, it also appears within the contacts list while forwarding a message now.
+
+WhatsApp, the instant messaging app backed by Meta, has already rolled out this improvement for some Android beta users.

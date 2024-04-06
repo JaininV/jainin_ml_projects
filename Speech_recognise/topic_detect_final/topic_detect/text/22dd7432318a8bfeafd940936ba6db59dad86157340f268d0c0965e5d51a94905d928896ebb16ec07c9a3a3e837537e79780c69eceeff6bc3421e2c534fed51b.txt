@@ -1,0 +1,7 @@
+Mopeka, a provider of sonar tank monitoring solutions, extended its communications protocols to include satellite, complementing its existing Bluetooth, WiFi and Global 4G LTE networks. The offering, through Swarm, gives Mopeka’s customer base the ability to connect to its sensors anywhere in the world.
+
+Sonar tank monitoring manages existing volumes and streamlines supply chain management for propane, heating oil, water, anhydrous or other liquid commodities. Satellite capability facilitates communication with all deployments, regardless of their distance from cell towers.
+
+Swarm’s uniquely small satellites enable the company to provide network services and user hardware to customers across a range of industries, including maritime shipping, agriculture, energy and ground transportation, for low bandwidth IoT use cases such as asset tracking and sensor monitoring. Swarm had 150 satellites in orbit by the end 2022, providing 100 percent global coverage.
+
+“Our clients expect the ability to connect to their sensors from anywhere to everywhere. It’s crucial,” says Kevin Jaffe, COO of Mopeka. “They have data and telemetry needs that are only going to increase. At Mopeka, we understand and offer that connectivity, now more than ever, through our engagement with Swarm. Satellite connectivity is a differentiator. It gives our clients, no matter how remote, the ability to monitor and measure tank volume and utilization at a reasonable cost.”

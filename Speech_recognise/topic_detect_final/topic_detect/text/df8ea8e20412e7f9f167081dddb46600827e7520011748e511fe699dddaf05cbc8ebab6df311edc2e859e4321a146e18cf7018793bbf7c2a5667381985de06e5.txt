@@ -1,0 +1,91 @@
+Here in Toronto, the weather feels like summer. But in Gale Crater it's coming towards the end of Autumn. At this time of year, we enter Aphelion Cloud Belt season, when we see regular formation of water-ice clouds. While not as striking as the twilight clouds earlier in the year, these clouds form every Mars year at around the same time and last for many months, making this the perfect opportunity to learn about martian clouds.
+
+To accomplish that, the ENV team supplements our year-round cloud observations, the zenith and suprahorizon movies (which point directly overhead, and near the horizon), and two seasonal observations, the Phase Function Sky Survey and the Cloud Altitude Observation. These can tell us about how the clouds themselves and the water-ice crystals within them behave, and all four of these observations are in this weekend's plan.
+
+It's not just about the clouds though this weekend. We're still climbing through the canyon, so the plan starts out with contact science followed by another short drive, and then some remote science.
+
+More specifically, we start with a Mastcam mosaic of the inverted channel and a ChemCam LIBS observation of 'Kourou,' a nearby dark float rock. After this, MAHLI is getting up close with 'Terre Firme', and then we'll brush the dust off of 'Lorenco' and get APXS and MAHLI contact science on it. After a nap, we'll wake up for some night time imaging of the CheMin inlet with MAHLI.
+
+The next sol, Mastcam will have a field day imaging 'Lorenco,' 'Kourou,' 'Owenteik,' 'Teotonio,' 'Rizere de Mana' and a nearby vein network. Then ChemCam will take a LIBS observation of 'Rizere de Mana' and a mosaic of the buttes 'Alto Alegre.' We'll then make our brief drive uphill.
+
+The next sol of the plan has a small untargeted science block, where ENV will look for dust devils and characterise the amount of dust between us and the distant crater rim and ChemCam AEGIS will autonomously select a target. After that, we'll go back to sleep but that's not it for the weekend - we wake up early the next morning for our weekly morning ENV activities to finish up the plan.
+
+Related Links
+
+Curiosity Mars Science Laboratory
+
+Mars News and Information at MarsDaily.com
+
+Lunar Dreams and more
+
+Years in the making, a major software update that has been installed on NASA's Curiosity rover will enable the Mars robot to drive faster and reduce wear and tear on its wheels. Those are just two of about 180 changes implemented during the update, which required the team to put Curiosity's science and imaging operations on hold between April 3 and April 7.
+
+"The flight software is essential to our mission, so this is a big deal for our team," said Curiosity Project Manager Kathya Zamora-Garcia of  ...  read more
+
+Please enable JavaScript to view the comments powered by Disqus.
+
+NASA's first flight with crew critical to long-term return to the moon
+
+First woman, Black astronaut, Canadian to make 2024 flight around Moon
+
+NASA to reveal crew for 2024 flight around the Moon
+
+U. S. Navy pilot to become first person of color to go to the moon
+
+China, France join hands in space
+
+Shenzhou XV mission crew members set China record
+
+Spacewalks become 'routine' after 12th mission
+
+Rocket that will carry Tianzhou ship to space arrives at launch center
+
+New agreement will help researchers study metal worlds of M-type asteroids
+
+Lucy snaps its first views of Trojan Asteroid targets
+
+UCF will help researchers study metal asteroids for resources, clues to formation
+
+Psyche updated plan puts mission on track for October launch
+
+Icy Moonquakes: Surface Shaking Could Trigger Landslides
+
+Europe's Jupiter probe launched
+
+Europe's JUICE mission blasts off towards Jupiter's icy moons
+
+Spotlight on Ganymede, Juice's primary target
+
+Hubble finds Saturn's rings heating its atmosphere
+
+How a Saturn moon ejects particles from oceans beneath its surface
+
+Hubble captures the start of a new spoke season at Saturn
+
+SwRI investigations reveal more evidence that Mimas is a stealth ocean world
+
+China launches new meteorological satellite
+
+Metaspectral to bring SkyFi satellite imagery to its Fusion Platform
+
+China's latest EO satellite offers high-precision rainfall monitoring
+
+L3Harris to build geostationary weather satellite sensors for Japan
+
+Space seeds take root in Inner Mongolia
+
+Calnetix Technologies' high-speed blower system installed on ISS
+
+NASA Boosts Open Science through Innovative Training
+
+Rocket Lab launches new constellation-class star tracker
+
+International team discover new exoplanet partly using direct imaging
+
+Webb peeks into the birthplaces of exoplanets
+
+HD 169142 b, the third protoplanet confirmed to date
+
+Do Earth-like exoplanets have magnetic fields
+
+The content herein, unless otherwise known to be public domain, are Copyright 1995-2023 -  Space Media Network . All websites are published in Australia and are solely subject to Australian law and governed by Fair Use principals for news reporting and research purposes. AFP, UPI and IANS news wire stories are copyright Agence France-Presse, United Press International and Indo-Asia News Service. ESA news reports are copyright European Space Agency. All NASA sourced material is public domain. Additional copyrights may apply in whole or part to other bona fide parties. All articles labeled "by Staff Writers" include reports supplied to Space Media Network by industry news wires, PR agencies, corporate press officers and the like. Such articles are individually curated and edited by Space Media Network staff on the basis of the report's information value to our industry and professional readership. Advertising does not imply endorsement, agreement or approval of any opinions, statements or information provided by Space Media Network on any Web page published or hosted by Space Media Network.  Our advertisers use various cookies and the like to deliver the best ad banner available at one time. All network advertising suppliers have GDPR policies (Legitimate Interest) that conform with EU regulations for data collection. By using our websites you consent to cookie based advertising. If you do not agree with this then you must stop using the websites from May 25, 2018.  Privacy Statement . Additional information can be found here at  About Us .

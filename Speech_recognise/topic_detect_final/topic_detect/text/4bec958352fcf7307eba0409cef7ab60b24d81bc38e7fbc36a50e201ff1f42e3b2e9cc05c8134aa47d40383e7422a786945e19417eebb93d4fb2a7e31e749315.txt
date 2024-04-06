@@ -1,0 +1,65 @@
+The resiliency of our frontline healthcare workers continues to be front and center as we see the healthcare industry evolve. From delivering in-person and remote care for patients to working long hours amid a persistent labor shortage—care teams have shown up time and again to support patients through an increasingly complex medical landscape.
+
+Frontline workers are irreplaceable, and as clinicians face record levels of burnout and high patient expectations, Microsoft 365 and Microsoft Teams are building solutions to help balance quality patient care with quality self-care—all within one ecosystem. This week at the HIMSS Global Health Conference and Exhibition (HIMSS23), we’re thrilled to be showcasing tailored frontline solutions designed to transform patient care with virtual visits, empower care team collaboration, streamline the clinician experience, and strengthen security and compliance.
+
+As always, Microsoft continues to deliver on innovation to drive forward new ways to work. We’re investing in next-generation AI that will unlock a new wave of productivity growth with tools like Microsoft 365 Copilot.
+
+Check out a preview of the latest Microsoft 365 and Teams innovations that we’ll be showcasing at HIMSS23.
+
+Virtual healthcare has transformed into a necessity since the onset of COVID-19. Early in the pandemic, there was a 154 percent increase in telehealth visits during the last week of March 2020 compared with the same period the prior year.1 In 2022, 68 percent of physicians reported continuing to use video visits in their healthcare practice.2 Whether your teams need a configurable out-of-the-box product ​or a custom-built application, Microsoft has a range of virtual visit solutions to fit every organization’s unique needs.
+
+Virtual Appointments in Teams provides an out-of-the-box solution for clinicians to make patient-care team interactions easy and personalized and is now generally available. Virtual Appointments handle the end-to-end appointment experience so clinicians can focus on your patients, not appointment management.
+
+With Virtual Appointments in Teams, facilitate a seamless care experience that allows your patients to receive text reminders and join custom-branded virtual appointments through their mobile devices—without downloading Teams.
+
+Schedulers and facilitators can set up and manage scheduled and on-demand virtual appointments in one location with advanced capabilities like appointment queues.
+
+Understand key metrics and trends of virtual appointment experiences and effectiveness like the number of appointments, appointment duration, no-shows, and wait times. View detailed activity for virtual appointments scheduled and conducted through multiple scheduling entry points and drill down into individual appointment data.
+
+For healthcare organizations using Epic3 or Oracle Cerner,4 the Microsoft Teams electronic health record (EHR) connector enables care teams to schedule and launch Teams virtual visits directly from their EHR system. The connector gives patients flexibility with the option to join virtual visits through their browser, Teams app, patient provider portal, or SMS, and offers support for group visits. For care teams, this solution increases peace of mind with enhanced security and compliance features and visibility into consumption data reports and call quality information.
+
+Ease care delivery with the Teladoc Health Solo™ enterprise virtual care platform that integrates with Microsoft Teams. Clinicians can operate across care teams to speed up administrative tasks and provide personalized virtual care by bringing in specialists to address patient needs.
+
+Fraser Health was already on a digital transformation journey as staff and patients alike adapted to changing work and life circumstances, accelerated by the pandemic. The organization’s Collaboration & eHealth Services team was tasked with providing the latest tools and services to best support office, frontline, and patient services with particular emphasis on the new demands and opportunities introduced by a shift from in-person to virtual care. “Teams helps to connect providers and patients for their virtual appointments, helping make the best services available to everyone in our patient population and providing equitable access to those services regardless of geographical boundaries and personal circumstance,” said Rav Gill, Collaboration Services Project Manager at Fraser Health.
+
+With the high demand for quality care, it’s time to eliminate redundant solutions and protect healthcare workers so they can focus on patient care. Thirty-seven percent of frontline healthcare workers say they do not have the right tech to do their job effectively.5 Meanwhile, Forrester found USD9.1 million in savings over three years from enhanced frontline supervisor productivity with Microsoft Teams.6
+
+We have announced the preview of Microsoft Power Virtual Agents bots in Power Apps, which adds native integration of AI-empowered Power Virtual Agents into Power Apps. With this feature, easily add a Power Virtual Agent bot to your healthcare organization’s applications so users can get intelligent answers based on information from public sites within the context of your application.
+
+We’re excited to announce a new checklist completion requirement feature for Microsoft Tasks. With this feature, checklist items will be required to be done before the task can be marked as complete in the system. This feature will be generally available in May 2023.
+
+To help relieve the burden on care teams, we introduced a partnership with UKG, a leader in human capital and workforce management. We’ve co-engineered the Microsoft Teams Shifts connector for UKG Dimensions to give healthcare workers the ability to view and accept open shifts, request time off, clock in and out, and more.
+
+At Rx. Health, providers have learned that sensitivity equals a balance of empathy and accuracy for both patients and care teams. “Our clients worry about nurse and physician burnout, which leads to staff shortages,” says Richard Strobridge, Chief Executive Officer at Rx.Health. For example, a cardiothoracic surgeon was worn down from having to spend valuable time giving repetitive care instructions instead of discussing deeper issues with patients. “A unified communication platform can automate these routine reminders and care prompts so that the care team can focus on the things that drew them to healthcare in the first place: healing with a human touch and empathy,” adds Strobridge.
+
+Streamlined communication is critical for robust healthcare systems. In a rapidly evolving environment, healthcare workers can’t afford to waste time not being able to reach the people and resources they need. Forrester found a 25 percent reduction in errors due to misinformation with Microsoft Teams.6 With Teams, providers can enhance collaboration across in-person and virtual teams to support critical use cases, such as care team huddles, virtual tumor boards, and grand rounds.
+
+We’re excited to announce that the pre-configured home experience for frontline healthcare workers on Teams is generally available, rolling out through April 2023.
+
+To make sure that communication and connection travel with healthcare care teams wherever they go, we also recently launched new experiences that unify the UI across desktops, mobile, and tablets.
+
+Our Walkie Talkie app in Microsoft Teams features are available on devices from our industry-leading partners including Honeywell, Samsung, and Zebra Technologies. To help with onboarding, we are making nudge to explore generally available in April 2023.
+
+Leverage Teams as your calling solution to connect with teammates, patients, and suppliers. Later this year, healthcare care teams will be able to make and receive calls through shared mobile Android phones from wherever their work takes them.
+
+At Fraser Health, Microsoft Teams—as the communications and collaboration hub—was familiar to staff and administrators, and had already been widely adopted in non-clinical settings. With a nod to his colleagues in procurement, Dillon Brar, Collaboration Services Team Manager at Fraser Health, sums it up: “It makes sense to use services that you’re already paying for, right?” The deployment went smoothly, taking around five months from conception to adoption and trials, with immediate advantages that prompted Fraser Health to consider broader deployment across its regional facilities.
+
+Underpinning all our healthcare solutions is a strong foundation and dedication to security and compliance. With Microsoft 365 and Teams, hospitals can reduce the risk of security breaches with dedicated, pre-integrated identity, endpoint management, and security solutions—built on advanced Zero Trust architecture. According to a Forrester study, “Teams makes it possible to share medical records and consult with physicians in our other locations in real time, all within a HIPAA-protected environment,” said an attending physician.6
+
+Hospitals often supply mobile devices that are shared across care teams and between shifts and appointments requiring a robust set of built-in compliance and identity management tools to protect patient information.
+
+In May 2023, shared device mode support for Microsoft Outlook, Edge, Power Apps, and Viva Engage apps on Android devices will be generally available, joining the portfolio of apps including Teams that can be securely accessed through Microsoft Intune.
+
+On iOS devices, shared device mode support on Microsoft Intune for securely accessing Teams is currently in preview. Healthcare organizations using SOTI and VMWare Workspace ONE as their third-party unified endpoint management solutions for Android can also enroll devices in Microsoft Azure Active Directory (Azure AD) with shared device mode, in preview.
+
+The hard work the St. Luke’s team has done over the past three years to deploy Microsoft Security solutions and standardize on Microsoft 365 productivity apps paid off when COVID-19 descended in early 2020. David Finkelstein, Chief Information Officer at St. Luke’s University Health Network, and his counterpart in Operations had hours to reimagine a remote workforce. “Technology saved us,” said Finkelstein. “Microsoft Teams saved us. Having 80 percent of the security landscape we’d envisioned years earlier rolled out and ready saved us. There were many stressors during that time, but the technology was not one of them.”
+
+We understand the critical role of healthcare workers and are determined to support their success in high-stress environments. Experience Microsoft’s latest solutions to streamline virtual visits, unify care team collaboration, improve the clinician experience, and increase security and compliance across your healthcare organization at HIMSS23.
+
+1Trends in the Use of Telehealth During the Emergence of the COVID-19 Pandemic, Center for Disease Control and Prevention. October 2020.
+
+4For Oracle Cerner customers, the EHR connector is only available in the US.
+
+5Technology can help unlock a new future for frontline workers, WorkLab, Work Trend Index Special Report, Microsoft. January 12, 2022.
+
+6The Total Economic Impact™ Of Microsoft Teams For Frontline Workers, a commissioned study conducted by Forrester Consulting. July 2022.

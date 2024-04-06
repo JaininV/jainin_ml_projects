@@ -1,0 +1,45 @@
+What if, by adding a couple of cell layers inside a corn kernel, the grain could become significantly richer in essential nutrients like iron, zinc, and protein? Such an improvement could benefit people who rely on corn for a large portion of their diet, as in many parts of the global south.
+
+In a new study, University of Illinois scientists show it's possible to increase iron up to 35% and zinc up to 15% compared to parent lines simply by adding cell layers in the bran.
+
+"People have been using traditional means to breed corn with higher micronutrients and protein for many, many years. It takes a lot of effort and time. For us to show increases like this with just a single trait, it's like, why didn't we do this a long time ago? It's so simple," says study co-author Jack Juvik, professor in the Department of Crop Sciences, part of the College of Agricultural, Consumer and Environmental Sciences (ACES) at U of I.
+
+Juvik and co-author Michael Paulsmeyer, now a post-doctoral scientist with the USDA, focused on the aleurone layer, typically a single layer of cells sitting just inside the outer coating of a corn kernel. Although it only makes up about 2% of the total volume of the kernel, the aleurone is rich in proteins and micronutrients.
+
+A few rare corn varieties produce multiple aleurone layers (MAL) naturally, but until now, no one had looked at how these extra layers could be manipulated to affect the nutritional quality of the grain. Juvik and Paulsmeyer sourced two MAL lines—a yellow variety, with five to six aleurone layers; and a blue variety, with three aleurone layers—from the Maize Genetics Cooperation Stock Center. They quickly started making crosses with normal corn varieties to learn how the MAL trait is inherited and how it can change the grain's nutritional value.
+
+By looking at how MAL was expressed in offspring of those crosses, the team traced MAL to a small section on corn chromosome 8, but also found other gene regions that contributed to the trait. The researchers then developed molecular markers to identify MAL genes quickly for future breeding programs.
+
+"Using molecular markers, we can take a little sample of the seed, do a DNA analysis, and identify whether the seedling will have the trait we want," Juvik explains. "It saves a great deal of time and energy compared to traditional breeding where you have to plant all the seeds you have and wait until they mature to see if the trait is there."
+
+The researchers also tested the nutritional quality of MAL offspring compared to the single-aleurone-layer parents. In addition to higher iron and zinc, offspring from the blue MAL parents produced 20-30% more anthocyanin, a red to purple pigment prized in the food manufacturing industry as a natural alternative to artificial colorants.
+
+Juvik has been working to increase anthocyanin content in corn for years, but he had mainly focused on the pericarp, the outer layer of the kernel. When he realized some corn varieties also carry anthocyanin in their aleurone layers, a light bulb went off.
+
+"In some cases, the aleurone will have genes that can create anthocyanins. We thought if we can increase the number of layers of aleurone as well as the pericarp, we could increase the amount of color we can extract from corn kernels. That was actually our original intent for this project," Juvik says. "But when we sent our samples to be analyzed for micronutrients, lo and behold, there was a very significant increase in iron and zinc."
+
+Juvik says MAL is a simple and promising trait to increase nutrition and anthocyanin content in corn but notes it's not quite ready for prime time. In the study, the team crossed MAL corn lines with corn with low iron and zinc values. If they introduced the MAL trait into hybrids with higher levels of those micronutrients, would the increase seem less dramatic or more? Juvik isn't sure, but he's working to find an answer.
+
+He is currently using genetically identical corn hybrids to further isolate the effect of MAL on nutritional quality and anthocyanin content. After that, he plans to introduce the trait into hybrids that are locally adapted to areas of the global south where a nutritional boost would be most beneficial.
+
+"We hope we can improve zinc and iron content to a level where staple diets, which can be upwards of 50-70% maize, can provide enough micronutrients to overcome nutritional problems, particularly in pregnant women and very young children. That's the target. It's a big if, but it looks promising enough to continue this work," Juvik says.
+
+The article, "Increasing aleurone layer number and pericarp yield for elevated nutrient content in maize," is published in G3 Genes|Genomes|Genetics.
+
+More information:
+
+Michael N Paulsmeyer et al, Increasing aleurone layer number and pericarp yield for elevated nutrient content in maize G3 Genes|Genomes|Genetics (2023). DOI: 10.1093/g3journal/jkad085
+
+Provided by 																											University of Illinois at Urbana-Champaign
+
+Citation:
+
+Simple addition to corn bran could boost grain's nutritional value 15-35 percent (2023, April 19)
+
+retrieved 19 April 2023
+
+from https://phys.org/news/2023-04-simple-addition-corn-bran-boost.html
+
+This document is subject to copyright. Apart from any fair dealing for the purpose of private study or research, no
+
+part may be reproduced without the written permission. The content is provided for information purposes only.

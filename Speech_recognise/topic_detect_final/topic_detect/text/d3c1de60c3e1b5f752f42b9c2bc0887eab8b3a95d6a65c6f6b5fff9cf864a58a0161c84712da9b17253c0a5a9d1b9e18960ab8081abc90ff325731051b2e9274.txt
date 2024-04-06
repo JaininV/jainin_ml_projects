@@ -1,0 +1,77 @@
+A Tech Industry Pioneer Sees a Way for the U. S. to Lead in Advanced Chips
+
+Post Office can be used for savings as 400 bank branches to close
+
+Netflix's cheapest subscription has received a major free upgrade – and people are switching to save money | The Sun
+
+League of Legends fans are just realising the latest buffed and nerfed champions in 13.8 patch | The Sun
+
+Woman earns up to £3,000 a month through ‘exciting’ new career
+
+If you’re ready to fight your family for money, this will help
+
+Homeowners ‘pushed to the brink’ as inflation remains above 10%
+
+A Tech Industry Pioneer Sees a Way for the U. S. to Lead in Advanced Chips
+
+It has been six decades since Ivan Sutherland created Sketchpad, a software system that foretold the future of interactive and graphical computing. In the 1970s, he played a role in rallying the computer industry to build a new type of microchip with hundreds of thousands of circuits that would become the foundation of today’s semiconductor industry.
+
+Now Dr. Sutherland, who is 84, believes the United States is failing at a crucial time to consider alternative chip-making technologies that would allow the country to reclaim the lead in building the most advanced computers.
+
+By relying on supercooled electronic circuits that switch without electrical resistance and as a consequence generate no excess heat at higher speeds, computer designers will be able to circumvent the greatest technological barrier to faster machines, he claims.
+
+“The nation that best seizes the superconducting digital circuit opportunity will enjoy computing superiority for decades to come,” he and a colleague recently wrote in an essay that circulated among technologists and government officials.
+
+Dr. Sutherland’s insights are significant partly because decades ago he was instrumental in helping to create today’s dominant approach to making computer chips.
+
+In the 1970s, Dr. Sutherland, who was chairman of the computer science department at the California Institute of Technology, and his brother Bert Sutherland, then a research manager at a division of Xerox called the Palo Alto Research Center, introduced the computer scientist Lynn Conway to the physicist Carver Mead.
+
+They pioneered a design based on a type of transistor, known as complementary metal-oxide semiconductor, or CMOS, which was invented in the United States. It made it possible to manufacture the microchips used by personal computers, video games and the vast array of business, consumer and military products.
+
+Now Dr. Sutherland is arguing that an alternative technology that predates CMOS, and has had many false starts, should be given another look. Superconducting electronics was pioneered at the Massachusetts Institute of Technology in the 1950s and then pursued by IBM in the 1970s before being largely abandoned. At one point, it even made an odd international detour before returning to the United States.
+
+In 1987, Mikhail Gorbachev, the last Soviet leader, read an article in the Russian newspaper Pravda describing an astounding advance in low-temperature computing made by Fujitsu, the Japanese microelectronics giant.
+
+Mr. Gorbachev was intrigued. Wasn’t this an area, he wanted to know, where the Soviet Union could excel? The task of giving a five-minute briefing to the Soviet Politburo eventually fell to Konstantin Likharev, a young associate professor of physics at Moscow State University.
+
+When he read the article, however, Dr. Likharev realized that the Pravda reporter had misread the news release and claimed the Fujitsu superconducting memory chip was five orders of magnitude faster than it was.
+
+Dr. Likharev explained the error, but he noted that the field still held promise.
+
+That set off a chain of events through which Dr. Likharev’s tiny lab was granted several million dollars in research support, making it possible for him to build a small team of researchers and, eventually, after the fall of the Berlin Wall, relocate to the United States. Dr. Likharev took a physics position at Stony Brook University in New York and helped start Hypres, a digital superconductor company that still exists.
+
+The story might have ended there. But it appears that the elusive technology may be gaining momentum once more because the costs of modern chip making have become immense. A new semiconductor factory costs $10 billion to $20 billion and takes up to five years to complete.
+
+Dr. Sutherland argues that rather than pushing on more expensive technology that is yielding diminishing efficiencies, the United States should consider training a generation of young engineers capable of thinking outside the box.
+
+Superconductor-based computing systems, where electrical resistance in the switches and wires falls to zero, might solve the cooling challenge that increasingly bedevils the world’s data centers.
+
+How Did Ivan Sutherland Help Create Modern Computing?
+
+During the 1960s and 1970s, Ivan Sutherland played key roles in computing.
+
+Here are five of his biggest contributions to the field →
+
+While working on his Ph.D. thesis in 1962 at M.I.T., Sutherland created Sketchpad on a Lincoln TX-2 computer and started a revolution in computer graphics. Sketchpad was significant in various ways. It introduced the concept of a graphical user interface. It was also a forerunner of interactive computing.
+
+As a Pentagon official in 1965, Sutherland posited the idea of “The Ultimate Display,” in which a computer could control matter within a room, shaping and reshaping physical objects to create arbitrary environments. This would occupy generations of science fiction writers and influence ideas like the holodeck in “Star Trek.”
+
+His 1968 “Head Mounted Display” was the first augmented reality device. This paved the way for today’s research in augmented and virtual reality.
+
+This six-legged hexapod walking machine was thought to be the first computer-controlled walking machine designed to carry humans. In 1985, Sutherland showed the device to Claude Shannon, his Ph.D. supervisor, who was famous for naming the “bit” in computing and for his pioneering information theory.
+
+Sutherland taught computer science at the University of Utah, Harvard, Caltech and Carnegie Mellon and became a mentor to a generation of computer scientists who would go on to create today’s computer industry.
+
+Oklahoma Gov. Kevin Stitt speaking to reporters in Tulsa in September 2020. Photo: Jabin Botsford/The Washington Post via Getty Images...
+
+A Tech Industry Pioneer Sees a Way for the U.S. to Lead in Advanced Chips
+
+Netflix's cheapest subscription has received a major free upgrade – and people are switching to save money | The Sun
+
+League of Legends fans are just realising the latest buffed and nerfed champions in 13.8 patch | The Sun
+
+Barclays is offering 5.12 percent interest with its Rainy Day Saver, which is intended to be an emergency fund that...
+
+Post Office can be used for savings as 400 bank branches to close
+
+Woman earns up to £3,000 a month through ‘exciting’ new career

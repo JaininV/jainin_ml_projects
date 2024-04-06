@@ -1,0 +1,15 @@
+WhatsApp lets you share your Status to your Facebook profile with just one tap. The ability to cross-post your Status on WhatsApp to Facebook saves you time and gives you the chance to make your content popular on two platforms at the same time. This is similar to the Share to Facebook functionality on Instagram that lets you share not just your posts but also Stories and Reels on Facebook at the same time. Also Read - WhatsApp is introducing 'Report status updates' feature for Android
+
+Imagine you made a DIY video and shared it or just posted your favourite look from yesterday’s party on WhatsApp, but this will be visible to people who you choose to share with from your contacts list. In other words, WhatsApp Status are visible to people whose phone numbers are in your contacts, given you have not restricted privacy. Facebook Stories, on the other hand, are potentially visible to more people who may not be in your contacts. Moreover, Facebook is accessible worldwide, so your content gets more coverage. Also Read - WhatsApp might soon introduce newsletters to Status tab on Android
+
+On both Android and iOS, you have the option to share your WhatsApp Status to Facebook Stories. But for the crossposting to work efficiently, you must have the Facebook app on your phone. After you have ensured your phone has both apps and that you are signed into both of them, follow these steps: Also Read - WhatsApp introduces emoji reactions, private audience, and more features for Status
+
+* Open WhatsApp and tap Status on your Android or iOS phone.
+
+* Create a Status by either posting a photo, a video, an audio, a link, or just any text.
+
+* After posting, you will see some options, including the one that will share your Status to Facebook.
+
+* On Android, a ‘Share to Facebook Story’ option will appear just below My status. Tap it. If prompted, tap Allow or Open to open the Facebook app. In the Facebook app, choose the audience you want to share the Story with and then tap Share Now. The ‘Share to Facebook Story’ will disappear if you switch tabs in WhatsApp.
+
+* On iOS, tap on My Status and choose the Status you want to share. You can share your status updates one by one, so if you have more than one Status, you will have to repeart the process. For a Status entry, tap the three dots on the right side. Now, tap the Share to Facebook option. If prompted, tap Allow or Open to open Facebook app and then choose the audience you want to share the Story with. Now tap Share Now.
